@@ -10,6 +10,27 @@ span.navbar-brand  {
 	font-size: 140%;
 }
 
+section#slider {
+	background: url(../img/slider-bg.jpg);
+	background-size: cover;
+}
 section#slider:before{
     background: linear-gradient(to left, #000000, #7D919A);
+}
+
+section#call-to-action:before{
+	background: #7D919A;
+}
+
+a.btn.btn-main {
+	background: #7D919A;
+}
+
+div.service-item i {
+	color: #7D919A !important
+}
+
+section#feature {
+    background: url(../img/solar-bg.jpg);
+	background-size: cover;
 }
