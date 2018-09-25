@@ -7,16 +7,16 @@ theme = "airspace-hugo"
 
   [[menu.header]]
     weight = 2
+    name = "Service"
+    url = "/service"
+  [[menu.header]]
+    weight = 3
     name = "Work"
     url = "/work"
   [[menu.header]]
-    weight = 3
+    weight = 4
     name = "Blog"
     url = "/blog"
-  [[menu.header]]
-    weight = 4
-    name = "Service"
-    url = "/service"
   [[menu.header]]
     weight = 5
     name = "Contact"
