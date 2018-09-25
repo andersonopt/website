@@ -9,3 +9,7 @@ span.navbar-brand  {
 	padding: 24px 0 !important;
 	font-size: 140%;
 }
+
+section#slider:before{
+    background: linear-gradient(to left, #000000, #7D919A);
+}
