@@ -1,38 +1,66 @@
-<!-- Header Start -->
-<header>
-<div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      <!-- header Nav Start -->
-      <nav class="navbar navbar-default">
-        <div class="container-fluid">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="{{ .Site.BaseURL }}">
-              <img src="{{ .Site.BaseURL }}img/logo.png" alt="{{ .Site.Title }} Logo">
-            </a>
-            <span class="navbar-brand">
-              {{ .Site.Title }}
-            </span>
-          </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav navbar-right">
-                <li><a href="{{ .Site.BaseURL }}">{{ .Site.Params.home }}</a></li>
-              {{ range .Site.Menus.header }}
-                <li><a href="{{ .URL }}/">{{ .Name }}</a></li>
-              {{ end }}
-              </ul>
-            </div><!-- /.navbar-collapse -->
-          </div><!-- /.container-fluid -->
-        </nav>
-      </div>
-    </div>
-  </div>
-</header><!-- header close -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- robots -->
+<!-- you may configure it in the front matter of the page or in site params -->
+{{ if or (isset .Params "robots") (isset .Site.Params "robots") }}
+<meta name="robots" content="{{ with .Params.robots }}{{ . }}{{ else }}{{ .Site.Params.robots }}{{ end }}">
+{{ end }}
+
+<!-- Place favicon.ico and apple-touch-icon.png in the root directory
+     or place appropriate <link .../> etc in favicon.html partial -->
+{{ partial "favicon.html" . }}
+
+<title>{{ .Title }}</title>
+
+{{ .Hugo.Generator }}
+
+<!-- CSS -->
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/owl.carousel.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/aairspace.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/airspace-local-fonts.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/airspace.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/ionicons.min.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/animate.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/responsive.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/syntax.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/magnific-popup.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/slick.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/slick-theme.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css" />
+
+
+
+
+
+<!-- Js -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+<script src="{{ .Site.BaseURL }}js/bootstrap.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/owl.carousel.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/plugins.js"></script>
+<script src="{{ .Site.BaseURL }}js/min/waypoints.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/jquery.counterup.js"></script>
+<script src="{{ .Site.BaseURL }}js/jquery.magnific-popup.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/slick.min.js"></script>
+
+
+<script src="{{ .Site.BaseURL }}js/main.js"></script>
+
+<!--
+/*
+ * Airspace
+ * Ported to Hugo by Giacomo Mariani
+ * https://github.com/karju-dev/airspace-hugo
+ * Based on the original Jakyll porting by Andrew Lee
+ * https://github.com/luminousrubyist/airspace-jekyll
+ * Designed and Developed by ThemeFisher
+ * https://themefisher.com/
+ *
+ */
+-->
