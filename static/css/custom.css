@@ -16,7 +16,11 @@ section#slider {
 	background-size: cover;
 }
 section#slider:before{
-    background: linear-gradient(to left, #000000, #7D919A);
+    background: linear-gradient(to left, #333333, #7D919A);
+}
+
+section#global-header:before{
+    background: linear-gradient(to left, #333333, #7D919A);
 }
 
 section#call-to-action:before{
@@ -27,6 +31,11 @@ a.btn.btn-main {
 	background: #7D919A;
 }
 
+#contact-form div button.btn.btn-default {
+	background: #7D919A;
+}
+
+
 div.service-item i {
 	color: #7D919A !important
 }
@@ -34,4 +43,8 @@ div.service-item i {
 section#feature {
     background: url(../img/solar-bg.jpg);
 	background-size: cover;
+}
+
+a.post-title {
+    color: #7D919A;
 }
