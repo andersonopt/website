@@ -12,10 +12,10 @@ jobs:
       - run: apk update && apk add git
 
       - restore_cache:
-        keys:
-          - source-v1-{{ .Branch }}-{{ .Revision }}
-          - source-v1-{{ .Branch }}-
-          - source-v1-
+          keys:
+            - source-v1-{{ .Branch }}-{{ .Revision }}
+            - source-v1-{{ .Branch }}-
+            - source-v1-
             
       # checkout the repository
       - checkout
@@ -23,7 +23,7 @@ jobs:
       - save_cache:
         key: source-v1-{{ .Branch }}-{{ .Revision }}
         paths:
-          - ".git"
+            - ".git"
 
       # install git submodules for managing third-party dependencies
       - run: git submodule sync && git submodule update --init
