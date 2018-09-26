@@ -116,7 +116,7 @@ category = "categories"
       email2 = "Email: eric@andersonopt.com"
       phone = "Phone: 612 719 5173"
     [params.contact.gmaps]
-      title = "We Also Count in Google Maps"
+      title = "Boulder Location"
 
   [params.about]
     enable = true
