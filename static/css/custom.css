@@ -1,3 +1,5 @@
+/*  Navbar  */
+
 .navbar-brand>img {
     display: block;
     height: auto;
@@ -9,6 +11,19 @@ span.navbar-brand  {
 	font-size: 140%;
 	font-weight: bold;
 }
+
+header .navbar-default .navbar-nav li a {
+	text-transform: uppercase;
+}
+
+header .navbar-default .navbar-nav li a:hover {
+	background-color: #333333;
+	opacity: 0.2;
+	color: #DDD;
+	font-weight: bold;
+}
+
+/*  Overlays and Buttons  */
 
 section#slider:before{
     background: linear-gradient(to left, #333333, #7D919A);
@@ -30,10 +45,11 @@ a.btn.btn-main {
 	background: #7D919A;
 }
 
-
 div.service-item i {
 	color: #7D919A !important
 }
+
+/*  Index Feature Page  */
 
 section#feature {
 	background: url("../img/solar-bg.jpg") no-repeat;
@@ -74,20 +90,10 @@ section#feature .container p {
 	background-color: rgba(25,25,25,.25);
 }
 
+/*  Blog  */
 
 a.post-title {
     color: #7D919A;
-}
-
-header .navbar-default .navbar-nav li a {
-	text-transform: uppercase;
-}
-
-header .navbar-default .navbar-nav li a:hover {
-	background-color: #333333;
-	opacity: 0.2;
-	color: #DDD;
-	font-weight: bold;
 }
 
 .blog-post img {
