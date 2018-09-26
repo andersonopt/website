@@ -1,45 +1,20 @@
 enable: true
 title: Our Services
 subtitle: >
-  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
+  We create software that optimizes site identification, project analysis, and planning processes for renewable developers, utilities, and other organizations in the energy industry. 
 content:
 
-  - icon: ion-coffee
-    name: Branding
+  - icon: ion-search
+    name: Renewable Siting
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Identify quality land for new sites in a matter minutes using a variety of data and proprietary automation capabilities.
 
-  - icon: ion-compass
-    name: Web Design
+  - icon: ion-stats-bars
+    name: Site Feasibility & Valuation
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Perform automated site analysis to determine the true valuation, ideal technology mix, and optimal parameters for your project.
 
-  - icon: ion-image
-    name: App Design
+  - icon: ion-network
+    name: Grid Modeling & Optimization
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-bug
-    name: Start Up
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-headphone
-    name: Logo Design
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-leaf
-    name: Development
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-planet
-    name: Brand Identity
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-earth
-    name: Brand Identity
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Utilize cutting-edge production cost and optimization modeling frameworks for injection studies, price & congestion analysis, storage modeling, and more.
