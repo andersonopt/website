@@ -35,6 +35,24 @@
 			</div>
 		</div>
 	</section>
+	<section class="section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<h2>Categories</h2>
+					{{ range $key, $value := .Site.Taxonomies.categories }}
+						<li><a href="{{ $.Site.BaseURL   }}categories/{{ $key | urlize  }}">{{ $key | humanize }}</a> ({{ len $value }})</li>
+					{{ end }}
+				</div>
+				<div class="col-md-6">
+					<h2>Tags</h2>
+					{{ range $key, $value := .Site.Taxonomies.tags }}
+						<li><a href="{{ $.Site.BaseURL   }}tags/{{ $key | urlize  }}">{{ $key | humanize }}</a> ({{ len $value }})</li>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+	</section>
 
 	{{ partial "footer.html" . }}
 

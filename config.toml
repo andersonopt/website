@@ -43,6 +43,10 @@ theme = "airspace-hugo"
     name = "Terms"
     url = "#"
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+
 # The site's parameters
 [params]
 
