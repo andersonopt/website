@@ -13,14 +13,14 @@
 		<div class="container">
 			<div class="row">
 				{{ range (.Paginator 6).Pages }}
-				<div class="col-md-6">
+				<div class="col-md-4">
 					<article class="blog-post">
 						{{ with .Params.image }}
 						<img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb"> {{ end }}
 						<a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a>
 						<p>
-							<i>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</i> - 
-							<b>{{.Params.author}}</b>
+							<i>{{ dateFormat "January 2006" .Date }}</i> - 
+							{{.Params.author}}
 						</p>
 						<p>
 							{{ .Summary }}
