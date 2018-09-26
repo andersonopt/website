@@ -18,6 +18,11 @@
           <i class="{{ .icon }}"></i>
           <h4>{{ .name }}</h4>
           <p>{{ .text }}</p>
+          {{ with .button }}
+          <p>
+              <a href="{{ .url }}" class="btn btn-main">{{ .caption }}</a>
+          </p>
+          {{ end }}
         </div>
       </div>
       {{ end }}
