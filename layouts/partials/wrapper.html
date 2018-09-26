@@ -17,5 +17,12 @@
         </div>
       </div><!-- .col-md-5 close -->
     </div>
+    {{ with .Site.Params.wrapper.button }}
+    <div class="row">
+      <div class="col-md-7">
+        <a href="{{ .url }}" class="btn btn-main" style="margin-top:15px">{{ .caption }}</a>
+      </div>
+    </div>
+    {{ end }}
   </div>
 </section>
