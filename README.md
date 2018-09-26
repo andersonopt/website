@@ -3,11 +3,11 @@
 
 This is the landing page for Anderson Optimization.  
 
-## CI
+## Deployment
 
 We use Circle CI to publish our website upon commit.
 
-[![CircleCI](https://circleci.com/gh/andersonopt/website.svg?style=svg)](https://circleci.com/gh/andersonopt/website)
+Latest Build: [![CircleCI](https://circleci.com/gh/andersonopt/website.svg?style=svg)](https://circleci.com/gh/andersonopt/website)
 
 ### Build Prod
 

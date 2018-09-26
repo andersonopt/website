@@ -18,7 +18,10 @@
 						{{ with .Params.image }}
 						<img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb"> {{ end }}
 						<a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a>
-						<p><i>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</i></p>
+						<p>
+							<i>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</i> - 
+							<b>{{.Params.author}}</b>
+						</p>
 						<p>
 							{{ .Summary }}
 						</p>

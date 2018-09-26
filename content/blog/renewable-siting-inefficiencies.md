@@ -2,12 +2,11 @@
 title = "Renewable Siting Inefficiencies"
 date = "2017-04-10T13:07:31+02:00"
 author = "Jake Anderson"
-tags = ["Renewable Siting", "Solar Development", "GIS" ]
-categories = ["Renewable Siting"]
+tags = ["renewable-siting", "solar-development", "GIS" ]
+categories = ["Prospect"]
 image = "img/eia-solar-gen.png"
 +++
 
-Test
 
 ## Background
 
@@ -19,7 +18,6 @@ Utility-scale solar only makes up 0.9% of electricity generation, but there was 
 
 ## IMAGE IMAGE IMAGE
 
-Test
 
 ### Why aren’t renewables catching on quicker?
 
