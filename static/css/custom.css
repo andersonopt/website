@@ -11,10 +11,6 @@ span.navbar-brand  {
 	font-weight: bold;
 }
 
-section#slider {
-	background: url(../img/slider-bg.jpg);
-	background-size: cover;
-}
 section#slider:before{
     background: linear-gradient(to left, #333333, #7D919A);
 }
@@ -41,9 +37,31 @@ div.service-item i {
 }
 
 section#feature {
-    background: url(../img/solar-bg.jpg);
+	background: url("../img/solar-bg.jpg") no-repeat;
+	background-attachment: fixed;
 	background-size: cover;
 }
+section#feature:before{
+    background: linear-gradient(to left, #333333, #7D919A);
+
+    content:"";
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0.8;
+}
+
+section#feature .container {
+	color: #E3E3E4;
+}
+
+section#feature .container p {
+	color: #b9b9b9;
+}
+
 
 a.post-title {
     color: #7D919A;
