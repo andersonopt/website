@@ -42,10 +42,13 @@ section#feature {
 }
 /*#feature h2 {
 	color: #333333;
-}
-#feature p {
-	color: #333333 !important;
 }*/
+#feature > div > div > div > strong {
+	color:#FFF;
+}
+section#feature .container p {
+	color: #DDD !important;
+}
 section#feature:before{
     background: linear-gradient(to left, #222,#7D919A);
 
@@ -65,6 +68,10 @@ section#feature .container {
 
 section#feature .container p {
 	color: #b9b9b9;
+}
+
+.feature-body {
+	background-color: rgba(25,25,25,.25);
 }
 
 
