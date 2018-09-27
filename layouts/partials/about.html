@@ -41,3 +41,30 @@
     </div>
   </div>
 </section>
+
+<!-- Clients Logo Section Start -->
+{{ with .Site.Data.about.clients }}
+<section id="clients-logo-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 section-title text-align-center">
+        <h2>{{.title }}</h2>
+        <p>{{ .subtitle }}</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <div id="clients-logo" class="owl-carousel">
+            {{ range .list }}
+            <div class="clients-logo-img">
+              <a href="{{ .url }}"><img src="{{ $.Site.BaseURL }}{{ .image }}" alt="Features"></a>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
