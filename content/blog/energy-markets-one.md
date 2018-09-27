@@ -1,8 +1,10 @@
 +++
 title = "Markets & Batteries: Examining Consumer & Utility Responses - Part 1"
-date = "2015-06-24T13:50:46+02:00"
+date = "2017-07-10T13:07:31+02:00"
 tags = ["theme"]
 categories = ["starting"]
+image = "img/blog/energy-markets-one-1.jpg"
+author = "Jake Anderson"
 +++
 
 ### Background</strong>
@@ -51,7 +53,7 @@ It is possible for prices to spike to 10-20 times expectations in situations of 
 
 These dramatic price variances can be seen in the image below. The table on the right side of the image shows real-time prices and associated colors. Through the color variation on the map, it is easy to see just how much prices can swing, even across relatively short distances. 
 
-![MISO Energy Markets](/img/blog/energy-markets-one-1.jpg "MISO Energy Markets Map")
+![MISO Energy Markets](img/blog/energy-markets-one-1.jpg "MISO Energy Markets Map")
 
 ### Energy Markets Are Influencing Utility Operations
 

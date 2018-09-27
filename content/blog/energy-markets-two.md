@@ -1,14 +1,11 @@
 +++
 title = "Markets & Batteries: Examining Consumer & Utility Responses - Part 2"
-date = "2015-06-24T13:50:46+02:00"
+date = "2017-07-10T13:07:31+02:00"
 tags = ["theme"]
 categories = ["starting"]
-image = "img/us-grid-network.jpg"
+image = "img/blog/energy-markets-two-1.jpg"
 author = "Jake Anderson"
 +++
-
-[In Part 1 of this article series,](../energy-markets-one) we provided an overview of energy markets and explained how they are impacting utility behavior. We also discussed advances in battery technology. If you haven't read Part 1, we suggest reading it before this article as it introduces the concepts that are examined in more detail below.
-
 
 ### Background
 
@@ -46,7 +43,7 @@ It is easy to see how this scenario is problematic for utilities. As consumers b
 
 The image below outlines this dilemma and illustrates that, in certain instances, partial grid defection is already beneficial to consumers and will be almost uniformly beneficial by 2030. Full grid defection still lags, but is projected to be reasonably equivalent by 2030.
 
-![Battery Chart](/img/blog/energy-markets-two-1.jpg "Grid Defection Feasibility Chart")
+![Battery Chart](img/blog/energy-markets-two-1.jpg "Grid Defection Feasibility Chart")
 
 ### Grid Access Fees Are A Potential Solution
 

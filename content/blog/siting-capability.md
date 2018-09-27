@@ -1,8 +1,10 @@
 +++
 title = "Renewable Siting Automation"
-date = "2015-06-24T13:50:46+02:00"
+date = "2017-05-10T13:07:31+02:00"
 tags = ["theme"]
 categories = ["starting"]
+image = "img/blog/siting-capability-3.jpg"
+author = "Jake Anderson"
 +++
 
 ### Background
@@ -38,7 +40,7 @@ While there is value in simply providing and consolidating data, we have built a
 
 Users begin by automatically identifying all land parcels of a certain size that are within a certain radius of a substation with just one click. 
 
-![Parcels and Substation](/img/blog/siting-capability-3.jpg "Parcels Nearby Substation")
+![Parcels and Substation](img/blog/siting-capability-3.jpg "Parcels Nearby Substation")
 
 #### Custom Filters 
 
