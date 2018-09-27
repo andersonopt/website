@@ -10,7 +10,7 @@
 	<div class="post">
 	  <!-- Wrapper Start -->
 	  <section class="section" style="border: 1px dotted #ddd;">
-	    <div class="container">
+	    <div class="container" style="padding-left: 55px; padding-right: 55px;">
 	      <div class="row">
 	        <div>
 	          <div class="block">
@@ -20,10 +20,13 @@
 	              <p class="italic">By <span class="bold">{{ .Params.author }}</span> on <span class="bold">{{ dateFormat "January 2006" .Date }}</span></p>
 	            </div>
 	            <hr />
-	            {{ .Content }}
+            	
 	          </div>
 	        </div><!-- .col-md-7 close -->
 	      </div>
+	    </div>
+	    <div class = "container" style="padding-left: 70px; padding-right: 70px;">
+				{{ .Content }}
 	    </div>
 	  </section>
 	</div>
