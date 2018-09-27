@@ -76,7 +76,7 @@ div.service-item i {
   right: 0;
   height: 100%;
   width: 95%;
-  opacity: .25;
+  opacity: .15;
   transition: .3s ease;
   background: linear-gradient(to left, #222,#7D919A);
 }
