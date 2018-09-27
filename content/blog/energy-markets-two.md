@@ -13,7 +13,7 @@ author = "Jake Anderson"
 
 Within this article, we continue our exploration of battery technology and highlight the ways in which it could impact both utility and consumer behavior. We also discuss the consequences if utilities do not implement pricing schemes that send proper price signals to consumers.
 
-Battery Implementation Could Alter Historical Norms
+### Battery Implementation Could Alter Historical Norms
 
 Batteries could represent a dramatic shift for the energy industry. Certain forms of energy storage, such as pumped-storage, have existed in the past for utility use cases, such as load balancing. However, these technologies have not been feasible for the broader market to apply to a wide range of scenarios. Pumped-storage, for example, consists of a massive industrial system that must reside near a large water reservoir or dam. Clearly, this arrangement isn’t feasible at scale. In addition to the logistical difficulties, pumped-storage is only around 70%-80% efficient versus 90%-95% efficient for batteries.
 
