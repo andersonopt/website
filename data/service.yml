@@ -3,9 +3,11 @@ title: Our Services
 subtitle: >
   Premium software solutions that optimize site identification, project analysis, and grid modeling processes for renewable developers, utilities, and other energy industry stakeholders. 
 content:
-
-  - icon: ion-search
+  prospect:
+    icon: ion-search
     name: Renewable Siting
+    title: Renewable Siting Made Easy
+    order: 1
     text: >
       Identify quality land for new sites in a matter minutes using a variety of data and proprietary automation capabilities.
     button:
@@ -13,9 +15,19 @@ content:
       caption: Learn More  
     product:
       - name: AO Prospect
+    content:
+      benefits:
+        - "Double siting capacity by identifying quality land for renewable development in just a few clicks with AOProspect. AOProspect reduces or eliminates the need for costly, third-party consultants."
+        - "AOProspect includes necessary grid infrastructure, GIS, and parcel data for siting activities. It also includes proprietary automation features that expedite processes such as parcel and substation radius identification, environmental analysis, buildable acreage calculations, and more."
+        - "AOProspect also consolidates data and projects across teams and updates in real-time to reduce non-value-added work spent managing countless files, folders, KMZs, and project versions."
+      image: img/wind-cow.jpg
 
-  - icon: ion-stats-bars
+  analysis:
+    icon: ion-stats-bars
     name: Site Feasibility & Valuation
+    title: Site Feasibility & Valuation
+    subtitle: Ensure that your project is optimized to best meet your goals. Automatically simulate projects across all relevant scenarios to determine optimal project strategies.
+    order: 2
     text: >
       Perform automated site analysis to determine the true valuation, ideal technology mix, and optimal parameters for your project.
     button:
@@ -23,9 +35,28 @@ content:
       caption: Learn More  
     product:
       - name: AO Site Analysis
+    features: 
+      - icon: ion-social-usd-outline
+        name: Accurate Valuation
+        block: >
+          Properly incorporate ancillary benefits and price-maker assumptions to determine an accurate, hollistic project valuation.
+        
+      - icon: ion-levels
+        name: Optimized Projects
+        block: >
+          Determine the ideal mix of technologies and project specifications to maximize return and best meet any project goal.
 
-  - icon: ion-network
+      - icon: ion-clock
+        name: Rapid Analysis
+        block: >
+          Stop repeating work. Save common analysis processes and apply them to any project with just one click.
+
+  optimization:
+    icon: ion-network
     name: Grid Modeling & Optimization
+    title: Optimization Modeling
+    subtitle: Stop relying on outside consultants. Harness innovative production cost, capacity expansion, and optimization modeling capabilties.
+    order: 3
     text: >
       Utilize cutting-edge production cost and optimization modeling frameworks for injection studies, price & congestion analysis, storage modeling, and more.
     button:
@@ -33,3 +64,27 @@ content:
       caption: Learn More  
     product:
       - name: AO Energy Markets
+    features:
+        - name: Innovative Models
+          block: >
+            Utilize models uniquely based on the latest optimization modeling research that are built specifically to incorporate modern grid uncertainty.
+
+        - name: Storage Analysis
+          block: >
+            Determine optimzed storage locations, sizes, and dispatch schedules as well as accurate asset valuations that properly incorporate ancillary benefits.
+
+        - name: Renewable Congestion & LMP
+          block: >
+            Identify detrimental pricing and grid congestion impacts of any project and automatically receive solutions to overcome constraints.
+
+        - name: Resource & Transmission Planning
+          block: >
+            Improve long-range planning processes by properly incorporating the impacts of dynamic grid technologies such as renewable generation and storage.
+
+        - name: Data Visualization
+          block: >
+            Generate clean data visualizations that make it easy to perform advanced analytics and derive valuable insights from your work.       
+            
+        - name: Cloud Software
+          block: >
+            Harness the scalable computing power of the cloud to perform mass simulations faster and with higher levels of detail than on-premise solutions.
