@@ -20,7 +20,7 @@ content:
         - "Double siting capacity by identifying quality land for renewable development in just a few clicks with AOProspect. AOProspect reduces or eliminates the need for costly, third-party consultants."
         - "AOProspect includes necessary grid infrastructure, GIS, and parcel data for siting activities. It also includes proprietary automation features that expedite processes such as parcel and substation radius identification, environmental analysis, buildable acreage calculations, and more."
         - "AOProspect also consolidates data and projects across teams and updates in real-time to reduce non-value-added work spent managing countless files, folders, KMZs, and project versions."
-      image: /img/wind-cow.jpg
+      image: img/wind-cow.jpg
 
   analysis:
     icon: ion-stats-bars

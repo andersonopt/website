@@ -64,7 +64,7 @@ category = "categories"
     paragraph = "We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our complementary consultative services further ensure that clients attain maximum value from our software."    
     [params.wrapper.button]
       caption = "About Us"
-      url = "/work/"
+      url = "/about/"
 
   [params.blog]
     enable = true
