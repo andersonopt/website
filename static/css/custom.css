@@ -55,19 +55,6 @@ div.service-item i {
 	color: #7D919A !important
 }
 
-/*div.overlay img:before {
-	background: #7D919A;
-	padding: 0;
-    content:"";
-    display: block;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    opacity: 0.92;
-}*/
-/* The overlay effect (full height and width) - lays on top of the container and over the image */
 .overlay {
   position: absolute;
   margin: 0 15px 0 15px;
@@ -77,9 +64,13 @@ div.service-item i {
   right: 0;
   height: 100%;
   width: 95%;
-  opacity: .5;
+  opacity: .25;
   transition: .3s ease;
   background: linear-gradient(to left, #222,#7D919A);
+}
+
+.overlay:hover {
+	opacity: 0;
 }
 
 
