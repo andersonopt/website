@@ -49,7 +49,7 @@ category = "categories"
   home = "Home"
 
   [params.login]
-  	name = "Clients"
+  	name = "Client Login"
   	url = "https://v3.andersonopt.com"
 
   [params.slider]
