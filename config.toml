@@ -26,20 +26,8 @@ theme = "airspace-hugo"
 
   [[menu.footer]]
     weight = 1
-    name = "About us"
-    url = "#"
-  [[menu.footer]]
-    weight = 2
-    name = "Contact us"
-    url = "#"
-  [[menu.footer]]
-    weight = 3
-    name = "How it works"
-    url = "#"
-  [[menu.footer]]
-    weight = 4
-    name = "Blog"
-    url = "#"
+    name = "User Documentation"
+    url = "https://docs.andersonopt.com/app/v3/"
   [[menu.footer]]
     weight = 5
     name = "Terms"
