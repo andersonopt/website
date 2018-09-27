@@ -105,6 +105,16 @@ section#feature .container p {
 
 
 
+/* Developer Documentation */
+
+section#developer {
+  text-align: center;
+  padding: 90px 0;
+}
+
+section#developer div.body {
+	text-align: left;
+}
 
 /*  Blog  */
 
