@@ -1,23 +1,22 @@
-	+++
++++
 title = "Renewable Siting Inefficiencies"
 date = "2017-04-10T13:07:31+02:00"
+tags = ["renewable-siting", "solar-development", "GIS", "prospecting", "renewable-energy"]
+categories = ["Siting"]
+image = "img/blog/siting-difficulty-1.png"
 author = "Jake Anderson"
-tags = ["renewable-siting", "solar-development", "GIS" ]
-categories = ["Prospect"]
-image = "img/eia-solar-gen.png"
 +++
 
 
-## Background
+### Background
 
 As renewable generation has reached a point of financial viability and strategic success in the energy industry, a supporting industry of companies with supporting tools have arisen to help usher in this new era of electricity. Despite the advent of new technologies, there are still large areas of opportunity for industry improvement. Renewable development is still very expensive and time consuming. 
 
 Renewable generation still represents a fairly small percentage of the United States’ overall generation profile. According to the Energy Information Agency (EIA), renewable generation [represented roughly 17% of total generation](http://www.renewableenergyworld.com/articles/2016/08/renewable-energy-was-16-9-percent-of-u-s-electric-generation-in-the-first-half-of-2016.html) in the first half of 2016. This is significant improvement from the roughly 14% in 2015, however, there is still a long way to go. 
 
-Utility-scale solar only makes up 0.9% of electricity generation, but there was an increase of over 50% of solar generation capacity in 2016 [eia](https://www.eia.gov/todayinenergy/detail.php?id=31072). A variety of factors have influenced significant solar adoption such as state incentives, federal tax credits, renewable portfolio standards, and decreased panel and installation costs. Around 70% of these new solar facilities are found in California, with New Jersey and Massachusetts at 17% and 13% respectively. The following image from the EIA shows the location of all utility-scale solar generation in the United States.
+Utility-scale solar only makes up 0.9% of electricity generation, but there was an increase of over 50% of solar generation capacity [in 2016](https://www.eia.gov/todayinenergy/detail.php?id=31072). A variety of factors have influenced significant solar adoption such as state incentives, federal tax credits, renewable portfolio standards, and decreased panel and installation costs. Around 70% of these new solar facilities are found in California, with New Jersey and Massachusetts at 17% and 13% respectively. The following image from the EIA shows the location of all utility-scale solar generation in the United States.
 
-## IMAGE IMAGE IMAGE
-
+![EIA Solar Gen](img/blog/siting-difficulty-1.png "EIA Solar Gen Chart")
 
 ### Why aren’t renewables catching on quicker?
 
@@ -36,7 +35,7 @@ However, commercialization is one area where organizations can more quickly deve
 
 Developing nationwide renewable infrastructure is difficult. Every renewable asset comes with a significant price tag and an immense human capital investment related to siting, permitting, marketing, installation, operation, and maintenance activities. Since renewable energy is still reasonably new, the industry is still forming operational best practices.
 
-Siting processes are within the infrastructure category and are ripe for improvement. Siting - the activity of finding an ideal location for a new renewable facility - is a laborious process despite industry advancement. Although it is tedious, it is absolutely essential, and with [new technology](../../service)
+Siting processes are within the infrastructure category and are ripe for improvement. Siting - the activity of finding an ideal location for a new renewable facility - is a laborious process despite industry advancement. Although it is tedious, it is absolutely essential, and with [new technology](/services)
 
 ### Difficulties of Prospecting
 
@@ -70,4 +69,13 @@ Ultimately developers have made these processes work, but their methodology is i
 
 It is difficult for the renewable industry to proliferate at an ideal pace when these types of inefficienciencies exist throughout the value chain. Creating repositories of substation and land data will help to increase prospecting efficiency and reduce the necessity of manual canvassing efforts. Although there are countless ways to continue advancing renewable energy, siting optimization is an area where even moderate advancement could pay significant dividends. 
 
-To read more on how we at Anderson Optimization are helping improve these processes, check out our follow-up piece on our siting automation product - AO Prospect
+To read more on how we at Anderson Optimization are helping improve these processes, check out our follow-up piece on our siting automation product: [AOProspect](../siting-capability)
+
+#### Additional Material
+
+- [http://www.renewableenergyworld.com/articles/2016/08/renewable-energy-was-16-9-percent-of-u-s-electric-generation-in-the-first-half-of-2016.html](http://www.renewableenergyworld.com/articles/2016/08/renewable-energy-was-16-9-percent-of-u-s-electric-generation-in-the-first-half-of-2016.html)
+
+- [https://www.eia.gov/todayinenergy/detail.php?id=31072](https://www.eia.gov/todayinenergy/detail.php?id=31072)
+
+
+

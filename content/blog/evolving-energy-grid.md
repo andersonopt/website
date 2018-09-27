@@ -1,9 +1,9 @@
 +++
 title = "The Power Grid: An Overview and Its Evolution"
-date = "2015-06-24T13:50:46+02:00"
-tags = ["theme"]
-categories = ["starting"]
-image = "img/miso-energy-prices.png"
+date = "2017-06-10T13:07:31+02:00"
+tags = ["interconnection", "congestion", "distributed-generation", "renewable-energy"]
+categories = ["electricity-grid"]
+image = "img/blog/evolving-energy-grid-1.png"
 author = "Jake Anderson"
 +++
 
@@ -26,7 +26,7 @@ A power grid is a web of interconnected infrastructure that accomplishes the goa
 
 In the United States, the overarching power grid is broken down into 3 smaller grids that are know as interconnections that are outlined in the image below from the Department of Energy.
 
-[![US Interconnections](/img/blog/evolving-energy-grid-1.png "US Interconnections")](https://energy.gov/oe/services/electricity-policy-coordination-and-implementation/transmission-planning/recovery-act)
+[![US Interconnections](img/blog/evolving-energy-grid-1.png "US Interconnections")](https://energy.gov/oe/services/electricity-policy-coordination-and-implementation/transmission-planning/recovery-act)
 
 Each interconnection is its own self contained grid, but they are all linked with one another to create a massive continuous grid. Organizations known as operators are used to manage the scale and complexity of the grid.
 

@@ -20,7 +20,6 @@ header .navbar-default .navbar-nav li a:hover {
 	background-color: #333333;
 	opacity: 0.2;
 	color: #DDD;
-	font-weight: bold;
 }
 
 /* Header */
@@ -39,13 +38,16 @@ header .navbar-default .navbar-nav li a:hover {
 /* Colors */
 
 .bg-primary {
-	background: #7D919A;
+	background: #7fb7cd;
 }
 
 /*  Overlays and Buttons  */
+#slider {
+  background: url("../img/solar-bg2.jpg") no-repeat;
+}
 
 section#slider:before{
-    background: linear-gradient(to left, #333333, #7D919A);
+    background: linear-gradient(to left, #91d8f7, #334e5a);
 }
 
 section#global-header {
@@ -55,23 +57,23 @@ section#global-header {
 }
 
 section#global-header:before{
-    background: linear-gradient(to left, #333333, #7D919A);
+    background: linear-gradient(to left, #91d8f7, #334e5a);
 }
 
 section#call-to-action:before{
-	background: #7D919A;
+	background: #7fb7cd;
 }
 
 a.btn.btn-main {
-	background: #7D919A;
+	background: #7fb7cd;
 }
 
 #contact-form div button.btn.btn-default {
-	background: #7D919A;
+	background: #7fb7cd;
 }
 
 div.service-item i {
-	color: #7D919A !important
+	color: #7fb7cd !important
 }
 
 .overlay {
@@ -85,7 +87,7 @@ div.service-item i {
   width: 95%;
   opacity: .15;
   transition: .3s ease;
-  background: linear-gradient(to left, #222,#7D919A);
+  background: linear-gradient(to left, #91d8f7,#334e5a);
 }
 
 .overlay:hover {
@@ -112,7 +114,7 @@ section#feature .container p {
 	color: #DDD !important;
 }
 section#feature:before{
-    background: linear-gradient(to left, #222,#7D919A);
+    background: linear-gradient(to left, #91d8f7,#334e5a);
 
     content:"";
     display: block;
@@ -159,7 +161,7 @@ section#developer div.body {
 /*  Blog  */
 
 a.post-title {
-    color: #7D919A;
+    color: #7fb7cd;
 }
 
 .blog-post img {
@@ -202,6 +204,33 @@ li.login-button {
 
 /* Util */
 
+
 .text-align-center {
 	text-align: center;
 }
+
+/* Service */
+.service-arrow .block {
+  padding: 70px 30px;
+}
+
+.service-arrow .block i {
+  font-size: 40px;
+}
+
+.service-arrow .block p {
+  color: #fff;
+}
+
+.bg-gray {
+    background: #f5f5f5;
+}
+
+.service-list .block {
+  padding: 30px;
+  margin-bottom: 20px;
+  background: #fff;
+}
+
+.service-list .block p {
+  color: #7B7B7B;

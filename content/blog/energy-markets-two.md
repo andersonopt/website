@@ -1,14 +1,11 @@
 +++
 title = "Markets & Batteries: Examining Consumer & Utility Responses - Part 2"
-date = "2015-06-24T13:50:46+02:00"
-tags = ["theme"]
-categories = ["starting"]
-image = "img/us-grid-network.jpg"
+date = "2017-07-10T13:07:31+02:00"
+tags = ["energy-markets", "price-signals", "arbitrage", "grid-defection", "microgrids"]
+categories = ["energy-storage", "energy-markets"]
+image = "img/blog/energy-markets-two-1.jpg"
 author = "Jake Anderson"
 +++
-
-[In Part 1 of this article series,](../energy-markets-one) we provided an overview of energy markets and explained how they are impacting utility behavior. We also discussed advances in battery technology. If you haven't read Part 1, we suggest reading it before this article as it introduces the concepts that are examined in more detail below.
-
 
 ### Background
 
@@ -16,7 +13,7 @@ author = "Jake Anderson"
 
 Within this article, we continue our exploration of battery technology and highlight the ways in which it could impact both utility and consumer behavior. We also discuss the consequences if utilities do not implement pricing schemes that send proper price signals to consumers.
 
-Battery Implementation Could Alter Historical Norms
+### Battery Implementation Could Alter Historical Norms
 
 Batteries could represent a dramatic shift for the energy industry. Certain forms of energy storage, such as pumped-storage, have existed in the past for utility use cases, such as load balancing. However, these technologies have not been feasible for the broader market to apply to a wide range of scenarios. Pumped-storage, for example, consists of a massive industrial system that must reside near a large water reservoir or dam. Clearly, this arrangement isn’t feasible at scale. In addition to the logistical difficulties, pumped-storage is only around 70%-80% efficient versus 90%-95% efficient for batteries.
 
@@ -46,7 +43,7 @@ It is easy to see how this scenario is problematic for utilities. As consumers b
 
 The image below outlines this dilemma and illustrates that, in certain instances, partial grid defection is already beneficial to consumers and will be almost uniformly beneficial by 2030. Full grid defection still lags, but is projected to be reasonably equivalent by 2030.
 
-![Battery Chart](/img/blog/energy-markets-two-1.jpg "Grid Defection Feasibility Chart")
+![Battery Chart](img/blog/energy-markets-two-1.jpg "Grid Defection Feasibility Chart")
 
 ### Grid Access Fees Are A Potential Solution
 

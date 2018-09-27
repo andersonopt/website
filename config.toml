@@ -23,7 +23,6 @@ theme = "airspace-hugo"
     name = "Contact"
     url = "/contact"
 
-
   [[menu.footer]]
     weight = 1
     name = "User Documentation"
@@ -31,7 +30,8 @@ theme = "airspace-hugo"
   [[menu.footer]]
     weight = 2
     name = "Developer Documentation"
-    url = "/developer"
+    url = "/developer/"
+  
 
 [taxonomies]
 tag = "tags"
@@ -75,13 +75,13 @@ category = "categories"
     enable = true
     title = "Why Anderson Optimization?"
     bullet1 = "Enhanced Modeling Capabilities"
-    content1 = "Other solutions often use dated models built for historical power systems. We utilize the latest optimization research to provide software designed specifically for modern energy grids with significant uncertainty from renewables and storage."
+    content1 = "Utilize the latest optimization research to properly model modern energy grids with significant uncertainty from renewables and storage unlike other modeling tools built for stable, historical power systems."
     bullet2 = "Cloud-Based Software"
-    content2 = "Our cloud-based infrastructure provides scalable computing power so users can run more simulations and generate results faster."
+    content2 = "Scalable computing power to run more simulations and generate results faster."
     bullet3 = "Data Visualization"
-    content3 = "We make results accessible to a broad base of users by providing outputs through clear data visualizations so that any user can quickly gain valuable insights."
+    content3 = "Clear data visualizations make results more accessible to a broader base of users so that anyone can quickly gain valuable insights."
     bullet4 = "Scenario Analysis"
-    content4 = "We empower users to easily simulate any number of scenarios to determine the value and optimal project strategies."
+    content4 = "Easily simulate any number of scenarios to determine the value and optimal strategies for any project."
 
 
   [params.call]
@@ -89,9 +89,10 @@ category = "categories"
     title = "Optimize Your Business."
     paragraph = "No matter your situation, we'd love to hear from you. With our exceptional technical experience, we are confident that we can deliver a solution that best meets your needs."
     [params.call.button]
-      caption = "Learn More"
-      url = "/contact/"
-      text = "Learn More"
+      caption = "Reach Out"
+      url = "/contact"
+      text = "Reach Out"
+
 
   [params.contact]
     enable = true
