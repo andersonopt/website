@@ -13,7 +13,7 @@ span.navbar-brand  {
 }
 
 header .navbar-default .navbar-nav li a {
-	text-transform: uppercase;
+	
 }
 
 header .navbar-default .navbar-nav li a:hover {
@@ -21,6 +21,12 @@ header .navbar-default .navbar-nav li a:hover {
 	opacity: 0.2;
 	color: #DDD;
 	font-weight: bold;
+}
+
+/* Header */
+
+.section-title h2 {
+	text-transform: none;
 }
 
 /*  Overlays and Buttons  */
@@ -88,6 +94,11 @@ section#feature .container p {
 
 .feature-body {
 	background-color: rgba(25,25,25,.25);
+	padding-top: 15px;
+	padding-bottom:15px;
+	padding-left: 15px;
+	padding-right: 15px;
+
 }
 
 /*  Blog  */
