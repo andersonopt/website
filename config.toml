@@ -12,8 +12,8 @@ theme = "airspace-hugo"
     class = "test"
   [[menu.header]]
     weight = 3
-    name = "Work"
-    url = "/work"
+    name = "About"
+    url = "/about"
   [[menu.header]]
     weight = 4
     name = "Blog"
@@ -61,7 +61,7 @@ category = "categories"
   home = "Home"
 
   [params.login]
-  	name = "Login"
+  	name = "Clients"
   	url = "https://v3.andersonopt.com"
 
   [params.slider]
@@ -131,7 +131,7 @@ category = "categories"
     bio1 = "Eric obtained his Ph.D in Industrial Engineering in 2015 for his research in power system modeling and optimization. His research was focused on modeling uncertainty due to renewable generation and large scale computational experiments. After attaining his degree, he worked for a production cost modeling firm, Ascend Analytics, where he gained experience building production cost models incorporating the complexities of modern systems with renewable generation, complicated river and dam systems, energy storage, and uncertainty. At Anderson Optimization, Eric oversees all modeling, optimization, and software development initiatives as well as any other technical tasks."   
     name2 = "Jake Anderson"
     role2 = "Head of Business"
-    headshot1 = "/img/headshot-min.jpg"
+    headshot1 = "/img/eric-headshot.jpg"
     bio2 = "Jake comes from a Fortune 500 corporate finance background. During this time, Jake led a wide variety of project teams across numerous operating units. He consistently managed $100MM+ P&Ls and provided valuable strategic leadership to help meet corporate goals. He previously attained degrees in Finance and Entrepreneurial Management with a minor focus in Information System Management. Jake oversees all business management and sales activities for Anderson Optimization."
-    headshot2 = "/img/jake-min.jpg"
+    headshot2 = "/img/jake-headshot.jpg"
     

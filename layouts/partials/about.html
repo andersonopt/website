@@ -1,0 +1,43 @@
+{{ partial "global-header.html" . }}
+<!-- Wrapper Start -->
+<section id="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7 col-sm-12">
+        <div class="block">
+          <div class="section-title">
+            <h2>{{ .Site.Params.about.name1 }}</h2>
+            <p>{{ .Site.Params.about.role1 }}</p>
+          </div>
+          <p>{{ .Site.Params.about.bio1 }}</p>
+        </div>
+      </div><!-- .col-md-7 close -->
+      <div class="col-md-5 col-sm-12">
+        <div class="block">
+          <img src="{{ .Site.Params.about.headshot1 }}" alt="img">
+        </div>
+      </div><!-- .col-md-5 close -->
+    </div>
+  </div>
+</section>
+
+<section id="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7 col-sm-12">
+        <div class="block">
+          <img src="{{ .Site.Params.about.headshot2 }}"  alt="img" style="width:75%">
+        </div>
+      </div><!-- .col-md-5 close -->
+      <div class="col-md-5 col-sm-12">
+        <div class="block">
+          <div class="section-title">
+            <h2>{{ .Site.Params.about.name2 }}</h2>
+            <p>{{ .Site.Params.about.role2 }}</p>
+          </div>
+          <p>{{ .Site.Params.about.bio2 }}</p>
+        </div>
+      </div><!-- .col-md-7 close -->
+    </div>
+  </div>
+</section>
