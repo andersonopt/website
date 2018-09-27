@@ -1,8 +1,8 @@
 +++
 title = "Renewable Siting Automation"
 date = "2017-05-10T13:07:31+02:00"
-tags = ["theme"]
-categories = ["starting"]
+tags = ["renewable-siting", "solar-development", "GIS", "prospecting", "automation", "software", "renewable-energy"]
+categories = ["Siting"]
 image = "img/blog/siting-capability-3.jpg"
 author = "Jake Anderson"
 +++

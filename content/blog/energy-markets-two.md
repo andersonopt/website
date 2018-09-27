@@ -1,8 +1,8 @@
 +++
 title = "Markets & Batteries: Examining Consumer & Utility Responses - Part 2"
 date = "2017-07-10T13:07:31+02:00"
-tags = ["theme"]
-categories = ["starting"]
+tags = ["energy-markets", "price-signals", "arbitrage", "grid-defection", "microgrids"]
+categories = ["energy-storage", "energy-markets"]
 image = "img/blog/energy-markets-two-1.jpg"
 author = "Jake Anderson"
 +++
