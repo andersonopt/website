@@ -9,6 +9,7 @@ theme = "airspace-hugo"
     weight = 2
     name = "Services"
     url = "/service"
+    class = "test"
   [[menu.header]]
     weight = 3
     name = "Work"
@@ -21,6 +22,7 @@ theme = "airspace-hugo"
     weight = 5
     name = "Contact"
     url = "/contact"
+
 
   [[menu.footer]]
     weight = 1
@@ -57,6 +59,10 @@ category = "categories"
   dateFormat = "6 January 2006"
 
   home = "Home"
+
+  [params.login]
+  	name = "Login"
+  	url = "https://v3.andersonopt.com"
 
   [params.slider]
     enable = true
