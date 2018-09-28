@@ -53,4 +53,6 @@ jobs:
               s3://website.andersonopt.com/latest/ --delete --acl=public-read --cache-control max-age=60 --size-only
             else
               echo "Not master branch, dry run only"
+              aws s3 sync $HUGO_BUILD_DIR \
+              s3://website.andersonopt.com/${CIRCLE_BRANCH}/ --delete --acl=public-read --cache-control max-age=60 --size-only
             fi
