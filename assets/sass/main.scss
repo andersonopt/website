@@ -1,3 +1,10 @@
+$primary: #7D919A;
+$accent: darken(#91D8F7,5%);
+$background: #333333;
+
+$background-mix: mix($background, $primary, 10%);
+
+
 /*  Navbar  */
 
 .navbar-brand>img {
@@ -17,7 +24,7 @@ header .navbar-default .navbar-nav li a {
 }
 
 header .navbar-default .navbar-nav li a:hover {
-	background-color: #333333;
+	background-color: $background;
 	opacity: 0.2;
 	color: #DDD;
 }
@@ -38,16 +45,18 @@ header .navbar-default .navbar-nav li a:hover {
 /* Colors */
 
 .bg-primary {
-	background: #7fb7cd;
+	background: $accent;
 }
 
 /*  Overlays and Buttons  */
 #slider {
-  background: url("../img/solar-bg2.jpg") no-repeat;
+  background: url("../img/slider-bg.jpg") no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
 }
 
 section#slider:before{
-    background: linear-gradient(to left, #91d8f7, #334e5a);
+    background: linear-gradient(to left, $background, $background-mix);
 }
 
 section#global-header {
@@ -57,23 +66,23 @@ section#global-header {
 }
 
 section#global-header:before{
-    background: linear-gradient(to left, #91d8f7, #334e5a);
+    background: linear-gradient(to left, $background, $background-mix);
 }
 
 section#call-to-action:before{
-	background: #7fb7cd;
+    background: linear-gradient(to left, $background, $background-mix);
 }
 
 a.btn.btn-main {
-	background: #7fb7cd;
+	background: $accent;
 }
 
 #contact-form div button.btn.btn-default {
-	background: #7fb7cd;
+	background: $accent;
 }
 
 div.service-item i {
-	color: #7fb7cd !important
+	color: $accent !important
 }
 
 .overlay {
@@ -87,7 +96,7 @@ div.service-item i {
   width: 95%;
   opacity: .15;
   transition: .3s ease;
-  background: linear-gradient(to left, #91d8f7,#334e5a);
+  background: linear-gradient(to left, $background,$background-mix);
 }
 
 .overlay:hover {
@@ -114,7 +123,7 @@ section#feature .container p {
 	color: #DDD !important;
 }
 section#feature:before{
-    background: linear-gradient(to left, #91d8f7,#334e5a);
+    background: linear-gradient(to left, $background,$background-mix);
 
     content:"";
     display: block;
@@ -214,21 +223,6 @@ li.login-button {
 .service-arrow .block p {
   color: #fff;
 }
-
-.bg-gray {
-    background: #f5f5f5;
-}
-
-.service-list .block {
-  padding: 30px;
-  margin-bottom: 20px;
-  background: #fff;
-}
-
-.service-list .block p {
-  color: #7B7B7B;
-}
-
 /* Util */
 
 
