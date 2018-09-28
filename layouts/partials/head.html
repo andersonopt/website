@@ -18,21 +18,21 @@
 
 {{ .Hugo.Generator }}
 <!-- CSS -->
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/owl.carousel.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/aairspace.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/airspace-local-fonts.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/airspace.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/ionicons.min.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/animate.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/responsive.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/syntax.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/magnific-popup.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/slick.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/slick-theme.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css" />
+<link rel="stylesheet" href="css/owl.carousel.css" />
+<link rel="stylesheet" href="css/bootstrap.min.css" />
+<link rel="stylesheet" href="css/font-awesome.min.css" />
+<link rel="stylesheet" href="css/aairspace.css" />
+<link rel="stylesheet" href="css/airspace-local-fonts.css" />
+<link rel="stylesheet" href="css/airspace.css" />
+<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="css/ionicons.min.css" />
+<link rel="stylesheet" href="css/animate.css" />
+<link rel="stylesheet" href="css/responsive.css" />
+<link rel="stylesheet" href="css/syntax.css" />
+<link rel="stylesheet" href="css/magnific-popup.css" />
+<link rel="stylesheet" href="css/slick.css" />
+<link rel="stylesheet" href="css/slick-theme.css" />
+<link rel="stylesheet" href="css/custom.css" />
 
 {{ $style := resources.Get "sass/main.scss"  | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $style.Permalink }}">
@@ -40,16 +40,16 @@
 <!-- Js -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-<script src="{{ .Site.BaseURL }}js/bootstrap.min.js"></script>
-<script src="{{ .Site.BaseURL }}js/owl.carousel.min.js"></script>
-<script src="{{ .Site.BaseURL }}js/plugins.js"></script>
-<script src="{{ .Site.BaseURL }}js/min/waypoints.min.js"></script>
-<script src="{{ .Site.BaseURL }}js/jquery.counterup.js"></script>
-<script src="{{ .Site.BaseURL }}js/jquery.magnific-popup.min.js"></script>
-<script src="{{ .Site.BaseURL }}js/slick.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/min/waypoints.min.js"></script>
+<script src="js/jquery.counterup.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/slick.min.js"></script>
 
 
-<script src="{{ .Site.BaseURL }}js/main.js"></script>
+<script src="js/main.js"></script>
 
 <!--
 /*
