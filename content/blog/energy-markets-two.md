@@ -3,7 +3,7 @@ title = "Energy Markets & Batteries: Part 2"
 date = "2017-07-10T13:07:31+02:00"
 tags = ["energy-markets", "price-signals", "arbitrage", "grid-defection", "microgrids"]
 categories = ["energy-storage", "energy-markets"]
-image = "img/blog/energy-markets-two-1.jpg"
+image = "img/blog/energy-markets-two-list.jpg"
 author = "Jake Anderson"
 +++
 

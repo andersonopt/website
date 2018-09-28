@@ -3,7 +3,7 @@ title = "Renewable Siting Inefficiencies"
 date = "2017-04-10T13:07:31+02:00"
 tags = ["renewable-siting", "solar-development", "GIS", "prospecting", "renewable-energy"]
 categories = ["Siting"]
-image = "img/blog/siting-difficulty-1.png"
+image = "img/blog/siting-difficulty-list.jpg"
 author = "Jake Anderson"
 +++
 

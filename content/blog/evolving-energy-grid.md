@@ -3,7 +3,7 @@ title = "The Power Grid: An Overview and Its Evolution"
 date = "2017-06-10T13:07:31+02:00"
 tags = ["interconnection", "congestion", "distributed-generation", "renewable-energy"]
 categories = ["electricity-grid"]
-image = "img/blog/evolving-energy-grid-1.png"
+image = "img/blog/evolving-energy-grid-list.jpg"
 author = "Jake Anderson"
 +++
 
