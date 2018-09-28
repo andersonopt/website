@@ -36,7 +36,7 @@ header .navbar-default .navbar-nav li a:hover {
 
 /*  Overlays and Buttons  */
 #slider {
-  background: url("../img/solar-bg2.jpg") no-repeat;
+  /*background: url("../img/slider-bg.jpg") no-repeat;*/
 }
 
 section#slider:before{
@@ -169,6 +169,8 @@ li.login-button {
 
 }
 
+
+
 /* Service */
 .service-arrow .block {
   padding: 70px 30px;
@@ -195,3 +197,4 @@ li.login-button {
 .service-list .block p {
   color: #7B7B7B;
 }
+

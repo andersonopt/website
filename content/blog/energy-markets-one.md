@@ -1,5 +1,5 @@
 +++
-title = "Markets & Batteries: Examining Consumer & Utility Responses - Part 1"
+title = "Energy Markets & Batteries: Part 1"
 date = "2017-07-10T13:07:31+02:00"
 tags = ["ISO", "energy-markets", "utility", "price-signals", "rate-based-pricing"]
 categories = ["energy-storage", "energy-markets"]
