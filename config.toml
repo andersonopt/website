@@ -94,6 +94,7 @@ category = "categories"
       url = "/contact"
       text = "Reach Out"
 
+
   [params.contact]
     enable = true
     title = "Drop us a note"

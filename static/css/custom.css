@@ -25,9 +25,16 @@ header .navbar-default .navbar-nav li a:hover {
 /* Header */
 
 .section-title h2 {
-	text-transform: none;
+	text-transform: none;   
+    font-size: 28px;
+    font-weight: 600;    
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
-
+.section-title p {
+    font-family: 'Volkhov', serif;
+    font-style: italic;
+}
 /* Colors */
 
 .bg-primary {
@@ -166,7 +173,6 @@ li.login-button {
 	border-color: black;
 	border-width: 1px;
 	border-style: solid;
-
 }
 
 
@@ -197,4 +203,37 @@ li.login-button {
 .service-list .block p {
   color: #7B7B7B;
 }
+
+/* Util */
+
+
+.text-align-center {
+	text-align: center;
+}
+
+/* Service */
+.service-arrow .block {
+  padding: 70px 30px;
+}
+
+.service-arrow .block i {
+  font-size: 40px;
+}
+
+.service-arrow .block p {
+  color: #fff;
+}
+
+.bg-gray {
+    background: #f5f5f5;
+}
+
+.service-list .block {
+  padding: 30px;
+  margin-bottom: 20px;
+  background: #fff;
+}
+
+.service-list .block p {
+  color: #7B7B7B;
 

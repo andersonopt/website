@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	{{ partial "head.html" . }}
+
+</head>
+<body>
+
+	{{ partial "header.html" . }}
+
+	{{ partial "global-header.html" .}}
+
+
+	
+	<section class="page-404">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<p>
+						The requested page was not found.
+					</p>
+					<p>
+        				<a href="/" class="btn btn-main">Back Home</a>
+					</p>
+
+				</div>
+			</div>
+		</div>
+	</section>
+
+	{{ partial "footer.html" . }}
+
+</body>
+</html>
