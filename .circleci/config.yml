@@ -39,9 +39,10 @@ jobs:
       # build with Hugo
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
       # build with Hugo
-      - run: BASE_URL="https://website.andersonopt.com/" && \
-        BRANCH_URL="http://website.andersonopt.com.s3-website-us-west-2.amazonaws.com/${CIRCLE_BRANCH}" && \
-        sed -i "s,$BASE_URL,$NEW_URL," config.toml && \
+      - run: |
+        BASE_URL="https://website.andersonopt.com/"
+        BRANCH_URL="http://website.andersonopt.com.s3-website-us-west-2.amazonaws.com/${CIRCLE_BRANCH}"
+        sed -i "s,$BASE_URL,$NEW_URL," config.toml
         HUGO_ENV=production hugo -v -d $HUGO_BRANCH_BUILD_DIR
  
  
