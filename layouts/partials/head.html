@@ -31,7 +31,6 @@
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/magnific-popup.css" />
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/slick.css" />
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/slick-theme.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css" />
 
 {{ $style := resources.Get "sass/main.scss"  | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $style.Permalink }}">
