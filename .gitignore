@@ -1,4 +1,8 @@
 public
 
+# Hugo Gen
+resources
+
 # Mac
 .DS_Store
+
