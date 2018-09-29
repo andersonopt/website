@@ -69,6 +69,12 @@ section#global-header:before{
     background: linear-gradient(to left, $background, $background-mix);
 }
 
+section#call-to-action {
+    background: url("../img/transmission-sunrise-bg.jpg") no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
 section#call-to-action:before{
     background: linear-gradient(to left, $background, $background-mix);
 }
