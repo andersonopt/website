@@ -15,15 +15,19 @@ platform:
       items:
           - Colloborate with coworkers and others with our frontend that is synced in real-time.
           - Delegate fine-grained permissions with coworkers and 3rd parties to easily share your work.
+      icon: ion-cube
     - name: Specialized Item Resources
       items:
           - Utilize our item resource system that is tailored for energy analysis to create and edit items for use in your workflow.          
+      icon: ion-cube
     - name: Workflows and Tasks
       items:
           - Build and run streamlined analysis that easily harnesses the power of the cloud through our workflows and scalable task system.
+      icon: ion-cube    
     - name: Data Visualizations
       items:
           - Easily gain intuition on data outputs through our customized visualizations.
+      icon: ion-cube
 #Generate clean data visualizations that make it easy to perform advanced analytics and derive valuable insights from your work.       
 
   benefits:

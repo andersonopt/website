@@ -169,8 +169,29 @@ div.service-item:hover{
 	opacity: 0;
 }
 
+.service-feature {
+	text-align: center;
+
+}
+.service-feature i {
+	font-size: 45px;
+	color: $accent;
+	margin-bottom: 30px;
+}
+.service-feature h4 {
+	color: $primary-grey;
+}
 
 
+
+/*.service-arrow .row [class*="col-"] {
+  flex-grow: 1;
+}
+
+.service-arrow .row {
+  display: flex;
+  flex-wrap: wrap;
+}*/
 
 /*  Index Feature Page  */
 
