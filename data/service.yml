@@ -43,7 +43,7 @@ platform:
       items:
         - Seamless integration with 3rd party data sources and analysis
   button:
-    url:  /service/#platform
+    url:  service/#platform
     caption: Learn More  
 
 software:
@@ -78,7 +78,7 @@ software:
           - Identify quality land for renewable development in just a few clicks
     order: 1
     button:
-      url:  /service/#siting
+      url:  service/#siting
       caption: Learn More  
 
   analysis:
@@ -109,7 +109,7 @@ software:
           - Identify quality land for renewable development in just a few clicks
     order: 2
     button:
-      url:  /service/#analysis
+      url:  service/#analysis
       caption: Learn More  
 
   optimization:
@@ -149,5 +149,5 @@ software:
           - Determine potential for curtailment of a renewable site
     order: 3
     button:
-      url:  /service/#optimization
+      url:  service/#optimization
       caption: Learn More  
