@@ -6,16 +6,49 @@ subtitle: >
 
 platform:
   icon: ion-cube
+  id: platform
   product: AO Platform
   category: Energy Analysis Platform
   description: A powerful software platform built on the cloud capable of performing flexible and integrated energy analysis workflows.
+  features:
+    - name: Interactive Platform
+      items:
+          - Colloborate with coworkers and others with our frontend that is synced in real-time.
+          - Delegate fine-grained permissions with coworkers and 3rd parties to easily share your work.
+    - name: Specialized Item Resources
+      items:
+          - Utilize our item resource system that is tailored for energy analysis to create and edit items for use in your workflow.          
+    - name: Workflows and Tasks
+      items:
+          - Build and run streamlined analysis that easily harnesses the power of the cloud through our workflows and scalable task system.
+    - name: Data Visualizations
+      items:
+          - Easily gain intuition on data outputs through our customized visualizations.
+
+
+  benefits:
+    - title: Cloud Software
+      items:
+        - Scale computational resources
+        - Improved Colloboration
+        - Not encumbered by legacy software
+    - title: Customization
+      items:
+        - Built from ground up for flexible and integrated workflows
+    - title: Optimization Software
+      items:
+        - Leverages state of the art commercial software
+    - title: 3rd Party Integration
+      items:
+        - Seamless integration with 3rd party data sources and analysis
   button:
     url:  /service/#platform
     caption: Learn More  
-    
+
 software:
   prospect:
     icon: ion-search
+    id: prospect
     product: AO Prospect
     category: Renewable Siting
     title: Renewable Siting Made Easy
@@ -34,6 +67,7 @@ software:
 
   analysis:
     icon: ion-stats-bars
+    id: analysis
     product: AO Site Analysis
     category: Site Feasibility & Valuation
     title: Site Feasibility & Valuation
@@ -62,6 +96,7 @@ software:
 
   optimization:
     icon: ion-network
+    id: optimization
     product: AO Energy Markets
     category: Grid Modeling & Optimization
     title: Optimization Modeling
