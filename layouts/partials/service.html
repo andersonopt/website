@@ -51,42 +51,48 @@
 {{ partial "service-header.html" . }}
 
 <section class="portfolio-single-page section-sm">
-  <div class="container">
+  <div class="container" style="padding-bottom: 30px">
+    
     <div class="row">
-      <div class="col-md-8">
-
-		<div class="row">
-			{{ range .features }}
-			<div class="col-md-6 service-feature">
-        <i class="{{ .icon }}"></i>
-        <h4>{{.name}}</h4>
-				<p>
-        		{{ range .items }}
-        			 {{ . }}
-        		{{ end }}
-        		</p>
-			</div>
-			{{end}}
-		</div>
+      <div class="col-md-12">
+        <div class="row">
+    			{{ range .features }}
+    			<div class="col-md-3 service-feature">
+            <i class="{{ .icon }}"></i>
+            <h4>{{.name}}</h4>
+    				<p>
+            		{{ range .items }}
+            			 {{ . }}
+            		{{ end }}
+            		</p>
+    			</div>
+    			{{end}}
+    		</div>
       </div>
-      <div class="col-md-4">
+    </div> 
+  </div>
+  
+  <div class="container bg-gray">
+    <div class="row">
+      <div class="col-md-12">
         <div class="project-details">
           <h4>Software Benefits</h4>
-          <ul>
-          	{{ range .benefits }}
-            <li><span><i class="fa fa-shirtsinbulk "></i> {{ .title}}</span> 
-            	<ul>
-            		{{ range .items }}
-            			<li> {{ . }}</li>
-            		{{ end }}
-            	</ul>
-            </li>
-            {{ end }}
-          </ul>
         </div>
       </div>
     </div>
-    
+    <div class="row">
+      {{ range .benefits }}
+      <div class="col-md-4" style="text-align: left">
+        <h5>{{.title}}</h5>
+        {{ range .items}}
+        <p>{{ . }}</p>
+        {{ end }}
+      </div>
+      {{end}}
+    </div>
   </div>
 </section>
 {{ end }}
+
+
+
