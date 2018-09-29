@@ -14,7 +14,7 @@ platform:
     - name: Interactive Platform
       items:
           - Colloborate with coworkers and others with our frontend that is synced in real-time.
-          - Delegate fine-grained permissions with coworkers and 3rd parties to easily share your work.
+          #- Delegate fine-grained permissions with coworkers and 3rd parties to easily share your work.
       icon: ion-cube
     - name: Specialized Item Resources
       items:
@@ -64,18 +64,23 @@ software:
       - name: Substation and Transmission Line Projects
         items:
             - Quickly identify parcels within a specified distance of relevant electrical infrastructure.
+        icon: ion-cube            
       - name: Integrated Data Sources
         items:
             - Utilize our included data sources for grid infrastructure and 3rd party parcel data or bring your own internal data sources.
+        icon: ion-cube            
       - name: Custom Filtering
         items:
             - Easily filter out land parcels based on a variety of criteria such as flood plains and buildable area calculations.
+        icon: ion-cube            
       - name: Site Layout
         items:
             - Utilize our drawing tools for early stage site layout
+        icon: ion-cube            
       - name: Data Export
         items:
           - Export your finished project in common formats to use in downstream software.
+        icon: ion-cube            
     benefits:
       - title: Double Siting Capacity
         items:
@@ -98,15 +103,19 @@ software:
       - name: Scenario Analysis
         items:
           - Stop repeating work. Save common analysis processes and apply them to any project with just one click.
+        icon: ion-cube
       - name: Parameter Sensitivites
         items:
           - Run analysis on thousands of varying scenarios for a given site producing financial and energy outputs and analysis.
+        icon: ion-cube
       - name: Detailed Solar Array Calculations
         items:
           - Leverage NREL System Advisor Model for calculating detailed solar system operation for a given solar resource input.
+        icon: ion-cube
       - name: Optimized Battery Operation
         items:
           - Utilize optimization software to determine the ideal operation of your battery system.
+        icon: ion-cube
     benefits:
       - title: Double Siting Capacity
         items:
@@ -129,18 +138,22 @@ software:
         - name: Innovative Models
           items: 
             - Utilize models uniquely based on the latest optimization modeling research that are built specifically to incorporate modern grid uncertainty.
+          icon: ion-cube
 
         - name: Ideal Energy Storage
           items: 
             - Determine optimzed storage locations, sizes, and dispatch schedules as well as accurate asset valuations that properly incorporate ancillary benefits.
+          icon: ion-cube
 
         - name: Renewable Congestion & LMP
           items: 
             - Identify detrimental pricing and grid congestion impacts of any project and automatically receive solutions to overcome constraints.
+          icon: ion-cube
 
         - name: Resource & Transmission Planning
           items: 
             - Improve long-range planning processes by properly incorporating the impacts of dynamic grid technologies such as renewable generation and storage.          
+          icon: ion-cube
     benefits:
       - title: Accurate Valuation
         items:

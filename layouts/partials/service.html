@@ -57,8 +57,9 @@
 
 		<div class="row">
 			{{ range .features }}
-			<div class="col-md-12">
-				<h4>{{.name}}</h4>
+			<div class="col-md-6 service-feature">
+        <i class="{{ .icon }}"></i>
+        <h4>{{.name}}</h4>
 				<p>
         		{{ range .items }}
         			 {{ . }}
