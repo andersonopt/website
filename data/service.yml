@@ -88,20 +88,18 @@ software:
     description: >
       Perform automated site analysis to determine the true valuation, ideal technology mix, and optimal parameters for your project.
     features: 
-      - icon: ion-social-usd-outline
-        name: Accurate Valuation
-        block: >
-          Properly incorporate ancillary benefits and price-maker assumptions to determine an accurate, hollistic project valuation.
-        
-      - icon: ion-levels
-        name: Optimized Projects
-        block: >
-          Determine the ideal mix of technologies and project specifications to maximize return and best meet any project goal.
-
-      - icon: ion-clock
-        name: Rapid Analysis
-        block: >
-          Stop repeating work. Save common analysis processes and apply them to any project with just one click.
+      - name: Scenario Analysis
+        items:
+          - Stop repeating work. Save common analysis processes and apply them to any project with just one click.
+      - name: Parameter Sensitivites
+        items:
+          - Run analysis on thousands of varying scenarios for a given site producing financial and energy outputs and analysis.
+      - name: Detailed Solar Array Calculations
+        items:
+          - Leverage NREL System Advisor Model for calculating detailed solar system operation for a given solar resource input.
+      - name: Optimized Battery Operation
+        items:
+          - Utilize optimization software to determine the ideal operation of your battery system.
     benefits:
       - title: Double Siting Capacity
         items:
@@ -123,7 +121,11 @@ software:
         - name: Innovative Models
           block: >
             Utilize models uniquely based on the latest optimization modeling research that are built specifically to incorporate modern grid uncertainty.
-
+        - icon: ion-social-usd-outline
+          name: Accurate Valuation
+          block: >
+            Properly incorporate ancillary benefits and price-maker assumptions to determine an accurate, hollistic project valuation.
+        
         - name: Storage Analysis
           block: >
             Determine optimzed storage locations, sizes, and dispatch schedules as well as accurate asset valuations that properly incorporate ancillary benefits.
