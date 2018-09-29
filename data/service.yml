@@ -51,15 +51,29 @@ software:
     id: prospect
     product: AO Prospect
     category: Renewable Siting
-    title: Renewable Siting Made Easy
-    text: >
+    headline: Renewable Siting Made Easy
+    description: >
       Identify quality land for new sites in a matter minutes using a variety of data and proprietary automation capabilities.
-    content:
-      benefits:
-        - "Double siting capacity by identifying quality land for renewable development in just a few clicks with AOProspect. AOProspect reduces or eliminates the need for costly, third-party consultants."
-        - "AOProspect includes necessary grid infrastructure, GIS, and parcel data for siting activities. It also includes proprietary automation features that expedite processes such as parcel and substation radius identification, environmental analysis, buildable acreage calculations, and more."
-        - "AOProspect also consolidates data and projects across teams and updates in real-time to reduce non-value-added work spent managing countless files, folders, KMZs, and project versions."
-      image: img/wind-cow.jpg
+    features:
+      - name: Substation and Transmission Line Projects
+        items:
+            - Quickly identify parcels within a specified distance of relevant electrical infrastructure.
+      - name: Integrated Data Sources
+        items:
+            - Utilize our included data sources for grid infrastructure and 3rd party parcel data or bring your own internal data sources.
+      - name: Custom Filtering
+        items:
+            - Easily filter out land parcels based on a variety of criteria such as flood plains and buildable area calculations.
+      - name: Site Layout
+        items:
+            - Utilize our drawing tools for early stage site layout
+      - name: Data Export
+        items:
+          - Export your finished project in common formats to use in downstream software.
+    benefits:
+      - title: Double Siting Capacity
+        items:
+          - Identify quality land for renewable development in just a few clicks
     order: 1
     button:
       url:  /service/#siting
@@ -70,9 +84,8 @@ software:
     id: analysis
     product: AO Site Analysis
     category: Site Feasibility & Valuation
-    title: Site Feasibility & Valuation
-    subtitle: Ensure that your project is optimized to best meet your goals. Automatically simulate projects across all relevant scenarios to determine optimal project strategies.
-    text: >
+    headline: Ensure that your project is optimized to best meet your goals. Automatically simulate projects across all relevant scenarios to determine optimal project strategies.
+    description: >
       Perform automated site analysis to determine the true valuation, ideal technology mix, and optimal parameters for your project.
     features: 
       - icon: ion-social-usd-outline
@@ -89,6 +102,10 @@ software:
         name: Rapid Analysis
         block: >
           Stop repeating work. Save common analysis processes and apply them to any project with just one click.
+    benefits:
+      - title: Double Siting Capacity
+        items:
+          - Identify quality land for renewable development in just a few clicks
     order: 2
     button:
       url:  /service/#analysis
@@ -99,9 +116,8 @@ software:
     id: optimization
     product: AO Energy Markets
     category: Grid Modeling & Optimization
-    title: Optimization Modeling
-    subtitle: Stop relying on outside consultants. Harness innovative production cost, capacity expansion, and optimization modeling capabilties.
-    text: >
+    headline: Stop relying on outside consultants. Harness innovative production cost, capacity expansion, and optimization modeling capabilties.
+    description: >
       Utilize cutting-edge production cost and optimization modeling frameworks for injection studies, price & congestion analysis, storage modeling, and more.
     features:
         - name: Innovative Models
@@ -126,7 +142,11 @@ software:
             
         - name: Cloud Software
           block: >
-            Harness the scalable computing power of the cloud to perform mass simulations faster and with higher levels of detail than on-premise solutions.
+            Harness the scalable computing power of the cloud to perform mass simulations faster and with higher levels of detail than on-premise solutions.            
+    benefits:
+      - title: Double Siting Capacity
+        items:
+          - Identify quality land for renewable development in just a few clicks
     order: 3
     button:
       url:  /service/#optimization

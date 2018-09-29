@@ -77,6 +77,13 @@ section#global-header:before{
     background: linear-gradient(to left, $background, $background-mix);
 }
 
+section#global-header h1 {
+}
+
+section#global-header i {
+    font-size: 60px;
+}
+
 section#call-to-action {
     background: url("../img/transmission-sunrise-bg.jpg") no-repeat;
 	background-attachment: fixed;
