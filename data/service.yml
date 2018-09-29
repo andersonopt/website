@@ -9,7 +9,10 @@ platform:
   product: AO Platform
   category: Energy Analysis Platform
   description: A powerful software platform built on the cloud capable of performing flexible and integrated energy analysis workflows.
-
+  button:
+    url:  /service/#platform
+    caption: Learn More  
+    
 software:
   prospect:
     icon: ion-search

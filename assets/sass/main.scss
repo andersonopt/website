@@ -132,9 +132,16 @@ div.service-item:hover{
 	color: $accent;
 }
 
+#service div.service-item  p  a{
+	/*display: none;*/
+	background: $primary-grey;
+	color: $accent;
+}
+
 #service div.service-item:hover  p  a{
-	background: $accent;
-	
+	display: inline-block;
+	background: $accent;	
+	color: white;
 }
 
 .overlay {
