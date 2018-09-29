@@ -24,7 +24,7 @@ platform:
     - name: Data Visualizations
       items:
           - Easily gain intuition on data outputs through our customized visualizations.
-
+#Generate clean data visualizations that make it easy to perform advanced analytics and derive valuable insights from your work.       
 
   benefits:
     - title: Cloud Software
@@ -32,6 +32,7 @@ platform:
         - Scale computational resources
         - Improved Colloboration
         - Not encumbered by legacy software
+#Harness the scalable computing power of the cloud to perform mass simulations faster and with higher levels of detail than on-premise solutions.            
     - title: Customization
       items:
         - Built from ground up for flexible and integrated workflows
@@ -52,6 +53,7 @@ software:
     product: AO Prospect
     category: Renewable Siting
     headline: Renewable Siting Made Easy
+    scale: Scan 100s of thousands of sites
     description: >
       Identify quality land for new sites in a matter minutes using a variety of data and proprietary automation capabilities.
     features:
@@ -87,6 +89,7 @@ software:
     headline: Ensure that your project is optimized to best meet your goals. Automatically simulate projects across all relevant scenarios to determine optimal project strategies.
     description: >
       Perform automated site analysis to determine the true valuation, ideal technology mix, and optimal parameters for your project.
+    scale: Run scenario analysis on thousands of sites
     features: 
       - name: Scenario Analysis
         items:
@@ -117,38 +120,33 @@ software:
     headline: Stop relying on outside consultants. Harness innovative production cost, capacity expansion, and optimization modeling capabilties.
     description: >
       Utilize cutting-edge production cost and optimization modeling frameworks for injection studies, price & congestion analysis, storage modeling, and more.
+    scale: Energy market simulations on a select number of sites
     features:
         - name: Innovative Models
-          block: >
-            Utilize models uniquely based on the latest optimization modeling research that are built specifically to incorporate modern grid uncertainty.
-        - icon: ion-social-usd-outline
-          name: Accurate Valuation
-          block: >
-            Properly incorporate ancillary benefits and price-maker assumptions to determine an accurate, hollistic project valuation.
-        
-        - name: Storage Analysis
-          block: >
-            Determine optimzed storage locations, sizes, and dispatch schedules as well as accurate asset valuations that properly incorporate ancillary benefits.
+          items: 
+            - Utilize models uniquely based on the latest optimization modeling research that are built specifically to incorporate modern grid uncertainty.
+
+        - name: Ideal Energy Storage
+          items: 
+            - Determine optimzed storage locations, sizes, and dispatch schedules as well as accurate asset valuations that properly incorporate ancillary benefits.
 
         - name: Renewable Congestion & LMP
-          block: >
-            Identify detrimental pricing and grid congestion impacts of any project and automatically receive solutions to overcome constraints.
+          items: 
+            - Identify detrimental pricing and grid congestion impacts of any project and automatically receive solutions to overcome constraints.
 
         - name: Resource & Transmission Planning
-          block: >
-            Improve long-range planning processes by properly incorporating the impacts of dynamic grid technologies such as renewable generation and storage.
-
-        - name: Data Visualization
-          block: >
-            Generate clean data visualizations that make it easy to perform advanced analytics and derive valuable insights from your work.       
-            
-        - name: Cloud Software
-          block: >
-            Harness the scalable computing power of the cloud to perform mass simulations faster and with higher levels of detail than on-premise solutions.            
+          items: 
+            - Improve long-range planning processes by properly incorporating the impacts of dynamic grid technologies such as renewable generation and storage.          
     benefits:
-      - title: Double Siting Capacity
+      - title: Accurate Valuation
         items:
-          - Identify quality land for renewable development in just a few clicks
+          - Incorporate ancillary benefits and price-maker assumptions
+      - title: Energy Storage
+        items:
+          - Determine viability of an energy storage system
+      - title: Renewable Curtailment
+        items:
+          - Determine potential for curtailment of a renewable site
     order: 3
     button:
       url:  /service/#optimization
