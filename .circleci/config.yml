@@ -34,7 +34,7 @@ jobs:
             apk add --update python python-dev py-pip build-base
             pip install virtualenv virtualenvwrapper
             virtualenv venv
-            . venv/bin/activate
+            source venv/bin/activate
             ls
             pip install -r requirements/dev.txt
 
