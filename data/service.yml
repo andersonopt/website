@@ -8,7 +8,7 @@ platform:
   icon: ion-cube
   product: AO Platform
   category: Energy Analysis Platform
-  description: A powerful software platform built on the cloud capable of performing flexible and complete energy analysis workflows.
+  description: A powerful software platform built on the cloud capable of performing flexible and integrated energy analysis workflows.
 
 software:
   prospect:
@@ -16,18 +16,18 @@ software:
     product: AO Prospect
     category: Renewable Siting
     title: Renewable Siting Made Easy
-    order: 1
     text: >
       Identify quality land for new sites in a matter minutes using a variety of data and proprietary automation capabilities.
-    button:
-      url:  /service/#siting
-      caption: Learn More  
     content:
       benefits:
         - "Double siting capacity by identifying quality land for renewable development in just a few clicks with AOProspect. AOProspect reduces or eliminates the need for costly, third-party consultants."
         - "AOProspect includes necessary grid infrastructure, GIS, and parcel data for siting activities. It also includes proprietary automation features that expedite processes such as parcel and substation radius identification, environmental analysis, buildable acreage calculations, and more."
         - "AOProspect also consolidates data and projects across teams and updates in real-time to reduce non-value-added work spent managing countless files, folders, KMZs, and project versions."
       image: img/wind-cow.jpg
+    order: 1
+    button:
+      url:  /service/#siting
+      caption: Learn More  
 
   analysis:
     icon: ion-stats-bars
@@ -35,12 +35,8 @@ software:
     category: Site Feasibility & Valuation
     title: Site Feasibility & Valuation
     subtitle: Ensure that your project is optimized to best meet your goals. Automatically simulate projects across all relevant scenarios to determine optimal project strategies.
-    order: 2
     text: >
       Perform automated site analysis to determine the true valuation, ideal technology mix, and optimal parameters for your project.
-    button:
-      url:  /service/#analysis
-      caption: Learn More  
     features: 
       - icon: ion-social-usd-outline
         name: Accurate Valuation
@@ -56,6 +52,10 @@ software:
         name: Rapid Analysis
         block: >
           Stop repeating work. Save common analysis processes and apply them to any project with just one click.
+    order: 2
+    button:
+      url:  /service/#analysis
+      caption: Learn More  
 
   optimization:
     icon: ion-network
@@ -63,12 +63,8 @@ software:
     category: Grid Modeling & Optimization
     title: Optimization Modeling
     subtitle: Stop relying on outside consultants. Harness innovative production cost, capacity expansion, and optimization modeling capabilties.
-    order: 3
     text: >
       Utilize cutting-edge production cost and optimization modeling frameworks for injection studies, price & congestion analysis, storage modeling, and more.
-    button:
-      url:  /service/#optimization
-      caption: Learn More  
     features:
         - name: Innovative Models
           block: >
@@ -93,3 +89,7 @@ software:
         - name: Cloud Software
           block: >
             Harness the scalable computing power of the cloud to perform mass simulations faster and with higher levels of detail than on-premise solutions.
+    order: 3
+    button:
+      url:  /service/#optimization
+      caption: Learn More  

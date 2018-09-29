@@ -1,6 +1,8 @@
 $primary: #7D919A;
+$primary-grey: #555555;
 $accent: darken(#91D8F7,5%);
 $background: #333333;
+
 
 $background-mix: mix($background, $primary, 10%);
 
@@ -102,7 +104,10 @@ div.service-item:hover{
 }
 
 
-div.service-item:hover h2{
+#service div.service-item h2{
+	color: $primary-grey;
+}
+#service div.service-item:hover h2{
 	color: $accent;
 }
 
