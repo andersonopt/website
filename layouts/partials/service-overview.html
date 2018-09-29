@@ -20,7 +20,7 @@
           <p>{{ .description }}</p>
           {{ with .button }}
           <p>
-              <a href="{{ .Site.BaseURL }}{{ .url }}" class="btn btn-main">{{ .caption }}</a>
+              <a href="{{ $.Site.BaseURL }}{{ .url }}" class="btn btn-main">{{ .caption }}</a>
           </p>
           {{ end }}
         </div>
@@ -39,7 +39,7 @@
           <p>{{ .description }}</p>
           {{ with .button }}
           <p>
-              <a href="{{ .Site.BaseURL }}{{ .url }}" class="btn btn-main">{{ .caption }}</a>
+              <a href="{{ $.Site.BaseURL }}{{ .url }}" class="btn btn-main">{{ .caption }}</a>
           </p>
           {{ end }}
         </div>
