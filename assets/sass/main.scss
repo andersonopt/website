@@ -87,8 +87,37 @@ a.btn.btn-main {
 	background: $accent;
 }
 
+
+#service div.service-item {
+	padding-left: 5px;
+	padding-right: 5px;
+}
 div.service-item i {
 	color: $accent !important
+}
+
+div.service-item:hover{
+	background: $background;
+	opacity: 0.8;
+}
+
+
+div.service-item:hover h2{
+	color: $accent;
+}
+
+#service div.service-item:hover h4{
+	color: $accent;
+}
+
+
+#service div.service-item:hover p{
+	color: $accent;
+}
+
+#service div.service-item:hover  p  a{
+	background: $accent;
+	
 }
 
 .overlay {

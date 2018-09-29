@@ -1,11 +1,20 @@
 enable: true
-title: Our Services
+title: Software & Services
 subtitle: >
   Premium software solutions that optimize site identification, project analysis, and grid modeling processes for renewable developers, utilities, and other energy industry stakeholders. 
-content:
+
+
+platform:
+  icon: ion-cube
+  product: AO Platform
+  category: Energy Analysis Platform
+  description: A powerful software platform built on the cloud capable of performing flexible and complete energy analysis workflows.
+
+software:
   prospect:
     icon: ion-search
-    name: Renewable Siting
+    product: AO Prospect
+    category: Renewable Siting
     title: Renewable Siting Made Easy
     order: 1
     text: >
@@ -13,8 +22,6 @@ content:
     button:
       url:  /service/#siting
       caption: Learn More  
-    product:
-      - name: AO Prospect
     content:
       benefits:
         - "Double siting capacity by identifying quality land for renewable development in just a few clicks with AOProspect. AOProspect reduces or eliminates the need for costly, third-party consultants."
@@ -24,7 +31,8 @@ content:
 
   analysis:
     icon: ion-stats-bars
-    name: Site Feasibility & Valuation
+    product: AO Site Analysis
+    category: Site Feasibility & Valuation
     title: Site Feasibility & Valuation
     subtitle: Ensure that your project is optimized to best meet your goals. Automatically simulate projects across all relevant scenarios to determine optimal project strategies.
     order: 2
@@ -33,8 +41,6 @@ content:
     button:
       url:  /service/#analysis
       caption: Learn More  
-    product:
-      - name: AO Site Analysis
     features: 
       - icon: ion-social-usd-outline
         name: Accurate Valuation
@@ -53,7 +59,8 @@ content:
 
   optimization:
     icon: ion-network
-    name: Grid Modeling & Optimization
+    product: AO Energy Markets
+    category: Grid Modeling & Optimization
     title: Optimization Modeling
     subtitle: Stop relying on outside consultants. Harness innovative production cost, capacity expansion, and optimization modeling capabilties.
     order: 3
@@ -62,8 +69,6 @@ content:
     button:
       url:  /service/#optimization
       caption: Learn More  
-    product:
-      - name: AO Energy Markets
     features:
         - name: Innovative Models
           block: >

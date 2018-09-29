@@ -1,10 +1,10 @@
 {{ partial "global-header.html" . }}
 
-<!-- {{ partial "service-overview.html" . }} -->
+{{ partial "service-overview.html" . }}
 
 <!-- Renewable Prospecting Start -->
 
-{{ with .Site.Data.service.content.prospect }}
+{{ with .Site.Data.service.software.prospect }}
 <section class="service-about section" id="siting">
 	<div class="container">
 		<div class="row">
@@ -24,7 +24,7 @@
 {{end}}
 
 <!-- Site Analysis Start Start -->
-{{ with .Site.Data.service.content.analysis }}
+{{ with .Site.Data.service.software.analysis }}
 <section class="service-arrow" id="analysis">
 	<div class="container-fluid">
 		<div class="row">
@@ -52,7 +52,7 @@
 
 <!-- Optimization Start -->
 
-{{ with .Site.Data.service.content.optimization }}
+{{ with .Site.Data.service.software.optimization }}
 <section class="service-list section bg-gray" id="optimization">
 	<div class="container">
 		<div class="row">
