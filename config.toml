@@ -89,9 +89,9 @@ category = "categories"
     title = "Optimize Your Business."
     paragraph = "No matter your situation, we'd love to hear from you. With our exceptional technical experience, we are confident that we can deliver a solution that best meets your needs."
     [params.call.button]
-      caption = "Reach Out"
+      caption = "Contact Us"
       url = "/contact"
-      text = "Reach Out"
+      text = "Contact Us"
 
 
   [params.contact]

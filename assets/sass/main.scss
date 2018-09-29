@@ -51,6 +51,12 @@ header .navbar-default .navbar-nav li a:hover {
 }
 
 /*  Overlays and Buttons  */
+
+a.btn.btn-main {
+	text-transform: none;
+	font-weight: 600;
+}
+
 #slider {
   background: url("../img/slider-bg.jpg") no-repeat;
 	background-attachment: fixed;
@@ -79,6 +85,12 @@ section#call-to-action {
 
 section#call-to-action:before{
     background: linear-gradient(to left, $background, $background-mix);
+}
+
+#call-to-action a.btn-call-to-action {
+	background: $accent;
+	color: white;
+	border-radius:0;
 }
 
 a.btn.btn-main {
