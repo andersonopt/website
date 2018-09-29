@@ -201,15 +201,13 @@ li.login-button {
 }
 
 .service-arrow .row [class*="col-"] {
-  margin-bottom: -99999px;
-  padding-bottom: 99999px;  
+  flex-grow: 1;
 }
 
 .service-arrow .row {
-  overflow: hidden;
-  
+  display: flex;
+  flex-wrap: wrap;
 }
-
 
 .bg-gray {
     background: #f5f5f5;
@@ -225,18 +223,8 @@ li.login-button {
   color: #7B7B7B;
 }
 
-/* Service */
-.service-arrow .block {
-  padding: 70px 30px;
-}
 
-.service-arrow .block i {
-  font-size: 40px;
-}
 
-.service-arrow .block p {
-  color: #fff;
-}
 /* Util */
 
 
