@@ -10,7 +10,10 @@
             <h2>{{ .name }}</h2>
             <p>{{ .role }}</p>
           </div>
-          <p>{{ .bio }}</p>
+          <!-- <p>{{ .bio }}</p> -->
+          {{ range .extendedbio }}
+            <p>{{.}}</p>
+          {{ end }}
         </div>
       </div><!-- .col-md-7 close -->
       <div class="col-md-5 col-sm-12">
