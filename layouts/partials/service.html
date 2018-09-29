@@ -45,76 +45,47 @@
 </section>
 {{ end }}
 
-<!-- Renewable Prospecting Start -->
-{{ with .Site.Data.service.software.prospect }}
-<section class="service-about section" id="siting">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-6">
-				<h2>{{.title}}</h2>
-				{{ range .content.benefits }}
-				<p class="mt-30">{{ . }}</p>
-				{{ end }}
-			</div> 
-			<div class="col-md-6">
-				<img class="img-responsive" src="{{$.Site.BaseURL}}{{.content.image}}">
-				<div class="overlay"></div>
-			</div>			   
-		</div>
-	</div>
-</section>
-{{end}}
 
-<!-- Site Analysis Start Start -->
-{{ with .Site.Data.service.software.analysis }}
-<section class="service-arrow" id="analysis">
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="section-title text-center">
-					<h2>{{ .title}}</h2>
-					<p>{{ .subtitle}}</p>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-		{{ range .features }}		
-			<div class="col-md-4 bg-primary">
-				<div class="block">
-					<i class="{{.icon}}"></i>
-					<h3>{{.name}}</h3>
-					<p>{{.block}}</p>
-				</div>
-			</div>
-			{{end}}
-		</div>
-	</div>
-</section>
-{{ end }}
+{{ range sort .Site.Data.service.software "order" }}
 
-<!-- Optimization Start -->
+{{ partial "service-header.html" . }}
 
-{{ with .Site.Data.service.software.optimization }}
-<section class="service-list section bg-gray" id="optimization">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="section-title text-center">
-					<h2>{{ .title}}</h2>
-					<p>{{ .subtitle}}</p>
-				</div>
-			</div>
-		</div>
+<section class="portfolio-single-page section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+
 		<div class="row">
 			{{ range .features }}
-			<div class="col-md-4">
-				<div class="block">
-					<h4>{{.name}}</h4>
-					<p>{{.block}}</p>
-				</div>
+			<div class="col-md-12">
+				<h4>{{.name}}</h4>
+				<p>
+        		{{ range .items }}
+        			 {{ . }}
+        		{{ end }}
+        		</p>
 			</div>
 			{{end}}
 		</div>
-	</div>
+      </div>
+      <div class="col-md-4">
+        <div class="project-details">
+          <h4>Platform Benefits</h4>
+          <ul>
+          	{{ range .benefits }}
+            <li><span><i class="fa fa-shirtsinbulk "></i> {{ .title}}</span> 
+            	<ul>
+            		{{ range .items }}
+            			<li> {{ . }}</li>
+            		{{ end }}
+            	</ul>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+    
+  </div>
 </section>
 {{ end }}
