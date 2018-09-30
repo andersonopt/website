@@ -15,19 +15,19 @@ platform:
       items:
           - Colloborate with coworkers and others with our frontend that is synced in real-time.
           #- Delegate fine-grained permissions with coworkers and 3rd parties to easily share your work.
-      icon: ion-cube
+      icon: ion-loop
     - name: Specialized Item Resources
       items:
           - Utilize our item resource system that is tailored for energy analysis to create and edit items for use in your workflow.          
-      icon: ion-cube
+      icon: ion-edit
     - name: Workflows and Tasks
       items:
           - Build and run streamlined analysis that easily harnesses the power of the cloud through our workflows and scalable task system.
-      icon: ion-cube    
+      icon: ion-briefcase    
     - name: Data Visualizations
       items:
           - Easily gain intuition on data outputs through our customized visualizations.
-      icon: ion-cube
+      icon: ion-pie-graph
 #Generate clean data visualizations that make it easy to perform advanced analytics and derive valuable insights from your work.       
 
   benefits:
@@ -64,23 +64,23 @@ software:
       - name: Substation and Transmission Line Projects
         items:
             - Quickly identify parcels within a specified distance of relevant electrical infrastructure.
-        icon: ion-cube            
+        icon: ion-android-locate            
       - name: Integrated Data Sources
         items:
             - Utilize our included data sources for grid infrastructure and 3rd party parcel data or bring your own internal data sources.
-        icon: ion-cube            
+        icon: ion-filing            
       - name: Custom Filtering
         items:
             - Easily filter out land parcels based on a variety of criteria such as flood plains and buildable area calculations.
-        icon: ion-cube            
+        icon: ion-funnel            
       - name: Site Layout
         items:
             - Utilize our drawing tools for early stage site layout
-        icon: ion-cube            
+        icon: ion-earth            
       - name: Data Export
         items:
           - Export your finished project in common formats to use in downstream software.
-        icon: ion-cube            
+        icon: ion-ios-download-outline
     benefits:
       - title: Double Siting Capacity
         items:
@@ -103,19 +103,19 @@ software:
       - name: Scenario Analysis
         items:
           - Stop repeating work. Save common analysis processes and apply them to any project with just one click.
-        icon: ion-cube
+        icon: ion-levels
       - name: Parameter Sensitivites
         items:
           - Run analysis on thousands of varying scenarios for a given site producing financial and energy outputs and analysis.
-        icon: ion-cube
+        icon: ion-ios-pulse-strong
       - name: Detailed Solar Array Calculations
         items:
           - Leverage NREL System Advisor Model for calculating detailed solar system operation for a given solar resource input.
-        icon: ion-cube
+        icon: ion-ios-sunny-outline
       - name: Optimized Battery Operation
         items:
           - Utilize optimization software to determine the ideal operation of your battery system.
-        icon: ion-cube
+        icon: ion-battery-charging
     benefits:
       - title: Double Siting Capacity
         items:
@@ -138,22 +138,22 @@ software:
         - name: Innovative Models
           items: 
             - Utilize models uniquely based on the latest optimization modeling research that are built specifically to incorporate modern grid uncertainty.
-          icon: ion-cube
+          icon: ion-lightbulb
 
         - name: Ideal Energy Storage
           items: 
             - Determine optimzed storage locations, sizes, and dispatch schedules as well as accurate asset valuations that properly incorporate ancillary benefits.
-          icon: ion-cube
+          icon: ion-battery-charging
 
         - name: Renewable Congestion & LMP
           items: 
             - Identify detrimental pricing and grid congestion impacts of any project and automatically receive solutions to overcome constraints.
-          icon: ion-cube
+          icon: ion-arrow-graph-down-right
 
         - name: Resource & Transmission Planning
           items: 
             - Improve long-range planning processes by properly incorporating the impacts of dynamic grid technologies such as renewable generation and storage.          
-          icon: ion-cube
+          icon: ion-clipboard
     benefits:
       - title: Accurate Valuation
         items:

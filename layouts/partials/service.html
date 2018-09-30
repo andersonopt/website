@@ -77,20 +77,21 @@
       <div class="col-md-12">
         <div class="project-details">
           <h4>Software Benefits</h4>
+            <div class="row">
+              {{ range .benefits }}
+              <div class="col-md-4">
+                <h5>{{.title}}</h5>
+                {{ range .items}}
+                <p>{{ . }}</p>
+                {{ end }}
+              </div>
+                {{end}}
+            </div>
         </div>
       </div>
     </div>
-    <div class="row">
-      {{ range .benefits }}
-      <div class="col-md-4" style="text-align: left">
-        <h5>{{.title}}</h5>
-        {{ range .items}}
-        <p>{{ . }}</p>
-        {{ end }}
-      </div>
-      {{end}}
-    </div>
   </div>
+
 </section>
 {{ end }}
 
