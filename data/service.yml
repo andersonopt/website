@@ -31,6 +31,10 @@ platform:
 #Generate clean data visualizations that make it easy to perform advanced analytics and derive valuable insights from your work.       
 
   benefits:
+    - title: Easy to Use
+      items:
+        - Clean user interfaces 
+        - Any user can easily perform complex analysis
     - title: Cloud Software
       items:
         - Faster results
@@ -42,9 +46,9 @@ platform:
     - title: Optimization Software
       items:
         - State-of-the-art models and software
-    - title: 3rd Party Integration
+    - title: External Integration
       items:
-        - Seamless external system integration
+        - Seamless external system and data integration
   button:
     url:  service/#platform
     caption: Learn More  
