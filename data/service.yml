@@ -13,39 +13,38 @@ platform:
   features:
     - name: Interactive Platform
       items:
-          - Colloborate with coworkers and others with our frontend that is synced in real-time.
+          - Real-time updates and synchronization for simplistic team collaboration.
           #- Delegate fine-grained permissions with coworkers and 3rd parties to easily share your work.
       icon: ion-loop
     - name: Specialized Item Resources
       items:
           - Utilize our item resource system that is tailored for energy analysis to create and edit items for use in your workflow.          
       icon: ion-edit
-    - name: Workflows and Tasks
+    - name: Extensible Features 
       items:
-          - Build and run streamlined analysis that easily harnesses the power of the cloud through our workflows and scalable task system.
+          - Create new features and streamlined analysis to best meet user needs using a flexible task system.
       icon: ion-briefcase    
     - name: Data Visualizations
       items:
-          - Easily gain intuition on data outputs through our customized visualizations.
+          - Customized visualizations make it easy for any user to gain valuable insights.
       icon: ion-pie-graph
 #Generate clean data visualizations that make it easy to perform advanced analytics and derive valuable insights from your work.       
 
   benefits:
     - title: Cloud Software
       items:
-        - Scale computational resources
-        - Improved Colloboration
-        - Not encumbered by legacy software
+        - Faster results
+        - Minimal internal software management
 #Harness the scalable computing power of the cloud to perform mass simulations faster and with higher levels of detail than on-premise solutions.            
     - title: Customization
       items:
-        - Built from ground up for flexible and integrated workflows
+        - Flexible infrastructure for rapid feature creation
     - title: Optimization Software
       items:
-        - Leverages state of the art commercial software
+        - State-of-the-art models and software
     - title: 3rd Party Integration
       items:
-        - Seamless integration with 3rd party data sources and analysis
+        - Seamless external system integration
   button:
     url:  service/#platform
     caption: Learn More  
@@ -60,31 +59,33 @@ software:
     scale: Scan 100s of thousands of sites
     description: >
       Identify quality land for new sites in a matter minutes using a variety of data and proprietary automation capabilities.
-    features:
-      - name: Substation and Transmission Line Projects
-        items:
-            - Quickly identify parcels within a specified distance of relevant electrical infrastructure.
-        icon: ion-android-locate            
+    features:          
       - name: Integrated Data Sources
         items:
-            - Utilize our included data sources for grid infrastructure and 3rd party parcel data or bring your own internal data sources.
-        icon: ion-filing            
-      - name: Custom Filtering
+            - Quality substation, line, GIS, and parcel necessary for siting consolidated in a central location.
+        icon: ion-filing   
+      - name: Automation & Filters
         items:
-            - Easily filter out land parcels based on a variety of criteria such as flood plains and buildable area calculations.
-        icon: ion-funnel            
+            - Automatically identify parcels nearby substations or lines, and instantly remove land with environmental constraints.
+        icon: ion-android-locate                   
       - name: Site Layout
         items:
-            - Utilize our drawing tools for early stage site layout
+            - Rapidly map site constraints and perform early-stage design work to automatically determine buildable
         icon: ion-earth            
       - name: Data Export
         items:
-          - Export your finished project in common formats to use in downstream software.
+          - Export your your work to use in downstream landowner outreach and design processes.
         icon: ion-ios-download-outline
     benefits:
-      - title: Double Siting Capacity
+      - title: Increase Capacity
         items:
-          - Identify quality land for renewable development in just a few clicks
+          - Capacity and throughput typically increase by 2X-4X per user.
+      - title: Reduce Non-Value-Added Work
+        items:
+          - Consolidation eliminates wasted effort sifting through disparate files and applications        
+      - title: Cost savings
+        items:
+          - Reduces need for external land consultants
     order: 1
     button:
       url:  service/#siting
@@ -106,20 +107,27 @@ software:
         icon: ion-levels
       - name: Parameter Sensitivites
         items:
-          - Run analysis on thousands of varying scenarios for a given site producing financial and energy outputs and analysis.
+          - Run analysis on thousands of varying scenarios to generate robust financial and energy output for analysis.
         icon: ion-ios-pulse-strong
       - name: Detailed Solar Array Calculations
         items:
-          - Leverage NREL System Advisor Model for calculating detailed solar system operation for a given solar resource input.
+          - Calculate detailed solar array operations data for given resource inputs.
         icon: ion-ios-sunny-outline
       - name: Optimized Battery Operation
         items:
           - Utilize optimization software to determine the ideal operation of your battery system.
         icon: ion-battery-charging
     benefits:
-      - title: Double Siting Capacity
+      - title: Optimized Projects
         items:
-          - Identify quality land for renewable development in just a few clicks
+          - Scenarios ensure optimal project specifications to maximize return.
+      - title: Rapid Analysis
+        items: 
+          - Setup thousands of scenarios and apply consistent workflows with just one click.    
+      - title: Cost Savings
+        items: 
+          - Eliminate costs for site valuation consultants and additional sensitivity analysis.
+
     order: 2
     button:
       url:  service/#analysis
@@ -137,12 +145,12 @@ software:
     features:
         - name: Innovative Models
           items: 
-            - Utilize models uniquely based on the latest optimization modeling research that are built specifically to incorporate modern grid uncertainty.
+            - Utilize models based on the latest optimization modeling research that are built specifically to incorporate modern grid uncertainty.
           icon: ion-lightbulb
 
         - name: Ideal Energy Storage
           items: 
-            - Determine optimzed storage locations, sizes, and dispatch schedules as well as accurate asset valuations that properly incorporate ancillary benefits.
+            - Determine viability and optimzed storage locations, sizes, and dispatch schedules as well as accurate asset valuations that properly incorporate ancillary benefits.
           icon: ion-battery-charging
 
         - name: Renewable Congestion & LMP
@@ -150,17 +158,17 @@ software:
             - Identify detrimental pricing and grid congestion impacts of any project and automatically receive solutions to overcome constraints.
           icon: ion-arrow-graph-down-right
 
-        - name: Resource & Transmission Planning
+        - name: Planning
           items: 
             - Improve long-range planning processes by properly incorporating the impacts of dynamic grid technologies such as renewable generation and storage.          
           icon: ion-clipboard
     benefits:
-      - title: Accurate Valuation
+      - title: True Valuation
         items:
-          - Incorporate ancillary benefits and price-maker assumptions
-      - title: Energy Storage
+          - Properly incorporate ancillary benefits and price-maker assumptions
+      - title: Empower Internal Analysis
         items:
-          - Determine viability of an energy storage system
+          - Perform analysis historically reserved for external consultants and modeling specialists.
       - title: Renewable Curtailment
         items:
           - Determine potential for curtailment of a renewable site
