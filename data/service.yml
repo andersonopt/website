@@ -16,9 +16,9 @@ platform:
           - Real-time updates and synchronization for simplistic team collaboration.
           #- Delegate fine-grained permissions with coworkers and 3rd parties to easily share your work.
       icon: ion-loop
-    - name: Specialized Item Resources
+    - name: Energy Analysis Specific
       items:
-          - Utilize our item resource system that is tailored for energy analysis to create and edit items for use in your workflow.          
+          - Built directly for the energy industry by including commonly used data and parameters such as grid infrastructure information and time of use rates.          
       icon: ion-edit
     - name: Extensible Features 
       items:
@@ -45,7 +45,7 @@ platform:
         - Flexible infrastructure for rapid feature creation
     - title: Optimization Software
       items:
-        - State-of-the-art models and software
+        - Leverages state-of-the-art optimization models and software
     - title: External Integration
       items:
         - Seamless external system and data integration
