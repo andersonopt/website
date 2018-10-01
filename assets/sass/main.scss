@@ -2,8 +2,8 @@ $primary: #7D919A;
 $primary-grey: #555555;
 $accent: darken(#91D8F7,5%);
 $background: #333333;
-$approach-dark: #202642;
-$approach-light: #1e6a97;
+$feature-dark: #202642;
+$feature-light: #1e6a97;
 
 $background-mix: mix($background, $primary, 10%);
 
@@ -222,7 +222,7 @@ section#feature .container p {
 	color: #DDD !important;
 }
 section#feature:before{
-    background: linear-gradient(to left, $background, $background-mix);
+    background: linear-gradient(to left, $feature-light, $feature-dark);
 
     content:"";
     display: block;
