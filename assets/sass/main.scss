@@ -117,8 +117,7 @@ div.service-item i {
 }
 
 div.service-item:hover{
-	background: $background;
-	opacity: 0.8;
+
 }
 
 
@@ -126,28 +125,28 @@ div.service-item:hover{
 	color: $primary-grey;
 }
 #service div.service-item:hover h2{
-	color: $accent;
+	
 }
 
 #service div.service-item:hover h4{
-	color: $accent;
+	
 }
 
 
 #service div.service-item:hover p{
-	color: $accent;
+	
 }
 
 #service div.service-item  p  a{
 	/*display: none;*/
-	background: $primary-grey;
-	color: $accent;
+
+  background: $accent;  
+  color: white;
 }
 
 #service div.service-item:hover  p  a{
 	display: inline-block;
-	background: $accent;	
-	color: white;
+	
 }
 
 .overlay {
