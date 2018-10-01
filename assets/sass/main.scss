@@ -44,6 +44,7 @@ header .navbar-default .navbar-nav li a:hover {
     font-family: 'Volkhov', serif;
     font-style: italic;
 }
+
 /* Colors */
 
 .bg-primary {
@@ -100,8 +101,18 @@ section#call-to-action:before{
 	border-radius:0;
 }
 
+#call-to-action a.btn-call-to-action:hover {
+	background: #DDD;
+	color: $background;
+	border-radius:0;
+}
+
 a.btn.btn-main {
 	background: $accent;
+}
+
+a.btn.btn-main:hover {
+	background: $primary-grey;
 }
 
 #contact-form div button.btn.btn-default {
@@ -310,13 +321,13 @@ li.login-button {
   color: #7B7B7B;
 }
 
-
-
 .service-arrow .block p {
   color: #fff;
 }
 
-
+#contact-form div button.btn.btn-default:hover {
+	background-color: $primary-grey
+}
 
 
 /* Util */
