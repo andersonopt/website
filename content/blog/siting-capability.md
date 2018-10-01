@@ -3,7 +3,7 @@ title = "Renewable Siting Automation"
 date = "2017-05-10T13:07:31+02:00"
 tags = ["renewable-siting", "solar-development", "GIS", "prospecting", "automation", "software", "renewable-energy"]
 categories = ["Siting"]
-image = "img/blog/siting-capability-3.jpg"
+image = "img/blog/siting-capability-list.png"
 author = "Jake Anderson"
 +++
 
@@ -40,7 +40,8 @@ While there is value in simply providing and consolidating data, we have built a
 
 Users begin by automatically identifying all land parcels of a certain size that are within a certain radius of a substation with just one click. 
 
-![Parcels and Substation](img/blog/siting-capability-3.jpg "Parcels Nearby Substation")
+![Parcels and Substation](/img/blog/siting-capability-3.jpg "Parcels Nearby Substation")
+
 
 #### Custom Filters 
 

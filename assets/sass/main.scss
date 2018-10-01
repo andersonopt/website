@@ -271,6 +271,8 @@ li.login-button {
 	border-style: solid;
 }
 
+
+
 /* Service */
 .service-arrow .block {
   padding: 70px 30px;
@@ -282,6 +284,15 @@ li.login-button {
 
 .service-arrow .block p {
   color: #fff;
+}
+
+.service-arrow .row [class*="col-"] {
+  flex-grow: 1;
+}
+
+.service-arrow .row {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .bg-gray {
@@ -298,14 +309,7 @@ li.login-button {
   color: #7B7B7B;
 }
 
-/* Service */
-.service-arrow .block {
-  padding: 70px 30px;
-}
 
-.service-arrow .block i {
-  font-size: 40px;
-}
 
 .service-arrow .block p {
   color: #fff;
@@ -320,3 +324,4 @@ li.login-button {
 .text-align-center {
 	text-align: center;
 }
+

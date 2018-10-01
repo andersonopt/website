@@ -3,6 +3,7 @@ baseURL = "https://website.andersonopt.com/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
+
 [menu]
 
   [[menu.header]]
@@ -60,7 +61,7 @@ category = "categories"
   [params.wrapper]
     enable = true
     title = "Our Approach"
-    italic = "We utilize over a decade of cutting-edge power system modeling and optimization research and industry experience to deliver the best solution to every customer."
+    italic = "We utilize robust experience in the power system modeling and optimization research community and industry to deliver cutting-edge solutions to every customer."
     paragraph = "We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our complementary consultative services further ensure that clients attain maximum value from our software."    
     [params.wrapper.button]
       caption = "About Us"
