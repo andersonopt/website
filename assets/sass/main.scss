@@ -2,8 +2,8 @@ $primary: #7D919A;
 $primary-grey: #555555;
 $accent: darken(#91D8F7,5%);
 $background: #333333;
-$call-dark: #202642;
-$call-light: #1e6a97;
+$approach-dark: #202642;
+$approach-light: #1e6a97;
 
 $background-mix: mix($background, $primary, 10%);
 
@@ -222,7 +222,7 @@ section#feature .container p {
 	color: #DDD !important;
 }
 section#feature:before{
-    background: linear-gradient(to left, $call-light, $call-dark);
+    background: linear-gradient(to left, $background, $background-mix);
 
     content:"";
     display: block;
@@ -329,6 +329,11 @@ li.login-button {
 	background-color: $primary-grey
 }
 
+.clients-logo-img img {
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+}
 
 /* Util */
 
