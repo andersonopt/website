@@ -1,4 +1,5 @@
 $primary: #7D919A;
+$primary-grey: #555555;
 $accent: darken(#91D8F7,5%);
 $background: #333333;
 
@@ -26,8 +27,8 @@ header .navbar-default .navbar-nav li a {
 
 header .navbar-default .navbar-nav li a:hover {
 	background-color: $background;
-	opacity: 0.2;
-	color: #DDD;
+	opacity: 0.8;
+	color: $accent;
 }
 
 /* Header */
@@ -50,6 +51,12 @@ header .navbar-default .navbar-nav li a:hover {
 }
 
 /*  Overlays and Buttons  */
+
+a.btn.btn-main {
+	text-transform: none;
+	font-weight: 600;
+}
+
 #slider {
   background: url("../img/slider-bg.jpg") no-repeat;
 	background-attachment: fixed;
@@ -70,8 +77,27 @@ section#global-header:before{
     background: linear-gradient(to left, $background, $background-mix);
 }
 
+section#global-header h1 {
+}
+
+section#global-header i {
+    font-size: 60px;
+}
+
+section#call-to-action {
+    background: url("../img/transmission-sunrise-bg.jpg") no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
 section#call-to-action:before{
     background: linear-gradient(to left, $background, $background-mix);
+}
+
+#call-to-action a.btn-call-to-action {
+	background: $accent;
+	color: white;
+	border-radius:0;
 }
 
 a.btn.btn-main {
@@ -82,8 +108,47 @@ a.btn.btn-main {
 	background: $accent;
 }
 
+
+#service div.service-item {
+	padding-left: 5px;
+	padding-right: 5px;
+}
 div.service-item i {
 	color: $accent !important
+}
+
+div.service-item:hover{
+	background: $background;
+	opacity: 0.8;
+}
+
+
+#service div.service-item h2{
+	color: $primary-grey;
+}
+#service div.service-item:hover h2{
+	color: $accent;
+}
+
+#service div.service-item:hover h4{
+	color: $accent;
+}
+
+
+#service div.service-item:hover p{
+	color: $accent;
+}
+
+#service div.service-item  p  a{
+	/*display: none;*/
+	background: $primary-grey;
+	color: $accent;
+}
+
+#service div.service-item:hover  p  a{
+	display: inline-block;
+	background: $accent;	
+	color: white;
 }
 
 .overlay {
@@ -104,8 +169,29 @@ div.service-item i {
 	opacity: 0;
 }
 
+.service-feature {
+	text-align: center;
+
+}
+.service-feature i {
+	font-size: 45px;
+	color: $accent;
+	margin-bottom: 30px;
+}
+.service-feature h4 {
+	color: $primary-grey;
+}
 
 
+
+/*.service-arrow .row [class*="col-"] {
+  flex-grow: 1;
+}
+
+.service-arrow .row {
+  display: flex;
+  flex-wrap: wrap;
+}*/
 
 /*  Index Feature Page  */
 
@@ -222,6 +308,13 @@ li.login-button {
 .service-list .block p {
   color: #7B7B7B;
 }
+
+
+
+.service-arrow .block p {
+  color: #fff;
+}
+
 
 
 

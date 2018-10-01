@@ -1,46 +1,54 @@
 {{ partial "global-header.html" . }}
 <!-- Wrapper Start -->
+{{ with .Site.Data.about.us.eric}}
 <section id="intro">
   <div class="container">
     <div class="row">
       <div class="col-md-7 col-sm-12">
         <div class="block">
           <div class="section-title">
-            <h2>{{ .Site.Params.about.name1 }}</h2>
-            <p>{{ .Site.Params.about.role1 }}</p>
+            <h2>{{ .name }}</h2>
+            <p>{{ .role }}</p>
           </div>
-          <p>{{ .Site.Params.about.bio1 }}</p>
+          <!-- <p>{{ .bio }}</p> -->
+          {{ range .extendedbio }}
+            <p>{{.}}</p>
+          {{ end }}
         </div>
       </div><!-- .col-md-7 close -->
       <div class="col-md-5 col-sm-12">
         <div class="block">
-          <img src="{{ .Site.Params.about.headshot1 }}" alt="img">
+          <img src="{{$.Site.BaseURL}}{{ .headshot }}" alt="img">
         </div>
       </div><!-- .col-md-5 close -->
     </div>
   </div>
 </section>
+{{ end }}
 
+
+{{ with .Site.Data.about.us.jake}}
 <section id="intro">
   <div class="container">
     <div class="row">
       <div class="col-md-7 col-sm-12">
         <div class="block">
-          <img src="{{ .Site.Params.about.headshot2 }}"  alt="img" style="width:75%">
+          <img src="{{ $.Site.BaseURL }}{{ .headshot }}"  alt="img" style="width:75%">
         </div>
       </div><!-- .col-md-5 close -->
       <div class="col-md-5 col-sm-12">
         <div class="block">
           <div class="section-title">
-            <h2>{{ .Site.Params.about.name2 }}</h2>
-            <p>{{ .Site.Params.about.role2 }}</p>
+            <h2>{{ .name }}</h2>
+            <p>{{ .role }}</p>
           </div>
-          <p>{{ .Site.Params.about.bio2 }}</p>
+          <p>{{ .bio }}</p>
         </div>
       </div><!-- .col-md-7 close -->
     </div>
   </div>
 </section>
+{{ end }}
 
 <!-- Clients Logo Section Start -->
 {{ with .Site.Data.about.clients }}
@@ -55,7 +63,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <div id="clients-logo" class="owl-carousel">
+          <div id="client-list" class="owl-carousel">
             {{ range .list }}
             <div class="clients-logo-img">
               <a href="{{ .url }}"><img src="{{ $.Site.BaseURL }}{{ .image }}" alt="Features"></a>

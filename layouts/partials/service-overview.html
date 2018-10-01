@@ -10,17 +10,36 @@
       </div>
     </div>
 
+    {{ with .Site.Data.service.platform}}
+    <div class="row">
+      <div class="col-sm-6 col-md-4 col-sm-offset-3 col-md-offset-4">
+        <div class="service-item">
+          <i class="{{ .icon }}"></i>
+          <h2>{{ .product }}</h2>
+          <h4>{{ .category }}</h4>
+          <p>{{ .description }}</p>
+          {{ with .button }}
+          <p>
+              <a href="{{ $.Site.BaseURL }}{{ .url }}" class="btn btn-main">{{ .caption }}</a>
+          </p>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+
     <!-- Content -->
     <div class="row">
-      {{ range sort .Site.Data.service.content "order" }}
+      {{ range sort .Site.Data.service.software "order" }}
       <div class="col-sm-6 col-md-4">
         <div class="service-item">
           <i class="{{ .icon }}"></i>
-          <h4>{{ .name }}</h4>
-          <p>{{ .text }}</p>
+          <h2>{{ .product }}</h2>
+          <h4>{{ .category }}</h4>
+          <p>{{ .description }}</p>
           {{ with .button }}
           <p>
-              <a href="{{ .url }}" class="btn btn-main">{{ .caption }}</a>
+              <a href="{{ $.Site.BaseURL }}{{ .url }}" class="btn btn-main">{{ .caption }}</a>
           </p>
           {{ end }}
         </div>
