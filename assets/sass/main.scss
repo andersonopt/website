@@ -22,6 +22,10 @@ span.navbar-brand  {
 	font-weight: bold;
 }
 
+span.navbar-brand a {
+	color: $primary-grey;
+}
+
 header .navbar-default .navbar-nav li a {
 	
 }
