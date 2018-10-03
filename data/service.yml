@@ -33,19 +33,17 @@ platform:
   benefits:
     - title: Easy to Use
       items:
-        - Clean user interfaces 
-        - Any user can easily perform complex analysis
+        - Anyone can easily perform complex analysis
     - title: Cloud Software
       items:
-        - Faster results
-        - Minimal internal software management
+        - Produce results faster, and minimize internal software management
 #Harness the scalable computing power of the cloud to perform mass simulations faster and with higher levels of detail than on-premise solutions.            
     - title: Customization
       items:
-        - Flexible infrastructure for rapid feature creation
+        - Expedited feature development and rapid integration with existing tools
     - title: Optimization Software
       items:
-        - Leverages state-of-the-art optimization models and software
+        - State-of-the-art optimization models and software provide the most accurate results
     - title: External Integration
       items:
         - Seamless external system and data integration
