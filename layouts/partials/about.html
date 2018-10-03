@@ -11,7 +11,9 @@
             <p>{{ .role }}</p>
           </div>
           <div class="social">
+            <a href="{{.link}}">
             <i class="{{.icon}}"></i><span>{{ .email }}</span>
+            </a>
           </div>
           <!-- <p>{{ .bio }}</p> -->
           {{ range .extendedbio }}
@@ -46,7 +48,9 @@
             <p>{{ .role }}</p>
           </div>
           <div class="social">
+            <a href="{{.link}}">
             <i class="{{.icon}}"></i><span>{{ .email }}</span>
+            </a>
           </div>
           {{ range .extendedbio }}
             <p>{{.}}</p>
