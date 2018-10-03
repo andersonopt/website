@@ -13,7 +13,7 @@ platform:
   features:
     - name: Interactive Platform
       items:
-          - Real-time updates and synchronization for seamless team collaboration.
+          - Real-time updates and synchronization allow for seamless team collaboration.
           #- Delegate fine-grained permissions with coworkers and 3rd parties to easily share your work.
       icon: ion-loop
     - name: Energy Analysis Specific
