@@ -13,7 +13,7 @@ platform:
   features:
     - name: Interactive Platform
       items:
-          - Real-time updates and synchronization for simplistic team collaboration.
+          - Real-time updates and synchronization for seamless team collaboration.
           #- Delegate fine-grained permissions with coworkers and 3rd parties to easily share your work.
       icon: ion-loop
     - name: Energy Analysis Specific
@@ -78,7 +78,7 @@ software:
         icon: ion-earth            
       - name: Data Export
         items:
-          - Export your your work to use in downstream landowner outreach and design processes.
+          - Export work to use in downstream landowner outreach and design processes.
         icon: ion-ios-download-outline
     benefits:
       - title: Increase Capacity
@@ -109,7 +109,7 @@ software:
         items:
           - Stop repeating work. Save common analysis processes and apply them to any project with just one click.
         icon: ion-levels
-      - name: Parameter Sensitivites
+      - name: Parameter Sensitivities
         items:
           - Run analysis on thousands of varying scenarios to generate robust financial and energy output for analysis.
         icon: ion-ios-pulse-strong
@@ -154,7 +154,7 @@ software:
 
         - name: Ideal Energy Storage
           items: 
-            - Determine viability and optimzed storage locations, sizes, and dispatch schedules as well as accurate asset valuations that properly incorporate ancillary benefits.
+            - Determine viability and optimized storage locations, sizes, and dispatch schedules as well as accurate asset valuations that properly incorporate ancillary benefits.
           icon: ion-battery-charging
 
         - name: Renewable Congestion & LMP

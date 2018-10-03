@@ -56,13 +56,13 @@ category = "categories"
   [params.slider]
     enable = true
     title = "Power System Modeling & Optimization"
-    subtitle = "Novel renewable siting and grid modeling software that delivers results faster and more accurately than traditional solutions."
+    subtitle = "Renewable siting and grid modeling software that delivers results faster and more accurately than traditional solutions."
 
   [params.wrapper]
     enable = true
     title = "Our Approach"
-    italic = "We utilize robust experience in the power system modeling and optimization research community and industry to deliver cutting-edge solutions to every customer."
-    paragraph = "We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our complementary consultative services further ensure that clients attain maximum value from our software."    
+    italic = "We utilize over a decade of cutting-edge power system modeling, optimization research, and industry experience to deliver the best solution to every customer."
+    paragraph = "We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our additional consultative services further ensure that clients attain maximum value from our software."    
     [params.wrapper.button]
       caption = "About Us"
       url = "about/"
@@ -78,9 +78,9 @@ category = "categories"
     bullet1 = "Enhanced Modeling Capabilities"
     content1 = "Utilize the latest optimization research to properly model modern energy grids with significant uncertainty from renewables and storage unlike other modeling tools built for stable, historical power systems."
     bullet2 = "Cloud-Based Software"
-    content2 = "Scalable computing power to run more simulations and generate results faster."
+    content2 = "Attain scalable computing power to run more simulations and produce results faster."
     bullet3 = "Data Visualization"
-    content3 = "Clear data visualizations make results more accessible to a broader base of users so that anyone can quickly gain valuable insights."
+    content3 = "Generate clear data visualizations make results more accessible to a broader base of users so that anyone can quickly gain valuable insights."
     bullet4 = "Scenario Analysis"
     content4 = "Easily simulate any number of scenarios to determine the value and optimal strategies for any project."
 
@@ -88,7 +88,7 @@ category = "categories"
   [params.call]
     enable = true
     title = "Optimize Your Business."
-    paragraph = "No matter your situation, we'd love to hear from you. With our exceptional technical experience, we are confident that we can deliver a solution that best meets your needs."
+    paragraph = "No matter your situation, we'd love to hear from you. We are confident that our team of experts can deliver the solution that best meets your needs."
     [params.call.button]
       caption = "Contact Us"
       url = "contact"
