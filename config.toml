@@ -75,19 +75,22 @@ category = "categories"
   [params.feature]
     enable = true
     title = "Why Anderson Optimization?"
-    bullet1 = "Enhanced Modeling Capabilities"
-    content1 = "Utilize the latest optimization research to properly model modern energy grids with significant uncertainty from renewables and storage unlike other modeling tools built for stable, historical power systems."
-    bullet2 = "Cloud-Based Software"
-    content2 = "Attain scalable computing power to run more simulations and produce results faster."
+    bullet1 = "Enhanced Models"
+    content1 = "Utilize models designed specifically to analyze modern grids with renewables and storage to generate more accurate results than competing tools that use dated models designed for unrealistic legacy grids."
+    bullet2 = "Cloud Computing"
+    content2 = "Attain scalable computing power to run thousands of simulations in minutes rather than a handful in hours with other solutions."
     bullet3 = "Data Visualization"
-    content3 = "Generate clear data visualizations that make results more accessible to a broader base of users so that anyone can quickly gain valuable insights."
+    content3 = "Create clear data visualizations that make it easy for anyone to quickly gain valuable insights instead of digging through unrefined technical output of other software."
     bullet4 = "Scenario Analysis"
-    content4 = "Easily simulate any number of scenarios to determine the value and optimal strategies for any project."
+    content4 = "Automatically create thousands of simulation scenarios to easily determine a project's optimal value and strategies instead of manually crafting each potential outcome."
+    bullet5 = "Results"
+    content5 = "Save time and increase your project analysis and development return on investment."
+
 
 
   [params.call]
     enable = true
-    title = "Optimize Your Business."
+    title = "Optimize Your Business. Increase Project Value."
     paragraph = "No matter your situation, we'd love to hear from you. We are confident that our team of experts can deliver the solution that best meets your needs."
     [params.call.button]
       caption = "Contact Us"
