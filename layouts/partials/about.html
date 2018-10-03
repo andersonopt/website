@@ -10,6 +10,9 @@
             <h2>{{ .name }}</h2>
             <p>{{ .role }}</p>
           </div>
+          <div class="social">
+            <i class="{{.icon}}"></i><span>{{ .email }}</span>
+          </div>
           <!-- <p>{{ .bio }}</p> -->
           {{ range .extendedbio }}
             <p>{{.}}</p>
@@ -41,6 +44,9 @@
           <div class="section-title">
             <h2>{{ .name }}</h2>
             <p>{{ .role }}</p>
+          </div>
+          <div class="social">
+            <i class="{{.icon}}"></i><span>{{ .email }}</span>
           </div>
           {{ range .extendedbio }}
             <p>{{.}}</p>

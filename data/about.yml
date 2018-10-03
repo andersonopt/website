@@ -7,6 +7,9 @@ us:
     name: Eric Anderson, Ph.D.
     role: Head of Technology
     headshot: img/eric-headshot.jpg
+    icon: ion-social-linkedin
+    link: https://www.linkedin.com/in/ericjamesanderson4/
+    email: eric@andersonopt.com
     bio: >
       Eric earned his BS in Math, Science and Physics, Masters of Engineering 
       and Doctorate of Industrial Engineering from the University of Wisconsin, Madison.
@@ -37,6 +40,9 @@ us:
     name: Jake Anderson
     role: Head of Business
     headshot: img/jake-headshot.jpg
+    icon: ion-social-linkedin
+    link: https://www.linkedin.com/in/jakebanderson321/ 
+    email: jake@andersonopt.com   
     bio: >
         Jake earned his BSB in Finance and Entrepreneurial Management with a 
         minor in Information System Management from the Carlson School of Management
