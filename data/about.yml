@@ -90,3 +90,9 @@ clients:
       url: "https://www.baywa-re.com/en/"
     - image: "img/clients/propel-logo-sized.png"
       url: "https://propelenergytech.com/"
+    - image: "img/clients/esig-logo-sized.png"
+      url: "https://www.esig.energy/"
+    - image: "img/clients/ases-logo-sized.png"
+      url: https://www.ases.org/
+    - image: "img/clients/coseia-logo-sized.png"
+      url: https://coseia.org/
