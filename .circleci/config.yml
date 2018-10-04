@@ -53,7 +53,7 @@ jobs:
       # build with Hugo
       - run: 
           command: |
-            BASE_URL="https://website.andersonoptimization.com/"
+            BASE_URL="https://andersonoptimization.com/"
             BRANCH_URL="http://website.andersonopt.com.s3-website-us-west-2.amazonaws.com/${CIRCLE_BRANCH}/"
             sed -i "s,$BASE_URL,$BRANCH_URL," config.toml
             HUGO_ENV=production hugo -v -d $HUGO_BRANCH_BUILD_DIR
