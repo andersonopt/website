@@ -1,78 +1,104 @@
 {{ partial "global-header.html" . }}
 
-<!-- {{ partial "service-overview.html" . }} -->
+{{ partial "service-overview.html" . }}
 
-<!-- Renewable Prospecting Start -->
+{{ partial "service-header.html" .Site.Data.service.platform }}
 
-{{ with .Site.Data.service.content.prospect }}
-<section class="service-about section" id="siting">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-6">
-				<h2>{{.title}}</h2>
-				{{ range .content.benefits }}
-				<p class="mt-30">{{ . }}</p>
-				{{ end }}
-			</div> 
-			<div class="col-md-6">
-				<img class="img-responsive" src="{{$.Site.BaseURL}}{{.content.image}}">
-				<div class="overlay"></div>
-			</div>			   
-		</div>
-	</div>
+{{ with .Site.Data.service.platform }}
+<section class="portfolio-single-page section-sm">
+  <div class="container" style="padding-bottom: 30px">
+    <div class="row">
+      <div class="col-md-12">
+    		<div class="row">
+    			{{ range .features }}
+    			<div class="col-md-3 service-feature">
+            <i class="{{ .icon }}"></i>
+    				<h4>{{.name}}</h4>
+    				<p>
+            		{{ range .items }}
+            			 {{ . }}
+            		{{ end }}
+            		</p>
+    			</div>
+    			{{end}}
+    		</div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="container bg-gray">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="project-details">
+          <h4>Software Benefits</h4>
+            <div class="row">
+              {{ range .benefits }}
+              <div class="col-md-4">
+                <h5>{{.title}}</h5>
+                {{ range .items}}
+                <p>{{ . }}</p>
+                {{ end }}
+              </div>
+                {{end}}
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </section>
-{{end}}
+{{ end }}
 
-<!-- Site Analysis Start Start -->
-{{ with .Site.Data.service.content.analysis }}
-<section class="service-arrow" id="analysis">
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="section-title text-center">
-					<h2>{{ .title}}</h2>
-					<p>{{ .subtitle}}</p>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-		{{ range .features }}		
-			<div class="col-md-4 bg-primary">
-				<div class="block">
-					<i class="{{.icon}}"></i>
-					<h3>{{.name}}</h3>
-					<p>{{.block}}</p>
-				</div>
-			</div>
-			{{end}}
-		</div>
-	</div>
+
+{{ range sort .Site.Data.service.software "order" }}
+
+{{ partial "service-header.html" . }}
+
+<section class="portfolio-single-page section-sm">
+  <div class="container" style="padding-bottom: 30px">
+    
+    <div class="row">
+      <div class="col-md-12">
+        <div class="row">
+    			{{ range .features }}
+    			<div class="col-md-3 service-feature">
+            <i class="{{ .icon }}"></i>
+            <h4>{{.name}}</h4>
+    				<p>
+            		{{ range .items }}
+            			 {{ . }}
+            		{{ end }}
+            		</p>
+    			</div>
+    			{{end}}
+    		</div>
+      </div>
+    </div> 
+  </div>
+  
+  <div class="container bg-gray">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="project-details">
+          <h4>Software Benefits</h4>
+            <div class="row">
+              {{ range .benefits }}
+              <div class="col-md-4">
+                <h5>{{.title}}</h5>
+                {{ range .items}}
+                <p>{{ . }}</p>
+                {{ end }}
+              </div>
+                {{end}}
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </section>
 {{ end }}
 
-<!-- Optimization Start -->
 
-{{ with .Site.Data.service.content.optimization }}
-<section class="service-list section bg-gray" id="optimization">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="section-title text-center">
-					<h2>{{ .title}}</h2>
-					<p>{{ .subtitle}}</p>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			{{ range .features }}
-			<div class="col-md-4">
-				<div class="block">
-					<h4>{{.name}}</h4>
-					<p>{{.block}}</p>
-				</div>
-			</div>
-			{{end}}
-		</div>
-	</div>
-</section>
-{{ end }}
+

@@ -1,6 +1,9 @@
 $primary: #7D919A;
+$primary-grey: #555555;
 $accent: darken(#91D8F7,5%);
 $background: #333333;
+$feature-dark: #202642;
+$feature-light: #1e6a97;
 
 $background-mix: mix($background, $primary, 10%);
 
@@ -19,14 +22,17 @@ span.navbar-brand  {
 	font-weight: bold;
 }
 
+span.navbar-brand a {
+	color: $primary-grey;
+}
+
 header .navbar-default .navbar-nav li a {
 	
 }
 
 header .navbar-default .navbar-nav li a:hover {
-	background-color: $background;
-	opacity: 0.2;
-	color: #DDD;
+	background-color: #DDD;
+	opacity: 0.8;
 }
 
 /* Header */
@@ -42,6 +48,7 @@ header .navbar-default .navbar-nav li a:hover {
     font-family: 'Volkhov', serif;
     font-style: italic;
 }
+
 /* Colors */
 
 .bg-primary {
@@ -49,6 +56,12 @@ header .navbar-default .navbar-nav li a:hover {
 }
 
 /*  Overlays and Buttons  */
+
+a.btn.btn-main {
+	text-transform: none;
+	font-weight: 600;
+}
+
 #slider {
   background: url("../img/slider-bg.jpg") no-repeat;
 	background-attachment: fixed;
@@ -69,20 +82,89 @@ section#global-header:before{
     background: linear-gradient(to left, $background, $background-mix);
 }
 
+section#global-header h1 {
+}
+
+section#global-header i {
+    font-size: 60px;
+}
+
+section#call-to-action {
+    background: url("../img/transmission-sunrise-bg.jpg") no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
 section#call-to-action:before{
     background: linear-gradient(to left, $background, $background-mix);
+}
+
+#call-to-action a.btn-call-to-action {
+	background: $accent;
+	color: white;
+	border-radius:0;
+}
+
+#call-to-action a.btn-call-to-action:hover {
+	background: #DDD;
+	color: $background;
+	border-radius:0;
 }
 
 a.btn.btn-main {
 	background: $accent;
 }
 
+a.btn.btn-main:hover {
+	background: $primary-grey;
+}
+
 #contact-form div button.btn.btn-default {
 	background: $accent;
 }
 
+
+#service div.service-item {
+	padding-left: 5px;
+	padding-right: 5px;
+}
 div.service-item i {
 	color: $accent !important
+}
+
+div.service-item:hover{
+
+}
+
+
+#service div.service-item h2{
+	
+}
+#service div.service-item:hover h2{
+	
+}
+
+#service div.service-item:hover h4{
+	
+}
+
+
+#service div.service-item:hover p{
+
+}
+
+#service div.service-item  p  a{
+	/*display: none;*/
+
+  background: $accent;  
+  color: white;
+}
+
+#service div.service-item p  a:hover{
+  background: $primary-grey;  
+  color: white;
+	display: inline-block;
+	
 }
 
 .overlay {
@@ -103,8 +185,29 @@ div.service-item i {
 	opacity: 0;
 }
 
+.service-feature {
+	text-align: center;
+
+}
+.service-feature i {
+	font-size: 45px;
+	color: $accent;
+	margin-bottom: 30px;
+}
+.service-feature h4 {
+	color: $primary-grey;
+}
 
 
+
+/*.service-arrow .row [class*="col-"] {
+  flex-grow: 1;
+}
+
+.service-arrow .row {
+  display: flex;
+  flex-wrap: wrap;
+}*/
 
 /*  Index Feature Page  */
 
@@ -123,7 +226,7 @@ section#feature .container p {
 	color: #DDD !important;
 }
 section#feature:before{
-    background: linear-gradient(to left, $background,$background-mix);
+    background: linear-gradient(to left, $feature-light, $feature-dark);
 
     content:"";
     display: block;
@@ -153,6 +256,16 @@ section#feature .container p {
 }
 
 /* About */
+
+.social span{
+	color: #7B7B7B;
+}
+.social i{
+    margin-right: 15px;
+    font-size: 20px;
+    width: 20px;
+		color: $accent;
+}
 
 
 
@@ -184,6 +297,8 @@ li.login-button {
 	border-style: solid;
 }
 
+
+
 /* Service */
 .service-arrow .block {
   padding: 70px 30px;
@@ -195,6 +310,15 @@ li.login-button {
 
 .service-arrow .block p {
   color: #fff;
+}
+
+.service-arrow .row [class*="col-"] {
+  flex-grow: 1;
+}
+
+.service-arrow .row {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .bg-gray {
@@ -211,21 +335,25 @@ li.login-button {
   color: #7B7B7B;
 }
 
-/* Service */
-.service-arrow .block {
-  padding: 70px 30px;
-}
-
-.service-arrow .block i {
-  font-size: 40px;
-}
-
 .service-arrow .block p {
   color: #fff;
 }
+
+#contact-form div button.btn.btn-default:hover {
+	background-color: $primary-grey
+}
+
+/* Logo */
+
+section#clients-logo-section{
+	padding-top: 95px;
+	padding-bottom: 5px;
+}
+
 /* Util */
 
 
 .text-align-center {
 	text-align: center;
 }
+

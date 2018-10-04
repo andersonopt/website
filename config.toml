@@ -1,13 +1,14 @@
 title = "Anderson Optimization"
-baseURL = "https://website.andersonopt.com/"
+baseURL = "https://website.andersonoptimization.com/"
 languageCode = "en-us"
 theme = "airspace-hugo"
+
 
 [menu]
 
   [[menu.header]]
     weight = 2
-    name = "Services"
+    name = "Solutions"
     url = "/service"
     class = "test"
   [[menu.header]]
@@ -55,16 +56,16 @@ category = "categories"
   [params.slider]
     enable = true
     title = "Power System Modeling & Optimization"
-    subtitle = "Novel renewable siting and grid modeling software that delivers results faster and more accurately than traditional solutions."
+    subtitle = "Renewable siting and grid modeling software that delivers results faster and more accurately than traditional solutions."
 
   [params.wrapper]
     enable = true
     title = "Our Approach"
-    italic = "We utilize over a decade of cutting-edge power system modeling and optimization research and industry experience to deliver the best solution to every customer."
-    paragraph = "We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our complementary consultative services further ensure that clients attain maximum value from our software."    
+    italic = "We utilize over a decade of cutting-edge power system modeling, optimization research, and industry experience to deliver the best solution to every customer."
+    paragraph = "We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our additional consultative services further ensure that clients attain maximum value from our software."    
     [params.wrapper.button]
       caption = "About Us"
-      url = "/about/"
+      url = "about/"
 
   [params.blog]
     enable = true
@@ -74,24 +75,27 @@ category = "categories"
   [params.feature]
     enable = true
     title = "Why Anderson Optimization?"
-    bullet1 = "Enhanced Modeling Capabilities"
-    content1 = "Utilize the latest optimization research to properly model modern energy grids with significant uncertainty from renewables and storage unlike other modeling tools built for stable, historical power systems."
-    bullet2 = "Cloud-Based Software"
-    content2 = "Scalable computing power to run more simulations and generate results faster."
+    bullet1 = "Enhanced Models"
+    content1 = "Utilize models designed specifically to analyze modern grids with renewables and storage to generate more accurate results than competing tools that use dated models designed for unrealistic legacy grids."
+    bullet2 = "Cloud Computing"
+    content2 = "Attain scalable computing power to run thousands of simulations in minutes rather than a handful in hours with other solutions."
     bullet3 = "Data Visualization"
-    content3 = "Clear data visualizations make results more accessible to a broader base of users so that anyone can quickly gain valuable insights."
+    content3 = "Create clear data visualizations that make it easy for anyone to quickly gain valuable insights instead of digging through unrefined technical output of other software."
     bullet4 = "Scenario Analysis"
-    content4 = "Easily simulate any number of scenarios to determine the value and optimal strategies for any project."
+    content4 = "Automatically create thousands of simulation scenarios to easily determine a project's optimal value and strategies instead of manually crafting each potential outcome."
+    bullet5 = "Results"
+    content5 = "Save time and increase your project analysis and development return on investment."
+
 
 
   [params.call]
     enable = true
-    title = "Optimize Your Business."
-    paragraph = "No matter your situation, we'd love to hear from you. With our exceptional technical experience, we are confident that we can deliver a solution that best meets your needs."
+    title = "Optimize Your Business. Increase Your Returns."
+    paragraph = "No matter your situation, we'd love to hear from you. We are confident that our team of experts can deliver the solution that best meets your needs."
     [params.call.button]
-      caption = "Reach Out"
-      url = "/contact"
-      text = "Reach Out"
+      caption = "Contact Us"
+      url = "contact"
+      text = "Contact Us"
 
 
   [params.contact]
@@ -112,15 +116,3 @@ category = "categories"
       phone = "Phone: 612 719 5173"
     [params.contact.gmaps]
       title = "Boulder Location"
-
-  [params.about]
-    enable = true
-    name1 = "Eric Anderson, Ph.D."
-    role1 = "Head of Technology"
-    bio1 = "Eric obtained his Ph.D in Industrial Engineering in 2015 for his research in power system modeling and optimization. His research was focused on modeling uncertainty due to renewable generation and large scale computational experiments. After attaining his degree, he worked for a production cost modeling firm, Ascend Analytics, where he gained experience building production cost models incorporating the complexities of modern systems with renewable generation, complicated river and dam systems, energy storage, and uncertainty. At Anderson Optimization, Eric oversees all modeling, optimization, and software development initiatives as well as any other technical tasks."   
-    name2 = "Jake Anderson"
-    role2 = "Head of Business"
-    headshot1 = "/img/eric-headshot.jpg"
-    bio2 = "Jake comes from a Fortune 500 corporate finance background. During this time, Jake led a wide variety of project teams across numerous operating units. He consistently managed $100MM+ P&Ls and provided valuable strategic leadership to help meet corporate goals. He previously attained degrees in Finance and Entrepreneurial Management with a minor focus in Information System Management. Jake oversees all business management and sales activities for Anderson Optimization."
-    headshot2 = "/img/jake-headshot.jpg"
-    

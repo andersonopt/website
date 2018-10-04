@@ -1,90 +1,180 @@
 enable: true
-title: Our Services
+title: Software & Solutions
 subtitle: >
-  Premium software solutions that optimize site identification, project analysis, and grid modeling processes for renewable developers, utilities, and other energy industry stakeholders. 
-content:
+  Advanced software solutions that optimize site identification, project analysis, and grid modeling activities for renewable developers, utilities, and other energy industry stakeholders. 
+
+
+platform:
+  icon: ion-cube
+  id: platform
+  product: AO Platform
+  category: Energy Analysis Platform
+  description: A powerful software platform built on the cloud capable of performing flexible and integrated energy analysis workflows.
+  features:
+    - name: Interactive Platform
+      items:
+          - Real-time updates and synchronization allow for seamless team collaboration.
+          #- Delegate fine-grained permissions with coworkers and 3rd parties to easily share your work.
+      icon: ion-loop
+    - name: Energy Analysis Specific
+      items:
+          - Built directly for the energy industry by including commonly used data and parameters such as grid infrastructure information and time of use rates.          
+      icon: ion-edit
+    - name: Extensible Features 
+      items:
+          - Create new features and streamlined analysis to best meet user needs using a flexible task system.
+      icon: ion-briefcase    
+    - name: Data Visualizations
+      items:
+          - Customized visualizations make it easy for any user to gain valuable insights.
+      icon: ion-pie-graph
+#Generate clean data visualizations that make it easy to perform advanced analytics and derive valuable insights from your work.       
+
+  benefits:
+    - title: Easy to Use
+      items:
+        - Anyone can easily perform complex analysis
+    - title: Cloud Software
+      items:
+        - Produce results faster, and minimize internal software management
+#Harness the scalable computing power of the cloud to perform mass simulations faster and with higher levels of detail than on-premise solutions.            
+    - title: Customization
+      items:
+        - Expedited feature development and rapid integration with existing tools
+    - title: Optimization Software
+      items:
+        - State-of-the-art optimization models and software provide the most accurate results
+    - title: External Integration
+      items:
+        - Seamless external system and data integration
+  button:
+    url:  service/#platform
+    caption: Learn More  
+
+software:
   prospect:
     icon: ion-search
-    name: Renewable Siting
-    title: Renewable Siting Made Easy
-    order: 1
-    text: >
+    id: prospect
+    product: AO Prospect
+    category: Renewable Siting
+    headline: Renewable Siting Made Easy
+    scale: Scan 100s of thousands of sites
+    description: >
       Identify quality land for new sites in a matter minutes using a variety of data and proprietary automation capabilities.
+    features:          
+      - name: Integrated Data Sources
+        items:
+            - Quality substation, line, GIS, and parcel necessary for siting consolidated in a central location.
+        icon: ion-filing   
+      - name: Automation & Filters
+        items:
+            - Automatically identify parcels nearby substations or lines, and instantly remove land with environmental constraints.
+        icon: ion-android-locate                   
+      - name: Site Layout
+        items:
+            - Rapidly map site constraints and perform early-stage design work to automatically determine buildable
+        icon: ion-earth            
+      - name: Data Export
+        items:
+          - Export work to use in downstream landowner outreach and design processes.
+        icon: ion-ios-download-outline
+    benefits:
+      - title: Increase Capacity
+        items:
+          - Capacity and throughput typically increase by 2X-4X per user.
+      - title: Reduce Non-Value-Added Work
+        items:
+          - Consolidation eliminates wasted effort sifting through disparate files and applications        
+      - title: Cost savings
+        items:
+          - Reduces need for external land consultants
+    order: 1
     button:
-      url:  /service/#siting
+      url:  service/#prospect
       caption: Learn More  
-    product:
-      - name: AO Prospect
-    content:
-      benefits:
-        - "Double siting capacity by identifying quality land for renewable development in just a few clicks with AOProspect. AOProspect reduces or eliminates the need for costly, third-party consultants."
-        - "AOProspect includes necessary grid infrastructure, GIS, and parcel data for siting activities. It also includes proprietary automation features that expedite processes such as parcel and substation radius identification, environmental analysis, buildable acreage calculations, and more."
-        - "AOProspect also consolidates data and projects across teams and updates in real-time to reduce non-value-added work spent managing countless files, folders, KMZs, and project versions."
-      image: img/wind-cow.jpg
 
   analysis:
     icon: ion-stats-bars
-    name: Site Feasibility & Valuation
-    title: Site Feasibility & Valuation
-    subtitle: Ensure that your project is optimized to best meet your goals. Automatically simulate projects across all relevant scenarios to determine optimal project strategies.
-    order: 2
-    text: >
+    id: analysis
+    product: AO Site Analysis
+    category: Site Feasibility & Valuation
+    headline: Ensure that your project is optimized to best meet your goals. Automatically simulate projects across all relevant scenarios to determine optimal project strategies.
+    description: >
       Perform automated site analysis to determine the true valuation, ideal technology mix, and optimal parameters for your project.
-    button:
-      url:  /service/#analysis
-      caption: Learn More  
-    product:
-      - name: AO Site Analysis
+    scale: Run scenario analysis on thousands of sites
     features: 
-      - icon: ion-social-usd-outline
-        name: Accurate Valuation
-        block: >
-          Properly incorporate ancillary benefits and price-maker assumptions to determine an accurate, hollistic project valuation.
-        
-      - icon: ion-levels
-        name: Optimized Projects
-        block: >
-          Determine the ideal mix of technologies and project specifications to maximize return and best meet any project goal.
+      - name: Scenario Analysis
+        items:
+          - Stop repeating work. Save common analysis processes and apply them to any project with just one click.
+        icon: ion-levels
+      - name: Parameter Sensitivities
+        items:
+          - Run analysis on thousands of varying scenarios to generate robust financial and energy output for analysis.
+        icon: ion-ios-pulse-strong
+      - name: Detailed Solar Array Calculations
+        items:
+          - Calculate detailed solar array operations data for given resource inputs.
+        icon: ion-ios-sunny-outline
+      - name: Optimized Battery Operation
+        items:
+          - Utilize optimization software to determine the ideal operation of your battery system.
+        icon: ion-battery-charging
+    benefits:
+      - title: Optimized Projects
+        items:
+          - Scenarios ensure optimal project specifications to maximize return.
+      - title: Rapid Analysis
+        items: 
+          - Setup thousands of scenarios and apply consistent workflows with just one click.    
+      - title: Cost Savings
+        items: 
+          - Eliminate costs for site valuation consultants and additional sensitivity analysis.
 
-      - icon: ion-clock
-        name: Rapid Analysis
-        block: >
-          Stop repeating work. Save common analysis processes and apply them to any project with just one click.
+    order: 2
+    button:
+      url:  service/#analysis
+      caption: Learn More  
 
   optimization:
     icon: ion-network
-    name: Grid Modeling & Optimization
-    title: Optimization Modeling
-    subtitle: Stop relying on outside consultants. Harness innovative production cost, capacity expansion, and optimization modeling capabilties.
-    order: 3
-    text: >
+    id: optimization
+    product: AO Energy Markets
+    category: Grid Modeling & Optimization
+    headline: Stop relying on outside consultants. Harness innovative production cost, capacity expansion, and optimization modeling capabilties.
+    description: >
       Utilize cutting-edge production cost and optimization modeling frameworks for injection studies, price & congestion analysis, storage modeling, and more.
-    button:
-      url:  /service/#optimization
-      caption: Learn More  
-    product:
-      - name: AO Energy Markets
+    scale: Energy market simulations on a select number of sites
     features:
         - name: Innovative Models
-          block: >
-            Utilize models uniquely based on the latest optimization modeling research that are built specifically to incorporate modern grid uncertainty.
+          items: 
+            - Utilize models based on the latest optimization modeling research that are built specifically to incorporate modern grid uncertainty.
+          icon: ion-lightbulb
 
-        - name: Storage Analysis
-          block: >
-            Determine optimzed storage locations, sizes, and dispatch schedules as well as accurate asset valuations that properly incorporate ancillary benefits.
+        - name: Ideal Energy Storage
+          items: 
+            - Determine viability and optimized storage locations, sizes, and dispatch schedules as well as accurate asset valuations that properly incorporate ancillary benefits.
+          icon: ion-battery-charging
 
         - name: Renewable Congestion & LMP
-          block: >
-            Identify detrimental pricing and grid congestion impacts of any project and automatically receive solutions to overcome constraints.
+          items: 
+            - Identify detrimental pricing and grid congestion impacts of any project and automatically receive solutions to overcome constraints.
+          icon: ion-arrow-graph-down-right
 
-        - name: Resource & Transmission Planning
-          block: >
-            Improve long-range planning processes by properly incorporating the impacts of dynamic grid technologies such as renewable generation and storage.
-
-        - name: Data Visualization
-          block: >
-            Generate clean data visualizations that make it easy to perform advanced analytics and derive valuable insights from your work.       
-            
-        - name: Cloud Software
-          block: >
-            Harness the scalable computing power of the cloud to perform mass simulations faster and with higher levels of detail than on-premise solutions.
+        - name: Planning
+          items: 
+            - Improve long-range planning processes by properly incorporating the impacts of dynamic grid technologies such as renewable generation and storage.          
+          icon: ion-clipboard
+    benefits:
+      - title: True Valuation
+        items:
+          - Properly incorporate ancillary benefits and price-maker assumptions
+      - title: Empower Internal Analysis
+        items:
+          - Perform analysis historically reserved for external consultants and modeling specialists.
+      - title: Renewable Curtailment
+        items:
+          - Determine potential for curtailment of a renewable site
+    order: 3
+    button:
+      url:  service/#optimization
+      caption: Learn More  

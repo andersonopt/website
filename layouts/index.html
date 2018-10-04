@@ -12,6 +12,8 @@
 	{{ if and (isset .Site.Params "slider") (.Site.Params.slider.enable) }}
 		{{ partial "slider.html" . }}
 	{{ end }}
+
+	<!--{{ partial "logos.html" .}}-->
 	
 	{{ if and .Site.Data.service .Site.Data.service.enable }}
 		{{ partial "service-overview.html" . }}

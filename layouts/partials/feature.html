@@ -19,6 +19,10 @@
         <p>
           {{ .Site.Params.feature.content4 | markdownify }}
         </p>
+        <strong>{{ .Site.Params.feature.bullet5 | markdownify }}</strong>
+        <p>
+          {{ .Site.Params.feature.content5 | markdownify }}
+        </p>
 
         {{ with .Site.Params.feature.button }}
         	<a href="{{ .url }}" class="btn btn-main">{{ .caption }}</a>
