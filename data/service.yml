@@ -60,7 +60,7 @@ software:
     headline: Renewable Siting Made Easy
     scale: Scan 100s of thousands of sites
     description: >
-      Identify quality land for new sites in a matter minutes using a variety of data and proprietary automation capabilities.
+      Identify quality land for new sites in a matter of minutes using a variety of data and proprietary automation capabilities.
     features:          
       - name: Integrated Data Sources
         items:
@@ -142,7 +142,7 @@ software:
     category: Grid Modeling & Optimization
     headline: Stop relying on outside consultants. Harness innovative production cost, capacity expansion, and optimization modeling capabilties.
     description: >
-      Utilize cutting-edge production cost and optimization modeling frameworks for injection studies, price & congestion analysis, storage modeling, and more.
+      Utilize cutting-edge production cost and optimization modeling frameworks for injection studies, price and congestion analysis, storage modeling, and more.
     scale: Energy market simulations on a select number of sites
     features:
         - name: Innovative Models
