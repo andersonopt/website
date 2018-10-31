@@ -76,16 +76,15 @@ category = "categories"
     enable = true
     title = "Why Anderson Optimization?"
     bullet1 = "Enhanced Models"
-    content1 = "Utilize models designed specifically to analyze modern grids with renewables and storage to generate more accurate results than competing tools that use dated models designed for unrealistic legacy grids."
+    content1 = "Institute models created specifically to analyze modern grids with renewables and storage to generate more accurate results than competing tools that use dated models designed for unrealistic legacy grids."
     bullet2 = "Cloud Computing"
-    content2 = "Attain scalable computing power to run thousands of simulations in minutes rather than a handful in hours with other solutions."
+    content2 = "Attain scalable computing power to run thousands of simulations in minutes rather than hours with other solutions."
     bullet3 = "Data Visualization"
-    content3 = "Create clear data visualizations that make it easy for anyone to quickly gain valuable insights instead of digging through unrefined technical output of other software."
+    content3 = "Create clear data visualizations that make it easier to quickly gain valuable insights instead of digging through unrefined technical output of other software."
     bullet4 = "Scenario Analysis"
     content4 = "Automatically create thousands of simulation scenarios to easily determine a project's optimal value and strategies instead of manually crafting each potential outcome."
     bullet5 = "Results"
     content5 = "Save time and increase your project analysis and development return on investment."
-
 
 
   [params.call]
@@ -109,10 +108,7 @@ category = "categories"
       message = "Your message"
       button = "Send message"
     [params.contact.box]
-      title = "Stop by for a visit"
+      title = "Get in touch"
       address = "1877 Broadway, Suite #100, Boulder, CO 80302"
-      email = "Email: jake@andersonopt.com"
-      email2 = "Email: eric@andersonopt.com"
+      email = "Email: info@andersonopt.com"
       phone = "Phone: 612 719 5173"
-    [params.contact.gmaps]
-      title = "Boulder Location"
