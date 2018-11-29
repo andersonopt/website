@@ -3,7 +3,7 @@ title = "Software Strives to Simplify Solar Project Siting"
 date = "2018-01-14T13:07:31+02:00"
 tags = ["renewable-siting", "renewable-energy", "software"]
 categories = ["renewable-energy", "software"]
-image = "img/blog/energy-markets-one-list.jpg"
+image = "img/blog/software-siting-list.jpg"
 author = "Jake Anderson"
 +++
 
