@@ -7,7 +7,7 @@ image = "img/blog/energy-markets-one-list.jpg"
 author = "Jake Anderson"
 +++
 
-### Background</strong>
+### Background
 
 [We previously outlined](../evolving-energy-grid) some of the ways in which new technology is disrupting electricity grids. Microgrid and renewable technologies are two key drivers of this transition.
 
