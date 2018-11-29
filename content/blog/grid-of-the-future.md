@@ -11,8 +11,6 @@ author = "Jake Anderson"
 
 In late 2017, we began discussions with the American Solar Energy Society ([ASES](https://www.ases.org/) about developing an article series focused on the advancement of renewable energy and the implications of a 100% renewable grid.
 
-As renewable energy has increased in prominence and viability, this goal has become less daunting, but there are still significant strides to be made. However, there are still massive hurdles to achieving this ideal.
-
 ASES and we decided it would be valuable to provide a high-level overview of how renewables will proliferate into the future, what a grid of the future looks like, difficulties that renewables create, the technologies to support renewable adoption, and more. 
 
 With that in mind, we welcome you to follow along in the series, and reach out with any questions.
