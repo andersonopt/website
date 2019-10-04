@@ -3,7 +3,7 @@ title = "Energy Markets & Batteries: Part 1"
 date = "2017-07-10T13:07:31+02:00"
 tags = ["ISO", "energy-markets", "utility", "price-signals", "rate-based-pricing"]
 categories = ["energy-storage", "energy-markets"]
-image = "img/blog/energy-markets-one-list.jpg"
+image = "/img/blog/energy-markets-one-list.jpg"
 author = "Jake Anderson"
 +++
 
