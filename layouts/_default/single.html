@@ -11,10 +11,10 @@
 	<section class="post_content">
 		{{ .Content }}
 	</section>
-	<p class="center-text" style="padding: 30px;">
-		<a class="btn btn-main" href= {{ absURL "blog" }}>Back to blog</a>
-	</p>
 </div>
+<p class="center-text" style="padding: 0 30px 30px;">
+	<a class="btn btn-main" href= {{ absURL "blog" }}>Back to blog</a>
+</p>
 
 {{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}
 {{ partial "call-to-action.html" . }}
