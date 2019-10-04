@@ -9,55 +9,44 @@
 <meta name="robots" content="{{ with .Params.robots }}{{ . }}{{ else }}{{ .Site.Params.robots }}{{ end }}">
 {{ end }}
 
-<!-- Place favicon.ico and apple-touch-icon.png in the root directory
-     or place appropriate <link .../> etc in favicon.html partial -->
 {{ partial "favicon.html" . }}
 
 <title>{{ .Title }}</title>
 
-{{ .Hugo.Generator }}
+{{ hugo.Generator }}
 <!-- CSS -->
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/owl.carousel.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/aairspace.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/airspace-local-fonts.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/airspace.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/ionicons.min.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/animate.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/responsive.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/syntax.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/magnific-popup.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/slick.css" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/slick-theme.css" />
+<link rel="stylesheet" href={{ absURL "css/owl.carousel.css" }} />
+<link rel="stylesheet" href={{ absURL "css/bootstrap.min.css" }} />
+<link rel="stylesheet" href={{ absURL "css/font-awesome.min.css" }} />
+<link rel="stylesheet" href={{ absURL "css/aairspace.css" }} />
+<link rel="stylesheet" href={{ absURL "css/airspace-local-fonts.css" }} />
+<link rel="stylesheet" href={{ absURL "css/airspace.css" }} />
+<link rel="stylesheet" href={{ absURL "css/style.css" }} />
+<link rel="stylesheet" href={{ absURL "css/ionicons.min.css" }} />
+<link rel="stylesheet" href={{ absURL "css/animate.css" }} />
+<link rel="stylesheet" href={{ absURL "css/responsive.css" }} />
+<link rel="stylesheet" href={{ absURL "css/syntax.css" }} />
+<link rel="stylesheet" href={{ absURL "css/magnific-popup.css" }} />
+<link rel="stylesheet" href={{ absURL "css/slick.css" }} />
+<link rel="stylesheet" href={{ absURL "css/slick-theme.css" }} />
 
-{{ $style := resources.Get "sass/main.scss"  | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-<link rel="stylesheet" href="{{ $style.Permalink }}">
+{{ $srcPath := "sass/main.scss" }}
+{{- $options := (dict "targetPath" "css/main.css" "outputStyle" "compressed" "enableSourceMap" "true") -}}
+{{- $styles := resources.Get $srcPath | resources.ExecuteAsTemplate $srcPath . | resources.ToCSS $options | resources.Fingerprint "sha512" }}
+<link rel = 'stylesheet' href = '{{ $styles.RelPermalink }}' integrity = '{{ $styles.Data.Integrity }}'>
 
 <!-- Js -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-<script src="{{ .Site.BaseURL }}js/bootstrap.min.js"></script>
-<script src="{{ .Site.BaseURL }}js/owl.carousel.min.js"></script>
-<script src="{{ .Site.BaseURL }}js/plugins.js"></script>
-<script src="{{ .Site.BaseURL }}js/min/waypoints.min.js"></script>
-<script src="{{ .Site.BaseURL }}js/jquery.counterup.js"></script>
-<script src="{{ .Site.BaseURL }}js/jquery.magnific-popup.min.js"></script>
-<script src="{{ .Site.BaseURL }}js/slick.min.js"></script>
+<script>
+  window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')
+</script>
+<script src={{ absURL "js/bootstrap.min.js" }}></script>
+<script src={{ absURL "js/owl.carousel.min.js" }}></script>
+<script src={{ absURL "js/plugins.js" }}></script>
+<script src={{ absURL "js/min/waypoints.min.js" }}></script>
+<script src={{ absURL "js/jquery.counterup.js" }}></script>
+<script src={{ absURL "js/jquery.magnific-popup.min.js" }}></script>
+<script src={{ absURL "js/slick.min.js" }}></script>
 
 
-<script src="{{ .Site.BaseURL }}js/main.js"></script>
-
-<!--
-/*
- * Airspace
- * Ported to Hugo by Giacomo Mariani
- * https://github.com/karju-dev/airspace-hugo
- * Based on the original Jakyll porting by Andrew Lee
- * https://github.com/luminousrubyist/airspace-jekyll
- * Designed and Developed by ThemeFisher
- * https://themefisher.com/
- *
- */
--->
+<script src={{ absURL "js/main.js" }}></script>
