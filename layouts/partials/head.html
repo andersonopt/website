@@ -18,13 +18,10 @@
 <link rel="stylesheet" href={{ absURL "css/owl.carousel.css" }} />
 <link rel="stylesheet" href={{ absURL "css/bootstrap.min.css" }} />
 <link rel="stylesheet" href={{ absURL "css/font-awesome.min.css" }} />
-<link rel="stylesheet" href={{ absURL "css/aairspace.css" }} />
-<link rel="stylesheet" href={{ absURL "css/airspace-local-fonts.css" }} />
 <link rel="stylesheet" href={{ absURL "css/airspace.css" }} />
 <link rel="stylesheet" href={{ absURL "css/style.css" }} />
 <link rel="stylesheet" href={{ absURL "css/ionicons.min.css" }} />
 <link rel="stylesheet" href={{ absURL "css/animate.css" }} />
-<link rel="stylesheet" href={{ absURL "css/responsive.css" }} />
 <link rel="stylesheet" href={{ absURL "css/syntax.css" }} />
 <link rel="stylesheet" href={{ absURL "css/magnific-popup.css" }} />
 <link rel="stylesheet" href={{ absURL "css/slick.css" }} />
@@ -35,18 +32,3 @@
 {{- $styles := resources.Get $srcPath | resources.ExecuteAsTemplate $srcPath . | resources.ToCSS $options | resources.Fingerprint "sha512" }}
 <link rel = 'stylesheet' href = '{{ $styles.RelPermalink }}' integrity = '{{ $styles.Data.Integrity }}'>
 
-<!-- Js -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script>
-  window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')
-</script>
-<script src={{ absURL "js/bootstrap.min.js" }}></script>
-<script src={{ absURL "js/owl.carousel.min.js" }}></script>
-<script src={{ absURL "js/plugins.js" }}></script>
-<script src={{ absURL "js/min/waypoints.min.js" }}></script>
-<script src={{ absURL "js/jquery.counterup.js" }}></script>
-<script src={{ absURL "js/jquery.magnific-popup.min.js" }}></script>
-<script src={{ absURL "js/slick.min.js" }}></script>
-
-
-<script src={{ absURL "js/main.js" }}></script>
