@@ -3,7 +3,7 @@ title = "So Much Sun but so Little Storage"
 date = "2019-10-02T16:09:42+03:00"
 tags = ["renewable-energy"]
 categories = ["renewable-energy"]
-image = "/img/blog/solar-storage.jpg"
+image = "img/blog/solar-storage.jpg"
 author = "John Nolan"
 # draft = true
 +++

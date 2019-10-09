@@ -3,7 +3,7 @@ title = "Houston We Have the Solution"
 date = "2019-09-02T19:08:23+03:00"
 tags = [""]
 categories = [""]
-image = "/img/blog/solutions-idea.jpg"
+image = "img/blog/solutions-idea.jpg"
 author = "Dragana Spasojevic"
 # draft = true
 +++

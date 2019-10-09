@@ -3,7 +3,7 @@ title = "Renewables and Aluminium Batteries"
 date = "2019-10-09T17:26:36+03:00"
 tags = [""]
 categories = [""]
-image = "/img/blog/aluminium-batteries.jpg"
+image = "img/blog/aluminium-batteries.jpg"
 author = "Mario Carr"
 +++
 

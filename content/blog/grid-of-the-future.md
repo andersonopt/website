@@ -3,7 +3,7 @@ title = "Renewable Energy Grid of the Future"
 date = "2018-01-14T13:07:31+02:00"
 tags = ["energy-grid", "renewable-energy", "grid-modernization", "public-health"]
 categories = ["renewable-energy", "grid-modernization"]
-image = "/img/blog/grid-of-the-future-list.jpg"
+image = "img/blog/grid-of-the-future-list.jpg"
 author = "Jake Anderson"
 +++
 
