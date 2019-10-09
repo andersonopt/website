@@ -8,6 +8,7 @@ platform:
   icon: ion-cube
   id: platform
   product: AO Platform
+  bg: platform
   category: Energy Analysis Platform
   description: A powerful software platform built on the cloud capable of performing flexible and integrated energy analysis workflows.
   features:
@@ -56,6 +57,7 @@ software:
     icon: ion-search
     id: prospect
     product: AO Prospect
+    bg: prospect
     category: Renewable Siting
     headline: Renewable Siting Made Easy
     scale: Scan 100s of thousands of sites
@@ -97,6 +99,7 @@ software:
     icon: ion-stats-bars
     id: analysis
     product: AO Site Analysis
+    bg: software
     category: Site Feasibility & Valuation
     headline: Ensure that your project is optimized to best meet your goals. Automatically simulate projects across all relevant scenarios to determine optimal project strategies.
     description: >
@@ -139,6 +142,7 @@ software:
     icon: ion-network
     id: optimization
     product: AO Energy Markets
+    bg: markets
     category: Grid Modeling & Optimization
     headline: Stop relying on outside consultants. Harness innovative production cost, capacity expansion, and optimization modeling capabilties.
     description: >

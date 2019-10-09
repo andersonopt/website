@@ -11,11 +11,7 @@ author = "Jake Anderson"
 
 After our joint appearance MarketScale's Energy Industry podcast, Eric had the opportunity to go back on and discuss some of his previous Ph.D. work focused on mass power outages. These types of outages are a good example of the need for strong modeling and planning capabilities to ensure that the grid maintains stability. These types of models are the foundation of Anderson Optimization. 
 
-
 We'd love if you gave it a listen. 
-
-
-
 
 ### Link:
 

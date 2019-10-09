@@ -1,60 +1,47 @@
-<!DOCTYPE html>
-<html>
-<head>
-	{{ partial "head.html" . }}
-</head>
-<body>
-
-	{{ partial "header.html" . }}
-
-	{{ partial "global-header.html" . }}
-
-	<section class="blog section">
-		<div class="container">
-			<div class="row">
-				{{ range (.Paginator 6).Pages }}
-				<div class="col-md-4">
-					<article class="blog-post">
-						{{ with .Params.image }}
-						<img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb"> {{ end }}
-						<a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a>
-						<p>
-							<i>{{ dateFormat "January 2006" .Date }}</i> - 
-							{{.Params.author}}
-						</p>
-						<p>
-							{{ .Summary }}
-						</p>
-						<a href="{{ .Permalink }}" class="btn btn-main">Read More</a>
-					</article>
-				</div>
+{{ define "main" }}
+{{ partial "global-header.html" . }}
+<section class="blog section">
+	<div class="container">
+		<div class="grid-3">
+			{{ range (.Paginator 6).Pages }}
+			<div class="">
+				<article class="blog-post">
+					{{ with .Params.image }}
+					<img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb"> {{ end }}
+					<a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a>
+					<p>
+						<i>{{ dateFormat "January 2006" .Date }}</i> - 
+						{{.Params.author}}
+					</p>
+					<p>
+						{{ .Summary }}
+					</p>
+					<a href="{{ .Permalink }}" class="btn btn-main">Read More</a>
+				</article>
+			</div>
+			{{ end }}
+		</div>
+		<div class="col-12 text-center">
+			{{ template "_internal/pagination.html" . }}
+		</div>
+	</div>
+</section>
+<section class="section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<h2>Categories</h2>
+				{{ range $key, $value := .Site.Taxonomies.categories }}
+					<li><a href="{{ $.Site.BaseURL }}categories/{{ $key | urlize  }}">{{ $key | humanize }}</a> ({{ len $value }})</li>
 				{{ end }}
 			</div>
-			<div class="col-12 text-center">
-				{{ template "_internal/pagination.html" . }}
+			<div class="col-md-6">
+				<h2>Tags</h2>
+				{{ range $key, $value := .Site.Taxonomies.tags }}
+					<li><a href="{{ $.Site.BaseURL  }}tags/{{ $key | urlize  }}">{{ $key | humanize }}</a> ({{ len $value }})</li>
+				{{ end }}
 			</div>
 		</div>
-	</section>
-	<section class="section">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6">
-					<h2>Categories</h2>
-					{{ range $key, $value := .Site.Taxonomies.categories }}
-						<li><a href="{{ $.Site.BaseURL   }}categories/{{ $key | urlize  }}">{{ $key | humanize }}</a> ({{ len $value }})</li>
-					{{ end }}
-				</div>
-				<div class="col-md-6">
-					<h2>Tags</h2>
-					{{ range $key, $value := .Site.Taxonomies.tags }}
-						<li><a href="{{ $.Site.BaseURL   }}tags/{{ $key | urlize  }}">{{ $key | humanize }}</a> ({{ len $value }})</li>
-					{{ end }}
-				</div>
-			</div>
-		</div>
-	</section>
-
-	{{ partial "footer.html" . }}
-
-</body>
-</html>
+	</div>
+</section>
+{{ end }}

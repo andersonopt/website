@@ -1,8 +1,6 @@
 title = "Anderson Optimization"
 baseURL = "https://andersonoptimization.com/"
 languageCode = "en-us"
-theme = "airspace-hugo"
-
 
 [menu]
 
