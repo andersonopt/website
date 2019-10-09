@@ -44,7 +44,7 @@ They managed to use a large organic chemical compound as part of the battery tha
 
 The race is on, to find a low cost and efficient energy storage solution. It seems that it won’t be too long until solar and wind renewable projects will get a new lift from aluminium ion batteries.  
 
-Our AO Energy Markets solution, provides the ability to model the integration of large batteries into energy markets to determine the cost/benefits of different battery chemistries. To find out how you can optimize your business to increase returns, contact Eric Anderson at [info@andersonopt.com](mailto:info@andersonopt.com) or (612) 719-5173.
+Our AO Energy Markets solution, provides the ability to model the integration of large batteries into energy markets to determine the cost/benefits of different battery chemistries. To find out how you can optimize your business to increase returns, contact Jake at [jake@andersonopt.com](mailto:jake@andersonopt.com) or (612) 719-5173.
  
 
 ### Sources
