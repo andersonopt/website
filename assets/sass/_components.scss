@@ -72,6 +72,13 @@ section#global-header i {
   font-size: 60px;
 }
 
+section.post_content ul{
+   list-style-type: disc; 
+   list-style-position: inside; 
+   margin-bottom: 10px;
+   font-size:110%;
+}
+
 section#call-to-action {
   background-attachment: fixed;
   background-size: cover;

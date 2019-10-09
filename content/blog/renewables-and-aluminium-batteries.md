@@ -1,6 +1,6 @@
 +++
 title = "Renewables and Aluminium Batteries"
-date = "2019-10-09T17:26:36+03:00"
+date = "2019-10-08T17:26:36+03:00"
 tags = [""]
 categories = [""]
 image = "img/blog/aluminium-batteries.jpg"
