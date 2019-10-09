@@ -22,7 +22,7 @@ A host of issues may keep such future projects from being realized. Challenges p
 
 In the last two quarters of 2019, Texas will join the gigawatt club, with planned 1.3244 GW utility-scale solar plants ready to switch on. In the following years, a quantum leap in solar deployment will be achieved only with large scale solar power plants. 
 
-![Planning Utility Scale](/img/blog/planning-utility-scale.png)
+![Planning Utility Scale](../../img/blog/planning-utility-scale.png)
 
 Next year's expectations with 13,143.38 MW capacity from solar power plants are realistic, but there will certainly be some percentage of deviations, due to the shutdown of projects by developers. Expectations for 2021 seem ambitious, with 42,104.65 MW capacity from solar power plants in queue for interconnection. But, according to reports from ERCOT, the question is how many solar power plants will become a reality. Going through various stages when planning and applying for capacity, a significant number of solar plant projects successfully complete all phases but fail at the last, but the most important - securing project financing.
 
