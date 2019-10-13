@@ -1,7 +1,7 @@
 enable: true
 title: Software & Solutions
 subtitle: >
-  Advanced software solutions that optimize site identification, project analysis, and grid modeling activities for renewable developers, utilities, and other energy industry stakeholders. 
+  Advanced software solutions that optimize site identification, project analysis, and grid modeling activities for utilities, renewable developers, and other energy industry stakeholders. 
 
 
 platform:
@@ -44,7 +44,7 @@ platform:
         - Expedited feature development and rapid integration with existing tools
     - title: Optimization Software
       items:
-        - State-of-the-art optimization models and software provide the most accurate results
+        - State-of-the-art optimization models and software provide highly accurate and precise results
     - title: External Integration
       items:
         - Seamless external system and data integration
@@ -66,15 +66,15 @@ software:
     features:          
       - name: Integrated Data Sources
         items:
-            - Quality substation, line, GIS, and parcel necessary for siting consolidated in a central location.
+            - Quality substation, transmission, and parcel data necessary for siting consolidated in a central location.
         icon: ion-filing   
       - name: Automation & Filters
         items:
-            - Automatically identify parcels nearby substations or lines, and instantly remove land with environmental constraints.
+            - Automatically identify parcels near substations or lines, and instantly remove parcels with environmental constraints.
         icon: ion-android-locate                   
       - name: Site Layout
         items:
-            - Rapidly map site constraints and perform early-stage design work to automatically determine buildable
+            - Rapidly map site constraints and perform early-stage design work to automatically determine buildable area.
         icon: ion-earth            
       - name: Data Export
         items:
@@ -83,13 +83,13 @@ software:
     benefits:
       - title: Increase Capacity
         items:
-          - Capacity and throughput typically increase by 2X-4X per user.
+          - Capacity and throughput typically increase by twofold to fourfold per user.
       - title: Reduce Non-Value-Added Work
         items:
-          - Consolidation eliminates wasted effort sifting through disparate files and applications        
-      - title: Cost savings
+          - Consolidation eliminates wasted effort sifting through disparate files and applications.
+      - title: Cost Savings
         items:
-          - Reduces need for external land consultants
+          - The need for external land consultants is reduced.
     order: 1
     button:
       url:  service/#prospect
