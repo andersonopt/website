@@ -7,9 +7,9 @@ image = "img/blog/aluminium-batteries.jpg"
 author = "Mario Carr"
 +++
 
-When a new type of aluminium battery hits the market, it will be a game changer for the solar and wind power industries. 
+When a new type of aluminium battery hits the market, it will be a game-changer for solar and wind power industries. 
 
-While lithium ion batteries are ideal for powering mobile devices, it’s not the best choice for larger applications. The high cost of power storage, limited cycle life and safety concerns with these batteries has slowed the pace of growth for several wind and solar renewable energy projects. 
+While lithium-ion batteries are ideal for powering mobile devices, they are not the best choice for larger applications. The high cost of power storage, limited cycle life and safety concerns with these batteries has slowed the pace of growth for several wind and solar renewable energy projects. 
 
 But that’s all about to change.
 
@@ -25,11 +25,11 @@ The performance characteristics of aluminium ion batteries can be superior.
 
 When it comes to holding a charge, aluminum ion batteries last longer. Lithium-ion batteries typically lose 80 percent of their capacity after 500-1000 charging and discharging cycles. A Stanford University aluminum ion prototype battery lasted more than 7,500 cycles without any loss in capacity.
 
-Aluminium ion batteries can also hold more energy. The theoretical energy density potential for aluminium-ion batteries is 1060 Wh/kg and for lithium-ion batteries it’s 406 Wh/kg. Inside the battery, lithium ions can only provide one electron at a time, whereas aluminum ions provides three electrons at a time.
+Aluminium ion batteries can also hold more energy. The theoretical energy density potential for aluminium-ion batteries is 1060 Wh/kg while that of lithium-ion batteries is 406 Wh/kg. Inside the battery, lithium ions can only provide one electron at a time, whereas aluminum ions provide three electrons at a time.
 
-Aluminum is also more economic than lithium since it’s readily available comprising eight percent of the earth’s curst. It’s also the third most abundant element found on the planet behind oxygen and silicon. Aluminium is less expensive to mine and refine compared to lithium. Globally, aluminum costs about US$2 per kg, whereas lithium costs US$300 per kg.
+Aluminum is also more economic than lithium since it’s readily available comprising eight percent of the earth’s crust. It’s also the third most abundant element found on the planet behind oxygen and silicon. Compared to lithium, aluminium is less expensive to mine and refine. Globally, aluminum costs about US$2 per kg, whereas lithium costs US$300 per kg.
 
-The breakthrough the researchers found, comes from better battery chemistry. Inside every battery there are two electrodes, called an anode and cathode that are separated by an electrolyte. The electrolyte is a substance that chemically reacts with the two electrodes to create electricity. When the battery discharges, the cathode becomes positive, while the anode becomes negative.  
+The breakthrough the researchers found, comes from better battery chemistry. Inside every battery there are two electrodes, anode and cathode, separated by an electrolyte. The electrolyte is a substance that chemically reacts with the two electrodes to create electricity. When the battery discharges, the cathode becomes positive, while the anode becomes negative.  
 
 Previous aluminium batteries used aluminium as the anode and graphite as the cathode. Unfortunately, graphite doesn’t provide enough energy to create useful battery cells. If the graphite is replaced by an organic molecule called anthraquinone, researchers point out, the battery will have the ability to store more energy.
 

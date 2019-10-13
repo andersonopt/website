@@ -1,5 +1,5 @@
 +++
-title = "So Much Sun but so Little Storage"
+title = "So Much Sun, So Little Storage"
 date = "2019-9-02T16:09:42+03:00"
 tags = ["renewable-energy"]
 categories = ["renewable-energy"]
@@ -10,29 +10,29 @@ author = "John Nolan"
 
 __A clean energy distribution network in Europe will rely on energy storage solutions which will include the use of batteries__
 
-Southern Europe is bathed in sunshine. In Andalusia, Southern Spain, there are around 3,000 hours of sunshine a year,  or over 8 hours a day, equating to no less than __4.75 kWh/m2__ of daily sunshine.  With a surface area of 87,597 km2, this means it has massive solar energy generating potential – the biggest Europe in fact. 
+Southern Europe is bathed in sunshine. In Andalusia, Southern Spain, there are around 3,000 hours of sunshine a year,  or over 8 hours a day, equating to no less than __4.75 kWh/m2__ of daily sunshine.  With a surface area of 87,597 km2, this means it has massive solar energy generating potential – the biggest in Europe. 
 
 This resource, and the fact that the population distribution over mountainous terrain makes conventional power supply difficult and expensive, makes solar energy a very attractive option, yet it seems almost entirely ignored. 
 
 This neglect is hard to work out. After all, utility-scale PV (photovoltaics) LCOE (levelised cost of electricity) has been estimated in Malaga at __24 €/MWh__. By 2050, it will be as low as __9 to 15 €/MWh__, making PV the cheapest form of electricity generation available.  If this means solar should be booming, then the question is: why is it not?
 
-Often, storage solutions are cited as the barrier. After all, at night, or on cloudy days, production of electricity becomes impossible. However, with batteries, there is no problem. And battery technology, principally in the form of lithium-ion, is advancing at speed, with ongoing falls in production cost, making solar energy not only technologically feasible, but also cheaper than fossil-fuel based alternatives (and consistent with Paris Agreement Targets).
+Often, storage solutions are cited as the barrier. After all, at night, or on cloudy days, the production of electricity becomes impossible. However, with batteries, there is no problem. And battery technology, principally in the form of lithium-ion, is advancing at a greate speed, with ongoing falls in production cost, making solar energy not only technologically feasible, but also cheaper than fossil-fuel based alternatives (and consistent with Paris Agreement Targets).
 
-This means that remarkably, PV in areas of Southern Europe is already cheaper than the average spot market price of European electricity. For example, in Spain the average 2017 electricity day‐ahead market price was 52 €/MWh, rising to 57 €/MWh in 2018  or almost double that of utlity-scale PV in Malaga. So in these Southern regions with high electricity demand fuelled by tourist demand, solar farms have high potential.
+This means that PV in areas of Southern Europe is already remarkably cheaper than the average spot market price of European electricity. For example, in Spain the average 2017 electricity day‐ahead market price was 52 €/MWh, rising to 57 €/MWh in 2018  or almost double that of utility-scale PV in Malaga. So in these Southern regions with high electricity demand fuelled by tourist demand, solar farms have high potential.
 
-Studies have clearly shown that battery storage solutions can reduce costs,  and reduce intermittency problems. Batteries maximise the effectiveness of a renewable mix (e.g. when located next to both wind and solar infrastructures), so they overcome the problems inherent with unpredictable renewables. And this of course has not gone unnoticed; in November 2016, for example, the European Commission acknowledged energy storage as a __key flexibility instrument__ needed in the future  and some authors predict that by 2050, stationary battery demand in Europe may be as high as 74 TWhcap. 
+Studies have clearly shown that battery storage solutions can reduce costs,  and intermittency problems. Batteries maximise the effectiveness of a renewable mix (e.g. when located next to both wind and solar infrastructures), so they overcome the problems inherent with unpredictable renewables. And this of course has not gone unnoticed; in November 2016, for example, the European Commission acknowledged energy storage as a __key flexibility instrument__ needed in the future  and some authors predict that by 2050, stationary battery demand in Europe may be as high as 74 TWhcap. 
 
 Recent political changes in Spain highlight how the future for solar in European countries hinges not on technological feasibility (as the technology is proven), but on regulation. In April 2019, the recently-elected PSOE government removed the bureaucratic hurdles limiting domestic solar installations. The result is that the industry is experiencing a new boom and this year José Donoso, director general of the industry association expects a further 400 MW of installed capacity to be added. 
 
 The power of this type of market-shifting policy change also impacts the utility market, which for years has underplayed solar’s potential. Pablo del Rio and colleagues  described political uncertainty and retroactive policies as one of the __primary barriers__ to the development of concentrated solar power in the EU. Elsewhere, Teresa Haukkala at the Aalto University School of Business, Finland, described how ‘__vested interests__’ in the form of politicians, corporations and industry representatives in individual EU countries can be more influential than EU-level support measures. 
 
-The result is that a country like Germany (which far less sunshine) massively outperforms a country like Spain (with lots of sunshine) in terms of solar power development. Germany has over __45 GW__ of installed solar capacity  whereas Spain still has less than 5. And this has barely changed in almost a decade.  Growth in Germany is therefore driven by mechanisms that simply don’t exist in Spain, despite the sun shining for up to 8 hours a day.
+The result is that a country like Germany (with far less sunshine) massively outperforms a country like Spain (with lots of sunshine) in terms of solar power development. Germany has over __45 GW__ of installed solar capacity  whereas Spain still has less than 5. And this has barely changed in almost a decade.  Growth in Germany is therefore driven by mechanisms that simply don’t exist in Spain, despite the sun shining for up to 8 hours a day.
 
-If bodies like the __International Renewable Energy Agency__ are to be believed, this situation is set to change. In fact, by 2050, they expect close to 100% renewable energy (RE) in regions like the EU.  If this is true, energy storage in the form of batteries will play a key role, and for the current time, this means lithion-ion technology in conjunction with solar, wind, and hydro power.
+If bodies like the __International Renewable Energy Agency__ are to be believed, this situation is set to change. In fact, by 2050, they expect close to 100% renewable energy (RE) in regions like the EU.  If this is true, energy storage in the form of batteries will play a key role, and for the current time, this means lithion-ion technology in conjunction with solar, wind, and hydropower.
 
-Major doubts remain however about how this type of EU would look. In contrast to the US or North Africa, for example, the EU is peppered with densely populated regions, and social acceptance of solar farms may in turn be lower.  Utlities therefore need to account for social and political factors maybe more than elsewhere.
+However, major doubts remain about how this type of EU would look. In contrast to the US or North Africa, for example, the EU is peppered with densely populated regions, and social acceptance of solar farms may in turn be lower.  Utilities therefore need to account for social and political factors maybe more than elsewhere.
 
-What is clear is that storage costs continue to decrease and 100% RE systems will become highly cost competitive in future. Battery storage will therefore grow as part of the overall energy distribution network, which according to some, will make battery storage the main technology for peaking capacity in a region like the EU by as soon as 2040.
+What is clear is that storage costs continue to decrease and 100% RE systems will become highly cost competitive in the future. Battery storage will therefore grow as part of the overall energy distribution network, which according to some, will make battery storage the main technology for peaking capacity in a region like the EU by as soon as 2040.
 
 
 ### Authors cited:

@@ -13,10 +13,10 @@ We recently had the opportunity to be interviewed for MarketScale's Energy Indus
 
 Within this conversation, we cover a variety of energy industry and grid modernization topics. 
 
-In addition to general grid and industry discussion, we give a glimpse into how wer started the company and how we have evolved along the way. While we have always known that optimization modeling would be a core component of our business, our focus on the renewable development market as well as siting came about somewhat unexpectedly.  
+In addition to general grid and industry discussion, we give a glimpse into how we started the company and how we have evolved along the way. While we have always known that optimization modeling would be a core component of our business, our focus on the renewable development market as well as siting came about somewhat unexpectedly.  
 
 
-We'd love if you gave it a listen.
+We'll appreciate it if you give it a listen.
 
 
 ### Link:
