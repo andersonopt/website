@@ -27,3 +27,4 @@ htmlproofer public --allow-hash-href --check-html --empty-alt-ignore --disable-e
 ### Colors
 
 Light Blue: #91D8F7
+.
