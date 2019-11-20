@@ -5,7 +5,6 @@ tags = ["renewable-energy"]
 categories = ["renewable-energy"]
 image = "img/blog/powerline-look-up.jpg"
 author = "J.C. McBride"
-draft = true
 +++
 
 On October 9, 2019, California’s largest electric utility preemptively shut off power to more than 800,000 customers in the San Francisco Bay Area. Some parts of the area may not see power restored for close to a week. This massive forced blackout is in part a result of the outdated power grid system in California, and much of the United States.  
