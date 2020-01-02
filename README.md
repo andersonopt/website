@@ -1,3 +1,4 @@
+~~~
 
 # Anderson Optimization
 
@@ -28,3 +29,12 @@ htmlproofer public --allow-hash-href --check-html --empty-alt-ignore --disable-e
 
 Light Blue: #91D8F7
 .
+
+
+## Tips
+
+For regular pages, this code base takes a __composition__ approach. This is achieved using custom [hugo shortcodes](https://gohugo.io/content-management/shortcodes/) and css classes.
+
+Most of the [shortcodes in this repo](./layouts/shortcodes), take at least one positional arguments.
+
+
