@@ -1,0 +1,27 @@
+{{- define "main" }}
+  {{- $context := . }}
+  {{- if eq .Section "blog" }}
+  {{- partial "post-header.html" . }}
+  {{- end }}
+  {{- with .Params.hero }}
+    <div class="hero hero_min" style='background-image: url(/images/{{ .image }});'>
+      <div class = 'wrap_min center'>
+        <h1>{{ .title }}</h1>
+      </div>
+    </div>
+    {{- with .after }}
+      {{- partial . $context }}
+    {{- end }}
+  {{- end }}
+  <div class = 'wrap_min grid-auto mt-1 pb-1 link_show'>
+    <aside>
+      <!-- <div class="toc_wrap"> -->
+        {{- .TableOfContents }}
+      <!-- </div> -->
+      <div></div>
+    </aside>
+    <article>
+      {{- .Content }}
+    </article>
+  </div>
+{{- end -}}

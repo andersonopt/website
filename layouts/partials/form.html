@@ -1,0 +1,31 @@
+<form class = 'form' action = '' method = 'POST' accept-charset = 'UTF-8'>
+  <fieldset>
+    <label class = 'form_label' for = 'name'>Name *</label>
+    <input type = 'text' class = 'form_input'  id = 'name' name = 'Name' placeholder = 'e.g John Smith' required>
+  </fieldset>
+  <fieldset>
+    <label class = 'form_label' for = 'company'>Company</label>
+    <input type = 'text' class = 'form_input'  id = 'company' name = 'Name' placeholder = 'e.g Google'>
+  </fieldset>
+  <fieldset>
+    <label class = 'form_label' for = 'email'>Email Address *</label>
+    <input type = 'email' class = 'form_input' id = 'email' name = 'Email' placeholder = 'e.g you@awesome.com' required>
+  </fieldset>
+  <fieldset>
+    <label class = 'form_label' for = 'phone'>Phone Number</label>
+    <input type = 'tel' class = 'form_input' id = 'phone' name = 'Phone' placeholder = 'e.g 01475 122567'>
+  </fieldset>
+  <fieldset class = 'loner'>
+    <label class = 'form_label' for = 'interest'>Which solution are you interested in?</label>
+    <select id = 'interesr' name = 'Interest' class = 'form_input form_interest'>
+      {{- range .Site.Data.formSelectOptions }}
+      <option>{{ . }}</option>
+      {{- end }}
+    </select>
+  </fieldset>
+  <fieldset class = 'loner'>
+    <label class = 'form_label' for = 'message'>Message *</label>
+    <textarea name = 'Message' class = 'form_input' id = 'message' rows = '1' placeholder = 'Your message goes here' required></textarea>
+  </fieldset>
+  <button  class = 'button loner' type = 'submit' id = 'submit'>Book my demo</button>
+</form>

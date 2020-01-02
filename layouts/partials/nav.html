@@ -1,0 +1,26 @@
+<header class = 'nav_wrap'>
+  <nav class = 'wrap nav'>
+    {{- partial "logo.html" . }}
+    <ul class = 'nav_menu'>
+      {{- range .Site.Data.menu.center }}
+      <li class = 'nav_parent'>
+        <a href = '{{ .url }}' class = 'nav_item{{ with .type }} {{ . }}{{ end }}'>{{ .link }} {{ with .submenu }}<img src="/images/caret-icon.svg" alt="icon" class="nav_icon">{{ end }}</a>
+        {{- with .submenu }}
+        <div class = 'nav_sub'>
+          {{- range . }}
+          <a href = '{{ .url }}' class = 'nav_child nav_item'>{{ .link }}</a>
+          {{- end }}
+        </div>
+        {{- end }}
+      </li>
+      {{- end }}
+    </ul>
+    <ul class = 'nav_menu'>
+      {{- range .Site.Data.menu.right }}
+      <li class = 'nav_parent'>
+        <a href = '{{ .url }}' class = 'nav_item{{ with .type }} button button_{{ . }}{{ end }}'>{{ with .icon }}<img src="/images/{{ . }}" alt="icon"> {{ end }}{{ .link }}</a>
+      </li>
+      {{- end }}
+    </ul>
+  </nav>
+</header>

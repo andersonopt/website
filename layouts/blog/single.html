@@ -1,0 +1,33 @@
+{{- define "main" }}
+  {{- $author := index (where .Site.Data.authors ".name" .Params.author) 0 }}
+  {{- partial "post-header.html" . }}
+  <div class="wrap article pt-2 pb-2">
+    <div>
+      {{- partial "share.html" . }}
+    </div>
+    <section>
+      <article class = 'mb-1'>
+        {{- .Content }}
+      </article>
+      <hr>
+      <div class = 'post_meta pt-1 pb-1'>
+        <figure class = 'post_avatar'>
+          <img src = '/images/{{ $author.picture }}' alt = 'author picture'>
+        </figure>
+        <div>   
+          <h4 class = 'post_author'>{{ $author.name }}</h4>
+          {{- $author.bio | markdownify }}
+        </div>
+      </div>      
+      <hr>
+      <h3 class = 'mt-1'>You may also like</h3>
+      {{- $mainTag := index .Params.tags 0 }}
+      {{- $related := intersect (.Site.RegularPages.RelatedTo ( keyVals "tags" $mainTag)) (where .Site.RegularPages "Section" "blog") }}
+      {{- range first 3 $related }}
+      <div class = 'mb-2 mt-2'>
+        {{- partial "excerpt.html" . }}
+      </div>
+      {{- end }}
+    </section>
+  </div>
+{{- end }}

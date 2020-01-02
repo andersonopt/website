@@ -1,0 +1,9 @@
+<div class = 'wrap pb-3'>
+  <h3 class = 'color center mb-2'>What our clients say</h3>
+  <div class="grid-2">
+    {{- range first 2 .Site.Data.testimonials }}
+    {{- partial "testimonial.html" . }}
+    {{- end }}
+  </div>
+</div>
+  

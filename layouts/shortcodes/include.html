@@ -1,0 +1,10 @@
+{{- $context := . }}
+{{- $partial := .Get 0 }}
+{{- $modifier := .Get 1 }}
+{{- with $modifier -}}
+<div class="{{ . }}">
+  {{- partial (printf "%s.html" $partial) $context }}
+</div>
+{{- else }}
+{{- partial (printf "%s.html" $partial) $context }}
+{{- end -}}

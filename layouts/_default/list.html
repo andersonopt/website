@@ -1,47 +1,65 @@
-{{ define "main" }}
-{{ partial "global-header.html" . }}
-<section class="blog section">
-	<div class="container">
-		<div class="grid-3">
-			{{ range (.Paginator 6).Pages }}
-			<div class="">
-				<article class="blog-post">
-					{{ with .Params.image }}
-					<img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb"> {{ end }}
-					<a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a>
-					<p>
-						<i>{{ dateFormat "January 2006" .Date }}</i> - 
-						{{.Params.author}}
-					</p>
-					<p>
-						{{ .Summary }}
-					</p>
-					<a href="{{ .Permalink }}" class="btn btn-main">Read More</a>
-				</article>
-			</div>
-			{{ end }}
-		</div>
-		<div class="col-12 text-center">
-			{{ template "_internal/pagination.html" . }}
-		</div>
-	</div>
-</section>
-<section class="section">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-6">
-				<h2>Categories</h2>
-				{{ range $key, $value := .Site.Taxonomies.categories }}
-					<li><a href="{{ $.Site.BaseURL }}categories/{{ $key | urlize  }}">{{ $key | humanize }}</a> ({{ len $value }})</li>
-				{{ end }}
-			</div>
-			<div class="col-md-6">
-				<h2>Tags</h2>
-				{{ range $key, $value := .Site.Taxonomies.tags }}
-					<li><a href="{{ $.Site.BaseURL  }}tags/{{ $key | urlize  }}">{{ $key | humanize }}</a> ({{ len $value }})</li>
-				{{ end }}
-			</div>
-		</div>
-	</div>
-</section>
-{{ end }}
+{{- define "main" }}
+{{- $current := .RelPermalink }}
+<div class = 'wrap grid-inverse pt-4'>
+  <div>
+    {{- .Content }}
+  </div>
+</div>
+<div class = 'tags wrap'>
+  <a class = 'tag{{ if and (eq $current .RelPermalink) (in .RelPermalink "blog" ) }} tag_active{{ end }}' href = '/blog/'>All posts</a>
+  {{- range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+  {{- range $key, $value := $taxonomy }}
+  {{- $tag := replace $key "-" " " }}
+  {{- $permalink := printf "/tags/%s/" $key }}
+  <a class = 'tag{{ if eq $current $permalink }} tag_active{{ end }}' href = '{{ $permalink }}'>{{ $tag }}</a>
+  {{- end }}
+  <a href = '/search/' class = 'tag search_tag'></a>
+</div>
+{{- end }}
+<hr>
+<div class = 'wrap grid-inverse pb-2'>
+  <div>
+    {{- if eq .RelPermalink "/blog/" }}
+    <h2 class = 'mb-1 color'>Featured Post</h2>
+    {{- $featured := index (where .Site.RegularPages ".Params.featured" true) 0 }}
+    <a href = '{{ $featured.Permalink }}'>
+      <figure>
+        <img src="/images/{{ $featured.Params.image }}">
+      </figure>
+      <h3 class = 'mt-1'>{{ $featured.Title }}</h3>
+      <p>{{ $featured.Summary | truncate 160 }}</p>
+      <div class = 'post_meta pb-2'>
+        <figure class = 'post_avatar'>
+          <img src = '/images/{{ anchorize (lower $featured.Params.author) }}.png' alt = 'author picture'>
+        </figure>
+        <div>
+          <span class = 'post_author'>{{ $featured.Params.author }}</span>
+          <span class = 'post_date'>{{ dateFormat "January 02, 2006" $featured.Date }}</span>
+        </div>
+      </div>
+    </a>
+    <hr>
+    {{- end }}
+    <div>
+      <h2 class = 'color'>Most Recent</h2>
+      {{- range (.Paginate .Pages).Pages }}
+      <div class = 'mt-1 mb-3' {{ with .Params.tags }}data-tags = '{{ delimit . ", " "" }}'{{ end }}>
+        {{ partial "excerpt.html" . }}
+      </div>
+      {{- end }}
+      <hr>
+      <div class = "pt-2">
+        {{- partial "pager.html" . }}
+      </div>
+    </div>
+  </div>
+  <aside>
+    <h2 class = 'mb-1 color'>Most Popular Posts</h2>
+    {{- range (.Paginate .Pages).Pages }} 
+    <div class = 'mb-2' {{ with .Params.tags }}data-tags = '{{ delimit . ", " "" }}'{{ end }}>
+      {{- partial "excerpt.html" . }}
+    </div>
+    {{- end }}
+  </aside>
+</div>
+{{- end -}}

@@ -1,0 +1,9 @@
+{{- $context := . -}}
+{{- $bg := .Get 0 }}
+<section class="hero_form"  {{ with $bg }}style="background-image: url({{ . }})"{{ end }}>
+  <div class="form_wrap center">
+    <h2 class="form_title">Book a demo</h2>
+    <h3 class="form_headline">How can we Optimize your Business</h3>
+    {{- partial "form.html" $context -}}
+  </div>
+</section>

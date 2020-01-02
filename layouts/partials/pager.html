@@ -1,0 +1,26 @@
+{{- $paginator := .Paginator }}
+{{- $pages := $paginator.TotalPages }}
+{{ $pager := $paginator.Pagers }}
+{{- if gt $pages 1 }}
+  <div class = 'pager' id = 'pager'>   
+    {{- if $paginator.HasPrev }}
+      <a href = '{{ (index $pager 0).URL }}#pager'  class = ' pager_item pager_prev pager_actionable'></a>
+      <a href = '{{ $paginator.Prev.URL }}#pager'  class = ' pager_item pager_prev pager_actionable'></a>
+    {{- else }}
+      <span class = ' pager_item pager_prev'></span>
+      <span class = ' pager_item pager_prev'></span>
+    {{- end -}}
+    
+    {{- range $pager -}}
+      <a href="{{ .URL }}#pager" class = 'pager_item{{ if eq . $paginator }} pager_active{{ end }}'>{{ .PageNumber }}</a>
+    {{- end -}}
+
+    {{- if $paginator.HasNext -}}
+      <a href = '{{ $paginator.Next.URL }}#pager' class = ' pager_item pager_next pager_actionable'></a>
+      <a href = '{{ (index $pager (sub $pages 1)).URL }}#pager'  class = ' pager_item pager_next pager_actionable'></a>
+    {{- else -}}
+      <span class = ' pager_item pager_next'></span>
+      <span class = ' pager_item pager_next'></span>
+    {{- end }}
+  </div>
+{{- end }}

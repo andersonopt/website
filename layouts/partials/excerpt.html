@@ -1,0 +1,17 @@
+<div class="excerpt">
+  {{- $image := printf "/images/%s" .Params.image }}
+  <a class = "excerpt_thumbnail" style="background-image: url({{ $image }})" href="{{ .Permalink }}"></a>
+  <div>
+    {{- with .Params.tags }}
+    {{- $randomTag := index (shuffle .) 0 }}
+      <a href="/tags/{{ anchorize (lower $randomTag) }}">
+        <div class = 'button button_translucent'>{{ $randomTag }}</div>
+      </a>
+    {{- end }}
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <div class="excerpt_preview">
+      <p>{{ .Summary | truncate 80 }}</p>
+      {{- partial "post-meta.html" . }}
+    </div>
+  </div>
+</div>

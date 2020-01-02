@@ -1,0 +1,27 @@
+<div class="pt-3">
+  <div class = "btn_back button button_translucent mb-1">Back</div>
+  <form action="/search/" method="get" class="search_form">
+    <label for="search-box" class="search_label">Search</label>
+    <input type="search" id="search-box" name="query" class="search_field" placeholder="Search">
+    <input type="submit" value="" class="search_submit">
+  </form>
+  
+</div>
+
+<ul id="search_results" class="results"></ul>
+
+<script>
+  window.store = {
+    {{- range where .Site.RegularPages "Section" "blog" }}
+      "{{ .Permalink }}": {
+        "title": "{{ .Title }}",
+        "author": "{{ .Params.author }}",
+        "category": "{{ .Params.tags }}",
+        "content": "{{  .Content }}",
+        "url": "{{ .Permalink }}"
+      },
+    {{- end }}
+  };
+</script>
+<script src="/js/lunr.min.js"></script>
+<script src="/js/search.js"></script>

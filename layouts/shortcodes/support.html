@@ -1,0 +1,15 @@
+{{- $slug := .Get 0 }}
+{{- $data := index .Site.Data.support $slug -}}
+<div class="topic">
+  {{- range $data }}
+  <h3 class="topic_title">{{ .topic }}</h3>
+  <div class="topic_details">
+    {{- with .video }}
+    <div class = 'video'>
+      <iframe src='https://www.youtube.com/embed/{{ . }}?controls=1&rel=0'></iframe>
+    </div>    
+    {{- end }}
+    {{- .answer | markdownify }}
+  </div>
+  {{- end -}}
+</div>
