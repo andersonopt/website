@@ -1,9 +1,8 @@
 +++
 title = "Energy Markets & Batteries: Part 2"
 date = "2017-07-10T13:07:31+02:00"
-tags = ["energy-markets", "price-signals", "arbitrage", "grid-defection", "microgrids"]
-categories = ["energy-storage", "energy-markets"]
-image = "img/blog/energy-markets-two-list.jpg"
+tags = ["energy markets", "microgrids"]
+image = "energy-markets-two-list.jpg"
 author = "Jake Anderson"
 +++
 
@@ -43,7 +42,7 @@ It is easy to see how this scenario is problematic for utilities. As consumers b
 
 The image below outlines this dilemma and illustrates that, in certain instances, partial grid defection is already beneficial to consumers and will be almost uniformly beneficial by 2030. Full grid defection still lags, but is projected to be reasonably equivalent by 2030.
 
-![Battery Chart](/img/blog/energy-markets-two-1.jpg "Grid Defection Feasibility Chart")
+![Battery Chart](/images/energy-markets-two-1.jpg "Grid Defection Feasibility Chart")
 
 ### Grid Access Fees Are A Potential Solution
 

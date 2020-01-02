@@ -1,9 +1,8 @@
 +++
 title = "The Power Grid: An Overview and Its Evolution"
 date = "2017-06-10T13:07:31+02:00"
-tags = ["interconnection", "congestion", "distributed-generation", "renewable-energy"]
-categories = ["electricity-grid"]
-image = "img/blog/evolving-energy-grid-list.jpg"
+tags = ["distributed generation", "renewable"]
+image = "evolving-energy-grid-list.jpg"
 author = "Jake Anderson"
 +++
 
@@ -46,7 +45,7 @@ In addition to economics, there are a variety of political & siting difficulties
 
 The distribution network is also less actively managed than the transmission network, so there isn't well documented data. Since the transmission network is the backbone of how electricity moves across the grid, there has always been a need to understand its design and infrastructure. Therefore, the transmission network is actively monitored and maintained by operators, which allows for detailed mapping and tracking as seen in the image below.
 
-![Transmission Network](/img/blog/evolving-energy-grid-2.jpeg "United States Transmission Network")
+![Transmission Network](/images/evolving-energy-grid-2.jpeg "United States Transmission Network")
 
 However, this is not the case for the distribution network. The need for distribution network data hasn’t been as prevalent in the past. Power plants typically interconnect at transmission network voltage levels, so the distribution network has historically only been used as a one way channel to send energy out to customers from a substation. Due to a lack of interconnection and one-way power flows, there has been minimal benefit to understanding distribution once the physical architecture was in place.
 
@@ -93,7 +92,7 @@ It is understandable why the model of large plants linking into the transmission
 
 According to the EIA, global energy consumption is expected to grow by roughly 50% by 2040 as seen in the graphic below from the 2016 EIA International Energy Outlook.
 
-[![Energy Consumption](/img/blog/evolving-energy-grid-3.png "EIA Global Energy Consumption")](https://energy.gov/oe/services/electricity-policy-coordination-and-implementation/transmission-planning/recovery-act)
+[![Energy Consumption](/images/evolving-energy-grid-3.png "EIA Global Energy Consumption")](https://energy.gov/oe/services/electricity-policy-coordination-and-implementation/transmission-planning/recovery-act)
 
 To cater to this demand, it will be necessary to develop generation facilities quickly and for a relatively low cost. Distributed renewable generation appears to be a logical solution to this problem.
 

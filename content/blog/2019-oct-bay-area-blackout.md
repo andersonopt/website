@@ -1,9 +1,8 @@
 +++
 title = "PG&E’s Bay Area Blackout and the Need to Reconsider the Modern Power Grid System"
 date = "2019-10-09T16:09:42+03:00"
-tags = ["renewable-energy"]
-categories = ["renewable-energy"]
-image = "img/blog/powerline-look-up.jpg"
+tags = ["renewable"]
+image = "powerline-look-up.jpg"
 author = "J.C. McBride"
 +++
 

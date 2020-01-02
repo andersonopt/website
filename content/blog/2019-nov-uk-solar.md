@@ -1,9 +1,8 @@
 +++
 title = "Why the Future of Solar Power in the UK is Brighter than You Think"
 date = "2019-11-15T16:09:42+03:00"
-tags = ["renewable-energy","UK","solar"]
-categories = ["renewable-energy","UK","solar"]
-image = "img/blog/uk-solar-image-1.jpg"
+tags = ["renewable", "solar"]
+image = "uk-solar-image-1.jpg"
 author = "J.C. McBride"
 +++
 

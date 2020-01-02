@@ -1,12 +1,10 @@
 +++
 title = "Renewable Siting Inefficiencies"
 date = "2017-04-10T13:07:31+02:00"
-tags = ["renewable-siting", "solar-development", "GIS", "prospecting", "renewable-energy"]
-categories = ["Siting"]
-image = "img/blog/siting-difficulty-list.jpg"
+tags = ["renewable", "solar", "GIS"]
+image = "siting-difficulty-list.jpg"
 author = "Jake Anderson"
 +++
-
 
 ### Background
 
@@ -16,7 +14,7 @@ Renewable generation still represents a fairly small percentage of the United St
 
 Utility-scale solar only makes up 0.9% of electricity generation, but there was an increase of over 50% of solar generation capacity [in 2016](https://www.eia.gov/todayinenergy/detail.php?id=31072). A variety of factors have influenced significant solar adoption such as state incentives, federal tax credits, renewable portfolio standards, and decreased panel and installation costs. Around 70% of these new solar facilities are found in California, with New Jersey and Massachusetts at 17% and 13% respectively. The following image from the EIA shows the location of all utility-scale solar generation in the United States.
 
-![EIA Solar Gen](../img/blog/siting-difficulty-1.png "EIA Solar Gen Chart")
+![EIA Solar Gen](/images/siting-difficulty-1.png "EIA Solar Gen Chart")
 
 ### Why aren’t renewables catching on quicker?
 

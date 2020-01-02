@@ -1,10 +1,10 @@
 +++
 title = "Overcoming Renewable Challenges"
 date = "2018-06-14T13:07:31+02:00"
-tags = ["energy-grid", "transmission-congestion", "duck-curve", "planning"]
-categories = ["renewable-energy", "grid-modernization", "grid-planning"]
-image = "img/blog/renewable-challenges-list.jpg"
+tags = ["energy grid", "planning"]
+image = "renewable-challenges-list.jpg"
 author = "Jake Anderson"
+featured = true
 +++
 
 ### Background

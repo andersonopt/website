@@ -1,9 +1,8 @@
 +++
 title = "Renewables to get a jolt from aluminium batteries "
 date = "2019-10-08T17:26:36+03:00"
-tags = [""]
-categories = [""]
-image = "img/blog/aluminium-batteries.jpg"
+tags = ["renewable"]
+image = "aluminium-batteries.jpg"
 author = "Mario Carr"
 +++
 

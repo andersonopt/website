@@ -1,9 +1,9 @@
 +++
 title = "Renewable Siting Automation"
 date = "2017-05-10T13:07:31+02:00"
-tags = ["renewable-siting", "solar-development", "GIS", "prospecting", "automation", "software", "renewable-energy"]
+tags = ["solar", "GIS", "automation", "software", "renewable"]
 categories = ["Siting"]
-image = "img/blog/siting-capability-list.png"
+image = "siting-capability-list.png"
 author = "Jake Anderson"
 +++
 
@@ -21,13 +21,13 @@ A key driver of inefficiency is a lack of consolidated data. Our product reduces
 
 AOProspect comes loaded with the substation, transmission line, land, and GIS information that is necessary for early siting activities. Aside from simply housing the data, we map and display the information in our interactive mapping platform as seen in the image below.
 
-![Mapped Grid](/img/blog/siting-capability-1.jpg "Energy Grid Data Mapping")
+![Mapped Grid](/images/siting-capability-1.jpg "Energy Grid Data Mapping")
 
 For much of our grid infrastruce data, we include voltage and managing utility information. Our land data covers roughly 98% of the United States, and on average, each parcel of data includes roughly 20 attributes such as owner name, address, lot size, and boundary information.
 
 We also incorporate key GIS layers such as wetlands, topography, flood hazards, and more. By simply toggling a switch, AOProspect automatically maps the GIS layers over the land and grid data. 
 
-![GIS Layer Tabl](/img/blog/siting-capability-2.png "GIS Data Layers")
+![GIS Layer Tabl](/images/siting-capability-2.png "GIS Data Layers")
 
 With consolidated data, our customers are able to stop manually digging through file folders and manually conslidating layers in applications such as Google Earth, which saves significant time. 
 
@@ -40,20 +40,20 @@ While there is value in simply providing and consolidating data, we have built a
 
 Users begin by automatically identifying all land parcels of a certain size that are within a certain radius of a substation with just one click. 
 
-![Parcels and Substation](/img/blog/siting-capability-3.jpg "Parcels Nearby Substation")
+![Parcels and Substation](/images/siting-capability-3.jpg "Parcels Nearby Substation")
 
 
 #### Custom Filters 
 
 Once users have identified land of a certain size and radius, they can apply custome filters to remove parcels that have significant wetlands or flood hazards, leaving a short list of high quality parcels. 
 
-![Custom Filter](/img/blog/siting-capability-4.png "Custom Filter Table")
+![Custom Filter](/images/siting-capability-4.png "Custom Filter Table")
 
 #### Design & Automated Constraint Mapping
 
 After identifying a short list of high quality parcels, users can perform early stage design work, and map out constaints with just a few clicks. This design can then be exported in KML or AutoCAD formats for later stage design and array layout processes.
 
-![Edit Tools](/img/blog/siting-capability-5.jpg "Site Design and Constraint Mapping")
+![Edit Tools](/images/siting-capability-5.jpg "Site Design and Constraint Mapping")
 
 #### Export Landowner Information for Mailers
 
