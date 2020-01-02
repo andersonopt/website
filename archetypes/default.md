@@ -1,10 +1,9 @@
 +++
 title = "{{ replace .Name "-" " " | title }}"
-date = "{{ .Date }}"
+date = {{ .Date }}
 tags = [""]
-categories = [""]
 # image = ""
 # author = ""
-draft = true
+draft = false
 +++
 
