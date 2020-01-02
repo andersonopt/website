@@ -1,0 +1,21 @@
+- name: Amazon
+  logo: amazon-logo.png
+  link:
+- name: Lyft
+  logo: lyft-logo.png
+  link:
+- name: Netflix
+  logo: netflix-logo.svg
+  link:
+# - name: HBO
+#   logo: hbo-logo.svg
+  link:
+- name: Amazon
+  logo: amazon-logo.png
+  link:
+- name: Lyft
+  logo: lyft-logo.png
+  link:
+- name: Netflix
+  logo: netflix-logo.svg
+  link:

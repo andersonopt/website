@@ -1,0 +1,39 @@
+menu:
+  - column: Our Solutions
+    links:
+      - name: All Solutions
+        link: /solutions/
+      - name: Solution One
+        link: #
+      - name: Solution Two
+        link: # 
+      - name: solution Three
+        link: #
+  - column: Company
+    links:
+      - name: About Us
+        link: /about-us/
+      # - name: Contact
+      #   link: /contact-us/
+      # - name: Support
+      #   link: /support/
+      # - name: Terms & Conditions
+      #   link: /terms-conditions/
+
+address: |
+  123 Street Name,
+  City Name, G22RQ
+
+  [0 (+44) 123456789](tel:0(+44)123456789)
+  [hello@example.com](mailto:hello@example.com)
+
+social:
+  - name: Facebook
+    icon: facebook-icon.svg
+    url: #
+  - name: Twitter
+    icon: twitter-icon.png
+    url: #
+  - name: Linkedin
+    icon: linkedin-icon.png
+    url: #
