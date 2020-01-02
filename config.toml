@@ -1,112 +1,20 @@
+baseurl = ""
+description = ""
+enableGitInfo = true
+enableRobotsTXT = true
+paginate = 7
 title = "Anderson Optimization"
-baseURL = "https://andersonoptimization.com/"
-languageCode = "en-us"
-
-[menu]
-
-  [[menu.header]]
-    weight = 2
-    name = "Solutions"
-    url = "/service"
-    class = "test"
-  [[menu.header]]
-    weight = 3
-    name = "About"
-    url = "/about"
-  [[menu.header]]
-    weight = 4
-    name = "Blog"
-    url = "/blog"
-  [[menu.header]]
-    weight = 5
-    name = "Contact"
-    url = "/contact"
-
-  [[menu.footer]]
-    weight = 1
-    name = "User Documentation"
-    url = "https://docs.andersonopt.com/app/v3/"
-  [[menu.footer]]
-    weight = 2
-    name = "Developer Documentation"
-    url = "/developer/"
-  
-
-[taxonomies]
-tag = "tags"
-category = "categories"
-
-# The site's parameters
+[blackfriday]
+fractions = false
 [params]
-
-  # If you want to remove the copyright text you need a Themefisher license.
-  # This license is offered with a 50% discount for all Hugo users.
-  # For information see https://github.com/gohugoio/hugoThemes/issues/260
-
-  dateFormat = "6 January 2006"
-
-  home = "Home"
-
-  [params.login]
-  	name = "Client Login"
-  	url = "https://v3.andersonopt.com"
-
-  [params.slider]
-    enable = true
-    title = "Power System Modeling & Optimization"
-    subtitle = "Renewable siting and grid modeling software for faster and more accurate results."
-
-  [params.wrapper]
-    enable = true
-    title = "Our Approach"
-    italic = "We utilize over a decade of cutting-edge power system modeling, optimization research, and industry experience to deliver the best solution to every customer."
-    paragraph = "We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our additional consultative services further ensure that clients attain maximum value from our software."    
-    [params.wrapper.button]
-      caption = "About Us"
-      url = "about/"
-
-  [params.blog]
-    enable = true
-    title = "Get The Latest On What We're doing"
-    subtitle = "Catch up with us, anytime and anywhere"
-
-  [params.feature]
-    enable = true
-    title = "Why Anderson Optimization?"
-    bullet1 = "Enhanced Models"
-    content1 = "Institute models created specifically to analyze modern grids with renewables and storage to generate more accurate results than competing tools that use dated models designed for unrealistic legacy grids."
-    bullet2 = "Cloud Computing"
-    content2 = "Attain scalable computing power to generate results in minutes rather than hours with other solutions."
-    bullet3 = "Data Visualization"
-    content3 = "Create clear data visualizations that make it easier to quickly gain valuable insights instead of digging through unrefined technical output of other software."
-    bullet4 = "Scenario Analysis"
-    content4 = "Automatically run thousands of simulations to easily determine optimal parameters that will maximize project returns instead of manually modeling each scenario."
-    bullet5 = "Results"
-    content5 = "Save time and increase your project analysis and development return on investment."
-
-
-  [params.call]
-    enable = true
-    title = "Optimize Your Business | Increase Your Returns"
-    paragraph = "We'd love to hear from you. We are confident that our team of experts can deliver the solution that best meets your needs."
-    [params.call.button]
-      caption = "Contact Us"
-      url = "contact/"
-      text = "Contact Us"
-
-
-  [params.contact]
-    enable = true
-    title = "Drop us a note"
-    subtitle = "Don’t just take our word for it. Check out some of our latest work."
-    [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
-      button = "Send message"
-    [params.contact.box]
-      title = "Get in touch"
-      address = "1877 Broadway, Suite #100, Boulder, CO 80302"
-      email = "Email: info@andersonopt.com"
-      phone = "Phone: 612 719 5173"
+author = ""
+email = ""
+url = ""
+ga_analytics = "UA-1179030-2"
+ga_verify = "ZaNNn0hSVhEblnb4DBJ2Fvx6ZH3Baoa6zSkGmFkDqrU"
+image = "random.jpg"
+logo = "opt-logo.svg"
+[taxonomies]
+  tag = "tags"
+[markup.goldmark.renderer]
+unsafe= true
