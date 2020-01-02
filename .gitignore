@@ -1,8 +1,6 @@
-public
-
-# Hugo Gen
-resources
-
-# Mac
 .DS_Store
-
+public
+docs
+node_modules
+resources
+website
