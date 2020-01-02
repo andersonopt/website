@@ -1,0 +1,587 @@
+.color 
+  color: $bright
+
+.form
+  color: $dark
+  display: grid
+  max-width: 45rem
+  grid-gap: 1.5rem
+  margin: 0 auto
+  text-align: left
+  padding: 1.5rem
+  background-color: $light
+  &_wrap
+    width: 100%
+  @media screen and (min-width: 769px)
+    grid-template-columns: 1fr 1fr
+    border-radius: 0.5rem
+  &_login
+    max-width: initial
+    margin: 0
+    padding: 0
+  &_input 
+    display: block
+    width: 100%
+    padding: 10px 12.5px
+    font-size: 16px
+    outline: 0
+    line-height: 1.6
+    border: none
+    border-radius: 6px
+    transition: box-shadow $ease .15s
+    -moz-appearance: none
+    box-shadow: 0 0.25rem 0.5rem rgba($dark, 0.15)
+    -webkit-appearance: none
+    appearance: none
+    background-color: $light
+    &:focus 
+      box-shadow:  0 1rem 1.5rem rgba($dark, 0.15)
+    
+  > &_input:first-of-type 
+    margin-top: 0.75rem
+  
+  &_interest 
+    color: #888
+  
+  &_label
+    margin-bottom: 0.5rem
+  .h2 
+    margin-bottom: -1rem
+  
+.button
+  background-color: $shade
+  border: 1px solid transparent
+  display: inline-flex
+  align-items: center
+  justify-content: center
+  color: $light
+  cursor: pointer
+  font-family: $font-two
+  font-size: 1rem
+  margin: 1rem 0
+  outline: none
+  padding: 0.6rem 1.2rem
+  border-radius: 0.25rem
+  line-height: 1.25
+  max-width: 16.5rem
+  opacity: 1
+  text-align: center
+  transition: opacity 0.3s $ease
+  text-decoration: none !important
+  font-weight: 500
+  &_translucent
+    background-color: $pale
+    border: 1px solid transparent
+    color: $theme !important
+    &:hover
+      border-color: $pale
+  img
+    width: 1rem
+    margin-right: 0.5rem
+  &:hover 
+    opacity: 0.8
+    box-shadow: 0 0 30px rgba(0,0,0,0.17)
+  &_light
+    background-color: $light
+    color: $dark !important
+    box-shadow: 0 0.5rem 2rem rgba(0,0,0,0.17)
+    &:hover
+      box-shadow: 0 1rem 2rem rgba(0,0,0,0.17)
+  &_auto 
+    margin-left: auto
+    margin-right: auto
+  
+.error 
+  min-height: 75vh
+  display: flex
+  justify-content: center
+  align-items: center
+  flex-direction: column
+
+.footer
+  background-color: $tint
+  color: $light
+  li
+    list-style-type: none
+  
+  h3 
+    margin-bottom: 0.5rem
+    color: $theme
+  
+  h4 
+    margin: 0
+    color: inherit
+  img 
+    width: 1rem
+    margin-right: 0.4rem
+    display: inline-block
+  &_lower
+    background-color: rgba($darker, 0.2)
+  &_upper
+    padding: 1.5rem !important
+    display: grid
+    grid-gap: 2.25rem 3rem
+    grid-template-columns: repeat(auto-fit, minmax(16.5rem, 1fr))
+    @media screen and (min-width: 1024px)
+      grid-template-columns: 2fr 1fr 1fr 1fr 1fr
+  &_column
+    display: block
+    a
+      display: block
+      padding: 0.2rem 0
+
+
+.video
+  &_embed 
+    position: relative
+    padding-bottom: 56.25%
+    padding-top: 30px 
+    height: 0
+    overflow: hidden
+    margin: 25px 0
+    iframe,
+    object,
+    embed 
+      position: absolute
+      top: 0
+      left: 0
+      width: 100%
+      height: 100%
+  
+.review
+  background-color: $light
+  border: 1px solid $haze
+  box-shadow: 0 0.2rem 0.8rem $haze
+  border-radius: 0.25rem
+  overflow: hidden
+  &_body, &_footer
+    padding: 1rem
+  &_footer
+    border-top: 1px solid $haze
+  &_title, &_role
+    color: $theme
+
+.toc
+  max-height: 90vh
+  position: sticky
+  position: -webkit-sticky
+  top: 6rem
+  overflow-y: auto
+  border-radius: 0.25rem
+  background-color: $light
+  margin-top: 0.25rem
+  box-shadow: 0 1rem 2rem rgba(0,0,0,.17)
+  ul
+    list-style: none
+  li 
+    padding: 0
+  &_wrap
+    height: 90vh
+  &_item
+    display: block
+    padding: 0.5rem 1rem
+    position: relative
+    border: 1px solid $haze
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: -1px
+      bottom: 0
+      padding: 1px
+      background-color: $theme
+      opacity: 0
+      z-index: 2
+      transition: opacity 0.5s $ease
+  &_active
+    &::before
+      background-color: $theme !important
+      color: $light
+      opacity: 1
+    &.toc_tally
+      background-color: $haze
+      &::after
+        background-color: $theme !important
+        color: $light
+  &_tally
+    display: grid
+    grid-template-columns: 1fr 2rem
+    grid-gap: 1rem
+    align-items: center
+    border-top: none
+    &::after
+      content: attr(data-items)
+      position: relative
+      right: 0.5rem
+      background-color: $haze
+      border-radius: 1rem
+      display: inline-grid
+      align-items: center
+      text-align: center
+      font-size: 0.75rem
+.hero
+  background-color: #222
+  h1
+    font-size: 2.5rem
+  p
+    // font-size: 1.2rem
+    font-weight: 500
+  &, &_form
+    display: grid
+    align-items: center
+    background-size: cover
+    background-position: 50% 50%
+    color: $light
+    padding-top: 3rem
+    padding-bottom: 3rem
+    min-height: 32.5rem
+    position: relative
+    &::after
+      content: ""
+      position: absolute
+      top: 0
+      left: 0
+      bottom: 0
+      right: 0
+      background-color: rgba($darker, 0.15)
+      z-index: 1
+    > div
+      position: relative
+      z-index: 2
+  &_min
+    min-height: 22.5rem
+  &_form
+    max-height: initial
+    display: flex
+    justify-content: center
+    .form
+      position: relative
+      z-index: 2
+      width: 100%
+      margin-top: 3rem
+      margin-bottom: 3rem
+    &::after
+      background: linear-gradient(to bottom, rgba($darker, 0.6), $tint) 
+
+.space
+  margin-top: 3rem
+  margin-bottom: 3rem
+
+.topic
+  margin-bottom: 3rem
+  border-radius: 0.25rem
+  overflow: hidden
+  .video
+    background-color: $dark
+    box-shadow: none !important
+  &, &_heading
+    background-color: $light
+    padding: 1rem
+  &_heading
+    padding-bottom: 0.5rem
+    color: $theme
+    position: relative
+    border-radius: 0.25rem 0.25rem 0 0
+    &::after
+      position: absolute
+      bottom: -0.5rem
+      left: 1rem
+      right: 1rem
+      content: ""
+      padding: 1px
+      opacity: 0.9
+      border-bottom: 2px solid $haze
+      
+  &_title
+    border-top: 1px solid $light
+    padding: 0.6rem 0
+    position: relative
+    display: grid
+    grid-template-columns: 2rem 1fr
+    align-items: center 
+    cursor: pointer
+    &::before
+      position: relative
+      content: "+"
+      font-size: 1.5rem
+      color: $theme
+  &_open
+    &::before
+      content: "-"
+  &_open + &_details
+    height: initial
+    opacity: 1
+    padding-bottom: 1rem
+  &_details
+    height: 0
+    opacity: 0
+    overflow: hidden
+    transition: opacity 0.3s $ease
+
+.share
+  display: flex
+  align-items: center
+  position: relative
+  padding-top: 1rem
+  padding-bottom: 1rem
+  padding-left: 5rem
+  border-bottom: 1px solid $haze
+  margin-bottom: 1rem
+  @media screen and (min-width: 992px)
+    padding-left: 0
+    border: 1px solid $haze
+    box-shadow: 0px 0.25rem 0.5rem rgba(0, 0, 0, 0.12)
+    width: 3.2rem
+    flex-direction: column
+    padding-top: 5rem
+  &::before
+    content: "share"
+    position: absolute
+    text-transform: uppercase
+    font-weight: 500
+    transform-origin: 50% 50%
+    opacity: 0.5
+    transform: rotate(0)
+    left: 1rem
+    @media screen and (min-width: 992px)
+      left: 0
+      top: 2rem
+      transform: rotate(-90deg)
+  &_item
+    width: 2rem
+    height: 2rem
+    margin: 0.5rem
+    border-radius: 50%
+    display: inline-flex
+    justify-content: center
+    align-items: center
+    img
+      width: 40%
+    &.copy
+      background-color: $dark
+
+.article
+  display: grid
+  @media screen and (min-width: 992px)
+    grid-template-columns: 1fr 8fr 1fr
+  &_excerpt
+    border: 1px solid $haze
+    box-shadow: 0 0.2rem 0.8rem $haze
+    border-radius: 0.25rem
+    overflow: hidden
+    .button
+      text-transform: capitalize
+  &_thumb
+    display: block
+    min-height: 12.5rem
+    background-position: 50% 50%
+    background-size: cover
+    + a .button
+      margin: 1.5rem 0 0 1rem
+  &_preview
+    padding: 1rem
+  
+
+.partner
+  flex: 1
+  width: 7rem
+  max-width: 7rem
+  margin: 0.25rem 1rem
+  &s
+    display: flex
+    justify-content: center
+    flex-flow: row wrap
+    align-items: center
+    margin-bottom: 1rem
+
+
+.services
+  display: grid
+  grid-gap: 1rem 3rem
+  max-width: 1280px
+  padding: 0 25px
+  margin-left: auto
+  margin-right: auto
+  margin-bottom: 2.5rem
+  @media screen and (min-width: 768px)
+    margin-bottom: 4rem
+    grid-template-columns: 1fr 1fr
+  h2
+    color: $theme
+    font-size: 1rem
+  img
+    border-radius: 0.5rem
+  div
+    display: inline-flex
+    flex-direction: column
+    justify-content: center
+    @media screen and (min-width: 768px)
+      padding-top: 1rem
+      padding-bottom: 1rem
+
+.mobile
+  &_start
+    @media screen and (max-width: 767px)
+      order: -1
+
+.video
+  overflow: hidden
+  padding-bottom: 56.25%
+  position: relative
+  height: 0
+  margin: 1.5rem 0
+  border-radius: 0.6rem
+  background-color: var(--bg)
+  box-shadow: 0 1rem 2rem rgba(0,0,0,0.17)
+  iframe
+    left: 0
+    top: 0
+    height: 100%
+    width: 100%
+    position: absolute
+    transform: scale(1.02)
+
+.benefits
+  > div
+    display: grid
+    grid-template-columns: 5rem 1fr
+    grid-gap: 1rem
+
+.tag
+  padding: 0.75rem 0
+  text-transform: capitalize
+  margin-right: 2rem
+  position: relative
+  opacity: 0.5
+  &, &::after
+    transition: opacity 0.3s $ease
+  &::after
+    content: ""
+    height: 2px
+    position: absolute
+    left: 0
+    bottom: -1px
+    right: 0
+    width: 100%
+    z-index: 999
+    background-color: $theme
+    opacity: 0
+    transition: opacity 0.3s $ease
+  &s
+    display: flex
+    flex-flow: row wrap
+  &_active
+    opacity: 1
+    &::after
+      opacity: 1
+
+.banner
+  display: grid
+  background-color: $light
+  box-shadow: 0 0.25rem 0.5rem rgba($dark, 0.12)
+  padding: 1rem
+  border-radius: 0.25rem
+  margin-bottom: 2rem
+  grid-gap: 1rem
+  align-items: center
+  @media screen and (min-width: 667px)
+    grid-template-columns: 4rem 1fr 15rem
+  p
+    padding: 0.2rem 0
+  .button
+    padding: 0.5rem 1rem
+  .icon
+    width: 3rem
+
+.stack
+  display: grid
+  background-color: $light
+  box-shadow: 0 0.25rem 0.5rem rgba($dark, 0.12)
+  padding: 1rem
+  border-radius: 0.25rem
+  h4
+    margin-bottom: 0
+    padding-bottom: 0
+    color: $theme
+    + p
+      padding-top: 0
+
+.search
+  &_form
+    display: grid
+    align-items: center
+    position: relative
+    margin-bottom: 1.5rem
+    // @media screen and (max-width: 991px)
+    //   z-index: -1
+  
+  &_label
+    opacity: 0
+    visibility: hidden
+    position: absolute
+    z-index: 1
+  
+  &_tag, &_submit
+    color: $dark
+    overflow: hidden
+    width: 2.5rem
+    border: none
+    background-image: url(/images/search.svg)
+    background-repeat: no-repeat
+    background-size: 0.9rem
+    background-position: 50% 50%
+    opacity: 0.36
+  &_submit
+    position: absolute
+    right: 0
+    top: 0.2rem
+    bottom: 0.2rem
+    z-index: 4
+  &_wrap
+    background-color: $light
+    border-bottom: 1px solid $gray
+  &_wrap &_form
+    margin-bottom: 0
+  &_wrap &_field
+    box-shadow: none
+    padding-left: 1.5rem
+    font-size: 1.5rem
+  &_wrap &_submit
+    left: -1rem
+  &_wrap &_field:focus + &_submit
+    display: initial
+  &_field
+    display: block
+    width: 100%
+    border-radius: 0.25rem
+    padding: 0.75rem 1.5rem
+    border: none
+    outline: none
+    font-size: 1rem
+    -webkit-appearance: none
+    appearance: none
+    position: relative
+    z-index: 2
+    box-shadow: 0 0.25rem 2rem rgba($dark, 0.1)
+  &_field:focus + &_submit
+    display: none
+
+.result
+  margin-bottom: 1.5rem
+  &s
+    list-style: none
+    padding: 0
+  
+  &_link
+    text-decoration: none
+
+@media screen and (min-width: 992px)
+  .layer
+    &::after
+      content: ""
+      position: absolute
+      top: 0
+      right: 0
+      left: 50%
+      bottom: 0
+      background-color: $dark

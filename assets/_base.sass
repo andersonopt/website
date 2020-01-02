@@ -1,0 +1,227 @@
+*
+  &,&::after,&::before
+    box-sizing: border-box
+    margin: 0
+    padding: 0
+  
+html 
+  -webkit-text-size-adjust: 100%
+  -ms-text-size-adjust: 100%
+
+html, body
+  scroll-behavior: smooth
+  @media screen and (max-width: 991px)
+    max-width: 100vw
+    background: $tint
+    overflow-x: hidden
+
+body
+  display: flex
+  flex-direction: column
+  justify-content: space-between
+  min-height: 100vh
+  font-size: 16px
+  font-family: $font
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+
+main 
+  flex: 1
+  position: relative
+  z-index: 99
+  &.haze
+    background-color: $haze
+  @media screen and (max-width: 991px)
+    background-color: $light
+  li 
+    padding: 0.5rem 0
+    font-weight: 500
+    p 
+      padding: 0
+      line-height: inherit
+      &:not(:first-child) 
+        font-weight: 400
+    
+a
+  color: inherit
+  transition: opacity 0.3s
+  text-decoration: none
+  &:hover
+    opacity: 0.9
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 
+  padding: 0.3rem 0
+  font-family: $font-two
+  font-weight: 500
+  line-height: 1.4
+  color: inherit
+  &::first-letter 
+    text-transform: uppercase
+
+h1 
+  font-size: 1.65rem
+
+h1, h2
+  margin: 0.67rem 0 0
+
+h2, .h2 
+  font-size: 1.5rem
+
+p 
+  line-height: 1.6
+  padding: 0.75rem 0
+  max-width: 960px
+  &::first-letter 
+    text-transform: uppercase
+  &:empty, &:blank
+    display: none
+  
+
+ul, ol 
+  padding-left: 20px
+
+figure
+  img
+    vertical-align: top
+img 
+  border: 0
+  width: 100%
+  height: auto
+  max-width: 100%
+
+textarea 
+  resize: none
+
+label
+  font-weight: 500
+  display: inline-block
+  max-width: 100%
+  margin-bottom: 5px
+
+nav 
+  ul 
+    padding: 0
+  
+.pesapal 
+  opacity: 0.6
+  transition: opacity 0.3s ease-in-out
+  &:hover 
+    opacity: 1
+  
+.content 
+  a:not(.btn) 
+    text-decoration: underline
+    color: $shade
+
+
+table 
+  margin: 1.5rem 0
+  min-width: 100%
+
+td,
+th 
+  padding: 0.5rem 1rem
+  text-align: left
+  font-weight: 400
+  &:not(:first-child) 
+    padding-left: 1.5rem
+
+thead 
+  background: rgba($theme, 0.2)
+
+tbody 
+  padding: 0
+  tr
+    background-color: #f7f7f7
+
+button 
+	outline: none
+	text-decoration: none
+
+b, em, strong 
+	font-weight: 500
+	color: $darker
+
+input 
+	-webkit-appearance: button
+	cursor:   pointer
+
+blockquote
+  display: flex
+  font-size: 1.25rem
+  font-weight: 700
+  flex-flow: row wrap
+  align-items: center
+  padding: 1.2rem
+  border-left: 3px solid $shade
+  margin: 1.5rem 0
+  p:last-child:not(:first-child)
+    opacity: 0.7
+    text-transform: uppercase
+
+ul 
+	list-style: disc
+
+ol 
+	list-style: decimal
+
+select 
+	border: 1px solid #ccc
+
+input:focus,
+textarea:focus 
+	color: #111
+
+
+a:hover,
+a:active 
+	outline: 0
+
+
+.center 
+	margin-left:  auto
+	margin-right: auto
+
+
+@keyframes blink 
+	0% 
+		opacity: 1
+	
+	50% 
+		opacity: 0
+	
+	100% 
+		opacity: 1
+	
+.list-arrow li 
+	margin-bottom: 0
+
+.contact-info a 
+	color: #ccc
+
+.text-center 
+	text-align: center
+
+@keyframes rotation 
+	0% 
+		transform: rotate(0deg)
+	
+	50% 
+		transform: rotate(180deg)
+	
+	100% 
+		transform: rotate(360deg)
+
+fieldset
+  background-color: transparent
+  border: none
+  outline: none
+
+hr
+  height: 1px
+  opacity: 0.25

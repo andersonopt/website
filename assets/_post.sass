@@ -1,0 +1,92 @@
+.post
+  &_header
+    display: grid
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr))
+    grid-gap: 1rem
+  &_summary
+    background-color: $haze
+    padding: 1rem 1.5rem
+    h1
+      color: $theme
+      margin-bottom: 0.5rem
+  &_meta
+    display: grid
+    grid-template-columns: 4rem 1fr
+    grid-gap: 1rem
+    align-items: center
+    margin-top: 1.1rem
+    span
+      display: block
+  &_avatar
+    border-radius: 50%
+    background-color: $light
+    overflow: hidden
+  &_date
+    color: $theme
+.pager
+  display: flex
+  justify-content: center
+  align-content: center
+  font-weight: 500
+  margin: 0.25rem auto 1.25rem auto
+  &, &_item
+    justify-content: center
+    align-items: center
+  
+  &_item
+    position: relative
+    height: 36px
+    width: 36px
+    display: inline-flex
+    margin-left: 5px
+    margin-right: 5px
+    color: $theme
+    background-color: $haze
+    border-radius: 50%
+    margin-bottom: 1rem 
+    &:hover
+      opacity: 0.5
+    
+  
+  &_prev, &_next
+    background: $haze
+    opacity: 0.3
+    background-position: 50% 50%
+    background-repeat: no-repeat
+    background-size: 0.64rem
+    background-image: url(/images/arrow.svg)
+
+  &_prev
+    transform-origin: 50% 50%
+    transform: rotate(180deg)
+    &:first-of-type
+      background-image: url(/images/double-arrow.svg) !important
+  &_next
+    &:last-of-type
+      background-image: url(/images/double-arrow.svg) !important
+    
+      
+  
+  &_active
+    background: $shade
+    color: $light
+  
+  &_actionable
+    opacity: 1
+.excerpt
+  display: grid
+  grid-template-columns: 1fr 2fr
+  grid-gap: 1rem
+  margin: 1rem 0
+  .button
+    margin-top: 0
+    text-transform: capitalize
+  &_thumbnail
+    background-size: cover
+    background-position: 50% 50%
+  @media screen and (max-width: 767px)
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr))
+
+aside .excerpt
+  &_preview, .button
+    display: none
