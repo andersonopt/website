@@ -12,6 +12,11 @@ sections:
 - type: document
   path: data/menu.yaml
   label: Menu
+- type: directory
+  path: data
+  label: Data
+  create: all
+  match: "**/*.yaml"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
