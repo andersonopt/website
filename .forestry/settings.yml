@@ -9,14 +9,36 @@ sections:
   label: Pages
   create: all
   match: "**/*"
+- type: heading
+  label: Navigation
 - type: document
   path: data/menu.yaml
   label: Menu
+- type: document
+  path: data/footer.yaml
+  label: Footer
+  match: "**/*"
+- type: heading
+  label: Data
 - type: directory
   path: data/support
   label: Support
   create: all
   match: "*.yaml"
+- type: document
+  path: data/testimonials.yaml
+  label: Testimonials
+  match: "**/*"
+- type: document
+  path: data/authors.yaml
+  label: Authors
+  match: "**/*"
+- type: document
+  path: data/partners.yaml
+  label: Partners
+  match: "**/*"
+- type: heading
+  label: Misc
 - type: directory
   path: data
   label: Data
