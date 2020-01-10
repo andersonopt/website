@@ -1,25 +1,25 @@
+---
 center:
-  - link: Solutions
-    url: "/solutions/"
-    submenu:
-      - link: Solution One
-        url: "/solutions/#solution-one"
-      - link: Solution Two
-        url: "/solutions/#solution-two"
-      - link: Solution Three
-        url: "/solutions/#solution-three"
-  - link: Testimonials
-    url: "/testimonials/"
-  - link: Company
-    url: "/product/"
-  - link: Blog
-    url: "/blog/"
-
+- link: Solutions
+  url: "/solutions/"
+  submenu:
+  - link: AO Prospect
+    url: "/solutions/prospect"
+  - link: Solution Two
+    url: "/solutions/#solution-two"
+  - link: Solution Three
+    url: "/solutions/#solution-three"
+- link: Testimonials
+  url: "/testimonials/"
+- link: Company
+  url: "/product/"
+- link: Blog
+  url: "/blog/"
 right:
-  - link: Log in
-    url: "/login/"
-    type: "translucent button"
-    icon: "user-icon.svg"
-  - link: Book a demo
-    url: "/book-a-demo/"
-    type: "button"
+- link: Log in
+  url: "/login/"
+  type: translucent button
+  icon: user-icon.svg
+- link: Book a demo
+  url: "/book-a-demo/"
+  type: button
