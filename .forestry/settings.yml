@@ -13,6 +13,11 @@ sections:
   path: data/menu.yaml
   label: Menu
 - type: directory
+  path: data/support
+  label: Support
+  create: all
+  match: "*.yaml"
+- type: directory
   path: data
   label: Data
   create: all
