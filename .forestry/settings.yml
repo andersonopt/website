@@ -16,7 +16,7 @@ sections:
   path: data
   label: Data
   create: all
-  match: "**/*.yaml"
+  match: "*.yaml"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
