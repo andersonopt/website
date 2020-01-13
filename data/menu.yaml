@@ -7,12 +7,10 @@ center:
     url: "/solutions/prospect"
   - link: Energy Markets
     url: "/solutions/ao-energy-market"
-  - link: Solution Three
-    url: "/solutions/#solution-three"
 - link: Testimonials
   url: "/testimonials/"
 - link: Company
-  url: "/product/"
+  url: "/about-us/"
 - link: Blog
   url: "/blog/"
 right:
