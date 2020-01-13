@@ -1,12 +1,14 @@
 +++
+date = 2019-12-12T18:22:23Z
 title = "Software & Solutions"
-date = 2019-12-12T21:22:23+03:00
-draft = false
-+++
 
++++
 {{< block "hero" "road-flyovers.png" >}}
 {{< column "wrap_min center" >}}
+
 # Software & Solutions
+
+Software solution update!
 
 Advanced software solutions that optimize site identification,project analysis, and grid modeling activities for utilities, renewable developers, and other energy industry stakeholders.
 {{< /column >}}
@@ -17,7 +19,9 @@ Advanced software solutions that optimize site identification,project analysis, 
 ![blank image](/images/solar-panels.png)
 {{< /column >}}
 {{< column >}}
+
 ## AO Platform
+
 ### Energy Analysis Platform
 
 A powerful software platform built on the cloud capable of performing flexible and integrated energy analysis workflow
@@ -27,7 +31,9 @@ A powerful software platform built on the cloud capable of performing flexible a
 {{< /block >}}
 {{< block "services" >}}
 {{< column >}}
+
 ## AO Energy Markets
+
 ### Grid Modeling & Optimization
 
 Utilize cutting-edge production cost and optimization modeling frameworks for injection studies, price and congestion analysis, storage modeling, and more.
@@ -43,7 +49,9 @@ Utilize cutting-edge production cost and optimization modeling frameworks for in
 ![blank image](/images/solar-panels.png)
 {{< /column >}}
 {{< column >}}
+
 ## AO Site Analysis
+
 ### Site Feasibility & Valuation
 
 Perform automated site analysis to determine the true valuation, ideal technology mix, and optimal parameters for your project.
@@ -53,7 +61,9 @@ Perform automated site analysis to determine the true valuation, ideal technolog
 {{< /block >}}
 {{< block "services" >}}
 {{< column >}}
+
 ## AO Prospect
+
 ### Renewable Siting
 
 Identify quality land for new sites in a matter of minutes using a variety of data and proprietary automation capabilities.
