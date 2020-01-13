@@ -5,7 +5,9 @@ title = "AO Energy Market"
 +++
 {{< block "grid-2 mt-5 wrap" >}}
 {{< column >}}
-### AO Prospect
+
+### AO Energy Markets
+
 #### Prospect ...
 
 A powerful software platform built on the cloud capable of performing flexible and integrated energy analysis workflo
@@ -20,7 +22,9 @@ A powerful software platform built on the cloud capable of performing flexible a
 {{< /block >}}
 
 {{< column "wrap space" >}}
+
 ## Software Benefits
+
 {{< /column >}}
 
 {{< block "grid-3 wrap benefits" >}}
@@ -38,6 +42,7 @@ Anyone can easily perform complex analysis
 {{< column >}}
 {{< icon "cloud.svg" "star icon" "bluecircle" >}}
 {{< column >}}
+
 ### Cloud Software
 
 Produce results faster, and minimize internal software management
@@ -47,6 +52,7 @@ Produce results faster, and minimize internal software management
 {{< column >}}
 {{< icon "edit.svg" "star icon" "bluecircle" >}}
 {{< column >}}
+
 ### Customization
 
 Expedited feature development and rapid integration with existing tools
@@ -56,6 +62,7 @@ Expedited feature development and rapid integration with existing tools
 {{< column >}}
 {{< icon "speedometer.svg" "star icon" "bluecircle" >}}
 {{< column >}}
+
 ### Optimization Software
 
 State-of-the-art optimization models and software provide highly accurate and precise results
@@ -65,6 +72,7 @@ State-of-the-art optimization models and software provide highly accurate and pr
 {{< column >}}
 {{< icon "basic-plug.svg" "star icon" "bluecircle" >}}
 {{< column >}}
+
 ### External Integration
 
 Produce results faster, and minimize internal software management
@@ -77,7 +85,9 @@ Produce results faster, and minimize internal software management
 {{< /column >}}
 
 {{< column "wrap pt-3 pb-3 center" >}}
+
 ## “Product” Features
+
 {{< /column >}}
 
 {{< block "grid-2 wrap pb-3" >}}
@@ -85,6 +95,7 @@ Produce results faster, and minimize internal software management
 ![](/images/macbook.png)
 {{< /column >}}
 {{< column "v-center" >}}
+
 ### Interactive Platform
 
 Real-time updates and synchronization allow for seamless team collaboration.
@@ -92,6 +103,7 @@ Real-time updates and synchronization allow for seamless team collaboration.
 {{< /block >}}
 {{< block "grid-2 wrap pb-3" >}}
 {{< column "v-center" >}}
+
 ### Energy Analysis Specific
 
 Built directly for the energy industry by including commonly used data and parameters such as grid infrastructure information and time of use rates.
@@ -105,6 +117,7 @@ Built directly for the energy industry by including commonly used data and param
 ![](/images/macbook.png)
 {{< /column >}}
 {{< column "v-center" >}}
+
 ### Extensible Features
 
 Create new features and streamlined analysis to best meet user needs using a flexible task system.
@@ -112,6 +125,7 @@ Create new features and streamlined analysis to best meet user needs using a fle
 {{< /block >}}
 {{< block "grid-2 wrap pb-3" >}}
 {{< column "v-center" >}}
+
 ### Data Visualizations
 
 Customized visualizations make it easy for any user to gain valuable insights.
