@@ -11,3 +11,5 @@ fields:
     required: false
   label: Featured Image
   description: Page featured image
+pages:
+- content/solutions/ao-energy-market.md
