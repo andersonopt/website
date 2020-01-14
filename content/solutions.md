@@ -1,6 +1,6 @@
 +++
 date = 2019-12-12T18:22:23Z
-title = "Software & Solutions"
+title = "Software and Solutions"
 
 +++
 {{< block "hero" "road-flyovers.png" >}}
