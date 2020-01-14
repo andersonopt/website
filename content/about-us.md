@@ -85,7 +85,7 @@ BLURB HERE
 
 Eric earned his Bachelor of Science degrees in Math, Science and Physics, Master of Engineering (M.Eng.), and Doctor of Industrial and Systems Engineering (D.Sc) from the University of Wisconsin, Madison. Eric’s doctoral work was focused on modeling uncertainty due to renewable generation and large-scale computational analysis.
 
-After attaining his PhD, Eric went to work in the production cost modeling industry where he applied his advanced technical capabilities to real-world problems.
+After attaining his PhD, Eric worked in the production cost modeling industry where he applied his advanced technical capabilities to real-world problems.
 
 
 {{< /column >}}
@@ -99,7 +99,7 @@ After attaining his PhD, Eric went to work in the production cost modeling indus
 
 Jake earned his BSB in Finance and Entrepreneurial Management with a minor in Information System Management from the Carlson School of Management at the University of Minnesota.
 
-After attaining his degrees, Jake began his career in Fortune 500 corporate finance where he led a variety of cross-functional project teams and focused on strategy and business operations.
+Prior to founding Anderson Optimization, Jake began his career in Fortune 500 corporate finance where he led a variety of cross-functional project teams and focused on strategy and business operations.
 
 
 {{< /column >}}
