@@ -1,7 +1,7 @@
 +++
-title = "page"
-+++
+title = "Home Page"
 
++++
 {{< block "hero" "windmills.png" >}}
 {{< column "wrap_min center">}}
 # Power system modeling & optimization
