@@ -42,9 +42,9 @@ A powerful software platform built on the cloud capable of performing flexible a
 
 ## (2)AO Energy Markets
 
-### Quickly perform production cost modeling runs and clearly evaluate tradeoffs
+### Perform production cost modeling runs and evaluate tradeoffs
 
-Quickly test different models and adjust assumptions to understand basis risk, pricing, congestion, and overall financial viability of a site.
+Quickly test different models and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
 
 {{< button "#" "Learn More" >}}
 {{< /column >}}
