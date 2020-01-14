@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Home Page"
 
 +++
@@ -33,7 +34,7 @@ Automate time-consuming analysis to accelerate renewable energy development and 
 
 Identify potential parcels and automate complex GIS analysis to find high-quality sites in just minutes.
 
-{{< button "/ao-prospect/" "Learn more →" >}} {{< /column >}} {{< /block >}} {{< block "services" >}} {{< column >}}
+{{< button "/solutions/prospect/" "Learn more →" >}} {{< /column >}} {{< /block >}} {{< block "services" >}} {{< column >}}
 
 ## AO Energy Markets
 
@@ -41,7 +42,7 @@ Identify potential parcels and automate complex GIS analysis to find high-qualit
 
 Quickly test different models and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
 
-{{< button "/ao-energy-markets/" "Learn more →" >}} {{< /column >}} {{< column "mobile_start" >}} ![blank image](/images/solar-panels.png)
+{{< button "/solutions/energy-markets/" "Learn more →" >}} {{< /column >}} {{< column "mobile_start" >}} ![blank image](/images/solar-panels.png)
 {{< /column >}}
 {{< /block >}}
 
@@ -53,7 +54,7 @@ Quickly test different models and adjust assumptions to understand key considera
 
 #### We know that existing tools make renewable development slow and expensive. We reduce project inefficiencies and provide better analytical tools to lower project costs and maximize ROI.
 
-We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our additional consultative services further ensure that clients attain maximum value from our software. {{< button "/why-anderson-optimization/" "Read More" >}} {{< /column >}} {{< /column >}} {{< /block >}}
+We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our additional consultative services further ensure that clients attain maximum value from our software. {{< button "/why-anderson/" "Read More" >}} {{< /column >}} {{< /column >}} {{< /block >}}
 
 {{< column "wrap_min center pb-2" >}}
 
