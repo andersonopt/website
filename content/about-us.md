@@ -7,13 +7,12 @@ title = "About Us"
 
 # About Us
 
-Our purpose is to accelerate the adoption of renewable energy and storage by providing software and services that increase efficiency and effectiveness for our partners. 
+## We fundamentally believe that renewable energy and storage needs to be the future. 
 
 {{< /column >}}
 {{< /block >}}
 
-{{< column "wrap_min center space" >}}
-We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our additional consultative services further ensure that clients attain maximum value from our software.
+{{< column "wrap_min center space" >}} is to accelerate the adoption of renewable energy and storage by providing software and services that increase efficiency and effectiveness for our partners. We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our additional consultative services further ensure that clients attain maximum value from our software.
 
 {{< /column >}}
 {{< column "wrap_min center space" >}}
