@@ -108,15 +108,12 @@ Traditionally, moving into a new market can take up to a few weeks to find the r
 
 Finding potential parcels and evaluating parcel quality can be tedious and time-consuming. AO Prospect helps users automate these processes in minutes.
 
-#### Easily calculate buildable area and create constraint maps
+* _Easily calculate buildable area and create constraint maps:_ Automatically calculate directional buildable acreage estimates for parcels and create hazard constraint maps in a few clicks.
+* _Quickly identify potential parcels:_ 
 
-> Automatically calculate directional buildable acreage estimates for parcels and create hazard constraint maps in a few clicks.
+  Find potential parcels in an area of interest in just a click. Set parameters for your search (how far from your starting point do you want to look for parcels and minimum acreage).
 
-#### Quickly identify potential parcels
-
-> Find potential parcels in an area of interest in just a click. Set parameters for your search (how far from your starting point do you want to look for parcels and minimum acreage).
-
- {{< /column >}} {{< column "mobile_start" >}} ![](/images/macbook.png)
+{{< /column >}} {{< column "mobile_start" >}} ![](/images/macbook.png)
 {{< /column >}}
 {{< /block >}}
 {{< block "grid-2 wrap pb-3" >}}
@@ -125,13 +122,13 @@ Finding potential parcels and evaluating parcel quality can be tedious and time-
 {{< /column >}}
 {{< column "v-center" >}}
 
-### Extensible Features
+### Seamlessly collaborate across teams in the cloud
 
-Create new features and streamlined analysis to best meet user needs using a flexible task system.
-{{< /column >}}
-{{< /block >}}
-{{< block "grid-2 wrap pb-3" >}}
-{{< column "v-center" >}}
+* Projects automatically save in real-time
+* Work is accessible from anywhere
+* Easily export data and constraint maps for downstream work
+
+{{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
 
 ### Data Visualizations
 
