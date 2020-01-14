@@ -25,12 +25,6 @@ Open models, a cloud-based platform, and easy-to-use interface reduce challening
 
 {{< /column >}}
 
-{{< block "grid-3 wrap_min center" >}} {{< column >}} {{< icon "wind-turbine.svg" "star icon" "bluecircle" >}}
-
-## Why Anderson Optimization?
-
-{{< /column >}}
-
 {{< block "grid-3 wrap_min center" >}}
 {{< column >}}
 {{< icon "wind-turbine.svg" "star icon" "bluecircle" >}}
@@ -87,11 +81,11 @@ Attain scalable computing power to generate results in minutes rather than hours
 
 {{< icon "linkedin-blue.svg" "linkedin icon" "small" >}} eric@andersonopt.com
 
-Eric earned his Bachelor of Science degre in Math, Science and Physics, Master of Engineering (M.Eng.), and Doctor of Industrial and Systems Engineering (D.Sc) from the University of Wisconsin, Madison. Eric’s doctoral work was focused on modeling uncertainty due to renewable generation and large-scale computational analysis.
+Eric earned his Bachelor of Science degrees in Math, Science and Physics, Master of Engineering (M.Eng.), and Doctor of Industrial and Systems Engineering (D.Sc) from the University of Wisconsin, Madison. Eric’s doctoral work was focused on modeling uncertainty due to renewable generation and large-scale computational analysis.
 
 After attaining his PhD, Eric went to work in the production cost modeling industry where he applied his advanced technical capabilities to real-world problems, giving him the experience necessary to create Anderson Optimization’s software and modeling infrastructure.
 
-At Anderson Optimization, Eric oversees all modeling, optimization, and software development.
+
 {{< /column >}}
 {{< column >}}
 
@@ -105,7 +99,7 @@ Jake earned his BSB in Finance and Entrepreneurial Management with a minor in In
 
 After attaining his degrees, Jake began his career in Fortune 500 corporate finance where he led a variety of cross-functional project teams and implemented numerous strategic initiatives. This work provided him with a robust strategy and management skillsets to develop the business and organizational components of Anderson Optimization.
 
-At Anderson Optimization, Jake oversees all business development, strategy, and sales activities.
+
 {{< /column >}}
 {{< column >}}
 ![](/images/eric-1.png)
