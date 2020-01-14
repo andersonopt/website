@@ -8,7 +8,7 @@ title = "AO Prospect"
 
 # AO Prospect
 
-## Expedite and simplify early-stage land siting
+### Expedite and simplify early-stage land siting
 
 Identify potential parcels and automate complex GIS analysis to find high-quality sites in just minutes.
 
@@ -86,7 +86,7 @@ Produce results faster, and minimize internal software management
 
 {{< column "wrap pt-3 pb-3 center" >}}
 
-## “Product” Features
+## Find high-quality sites more quickly
 
 {{< /column >}}
 
@@ -96,13 +96,9 @@ Produce results faster, and minimize internal software management
 {{< /column >}}
 {{< column "v-center" >}}
 
-### Interactive Platform
+### See all key data layers for renewable siting in one place and quickly move into new markets
 
-Real-time updates and synchronization allow for seamless team collaboration.
-{{< /column >}}
-{{< /block >}}
-{{< block "grid-2 wrap pb-3" >}}
-{{< column "v-center" >}}
+Eliminate the need to collect and consolidate disparate GIS data sources. Our platform comes pre-loaded with all of the layers needed for renewable siting, including: wetlands, flood, topo, etc. Traditionally, moving into a new market can take up to a few weeks to find the right data. In AOP, users can enter a new market in a day rather than spending multiple weeks finding data. {{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
 
 ### Energy Analysis Specific
 
