@@ -86,7 +86,7 @@ Produce results faster, and minimize internal software management
 
 {{< column "wrap pt-3 pb-3 center" >}}
 
-## Find high-quality sites without all the headache
+# Find high-quality sites without all the headache
 
 {{< /column >}}
 
@@ -96,16 +96,27 @@ Produce results faster, and minimize internal software management
 {{< /column >}}
 {{< column "v-center" >}}
 
-### See all key data layers for renewable siting in one place and quickly move into new markets
+### See all key data layers for renewable siting in one place
 
-Eliminate the need to collect and consolidate disparate GIS data sources. Our platform comes pre-loaded with all of the layers needed for renewable siting, including: wetlands, flood, topo, etc. Traditionally, moving into a new market can take up to a few weeks to find the right data. In AOP, users can enter a new market in a day rather than spending multiple weeks finding data. {{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
+Eliminate the need to collect and consolidate disparate GIS data sources. Our platform comes pre-loaded with all of the layers needed for renewable siting, including: wetlands, flood, topo, etc.
 
-### Energy Analysis Specific
+### Quickly move into new markets
 
-Built directly for the energy industry by including commonly used data and parameters such as grid infrastructure information and time of use rates.
-{{< /column >}}
-{{< column "mobile_start" >}}
-![](/images/macbook.png)
+Traditionally, moving into a new market can take up to a few weeks to find the right data. In AOP, users can enter a new market in a day rather than spending multiple weeks finding data. {{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
+
+### Automate time-consuming GIS analysis
+
+Finding potential parcels and evaluating parcel quality can be tedious and time-consuming. AO Prospect helps users automate these processes in minutes.
+
+#### Easily calculate buildable area and create constraint maps
+
+Automatically calculate directional buildable acreage estimates for parcels and create hazard constraint maps in a few clicks.
+
+#### Quickly identify potential parcels
+
+Find potential parcels in an area of interest in just a click. Set parameters for your search (how far from your starting point do you want to look for parcels and minimum acreage).
+
+ {{< /column >}} {{< column "mobile_start" >}} ![](/images/macbook.png)
 {{< /column >}}
 {{< /block >}}
 {{< block "grid-2 wrap pb-3" >}}
