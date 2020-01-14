@@ -14,9 +14,9 @@ title = "About Us"
 
 {{< column "wrap_min center space" >}} 
 
-We accelerate the adoption of renewable energy and storage by providing software and services that increase efficiency and effectiveness for our partners. 
+We accelerate the adoption of renewable energy and storage by providing software and services to increase efficiency and effectiveness for our partners. 
 
-Through open models, a cloud-based platform, and easy-to-use interface, our goal is to make these technologies accessible, cost-effective, and an easy choice for industry participants.
+Open models, a cloud-based platform, and easy-to-use interface reduce challening barriers to scaling renewable development. By making these technologies accessible and cost-effective, we can make renwable energy an easy choice for industry participants.
 
 {{< /column >}}
 {{< column "wrap_min center space" >}}
