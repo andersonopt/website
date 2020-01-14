@@ -58,7 +58,7 @@ Quickly test different models and adjust assumptions to understand key considera
 
 ## Why Anderson Optimization?
 
-#### We utilize over a decade of cutting-edge power system modeling, optimization research, and industry experience to deliver the best solution to every customer.
+#### We know that existing tools make renewable development slow and expensive. Our core suite of software helps make renewable energy and storage
 
 We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our additional consultative services further ensure that clients attain maximum value from our software. {{< button "#" "Read More" >}} {{< /column >}} {{< /column >}} {{< /block >}}
 
