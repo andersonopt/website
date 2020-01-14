@@ -12,7 +12,11 @@ title = "About Us"
 {{< /column >}}
 {{< /block >}}
 
-{{< column "wrap_min center space" >}} is to accelerate the adoption of renewable energy and storage by providing software and services that increase efficiency and effectiveness for our partners. We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our additional consultative services further ensure that clients attain maximum value from our software.
+{{< column "wrap_min center space" >}} 
+
+We accelerate the adoption of renewable energy and storage by providing software and services that increase efficiency and effectiveness for our partners. Our goal is to make these technologies accessible, cost-effective, and an easy choice for industry participants.
+
+Our solutions automate traditionally time-consuming work leading to shorter project timelines and increased efficiency. We provide more open models through a cloud platform, with an easy to use interface, which reduces the need for slow and expensive external consultants. Our users decrease costs through improved operations and increase revenue through smarter modeling capabilities.
 
 {{< /column >}}
 {{< column "wrap_min center space" >}}
