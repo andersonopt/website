@@ -51,7 +51,7 @@ Quickly test different models and adjust assumptions to understand key considera
 
 ## Why Anderson Optimization?
 
-#### We know that existing tools make renewable development slow and expensive. Our core suite of software reduces barriers to make it an easy choice for developers.
+#### We know that existing tools make renewable development slow and expensive. We reduce project inefficiencies and provide better analytical tools to lower project costs and maximize ROI.
 
 We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our additional consultative services further ensure that clients attain maximum value from our software. {{< button "#" "Read More" >}} {{< /column >}} {{< /column >}} {{< /block >}}
 
@@ -59,7 +59,7 @@ We provide a core suite of software tools along with customization and new featu
 
 ## Blog
 
-### Check out our latest industry insights →
+### [Check out our latest industry insights →]()
 
 {{< /column >}}
 {{< include "latestArticles" >}}
