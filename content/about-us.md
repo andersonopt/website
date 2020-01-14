@@ -5,7 +5,7 @@ title = "About Us"
 {{< block "hero" "solar-panel-1.png" >}}
 {{< column "wrap_min center" >}}
 
-# About Us - Test
+# About Us 
 
 We utilize over a decade of cutting-edge power system modeling, optimization research, and industry experience to deliver the best solution to every customer.
 
