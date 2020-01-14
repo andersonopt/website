@@ -72,7 +72,7 @@ Perform automated site analysis to determine the true valuation, ideal technolog
 
 ## AO Prospect
 
-### Renewable Siting
+### Automate early-stage land siting
 
 Identify quality land for new sites in a matter of minutes using a variety of data and proprietary automation capabilities.
 
