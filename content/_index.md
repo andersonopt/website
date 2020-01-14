@@ -7,7 +7,7 @@ title = "Home Page"
 
 # Smarter renewable energy siting & power grid modeling 
 
-Automate time-consuming workflows and analysis, accelerating renewable energy development and maximizing returns.
+Automate time-consuming analysis to accelerate renewable energy development and maximize returns.
 
 {{< button "/book-a-demo/" "Book a free demo, light" >}}
 
