@@ -1,5 +1,5 @@
 +++
-title = "Test"
+title = "Why Anderson Optimization"
 
 +++
 {{< block "hero" "solar-panel-1.png" >}}
