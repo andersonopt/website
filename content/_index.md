@@ -28,7 +28,7 @@ Automate time-consuming analysis to accelerate renewable energy development and 
 {{< /column >}}
 {{< column >}}
 
-## AO Platform
+## (X) AO Platform
 
 ### Energy Analysis Platform
 
@@ -40,11 +40,11 @@ A powerful software platform built on the cloud capable of performing flexible a
 {{< block "services" >}}
 {{< column >}}
 
-## AO Energy Markets
+## (2)AO Energy Markets
 
-### Grid Modeling & Optimization
+### Perform production cost modeling runs and easily evaluate tradeoffs
 
-Utilize cutting-edge production cost and optimization modeling frameworks for injection studies, price and congestion analysis, storage modeling, and more.
+Quickly test different models and adjust assumptions to understand basis risk, pricing, congestion, and overall financial viability of a site.
 
 {{< button "#" "Learn More" >}}
 {{< /column >}}
@@ -58,7 +58,7 @@ Utilize cutting-edge production cost and optimization modeling frameworks for in
 {{< /column >}}
 {{< column >}}
 
-## AO Site Analysis
+## (X)AO Site Analysis
 
 ### Site Feasibility & Valuation
 
@@ -70,7 +70,7 @@ Perform automated site analysis to determine the true valuation, ideal technolog
 {{< block "services" >}}
 {{< column >}}
 
-## AO Prospect
+## (1)AO Prospect
 
 ### Expedite early-stage land siting
 
