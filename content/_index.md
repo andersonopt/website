@@ -18,7 +18,7 @@ Automate time-consuming analysis to accelerate renewable energy development and 
 {{< underline >}}
 {{< column "wrap_min center pt-1" >}}
 
-# Software & Solutions
+# Software Solutions
 
 {{< /column >}}
 {{< block "services pt-2" >}}
@@ -66,7 +66,7 @@ We provide a core suite of software tools along with customization and new featu
 
 ## Blog
 
-### Check outour latest industry insights
+### Check out our latest industry insights
 
 {{< /column >}}
 {{< include "latestArticles" >}}
