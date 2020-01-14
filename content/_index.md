@@ -60,11 +60,7 @@ Quickly test different models and adjust assumptions to understand key considera
 
 #### We utilize over a decade of cutting-edge power system modeling, optimization research, and industry experience to deliver the best solution to every customer.
 
-We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our additional consultative services further ensure that clients attain maximum value from our software.
-{{< button "#" "More About Us" >}}
-{{< /column >}}
-{{< /column >}}
-{{< /block >}}
+We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our additional consultative services further ensure that clients attain maximum value from our software. {{< button "#" "Read More" >}} {{< /column >}} {{< /column >}} {{< /block >}}
 
 {{< column "wrap_min center pb-2" >}}
 
