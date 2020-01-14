@@ -40,7 +40,7 @@ Identify potential parcels and automate complex GIS analysis to find high-qualit
 {{< block "services" >}}
 {{< column >}}
 
-## (2)AO Energy Markets
+## AO Energy Markets
 
 ### Nimbly run production cost models and evaluate tradeoffs
 
