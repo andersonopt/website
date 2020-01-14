@@ -41,7 +41,7 @@ Identify potential parcels and automate complex GIS analysis to find high-qualit
 
 ## AO Energy Markets
 
-### Nimbly run production cost models and evaluate tradeoffs
+### Run nimble production cost models and evaluate tradeoffs
 
 Quickly test different models and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
 
