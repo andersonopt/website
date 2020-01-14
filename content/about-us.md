@@ -7,16 +7,14 @@ title = "About Us"
 
 # About Us
 
-## Renewable energy development and storage can be the future - if we make it simpler. 
+## Renewable siting and grid modeling software that delivers results faster and more accurately than traditional solutions. 
 
 {{< /column >}}
 {{< /block >}}
 
 {{< column "wrap_min center space" >}} 
 
-Anderson Optimization builds renewable siting and grid modeling software to help industry partners accelerate the adoption of renewable energy and storage. 
-
-Open models, a cloud-based platform, and easy-to-use interface reduce challening barriers to scaling renewable development. By making these technologies accessible and cost-effective, we can make renwable energy an easy choice for industry participants.
+Open models, a cloud-based platform, and easy-to-use interface reduce challenging barriers to scaling renewable development. By making these technologies accessible and cost-effective, we can make renewable energy an easy choice for industry participants.
 
 {{< /column >}}
 {{< column "wrap_min center space" >}}
@@ -65,7 +63,11 @@ Attain scalable computing power to generate results in minutes rather than hours
 
 {{< column "wrap_min center space" >}}
 
-## Meet the founders
+## Why We're Here
+
+This is our story here
+
+## Meet the Founders
 
 {{< /column >}}
 
