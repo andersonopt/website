@@ -25,6 +25,12 @@ Open models, a cloud-based platform, and easy-to-use interface reduce challening
 
 {{< /column >}}
 
+{{< block "grid-3 wrap_min center" >}} {{< column >}} {{< icon "wind-turbine.svg" "star icon" "bluecircle" >}}
+
+## Why Anderson Optimization?
+
+{{< /column >}}
+
 {{< block "grid-3 wrap_min center" >}}
 {{< column >}}
 {{< icon "wind-turbine.svg" "star icon" "bluecircle" >}}
