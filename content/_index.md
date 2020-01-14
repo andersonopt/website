@@ -64,7 +64,7 @@ We provide a core suite of software tools along with customization and new featu
 
 {{< column "wrap_min center pb-2" >}}
 
-## Our Blog
+## Blog
 
 ### Our Latest Insights
 
