@@ -72,9 +72,9 @@ Perform automated site analysis to determine the true valuation, ideal technolog
 
 ## AO Prospect
 
-### Automate early-stage land siting
+### Expedite early-stage land siting
 
-Identify quality land for new sites in a matter of minutes using a variety of data and proprietary automation capabilities.
+Identify potential parcels and automate complex GIS analysis to find high-quality sites in just minutes.
 
 {{< button "#" "Learn More" >}}
 {{< /column >}}
