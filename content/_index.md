@@ -28,11 +28,11 @@ Automate time-consuming analysis to accelerate renewable energy development and 
 {{< /column >}}
 {{< column >}}
 
-## (X) AO Platform
+## AO Prospect
 
-### Energy Analysis Platform
+### Expedite and simplify early-stage land siting
 
-A powerful software platform built on the cloud capable of performing flexible and integrated energy analysis workflow
+Identify potential parcels and automate complex GIS analysis to find high-quality sites in just minutes.
 
 {{< button "/product/" "Learn More" >}}
 {{< /column >}}
@@ -58,27 +58,7 @@ Quickly test different models and adjust assumptions to understand key considera
 {{< /column >}}
 {{< column >}}
 
-## (X)AO Site Analysis
 
-### Site Feasibility & Valuation
-
-Perform automated site analysis to determine the true valuation, ideal technology mix, and optimal parameters for your project.
-
-{{< button "#" "Learn More" >}}
-{{< /column >}}
-{{< /block >}}
-{{< block "services" >}}
-{{< column >}}
-
-## (1)AO Prospect
-
-### Expedite and simplify early-stage land siting
-
-Identify potential parcels and automate complex GIS analysis to find high-quality sites in just minutes.
-
-{{< button "#" "Learn More" >}}
-{{< /column >}}
-{{< column "mobile_start" >}}
 ![blank image](/images/solar-panels.png)
 {{< /column >}}
 {{< /block >}}
