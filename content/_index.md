@@ -5,9 +5,9 @@ title = "Home Page"
 {{< block "hero" "windmills.png" >}}
 {{< column "wrap_min center">}}
 
-# Renewable energy siting & power grid modeling 
+# Smarter renewable energy siting & power grid modeling 
 
-Renewable siting and grid modeling software for faster and more accurate results.
+Automate time-consuming tasks and analysis to accelerate renewable energy development and maximize returns.
 
 {{< button "/book-a-demo/" "Book a free demo, light" >}}
 
