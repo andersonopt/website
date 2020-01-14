@@ -1,6 +1,7 @@
 +++
-title = "Product"
-date = 2019-12-03T18:24:57+03:00
+date = 2019-12-03T15:24:57Z
+title = "Inactive - Product"
+
 +++
 {{< block "grid-2 mt-5 wrap" >}}
 {{< column >}}
