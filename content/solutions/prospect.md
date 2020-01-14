@@ -110,11 +110,11 @@ Finding potential parcels and evaluating parcel quality can be tedious and time-
 
 #### Easily calculate buildable area and create constraint maps
 
-Automatically calculate directional buildable acreage estimates for parcels and create hazard constraint maps in a few clicks.
+> Automatically calculate directional buildable acreage estimates for parcels and create hazard constraint maps in a few clicks.
 
 #### Quickly identify potential parcels
 
-Find potential parcels in an area of interest in just a click. Set parameters for your search (how far from your starting point do you want to look for parcels and minimum acreage).
+> Find potential parcels in an area of interest in just a click. Set parameters for your search (how far from your starting point do you want to look for parcels and minimum acreage).
 
  {{< /column >}} {{< column "mobile_start" >}} ![](/images/macbook.png)
 {{< /column >}}
