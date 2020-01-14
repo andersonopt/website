@@ -7,7 +7,7 @@ title = "About Us"
 
 # About Us
 
-We utilize over a decade of cutting-edge power system modeling, optimization research, and industry experience to deliver the best solution to every customer.
+Our purpose is to accelerate the adoption of renewable energy and storage by providing software and services that increase efficiency and effectiveness for our partners. 
 
 {{< /column >}}
 {{< /block >}}
