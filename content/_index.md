@@ -54,17 +54,7 @@ Quickly test different models and adjust assumptions to understand key considera
 {{< /block >}}
 {{< block "services" >}}
 {{< column >}}
-![blank image](/images/solar-panels.png)
-{{< /column >}}
-{{< column >}}
-
-
-![blank image](/images/solar-panels.png)
-{{< /column >}}
-{{< /block >}}
-{{< block "hero space" "solar-panels.png" >}}
-{{< column "wrap grid-2" >}}
-{{< column >}}
+{{< /column >}} {{< column >}}
 
 ## Why Anderson Optimization?
 
