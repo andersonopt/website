@@ -5,7 +5,7 @@ title = "Home Page"
 {{< block "hero" "windmills.png" >}}
 {{< column "wrap_min center">}}
 
-# Smarter renewable energy siting & power grid modeling 
+# Smarter renewable energy siting & power grid modeling
 
 Automate time-consuming analysis to accelerate renewable energy development and maximize returns.
 
@@ -18,8 +18,7 @@ Automate time-consuming analysis to accelerate renewable energy development and 
 {{< underline >}}
 {{< column "wrap_min center pt-1" >}}
 
-## Software & Solutions
-
+# Software & Solutions
 
 {{< /column >}}
 {{< block "services pt-2" >}}
