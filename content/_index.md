@@ -33,11 +33,7 @@ Automate time-consuming analysis to accelerate renewable energy development and 
 
 Identify potential parcels and automate complex GIS analysis to find high-quality sites in just minutes.
 
-{{< button "/product/" "Learn More" >}}
-{{< /column >}}
-{{< /block >}}
-{{< block "services" >}}
-{{< column >}}
+{{< button "/product/" "Learn more →" >}} {{< /column >}} {{< /block >}} {{< block "services" >}} {{< column >}}
 
 ## AO Energy Markets
 
