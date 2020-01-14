@@ -7,7 +7,7 @@ title = "About Us"
 
 # About Us
 
-## We fundamentally believe that renewable energy development and storage can be the future - if we make it simpler. 
+## Renewable energy development and storage can be the future - if we make it simpler. 
 
 {{< /column >}}
 {{< /block >}}
