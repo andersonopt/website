@@ -59,7 +59,7 @@ We provide a core suite of software tools along with customization and new featu
 
 ## Blog
 
-### Check out our latest industry insights →
+Check out our latest industry insights →
 
 {{< /column >}}
 {{< include "latestArticles" >}}

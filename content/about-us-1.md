@@ -1,5 +1,5 @@
 +++
-title = "Why Anderson Optimization"
+title = "Test"
 
 +++
 {{< block "hero" "solar-panel-1.png" >}}
@@ -14,7 +14,7 @@ title = "Why Anderson Optimization"
 
 {{< column "wrap_min center space" >}}
 
-Open models, a cloud-based platform, and easy-to-use interface reduce challenging barriers to scaling renewable development. By making these technologies accessible and cost-effective, we can make renewable energy an easy choice for industry participants.
+Open models, a[ cloud-b]()ased platform, and easy-to-use interface reduce challenging barriers to scaling renewable development. By making these technologies accessible and cost-effective, we can make renewable energy an easy choice for industry participants.
 
 {{< /column >}}
 {{< column "wrap_min center space" >}}
