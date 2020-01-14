@@ -86,7 +86,7 @@ Produce results faster, and minimize internal software management
 
 {{< column "wrap pt-3 pb-3 center" >}}
 
-## Find high-quality sites more quickly
+## Find high-quality sites without all the headache
 
 {{< /column >}}
 
