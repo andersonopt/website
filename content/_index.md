@@ -4,7 +4,8 @@ title = "Home Page"
 +++
 {{< block "hero" "windmills.png" >}}
 {{< column "wrap_min center">}}
-# Power system modeling & optimization
+
+# Renewable energy siting & power grid modeling 
 
 Renewable siting and grid modeling software for faster and more accurate results.
 
@@ -19,14 +20,16 @@ Renewable siting and grid modeling software for faster and more accurate results
 
 ## Software & Solutions
 
-Advanced software solutions that optimize site identification, project analysis, and grid modeling activities for utilities, renewable developers, and other energy industry stakeholders.
+
 {{< /column >}}
 {{< block "services pt-2" >}}
 {{< column >}}
 ![blank image](/images/solar-panels.png)
 {{< /column >}}
 {{< column >}}
+
 ## AO Platform
+
 ### Energy Analysis Platform
 
 A powerful software platform built on the cloud capable of performing flexible and integrated energy analysis workflow
@@ -36,7 +39,9 @@ A powerful software platform built on the cloud capable of performing flexible a
 {{< /block >}}
 {{< block "services" >}}
 {{< column >}}
+
 ## AO Energy Markets
+
 ### Grid Modeling & Optimization
 
 Utilize cutting-edge production cost and optimization modeling frameworks for injection studies, price and congestion analysis, storage modeling, and more.
@@ -52,7 +57,9 @@ Utilize cutting-edge production cost and optimization modeling frameworks for in
 ![blank image](/images/solar-panels.png)
 {{< /column >}}
 {{< column >}}
+
 ## AO Site Analysis
+
 ### Site Feasibility & Valuation
 
 Perform automated site analysis to determine the true valuation, ideal technology mix, and optimal parameters for your project.
@@ -62,7 +69,9 @@ Perform automated site analysis to determine the true valuation, ideal technolog
 {{< /block >}}
 {{< block "services" >}}
 {{< column >}}
+
 ## AO Prospect
+
 ### Renewable Siting
 
 Identify quality land for new sites in a matter of minutes using a variety of data and proprietary automation capabilities.
@@ -76,7 +85,9 @@ Identify quality land for new sites in a matter of minutes using a variety of da
 {{< block "hero space" "solar-panels.png" >}}
 {{< column "wrap grid-2" >}}
 {{< column >}}
+
 ## Why Anderson Optimization?
+
 #### We utilize over a decade of cutting-edge power system modeling, optimization research, and industry experience to deliver the best solution to every customer.
 
 We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our additional consultative services further ensure that clients attain maximum value from our software.
@@ -85,8 +96,11 @@ We provide a core suite of software tools along with customization and new featu
 {{< /column >}}
 {{< /block >}}
 {{< column "wrap_min center pb-2" >}}
+
 ## Our Blog
+
 ### Our Latest Insights
+
 {{< /column >}}
 {{< include "latestArticles" >}}
 {{< form "/images/windmills-on-a-hill.png" >}}
