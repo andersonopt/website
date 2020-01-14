@@ -1,7 +1,7 @@
 ---
 center:
 - link: Solutions
-  url: "/software-and-solutions/"
+  url: "/solutions/"
   submenu:
   - link: AO Prospect
     url: "/solutions/prospect"
