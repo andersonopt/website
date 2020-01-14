@@ -65,7 +65,7 @@ Attain scalable computing power to generate results in minutes rather than hours
 
 ## Why We're Here
 
-This is our story here
+BLURB HERE
 
 ## Meet the Founders
 
