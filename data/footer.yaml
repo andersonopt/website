@@ -1,9 +1,5 @@
 ---
 menu:
-- column: Support
-  links:
-  - name: FAQ
-    link: "/support"
 - column: Our Solutions
   links:
   - name: All Solutions
@@ -16,6 +12,8 @@ menu:
   links:
   - name: About Us
     link: "/why-anderson/"
+  - name: Support
+    link: "/support/"
 address: |
   [0 (+44) 123456789](tel:0(+44)123456789)
   [info@andersonopt.com](mailto:info@andersonopt.com)
