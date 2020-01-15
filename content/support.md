@@ -1,23 +1,21 @@
 +++
+date = 2019-12-05T12:40:01Z
+haze = true
 title = "Support"
-date = 2019-12-05T15:40:01+03:00
-type = "withtoc" # has table of contents
-draft = false
-haze = true # set background to haze
+type = "withtoc"
 [hero]
-  title = "Help & Support"
-  image = "windmills.png"
-  after = "search-support.html" # include partial after hero
-+++
+after = "search-support.html"
+image = "windmills.png"
+title = "Help & Support"
 
++++
 {{< block "banner" >}}
 {{< icon "file.svg" "" >}}
 {{< column >}}
+
 ### Technical issues
-Checkout our documentation
-{{< /column >}}
-{{< button "#" "Documentation center" >}}
-{{< /block >}}
+
+Checkout our documentation {{< /column >}} {{< button "[https://docs.andersonopt.com/](https://docs.andersonopt.com/ "https://docs.andersonopt.com/")" "Documentation center" >}} {{< /block >}}
 
 ## Wind
 
@@ -30,4 +28,3 @@ Checkout our documentation
 ## Solar
 
 {{< support "solar">}}
-
