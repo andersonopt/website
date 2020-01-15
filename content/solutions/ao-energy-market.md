@@ -8,7 +8,7 @@ title = "AO Energy Market"
 
 ### AO Energy Markets
 
-#### Quickly understand interconnection considerations and the financial viability of a site, so you can focus on the right projects sooner.
+#### Quickly understand the financial viability of a site, so you can focus on the right projects sooner.
 
 Test different grid simulations and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
 
@@ -86,7 +86,7 @@ Produce results faster, and minimize internal software management
 
 {{< column "wrap pt-3 pb-3 center" >}}
 
-## Focus on the right projects from the get-go  
+## Focus on the right projects from the get-go
 
 {{< /column >}}
 
@@ -106,7 +106,7 @@ Queue up a wide variety of mass grid simulation scenarios and adjust parameters 
 
 AO Integrate can deliver production cost modeling run output in a matter of hours vs. 2-4 weeks with consultants.
 
- {{< /column >}} {{< column "mobile_start" >}} ![](/images/macbook.png)
+{{< /column >}} {{< column "mobile_start" >}} ![](/images/macbook.png)
 {{< /column >}}
 {{< /block >}}
 {{< block "grid-2 wrap pb-3" >}}
@@ -120,6 +120,10 @@ AO Integrate can deliver production cost modeling run output in a matter of hour
 Don't leave financial upside on the table with costly consultant-led modeling runs. Our solution allows you to cost-effectively evaluate as many scenarios as needed to optimize your project and identify the ideal parameters.
 
 {{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
+
+### V**iew and edit modeling assumptions**
+
+Consultant-led models use black box assumptions making it difficult for developers to understand what is being analyzed and adjust parameters as needed. We use an open modeling approach so you can clearly view and augment the assumptions to better align with your team's approach.
 
 ### V**iew and edit modeling assumptions**
 
