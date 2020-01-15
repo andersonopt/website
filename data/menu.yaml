@@ -5,7 +5,7 @@ center:
   submenu:
   - link: AO Prospect
     url: "/solutions/prospect"
-  - link: Energy Markets
+  - link: AO Energy Markets
     url: "/solutions/ao-energy-market"
 - link: Testimonials
   url: "/testimonials/"
