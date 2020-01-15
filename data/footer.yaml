@@ -1,5 +1,9 @@
 ---
 menu:
+- column: Support
+  links:
+  - name: FAQ
+    link: "/support"
 - column: Our Solutions
   links:
   - name: All Solutions
