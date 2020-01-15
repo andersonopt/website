@@ -104,7 +104,7 @@ AO Integrate can deliver production cost modeling run output in a matter of hour
 
 ### Easily test different scenarios and iterate quickly
 
-Queue up a wide variety of mass grid simulation scenarios and adjust model assumptions to identify the most valuable projects to focus on.
+Queue up a wide variety of mass grid simulation scenarios and adjust parameters after the initial run to find the right configuration. Consultant-provided runs typically only include a few scenario views and revised scenarios come with additional multi-week timelines.
 
  {{< /column >}} {{< column "mobile_start" >}} ![](/images/macbook.png)
 {{< /column >}}
@@ -115,13 +115,11 @@ Queue up a wide variety of mass grid simulation scenarios and adjust model assum
 {{< /column >}}
 {{< column "v-center" >}}
 
-### Extensible Features
+### Reduce variable costs
 
-Create new features and streamlined analysis to best meet user needs using a flexible task system.
-{{< /column >}}
-{{< /block >}}
-{{< block "grid-2 wrap pb-3" >}}
-{{< column "v-center" >}}
+Don't leave financial upside on the table with costly consultant-led modeling runs. Our solution allows you to cost-effectively evaluate as many scenarios as needed to optimize your project and identify the ideal parameters.
+
+{{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
 
 ### Data Visualizations
 
