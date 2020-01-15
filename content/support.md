@@ -21,10 +21,10 @@ Checkout our documentation {{< /column >}} {{< button "[https://docs.andersonopt
 
 {{< support "prospect" >}}
 
-## Renewable
+## AO Energy Markets
 
 {{< support "renewable">}}
 
-## Solar
+## AO Platform
 
 {{< support "solar">}}
