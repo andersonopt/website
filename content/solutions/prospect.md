@@ -102,7 +102,7 @@ Eliminate the need to collect and consolidate disparate GIS data sources. All of
 
 ### Quickly move into new markets
 
-Traditionally, moving into a new market can take a few weeks to find all the right data. With AO Prospect, you can move into a new market in a day. 
+Traditionally, moving into a new market can take a few weeks to find all the right data; with AO Prospect, you can move into a new market in a day. 
 
 {{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
 
