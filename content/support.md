@@ -17,9 +17,9 @@ title = "Help & Support"
 
 Checkout our documentation {{< /column >}} {{< button "[https://docs.andersonopt.com/](https://docs.andersonopt.com/ "https://docs.andersonopt.com/")" "Documentation center" >}} {{< /block >}}
 
-## Wind
+## AO Prospect
 
-{{< support "wind" >}}
+{{< support "prospect" >}}
 
 ## Renewable
 
