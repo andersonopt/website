@@ -1,34 +1,4 @@
 ---
-- topic: Wind Support test
-  video: VBklW8fsB2U
-  answer: Wind support testting.
-- topic: Lorem ipsum dolor sit amet
-  video: VBklW8fsB2U
-  answer: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, [sed do eiusmod](#) tempor incididunt ut labore et dolore magna aliqua.
-
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in rep
-- topic: Lorem ipsum dolor sit amet
-  video: VBklW8fsB2U
-  answer: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, [sed do eiusmod](#) tempor incididunt ut labore et dolore magna aliqua.
-
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in rep
-- topic: Lorem ipsum dolor sit amet
-  video: VBklW8fsB2U
-  answer: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, [sed do eiusmod](#) tempor incididunt ut labore et dolore magna aliqua.
-
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in rep
-- topic: Lorem ipsum dolor sit amet
-  video: VBklW8fsB2U
-  answer: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, [sed do eiusmod](#) tempor incididunt ut labore et dolore magna aliqua.
-
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in rep
-- topic: Lorem ipsum dolor sit amet
-  video: VBklW8fsB2U
-  answer: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, [sed do eiusmod](#) tempor incididunt ut labore et dolore magna aliqua.
-
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in rep
+- topic: Do you support custom map layers?
+  video: ''
+  answer: AO loads and integrates any custom layers.
