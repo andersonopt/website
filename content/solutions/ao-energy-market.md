@@ -8,7 +8,7 @@ title = "AO Energy Market"
 
 ### AO Energy Markets
 
-#### Quickly understand interconnection considerations and financial viability of a site without expensive simulation runs and opaque models.
+#### Understand interconnection considerations and the financial viability of a site early on so you can focus on the right projects.
 
 Quickly test different simulations and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
 
