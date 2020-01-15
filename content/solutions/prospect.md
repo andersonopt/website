@@ -123,7 +123,7 @@ Finding potential parcels and evaluating parcel quality can be tedious and time-
 {{< /column >}}
 {{< column "v-center" >}}
 
-### Get land owner information for LOIs
+### Easily see and export land owner information for LOIs
 
 Once you have a shortlist of high quality parcels, you'll have all the land owner information you need to send out mailers. 
 
