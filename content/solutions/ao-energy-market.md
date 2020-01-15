@@ -8,7 +8,7 @@ title = "AO Energy Market"
 
 ### AO Energy Markets
 
-#### Prospect ...
+#### Run nimble production cost models and evaluate tradeoffs
 
 A powerful software platform built on the cloud capable of performing flexible and integrated energy analysis workflo
 
