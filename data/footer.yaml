@@ -6,8 +6,8 @@ menu:
     link: "/solutions/"
   - name: Solution One
     link: solution/prospect
-  - name: Solution Two
-    link: 
+  - name: AO Energy Markets
+    link: "/solutions/ao-energy-market"
   - name: solution Three
     link: 
 - column: Company
