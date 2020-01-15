@@ -10,7 +10,7 @@ title = "AO Energy Market"
 
 #### Run nimble production cost models and evaluate tradeoffs
 
-Quickly test different models and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
+Quickly test different simulations and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
 
 {{< button "#" "Book a demo" >}}
 {{< button "#" "Explore features, translucent" >}}
@@ -86,7 +86,7 @@ Produce results faster, and minimize internal software management
 
 {{< column "wrap pt-3 pb-3 center" >}}
 
-## Quickly understand the financial viability of a site without expensive charges per run and opaque models  
+## Quickly understand the financial viability of a site without expensive simulation runs and opaque models  
 
 {{< /column >}}
 
@@ -102,12 +102,11 @@ AO Integrate can deliver production cost modeling run output in a matter of hour
 
 {{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
 
-### Energy Analysis Specific
+### Easily test different scenarios and iterate quickly
 
-Built directly for the energy industry by including commonly used data and parameters such as grid infrastructure information and time of use rates.
-{{< /column >}}
-{{< column "mobile_start" >}}
-![](/images/macbook.png)
+Queue up a wide variety of mass grid simulation scenarios and adjust model assumptions to identify the most valuable projects to focus on.
+
+ {{< /column >}} {{< column "mobile_start" >}} ![](/images/macbook.png)
 {{< /column >}}
 {{< /block >}}
 {{< block "grid-2 wrap pb-3" >}}
