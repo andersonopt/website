@@ -8,7 +8,7 @@ title = "AO Energy Market"
 
 ### AO Energy Markets
 
-#### Run nimble production cost models and evaluate tradeoffs
+#### Evaluate interconnection and grid issues sooner so you can focus on the the right projects faster.
 
 Quickly test different simulations and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
 
