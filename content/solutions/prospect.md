@@ -110,8 +110,9 @@ Traditionally, moving into a new market can take a few weeks to find all the rig
 
 Finding potential parcels and evaluating parcel quality can be tedious and time-consuming. AO Prospect helps users automate environmental and hazard analysis in minutes.
 
-* _Quickly identify potential parcels based on search parameters you set_
-* _Calculate directional buildable area and create hazard constraint maps for all parcels in a few clicks_ 
+* _Quickly identify potential parcels based on search parameters you set._
+* _Calculate directional buildable area and create hazard constraint maps for all parcels in a few clicks._ 
+* Sort and filter parcels based on buildable area.
 
 {{< /column >}} {{< column "mobile_start" >}} ![](/images/macbook.png)
 {{< /column >}}
@@ -122,17 +123,15 @@ Finding potential parcels and evaluating parcel quality can be tedious and time-
 {{< /column >}}
 {{< column "v-center" >}}
 
-### Seamlessly collaborate across teams in the cloud
+### Get land owner information for LOIs
 
-* Projects automatically save in real-time
-* Work is accessible from anywhere
-* Easily export data and constraint maps for downstream work
+Once you have a shortlist of high quality parcels, you'll have all the land owner information you need to send out mailers. 
 
 {{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
 
-### Data Visualizations
+### Seamlessly collaborate across teams in the cloud
 
-Customized visualizations make it easy for any user to gain valuable insights.
+Projects automatically save in real-time so work is accessible from anywhere. Export land owner data, KML constraint maps, and PDF reports for seamless downstream work.
 
 {{< /column >}}
 {{< column "mobile_start" >}}
