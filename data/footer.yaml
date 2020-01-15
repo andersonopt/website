@@ -19,9 +19,6 @@ address: |
   [0 (+44) 123456789](tel:0(+44)123456789)
   [hello@example.com](mailto:hello@example.com)
 social:
-- name: Facebook
-  icon: facebook-icon.svg
-  url: 
 - name: Twitter
   icon: twitter-icon.png
   url: 
