@@ -15,7 +15,7 @@ title = "Help & Support"
 
 ### Technical issues
 
-Checkout our documentation {{< /column >}} {{< button "[https://docs.andersonopt.com/](https://docs.andersonopt.com/ "https://docs.andersonopt.com/")" "Documentation center" >}} {{< /block >}}
+Checkout our documentation {{< /column >}} {{< button "[https://docs.andersonopt.com/](https://docs.andersonopt.com/)" "Documentation center" >}} {{< /block >}}
 
 ## AO Prospect
 
