@@ -98,20 +98,20 @@ Produce results faster, and minimize internal software management
 
 ### See all key data layers for renewable siting in one place
 
-Eliminate the need to collect and consolidate disparate GIS data sources. Our platform comes pre-loaded with all of the layers needed for renewable siting, including: wetlands, flood, topo, etc.
+Eliminate the need to collect and consolidate disparate GIS data sources. All of the layers needed for renewable siting, including wetlands, flood, topo, etc. come pre-loaded.
 
 ### Quickly move into new markets
 
-Traditionally, moving into a new market can take up to a few weeks to find the right data. In AOP, users can enter a new market in a day rather than spending multiple weeks finding data. {{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
+Traditionally, moving into a new market can take a few weeks to find all the right data. With AO Prospect, you can move into a new market in a day. 
 
-### Automate time-consuming GIS analysis
+{{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
 
-Finding potential parcels and evaluating parcel quality can be tedious and time-consuming. AO Prospect helps users automate these processes in minutes.
+### Automate time-consuming environmental GIS analysis
 
-* _Easily calculate buildable area and create constraint maps:_ Automatically calculate directional buildable acreage estimates for parcels and create hazard constraint maps in a few clicks.
-* _Quickly identify potential parcels:_ 
+Finding potential parcels and evaluating parcel quality can be tedious and time-consuming. AO Prospect helps users automate environmental and hazard analysis in minutes.
 
-  Find potential parcels in an area of interest in just a click. Set parameters for your search (how far from your starting point do you want to look for parcels and minimum acreage).
+* _Quickly identify potential parcels based on search parameters you set_
+* _Calculate directional buildable area and create hazard constraint maps for all parcels in a few clicks_ 
 
 {{< /column >}} {{< column "mobile_start" >}} ![](/images/macbook.png)
 {{< /column >}}
