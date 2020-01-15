@@ -108,7 +108,7 @@ Traditionally, moving into a new market can take a few weeks to find all the rig
 
 ### Automate time-consuming environmental GIS analysis
 
-Finding potential parcels and evaluating parcel quality can be tedious and time-consuming. AO Prospect helps users automate environmental and hazard analysis in minutes.
+Finding potential parcels and evaluating parcel quality can be tedious and time-consuming. AO Prospect helps users automate environmental hazard analysis in minutes.
 
 * _Quickly identify potential parcels based on search parameters you set._
 * _Calculate directional buildable area and create hazard constraint maps for all parcels in a few clicks._ 
