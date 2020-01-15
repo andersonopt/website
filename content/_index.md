@@ -53,7 +53,7 @@ Quickly test different models and adjust assumptions to understand key considera
 
 #### We know that existing tools make renewable development slow and expensive. We reduce project inefficiencies and provide better analytical tools to lower project costs and maximize ROI.
 
-We provide a core suite of software tools along with customization and new feature development services to ensure that our solutions best meet users’ needs while seamlessly integrating into their existing workflows. Our additional consultative services further ensure that clients attain maximum value from our software. {{< button "/why-anderson/" "Read More" >}} {{< /column >}} {{< /column >}} {{< /block >}}
+{{< button "/why-anderson/" "Read More" >}} {{< /column >}} {{< /column >}} {{< /block >}}
 
 {{< column "wrap_min center pb-2" >}}
 
