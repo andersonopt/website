@@ -10,7 +10,7 @@ title = "AO Energy Market"
 
 #### Run nimble production cost models and evaluate tradeoffs
 
-A powerful software platform built on the cloud capable of performing flexible and integrated energy analysis workflo
+Quickly test different models and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
 
 {{< button "#" "Book a demo" >}}
 {{< button "#" "Explore features, translucent" >}}
@@ -86,7 +86,7 @@ Produce results faster, and minimize internal software management
 
 {{< column "wrap pt-3 pb-3 center" >}}
 
-## “Product” Features
+## Quickly understand the financial viability of a site without expensive charges per run and opaque models  
 
 {{< /column >}}
 
@@ -96,13 +96,11 @@ Produce results faster, and minimize internal software management
 {{< /column >}}
 {{< column "v-center" >}}
 
-### Interactive Platform
+### Expedite analysis timelines
 
-Real-time updates and synchronization allow for seamless team collaboration.
-{{< /column >}}
-{{< /block >}}
-{{< block "grid-2 wrap pb-3" >}}
-{{< column "v-center" >}}
+AO Integrate can deliver production cost modeling run output in a matter of hours vs. 2-4 weeks with consultants.
+
+{{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
 
 ### Energy Analysis Specific
 
