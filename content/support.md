@@ -23,8 +23,8 @@ Checkout our documentation {{< /column >}} {{< button "https://docs.andersonopt.
 
 ## AO Energy Markets
 
-{{< support "renewable">}}
+{{< support "energy-markets">}}
 
 ## AO Platform
 
-{{< support "solar">}}
+{{< support "platform">}}
