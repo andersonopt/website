@@ -96,15 +96,15 @@ Produce results faster, and minimize internal software management
 {{< /column >}}
 {{< column "v-center" >}}
 
-### Expedite analysis timelines
-
-AO Integrate can deliver production cost modeling run output in a matter of hours vs. 2-4 weeks with consultants.
-
-{{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
-
 ### Easily test different scenarios and iterate quickly
 
 Queue up a wide variety of mass grid simulation scenarios and adjust parameters after the initial run to find the right configuration. Consultant-provided runs typically only include a few scenario views and revised scenarios come with additional multi-week timelines.
+
+{{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
+
+### Expedite analysis timelines
+
+AO Integrate can deliver production cost modeling run output in a matter of hours vs. 2-4 weeks with consultants.
 
  {{< /column >}} {{< column "mobile_start" >}} ![](/images/macbook.png)
 {{< /column >}}
@@ -121,9 +121,9 @@ Don't leave financial upside on the table with costly consultant-led modeling ru
 
 {{< /column >}} {{< /block >}} {{< block "grid-2 wrap pb-3" >}} {{< column "v-center" >}}
 
-### Data Visualizations
+### V**iew and edit modeling assumptions**
 
-Customized visualizations make it easy for any user to gain valuable insights.
+Consultant-led models use black box assumptions making it difficult for developers to understand what is being analyzed and adjust parameters as needed. We use an open modeling approach so you can clearly view and augment the assumptions to better align with your team's approach.
 
 {{< /column >}}
 {{< column "mobile_start" >}}
