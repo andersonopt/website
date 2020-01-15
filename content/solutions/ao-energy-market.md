@@ -8,7 +8,7 @@ title = "AO Energy Market"
 
 ### AO Energy Markets
 
-#### Evaluate interconnection and grid issues sooner so you can focus on the right projects from the get-go.
+#### Quickly understand interconnection considerations and financial viability of a site without expensive simulation runs and opaque models.
 
 Quickly test different simulations and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
 
@@ -86,7 +86,7 @@ Produce results faster, and minimize internal software management
 
 {{< column "wrap pt-3 pb-3 center" >}}
 
-## Quickly understand the financial viability of a site without expensive simulation runs and opaque models  
+## Focus on the right projects from the get-go  
 
 {{< /column >}}
 
