@@ -8,7 +8,7 @@ title = "AO Energy Market"
 
 ### AO Energy Markets
 
-#### Evaluate interconnection and grid issues sooner so you can focus on the right projects faster.
+#### Evaluate interconnection and grid issues sooner so you can focus on the right projects from the get-go.
 
 Quickly test different simulations and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
 
