@@ -20,7 +20,7 @@ sections:
   - page
 - type: directory
   path: content
-  label: All Pages
+  label: Pages
   create: all
   match: "./*.md"
 - type: heading
