@@ -7,7 +7,7 @@ title = "Why Anderson Optimization"
 
 # Why Anderson Optimization
 
-## This is a blurb about what makes our software great
+## Powerful analysis all in one place
 
 {{< /column >}}
 {{< /block >}}
@@ -19,7 +19,7 @@ Open models, a cloud-based platform, and easy-to-use interface reduce challengin
 {{< /column >}}
 {{< column "wrap_min center space" >}}
 
-## Our Value - need this header?
+## A better way to work
 
 {{< /column >}}
 
