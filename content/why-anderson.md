@@ -7,7 +7,7 @@ title = "Why Anderson Optimization"
 
 # Why Anderson Optimization
 
-## Powerful analysis all in one place
+## Empower your analysis all in one place
 
 {{< /column >}}
 {{< /block >}}
