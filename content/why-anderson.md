@@ -7,7 +7,7 @@ title = "Why Anderson Optimization"
 
 # Why Anderson Optimization
 
-## Empower your analysis all in one place
+## **Automate time-consuming analysis to accelerate renewable energy development and maximize returns.**
 
 {{< /column >}}
 {{< /block >}}
