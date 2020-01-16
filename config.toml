@@ -1,20 +1,28 @@
-baseurl = ""
+baseurl = "https://andersonopt-update.netlify.com/" # edit appropriately
 description = ""
 enableGitInfo = true
 enableRobotsTXT = true
 paginate = 7
 title = "Anderson Optimization"
-[blackfriday]
-fractions = false
+[markup]
+	defaultMarkdownHandler = "goldmark"
+	[markup.tableOfContents]
+		endLevel = 3
+		startLevel = 2
+		ordered = true
+  [markup.goldmark]
+		[markup.goldmark.extensions]
+			typographer = false
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
-author = ""
-email = ""
-url = ""
-ga_analytics = "UA-1179030-2"
-ga_verify = "ZaNNn0hSVhEblnb4DBJ2Fvx6ZH3Baoa6zSkGmFkDqrU"
-image = "random.jpg"
-logo = "opt-logo.svg"
+  author = ""
+  email = ""
+  url = ""
+  ga_analytics = "UA-1179030-2"
+  ga_verify = "ZaNNn0hSVhEblnb4DBJ2Fvx6ZH3Baoa6zSkGmFkDqrU"
+  image = "random.jpg"
+  logo = "opt-logo.svg"
 [taxonomies]
   tag = "tags"
-[markup.goldmark.renderer]
-unsafe= true
