@@ -243,3 +243,10 @@ $sites: ("facebook": #325c94, "instagram": #fb3958, "twitter": #00abdc, "linkedi
   display: flex
   flex-direction: column
   justify-content: center
+
+.alternate
+  &:nth-of-type(even)
+    div:first-child
+      @media screen and (min-width: 768px)
+        order: 2
+    
