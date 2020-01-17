@@ -36,7 +36,7 @@ We utilize the latest modeling research to provide great output out of the box, 
 
 ### Scenario Analysis Made Easy
 
-Stop waiting a month for a consultant to test a new set of project parameters. Queue up every scenario you can imagine with just a few clicks, and let our software do the rest.
+Stop waiting a month to test a new set of project parameters with a consultant. Queue up every scenario you can imagine with just a few clicks, and let our software do the rest.
 
 {{< /column >}} {{< column >}} {{< icon "analysis-2.svg" "star icon" "bluecircle" >}}
 
@@ -50,15 +50,17 @@ With our software, you don't need a GIS wizard, modeling expert, or external con
 
 ### Output You Can Understand
 
-Save time and increase your project analysis and development return on investment.
-{{< /column >}}
+Get rid of confusing spreadsheets mass data downloads. Our software allows you to choose the most important metrics and display them tables and charts that any audience can understand.
+
+ {{< /column >}}
 
 {{< column >}}
 {{< icon "bar-chart.svg" "star icon" "bluecircle" >}}
 
-### Everyone's On The Same Page
+### Stay On The Same Page
 
-Attain scalable computing power to generate results in minutes rather than hours with other solutions.
+Our cloud infrastructure keeps your team's work in one place and updates across all users in real time. No more digging through shared drives and email attachments, and no more hours of lost work because someone forgot to save.
+
 {{< /column >}}
 
 {{< /block >}}
