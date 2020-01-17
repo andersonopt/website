@@ -1,0 +1,73 @@
+---
+label: Solutions
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: image
+  label: image
+- type: field_group
+  name: markets
+  label: markets
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: buttons
+    label: buttons
+    fields:
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: link
+      label: link
+  - type: textarea
+    name: description
+    label: description
+  - type: file
+    name: thumbnail
+    label: thumbnail
+- type: field_group
+  name: software
+  label: software
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: benefits
+    label: benefits
+    fields:
+    - type: text
+      name: benefit
+      label: benefit
+    - type: file
+      name: icon
+      label: icon
+    - type: text
+      name: details
+      label: details
+- type: text
+  name: youtubeVideoID
+  label: youtubeVideoID
+- type: field_group
+  name: others
+  label: others
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: benefits
+    label: benefits
+    fields:
+    - type: file
+      name: thumbnail
+      label: thumbnail
+    - type: textarea
+      name: description
+      label: description
