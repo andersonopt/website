@@ -57,9 +57,6 @@ Save time and increase your project analysis and development return on investmen
 
 Attain scalable computing power to generate results in minutes rather than hours with other solutions.
 {{< /column >}}
-
-{{< /block >}}
-
 {{< column "wrap_min center space" >}}
 
-### 
+{{< /block >}}
