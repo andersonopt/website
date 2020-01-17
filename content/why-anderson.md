@@ -27,15 +27,15 @@ Open models, a cloud-based platform, and easy-to-use interface reduce challengin
 {{< column >}}
 {{< icon "wind-turbine.svg" "star icon" "bluecircle" >}}
 
-### Use Your Own Assumptions
+### You Ask, We Build
 
-We utilize the latest modeling research to provide great output out of the box, but we want our users to have a voice, too. Unlike external consultants, our software uses flexible, open models so that your analysis matches your internal views.
+Our users are key in our product development process. Virtually every feature in our platform has come from a customer request. 
 
 {{< /column >}} {{< column >}} {{< icon "analysis.svg" "star icon" "bluecircle" >}}
 
-### Scenario Analysis Made Easy
+### Turn Data Into Workflows
 
-Stop waiting a month to test a new set of project parameters with a consultant. Queue up every scenario you can imagine with just a few clicks, and let our software do the rest.
+Stop trying to awkwardly manage piles of data from different sources across different applications. Our platform consolidates data into a single location 
 
 {{< /column >}} {{< column >}} {{< icon "analysis-2.svg" "star icon" "bluecircle" >}}
 
