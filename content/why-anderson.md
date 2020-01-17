@@ -33,7 +33,7 @@ Our users are key in our product development process. Virtually every feature in
 
 ### All Your Data In One Place
 
-Collate data from different sources, file types, and applications into one tool for easy analysis. While our platform comes pre-loaded with key data needed for efficient siting, we can typically add custom layers if there's anything else you'd like to reference. 
+Collate data from disparate sources into one tool for easy analysis. While our platform comes pre-loaded with key data, we can typically add custom layers if there's anything else you'd like to reference. 
 
 {{< /column >}} {{< column >}} {{< icon "analysis-2.svg" "star icon" "bluecircle" >}}
 
