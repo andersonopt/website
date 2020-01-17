@@ -75,5 +75,9 @@ fields:
     - type: textarea
       name: description
       label: description
+      config:
+        wysiwyg: true
+        schema:
+          format: markdown
 pages:
 - content/solutions/ao-energy-market.md
