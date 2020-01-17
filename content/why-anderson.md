@@ -66,7 +66,7 @@ Our cloud infrastructure keeps your team's work in one place and updates across 
 
 ### Goodbye To Wasteful Work 
 
-Our cloud infrastructure keeps your team's work in one place and updates across all users in real time. No more digging through shared drives and email attachments, and no more hours of lost work because someone forgot to save.
+Our software automates menial tasks so that you can spend your time on more important work.
 
 {{< /column >}}
 
