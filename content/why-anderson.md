@@ -29,19 +29,19 @@ Open models, a cloud-based platform, and easy-to-use interface reduce challengin
 
 ### You Ask, We Build
 
-Our users are key in our product development process. Virtually every feature in our platform has come from a customer request. 
+Our users are key in our product development process. Virtually every feature in our platform has come from a customer request.
 
 {{< /column >}} {{< column >}} {{< icon "analysis.svg" "star icon" "bluecircle" >}}
 
 ### All Your Data In One Place
 
-Stop awkwardly managing piles of data from different sources, with different file types, in multiple applications. We load all of your data so that you access it in a single location along with all of our other tools.
+Collate data from different sources, file types, and applications into one tool for easy analysis. While our platform comes pre-loaded with key data needed for efficient siting, we can typically add custom layers if there's anything else you'd like to reference. 
 
 {{< /column >}} {{< column >}} {{< icon "analysis-2.svg" "star icon" "bluecircle" >}}
 
 ### Tools You Can Actually Use
 
-With our software, you don't need a GIS wizard, modeling expert, or external consultant to site or accurately model projects. We provide high-end analytical tools through an approachable user interface that anyone can learn.
+Preform complex siting and GIS analysis without needing to be a GIS wizard, modeling expert, or external land consultant. We provide high-end analytical tools through an approachable user interface so that you can own the process from end-to-end.
 
 {{< /column >}}
 
@@ -49,7 +49,7 @@ With our software, you don't need a GIS wizard, modeling expert, or external con
 
 ### Output You Can Understand
 
-Get rid of confusing spreadsheets mass data downloads. Our software allows you to choose the most important metrics and display them tables and charts that any audience can understand.
+Avoid confusing spreadsheets and mass data downloads. Our software allows you to choose the most important metrics and display them tables and charts that any audience can understand.
 
 {{< /column >}}
 
@@ -64,7 +64,7 @@ Our cloud infrastructure keeps your team's work in one place and updates across 
 
 {{< column >}} {{< icon "bar-chart.svg" "star icon" "bluecircle" >}}
 
-### Goodbye To Wasteful Work 
+### Goodbye To Wasteful Work
 
 Our software automates menial tasks so that you can spend your time on more important work.
 
