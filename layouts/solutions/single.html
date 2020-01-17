@@ -1,0 +1,61 @@
+{{ define "main" }}
+<section class = 'link_show'>
+  <section class="grid-2 mt-5 wrap">
+    {{ $markets := .Params.markets }}
+    <div>
+      <h1>{{ .Params.Title }}</h1>
+      {{ $markets.description | markdownify }}
+      {{ range $index, $button := $markets.buttons }}
+      <p>
+        <a href = '{{ $button.link }}' class = 'button{{ if eq $index 1 }} button_translucent{{ end }}'>{{ $button.label }}</a>
+      </p>
+      {{ end }}
+    </div>
+    
+    <div><img src="/images/{{ $markets.thumbnail }}" alt=""></div>
+    
+  </section>
+  
+  <div class='wrap space'>
+    {{ $software :=.Params.software }}
+    <h2 id="software-benefits">{{ $software.title }}</h2></div>
+    
+    <section class="grid-3 wrap benefits"  >
+      {{ range $software.benefits }}
+      <div>
+        <figure class='icon_bluecircle'>
+          <img src = '/images/{{ .icon }}' alt = 'star icon' class = 'icon'>
+        </figure>
+        <div>
+          <h3>{{ .benefit }}</h3>
+          <p>{{ .details }}</p>
+        </div>
+      </div>
+      {{ end }}
+      
+    </section>
+    
+    <div class='wrap_min pt-2'>
+      <div class = 'video'>
+        <iframe src='https://www.youtube.com/embed/{{ .Params.youtubeVideoID }}?controls=1&rel=0'></iframe>
+      </div>
+    </div>
+    
+    {{ $others := .Params.others }}
+    <div class='wrap pt-3 pb-3 center'>
+      <h2>{{ $others.title }}</h2>
+    </div>
+    {{ range $index, $item := $others.benefits }}
+    <section class="grid-2 wrap pb-3 alternate"  >
+      <div>
+        <img src="/images/{{ $item.thumbnail }}" alt="">
+      </div>
+      <div class='v-center'>
+        {{ $item.description | markdownify }}
+      </div>
+    </section>
+    {{ end }}
+    {{- .Content }}
+  </section>
+  {{- end }}
+  
