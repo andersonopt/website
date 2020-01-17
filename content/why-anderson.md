@@ -33,9 +33,9 @@ Our users are key in our product development process. Virtually every feature in
 
 {{< /column >}} {{< column >}} {{< icon "analysis.svg" "star icon" "bluecircle" >}}
 
-### Turn Data Into Workflows
+### All Your Data In One Place
 
-Stop trying to awkwardly manage piles of data from different sources across different applications. Our platform consolidates data into a single location 
+Stop awkwardly managing piles of data from different sources, with different file types, in multiple applications. We load all of your data into our platform so that you can access it with all of our workflow tools in one place.
 
 {{< /column >}} {{< column >}} {{< icon "analysis-2.svg" "star icon" "bluecircle" >}}
 
