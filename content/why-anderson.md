@@ -35,7 +35,7 @@ Our users are key in our product development process. Virtually every feature in
 
 ### All Your Data In One Place
 
-Stop awkwardly managing piles of data from different sources, with different file types, in multiple applications. We load all of your data into our platform so that you can access it with all of our workflow tools in one place.
+Stop awkwardly managing piles of data from different sources, with different file types, in multiple applications. We load all of your data so that you access it in a single location along with all of our other tools.
 
 {{< /column >}} {{< column >}} {{< icon "analysis-2.svg" "star icon" "bluecircle" >}}
 
