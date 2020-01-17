@@ -49,7 +49,7 @@ Preform complex siting and GIS analysis without needing to be a GIS wizard, mode
 
 ### Output You Can Understand
 
-Avoid confusing spreadsheets and mass data downloads. Our software allows you to choose the most important metrics and display them tables and charts that any audience can understand.
+Avoid confusing spreadsheets and mass data downloads that are hard to parse. Our software allows you to choose the most important metrics and displays them in tables that any audience can understand.
 
 {{< /column >}}
 
@@ -58,7 +58,7 @@ Avoid confusing spreadsheets and mass data downloads. Our software allows you to
 
 ### Stay On The Same Page
 
-Our cloud infrastructure keeps your team's work in one place and updates across all users in real time. No more digging through shared drives and email attachments, and no more lost work because someone forgot to click "Save."
+Our cloud infrastructure keeps your team's work in one place and saves changes in real-time making it simple to collaborate across teams and locations. No more digging through shared drives and email attachments or losing work because someone forgot to click "Save."
 
 {{< /column >}}
 
@@ -66,7 +66,7 @@ Our cloud infrastructure keeps your team's work in one place and updates across 
 
 ### Goodbye To Wasteful Work
 
-Our software automates menial tasks so that you can spend your time on more important work.
+Focus your time on the highest value work and let our software automate repetitive, time-consuming tasks.
 
 {{< /column >}}
 
