@@ -52,7 +52,7 @@ With our software, you don't need a GIS wizard, modeling expert, or external con
 
 Get rid of confusing spreadsheets mass data downloads. Our software allows you to choose the most important metrics and display them tables and charts that any audience can understand.
 
- {{< /column >}}
+{{< /column >}}
 
 {{< column >}}
 {{< icon "bar-chart.svg" "star icon" "bluecircle" >}}
