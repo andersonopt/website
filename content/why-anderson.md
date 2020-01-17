@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Why Anderson Optimization"
 
 +++
@@ -58,6 +57,14 @@ Get rid of confusing spreadsheets mass data downloads. Our software allows you t
 {{< icon "bar-chart.svg" "star icon" "bluecircle" >}}
 
 ### Stay On The Same Page
+
+Our cloud infrastructure keeps your team's work in one place and updates across all users in real time. No more digging through shared drives and email attachments, and no more hours of lost work because someone forgot to save.
+
+{{< /column >}}
+
+{{< column >}} {{< icon "bar-chart.svg" "star icon" "bluecircle" >}}
+
+### Goodbye To Wasteful Work 
 
 Our cloud infrastructure keeps your team's work in one place and updates across all users in real time. No more digging through shared drives and email attachments, and no more hours of lost work because someone forgot to save.
 
