@@ -7,14 +7,12 @@ title = "Why Anderson Optimization"
 
 # Why Anderson Optimization
 
-Automate time-consuming work and enhance your analytical capabilities to accelerate timelines and maximize returns for energy and storage development projects.
+## Automate time-consuming work and enhance your analytical capabilities to accelerate timelines and maximize returns for energy and storage development projects.
 
 {{< /column >}}
 {{< /block >}}
 
 {{< column "wrap_min center space" >}}
-
-Open models, a cloud-based platform, and easy-to-use interface reduce challenging barriers to scaling renewable and storage development. By providing cost-effective solutions that reduce work and improve analysis, we can make renewable energy an easy choice for industry participants.
 
 {{< /column >}}
 {{< column "wrap_min center space" >}}
