@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Why Anderson Optimization"
 
 +++
@@ -7,7 +8,7 @@ title = "Why Anderson Optimization"
 
 # Why Anderson Optimization
 
-## **Automate time-consuming analysis to accelerate renewable energy development and maximize returns.**
+Automate time-consuming work and enhance your analytical capabilities to accelerate renewable energy and storage development and maximize returns.
 
 {{< /column >}}
 {{< /block >}}
