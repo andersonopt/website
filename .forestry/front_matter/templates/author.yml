@@ -15,3 +15,5 @@ fields:
   - type: textarea
     name: bio
     label: bio
+pages:
+- data/authors.yaml
