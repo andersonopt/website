@@ -49,8 +49,10 @@ fields:
     - type: text
       name: benefit
       label: benefit
-    - type: file
-      name: icon
+    - name: icon
+      type: text
+      config:
+        required: false
       label: icon
     - type: text
       name: details
@@ -69,9 +71,6 @@ fields:
     name: benefits
     label: benefits
     fields:
-    - type: file
-      name: thumbnail
-      label: thumbnail
     - type: textarea
       name: description
       label: description
@@ -79,5 +78,10 @@ fields:
         wysiwyg: true
         schema:
           format: markdown
+    - name: thumbnail
+      type: text
+      config:
+        required: false
+      label: thumbnail
 pages:
 - content/solutions/ao-energy-market.md
