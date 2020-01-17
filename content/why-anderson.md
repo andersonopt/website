@@ -44,12 +44,15 @@ Stop waiting a month for a consultant to test a new set of project parameters. Q
 
 With our software, you don't need a GIS wizard, modeling expert, or external consultant to site or accurately model projects. We provide high-end analytical tools through an approachable user interface that anyone can learn. 
 
-{{< /column >}} {{< column >}} {{< icon "cloud-computing.svg" "star icon" "bluecircle" >}}
+{{< /column >}} 
+
+{{< column >}} {{< icon "cloud-computing.svg" "star icon" "bluecircle" >}}
 
 ### Output You Can Understand
 
 Save time and increase your project analysis and development return on investment.
 {{< /column >}}
+
 {{< column >}}
 {{< icon "bar-chart.svg" "star icon" "bluecircle" >}}
 
@@ -57,6 +60,6 @@ Save time and increase your project analysis and development return on investmen
 
 Attain scalable computing power to generate results in minutes rather than hours with other solutions.
 {{< /column >}}
-{{< column "wrap_min center space" >}}
+
 
 {{< /block >}}
