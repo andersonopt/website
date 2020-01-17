@@ -1,6 +1,5 @@
 ---
 title: "AO Prospect"
-date: 2019-12-03T15:24:57Z
 markets:
   title: "AO Prospect"
   buttons:
@@ -67,7 +66,7 @@ others:
         ### Seamlessly collaborate across teams in the cloud
 
         Projects automatically save in real-time so work is accessible from anywhere. Export land owner data, KML constraint maps, and PDF reports for seamless downstream work.
-
+date: 2019-12-03T15:24:57Z
 ---
 
 {{< block "wavy" >}}
