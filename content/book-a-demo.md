@@ -6,9 +6,9 @@ title = "Book a Demo"
 +++
 {{< column "wrap_min pt-4 center" >}}
 
-# Book a demo
+# Let us show you what we can do
 
-We'd love to show you what we can do. Please reach out for product demos, pricing, or any other questions have. We look forward to speaking with you.
+Please fill out this form so we can set up time to connect (product demos, pricing, general questions). We look forward to speaking with you.
 
 {{< /column >}}
 
