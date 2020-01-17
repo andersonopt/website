@@ -8,7 +8,7 @@ title = "Book a Demo"
 
 # Book a demo
 
-We'd love to show you what we can do. Please reach out for product demos, pricing, or any other questions you might have. We look forward to speaking with you.
+We'd love to show you what we can do. Please reach out for product demos, pricing, or any other questions have. We look forward to speaking with you.
 
 {{< /column >}}
 
