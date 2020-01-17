@@ -1,14 +1,15 @@
 +++
-title = "Book a Demo"
-date = 2019-12-05T15:23:04+03:00
-draft = false
+date = 2019-12-05T12:23:04Z
 haze = true
+title = "Book a Demo"
+
 +++
-
 {{< column "wrap_min pt-4 center" >}}
-# Book a demo
 
-Reach out for rates, pricing, product demos, or any other questions you might have.
+# Let us show you what we can do
+
+Please fill out this form, so we can set up time to connect (product demos, pricing, general questions). 
+
 {{< /column >}}
 
 {{< include "form" "mt-1 mb-3" >}}

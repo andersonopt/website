@@ -20,9 +20,9 @@ sections:
   - page
 - type: directory
   path: content
-  label: All Pages
+  label: Pages
   create: all
-  match: "**/*"
+  match: "./*.md"
 - type: heading
   label: Navigation
 - type: document
