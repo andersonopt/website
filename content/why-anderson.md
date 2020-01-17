@@ -58,7 +58,7 @@ Get rid of confusing spreadsheets mass data downloads. Our software allows you t
 
 ### Stay On The Same Page
 
-Our cloud infrastructure keeps your team's work in one place and updates across all users in real time. No more digging through shared drives and email attachments, and no more lost work because someone forgot to click save.
+Our cloud infrastructure keeps your team's work in one place and updates across all users in real time. No more digging through shared drives and email attachments, and no more lost work because someone forgot to click "Save."
 
 {{< /column >}}
 
