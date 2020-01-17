@@ -35,7 +35,7 @@ Institute models created specifically to analyze modern grids with renewables an
 {{< column >}}
 {{< icon "analysis.svg" "star icon" "bluecircle" >}}
 
-### Scenario Analysis
+### Scenario Analysis Made Easy
 
 Automatically run thousands of simulations to easily determine optimal parameters that will maximize project returns instead of manually modeling each scenario.
 {{< /column >}}
