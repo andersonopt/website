@@ -60,9 +60,3 @@ Attain scalable computing power to generate results in minutes rather than hours
 {{< /block >}}
 
 {{< column "wrap_min center space" >}}
-
-### Goodbye Wasteful Workflows 
-
-Attain scalable computing power to generate results in minutes rather than hours with other solutions. {{< /column >}} {{< /block >}}
-
-{{< column "wrap_min center space" >}}
