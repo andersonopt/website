@@ -8,7 +8,7 @@ title = "Book a Demo"
 
 # Let us show you what we can do
 
-Please fill out this form so we can set up time to connect (product demos, pricing, general questions). 
+Please fill out this form, so we can set up time to connect (product demos, pricing, general questions). 
 
 {{< /column >}}
 
