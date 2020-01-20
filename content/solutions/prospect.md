@@ -6,8 +6,6 @@ markets:
   buttons:
   - label: Book a demo
     link: "#"
-  - label: Explore Features
-    link: "#"
   description: |
     ### Expedite and simplify early-stage land siting
 
