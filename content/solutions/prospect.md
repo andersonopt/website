@@ -45,7 +45,7 @@ others:
   - description: |-
       ### Quickly move into new markets
 
-      Moving into a new market can take several weeks while you find all the right data. AO Prospect has nationwide coverage, so you can move into a new market overnight.
+      Traditionally, moving into a new market can take several weeks while you find all of the right data. AO Prospect has nationwide coverage, so you can move into a new market overnight
     thumbnail: macbook.png
   - thumbnail: macbook.png
     description: |-
