@@ -8,6 +8,8 @@ menu:
     link: "/solutions/prospect"
   - name: AO Energy Markets
     link: "/solutions/ao-energy-market"
+- column: Resources
+  links: ''
 - column: Company
   links:
   - name: Blog
