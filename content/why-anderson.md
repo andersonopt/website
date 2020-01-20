@@ -9,7 +9,7 @@ title = "Why Anderson Optimization"
 
 ## Accelerate timelines and maximize returns on energy and storage development projects.
 
-{{< /column >}}
+### {{< /column >}}
 {{< /block >}}
 
 {{< column "wrap_min center space" >}}
