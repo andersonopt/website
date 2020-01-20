@@ -25,7 +25,7 @@ software:
   - benefit: Customization
     icon: edit.svg
     details: Expedited new feature development from customer requests ensures users
-      have the tools they need
+      always have the tools they need
   - benefit: Optimization Software
     icon: speedometer.svg
     details: State-of-the-art optimization models and software provide highly accurate
