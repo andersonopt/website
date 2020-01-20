@@ -14,7 +14,7 @@ markets:
 software:
   title: Software Benefits
   benefits:
-  - benefit: Full Project Pipelines Increase Revenue
+  - benefit: Filled Pipelines for Increased Revenue
     icon: speedometer.svg
     details: A simplistic, repeatable process makes it easy to maintain a steady flow
       of active projects
