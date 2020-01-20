@@ -18,9 +18,10 @@ software:
     icon: star.svg
     details: Model projects in a matter of hour rather than the weeks that it takes
       for a typical consultant
-  - benefit: Cloud Software
+  - benefit: Reduced Variable Costs
     icon: cloud.svg
-    details: Produce results faster, and minimize internal software management
+    details: AO Energy Markets allows you to model projects for a significantly lower
+      rate than traditional consultants
   - benefit: Customization
     icon: edit.svg
     details: Expedited feature development and rapid integration with existing tools
@@ -55,6 +56,7 @@ others:
       ### View and edit modeling assumptions
 
       Consultant-led models use black box assumptions making it difficult for developers to understand what is being analyzed and adjust parameters as needed. We use an open modeling approach so you can clearly view and augment the assumptions to better align with your team's approach.
+draft: true
 
 ---
 {{< block "wavy" >}}
