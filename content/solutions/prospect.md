@@ -29,9 +29,10 @@ software:
   - benefit: Expedited Project Timelines
     icon: speedometer.svg
     details: AO Prospect users typically increase their siting capacity by 2-4 times.
-  - benefit: External Integration
+  - benefit: Easily Contact Landowners
     icon: basic-plug.svg
-    details: Produce results faster, and minimize internal software management
+    details: Identify only the best landowners, so that you don't waste time working
+      on infeasible sites
 youtubeVideoID: VBklW8fsB2U
 others:
   title: Find high-quality sites without all the headache
