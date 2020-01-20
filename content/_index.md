@@ -39,7 +39,7 @@ Identify ideal parcels and automate complex GIS analysis to find high-quality si
 
 ### Easily model projects and tradeoffs to maximize value and minimize risk
 
-Quickly model and test different assumptions to assess and optimize projects across key considerations, including: basis risk, pricing, congestion, market pricing and overall financial viability.
+Quickly model and test different assumptions to assess and optimize projects across key considerations, including: basis risk, market pricing, congestion, and overall financial viability.
 
 {{< button "/solutions/ao-energy-market/" "Learn more →" >}} {{< /column >}} {{< column "mobile_start" >}} ![blank image](/images/solar-panels.png)
 {{< /column >}}
