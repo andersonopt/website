@@ -31,8 +31,8 @@ software:
     details: AO Prospect users typically increase their siting capacity by 2-4 times
   - benefit: Easily Contact Landowners
     icon: basic-plug.svg
-    details: Identify the highest value landowners, so that you don't waste time working
-      on infeasible sites
+    details: Identify landowners with the highest quality land, so that you don't
+      waste time working on infeasible sites
 youtubeVideoID: VBklW8fsB2U
 others:
   title: Find high-quality sites without all the headache
