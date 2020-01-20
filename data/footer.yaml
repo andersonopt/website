@@ -13,7 +13,7 @@ menu:
   - name: Blog
     link: ''
   - name: Support
-    link: ''
+    link: "/support/"
   - name: User Documentation
     link: https://docs.andersonopt.com/
 - column: Company
