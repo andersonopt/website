@@ -7,7 +7,7 @@ markets:
   - label: Book a demo
     link: "#"
   description: |-
-    #### Quickly analyze a projects energy market and grid effects to determine its financial viability and risk.
+    #### Quickly analyze energy market and grid effects of a project to evaluate risk, determine viability, and optimize financial viability.
 
     Test different grid simulations and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
   thumbnail: macbook.png
