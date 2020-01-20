@@ -11,7 +11,7 @@ menu:
   - name: AO Energy Markets
     link: "/solutions/ao-energy-market"
   - name: Client Stories
-    link: "/pages/content/content-testimonials-md/"
+    link: "/content/content-testimonials-md/"
 - column: Resources
   links:
   - name: Blog
