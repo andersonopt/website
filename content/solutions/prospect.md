@@ -24,8 +24,8 @@ software:
       land agents, or new developers
   - benefit: New Feature Development
     icon: edit.svg
-    details: Expedited new feature development from customer requests ensures users
-      always have the tools they need
+    details: Expedited new feature development for requests ensures users always have
+      the tools they need
   - benefit: Easy to Use
     icon: star.svg
     details: Anyone - not just GIS developers - can easily perform complex environmental
