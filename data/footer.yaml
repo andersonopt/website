@@ -2,6 +2,8 @@
 menu:
 - column: Solutions
   links:
+  - name: Why Anderson Optimization?
+    link: "/Why Anderson Optimization/"
   - name: All Solutions
     link: "/solutions/"
   - name: AO Prospect
@@ -20,10 +22,6 @@ menu:
   links:
   - name: About Us
     link: "/why-anderson/"
-  - name: Why Anderson Optimization?
-    link: ''
-  - name: Client Stories
-    link: ''
 address: |
   [0 (+44) 123456789](tel:0(+44)123456789)
   [info@andersonopt.com](mailto:info@andersonopt.com)
