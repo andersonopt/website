@@ -49,7 +49,7 @@ others:
     thumbnail: macbook.png
   - thumbnail: macbook.png
     description: |-
-      ### See all key data layers for renewable siting in one place
+      ### See all relevant renewable siting data and layers in one place
 
       Eliminate the need to collect and consolidate disparate GIS data sources. All of the layers needed for renewable siting, including wetlands, flood, topo, etc. come pre-loaded. We can also integrate any unique data that you already have.
   - thumbnail: macbook.png
