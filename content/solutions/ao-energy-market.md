@@ -20,8 +20,7 @@ software:
       for a typical consultant
   - benefit: Reduced Variable Costs
     icon: cloud.svg
-    details: AO Energy Markets allows you to model projects for a significantly lower
-      rate than traditional consultants
+    details: Model projects for a significantly lower rate than traditional consultants
   - benefit: Customization
     icon: edit.svg
     details: Expedited feature development and rapid integration with existing tools
