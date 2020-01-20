@@ -24,7 +24,7 @@ software:
   - benefit: Maximized Project Returns
     icon: edit.svg
     details: Don't leave financial upside on the table; evaluate as many scenarios
-      as needed to identify optimized project parameters
+      as needed to optimize project parameters
   - benefit: No Black Box
     icon: speedometer.svg
     details: Our models are open and flexible so that you can ensure the model's assumptions
