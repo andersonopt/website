@@ -31,7 +31,7 @@ title = "Home Page"
 
 ### Expedite and simplify early-stage land siting
 
-Identify potential parcels and automate complex GIS analysis to find high-quality sites in just minutes.
+Identify ideal parcels and automate complex GIS analysis to find high-quality sites for renewable development in just minutes.
 
 {{< button "/solutions/prospect/" "Learn more →" >}} {{< /column >}} {{< /block >}} {{< block "services" >}} {{< column >}}
 
@@ -39,7 +39,7 @@ Identify potential parcels and automate complex GIS analysis to find high-qualit
 
 ### Run nimble production cost models and evaluate tradeoffs
 
-Quickly test different models and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
+Quickly model and test different assumptions to assess and optimize projects across key considerations, including: basis risk, pricing, congestion, market pricing and overall financial viability of a site.
 
 {{< button "/solutions/ao-energy-market/" "Learn more →" >}} {{< /column >}} {{< column "mobile_start" >}} ![blank image](/images/solar-panels.png)
 {{< /column >}}
