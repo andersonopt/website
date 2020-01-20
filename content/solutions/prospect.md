@@ -45,7 +45,7 @@ others:
   - description: |-
       ### Quickly move into new markets
 
-      Traditionally, moving into a new market can take a few weeks to find all the right data; with AO Prospect, you can move into a new market in a day.
+      Moving into a new market can take several weeks while you find all the right data. AO Prospect has nationwide coverage, so you can move into a new market in a day.
     thumbnail: macbook.png
   - thumbnail: macbook.png
     description: |-
@@ -70,6 +70,7 @@ others:
 
       Projects automatically save in real-time so work is accessible from anywhere. Export land owner data, KML constraint maps, and PDF reports for seamless downstream work.
 image: ''
+draft: true
 
 ---
 {{< block "wavy" >}}
