@@ -11,7 +11,7 @@ menu:
 - column: Resources
   links:
   - name: Blog
-    link: ''
+    link: "/blog/"
   - name: Support
     link: "/support/"
   - name: User Documentation
