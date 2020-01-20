@@ -26,10 +26,10 @@ software:
     icon: edit.svg
     details: Expedited new feature development from customer requests ensures users
       always have the tools they need
-  - benefit: Optimization Software
+  - benefit: Expedited Project Timelines
     icon: speedometer.svg
-    details: State-of-the-art optimization models and software provide highly accurate
-      and precise results
+    details: AO Prospect users typically increase their front-end development efficiency
+      by 2-4 times.
   - benefit: External Integration
     icon: basic-plug.svg
     details: Produce results faster, and minimize internal software management
