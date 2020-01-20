@@ -20,8 +20,8 @@ software:
       analysis
   - benefit: Simplified Collaboration
     icon: cloud.svg
-    details: " Work is automatically saved and shared, so everyone stays on the same
-      page."
+    details: " Work is automatically saved and shared across your team, so everyone
+      stays on the same page."
   - benefit: Customization
     icon: edit.svg
     details: Expedited new feature development from customer requests ensures users
