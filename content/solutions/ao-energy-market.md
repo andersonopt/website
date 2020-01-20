@@ -7,9 +7,9 @@ markets:
   - label: Book a demo
     link: "#"
   description: |-
-    #### Quickly analyze energy market and grid effects to evaluate risk and optimize financial viability for projects.
+    #### Quickly model projects to evaluate risk and optimize financial viability.
 
-    Easily analyze projects across thousands of scenarios to evaluate and optimize basis risk, market pricing, congestion, and overall financial viability of renewable and storage projects using the latest research in production cost, unit commitment, capacity expansion, and uncertainty modeling.
+    Easily analyze projects across thousands of scenarios to evaluate and optimize basis risk, market pricing, congestion, and overall financial upside of renewable and storage projects using the latest research in production cost, unit commitment, capacity expansion, and uncertainty modeling.
   thumbnail: macbook.png
 software:
   title: Software Benefits
@@ -54,7 +54,6 @@ others:
       ### View and edit modeling assumptions
 
       Consultant-led models use black box assumptions making it difficult for developers to understand what is being analyzed and adjust parameters as needed. We use an open modeling approach so you can clearly view and augment the assumptions to better align with your team's approach.
-draft: true
 
 ---
 {{< block "wavy" >}}
