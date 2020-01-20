@@ -6,10 +6,11 @@ markets:
   buttons:
   - label: Book a demo
     link: "#"
-  description: |-
-    ### Expedite and simplify early-stage land siting
-
-    Identify ideal parcels and automate complex GIS analysis to find high-quality sites in just minutes.
+  description: "### Expedite and simplify early-stage land siting\n\nRapidly identify
+    ideal parcels for renewable development and automate complex GIS analysis to find
+    high-quality sites in just minutes.\n\n* Find parcels that are the right size
+    and nearby grid infrastructure\n* Automatically calculate buildable area, and
+    create constraint maps\n* Filter for the highest quality sites\n* Export "
   thumbnail: macbook.png
 software:
   title: Software Benefits
