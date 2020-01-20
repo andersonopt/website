@@ -22,7 +22,7 @@ software:
     icon: cloud.svg
     details: " Work is automatically saved and shared across your team, so everyone
       stays on the same page."
-  - benefit: Customization
+  - benefit: New Feature Development
     icon: edit.svg
     details: Expedited new feature development from customer requests ensures users
       always have the tools they need
