@@ -22,10 +22,10 @@ software:
     icon: star.svg
     details: Anyone - not just GIS developers - can easily perform complex environmental
       analysis
-  - benefit: Decrease Soft Costs
+  - benefit: Reduce Soft Costs
     icon: cloud.svg
-    details: Increased project capacity helps forego hiring a costly GIS analyst,
-      external land agents, or new developer
+    details: AO Prospect helps forego the need to hire costly GIS analysts, external
+      land agents, or new developers
   - benefit: New Feature Development
     icon: edit.svg
     details: Expedited new feature development from customer requests ensures users
