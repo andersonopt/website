@@ -26,7 +26,7 @@ software:
     icon: edit.svg
     details: Expedited new feature development from customer requests ensures users
       always have the tools they need
-  - benefit: Expedited Project Timelines
+  - benefit: Increased Siting Efficiency
     icon: speedometer.svg
     details: AO Prospect users typically increase their siting capacity by 2-4 times
   - benefit: Easily Contact Landowners
