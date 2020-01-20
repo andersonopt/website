@@ -21,9 +21,11 @@ software:
   - benefit: Reduced Variable Costs
     icon: cloud.svg
     details: Model scenarios at a significantly lower rate than with external consultants
-  - benefit: Customization
+  - benefit: Maximized Return on Investment
     icon: edit.svg
-    details: Expedited feature development and rapid integration with existing tools
+    details: Don't leave financial upside on the table with costly consultant-led
+      modeling runs. Our solution allows you to cost-effectively evaluate as many
+      scenarios as needed to optimize your project and identify the ideal parameters.
   - benefit: Optimization Software
     icon: speedometer.svg
     details: State-of-the-art optimization models and software provide highly accurate
