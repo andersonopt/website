@@ -5,7 +5,7 @@ title = "Why Anderson Optimization"
 {{< block "hero" "solar-panel-1.png" >}}
 {{< column "wrap_min center" >}}
 
-# Why Anderson Optimization
+# Why Anderson Optimization?
 
 ## Automate time-consuming work and enhance your analytical capabilities to accelerate timelines and maximize returns for energy and storage development projects.
 
@@ -33,7 +33,7 @@ Our users are key in our product development process. Virtually every feature in
 
 ### All Your Data In One Place
 
-Collate data from disparate sources into one tool for easy analysis. Our platform comes pre-loaded with key data and we can also add custom data layers - just tell us the source! 
+Collate data from disparate sources into one tool for easy analysis. Our platform comes pre-loaded with key data and we can also add custom data layers - just tell us the source!
 
 {{< /column >}} {{< column >}} {{< icon "analysis-2.svg" "star icon" "bluecircle" >}}
 
