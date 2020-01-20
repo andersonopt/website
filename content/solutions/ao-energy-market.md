@@ -38,10 +38,10 @@ others:
   title: Focus on the right projects from the get-go
   benefits:
   - thumbnail: macbook.png
-    description: |
+    description: |-
       ### Easily test different scenarios and iterate quickly
 
-      Queue up a wide variety of mass grid simulation scenarios and adjust parameters after the initial run to find the right configuration. Consultant-provided runs typically only include a few scenario views and revised scenarios come with additional multi-week timelines.
+      AO Energy Market's scenario analysis engine allows users to Automatically queue thousands of modeling scenarios with just a few clicks. After initial runs, it's easy to adjust parameters and identify the best project configuration. Consultant-provided runs typically only include a handful of scenario views and revised scenarios come with additional multi-week timelines.
   - thumbnail: macbook.png
     description: |
       ### Expedite analysis timelines
