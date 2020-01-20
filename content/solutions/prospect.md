@@ -32,8 +32,8 @@ software:
       analysis
   - benefit: Easily Identify Landowners
     icon: basic-plug.svg
-    details: Identify landowners with the highest quality land, so that you don't
-      waste time working on infeasible sites
+    details: Quickly identify landowners with the highest quality land, so that you
+      don't waste time working on infeasible sites
 youtubeVideoID: VBklW8fsB2U
 others:
   title: Find high-quality sites without all the headache
