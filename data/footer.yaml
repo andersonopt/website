@@ -10,10 +10,12 @@ menu:
     link: "/solutions/ao-energy-market"
 - column: Company
   links:
-  - name: Client Stories
+  - name: Why Anderson Optimization?
     link: ''
   - name: About Us
     link: "/why-anderson/"
+  - name: Client Stories
+    link: ''
   - name: Support
     link: "/support/"
 address: |
