@@ -14,9 +14,10 @@ markets:
 software:
   title: Software Benefits
   benefits:
-  - benefit: Easy to Use
+  - benefit: Expedited Modeling Timelines
     icon: star.svg
-    details: Anyone can easily perform complex analysis
+    details: Model projects in a matter of hour rather than the weeks that it takes
+      for a typical consultant
   - benefit: Cloud Software
     icon: cloud.svg
     details: Produce results faster, and minimize internal software management
