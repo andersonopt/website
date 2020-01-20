@@ -18,10 +18,6 @@ software:
     icon: speedometer.svg
     details: Users typically increase siting efficiency by 2-4 times allowing for
       faster landowner outreach
-  - benefit: Easy to Use
-    icon: star.svg
-    details: Anyone - not just GIS developers - can easily perform complex environmental
-      analysis
   - benefit: Reduce Soft Costs
     icon: cloud.svg
     details: AO Prospect helps forego the need to hire costly GIS analysts, external
@@ -30,6 +26,10 @@ software:
     icon: edit.svg
     details: Expedited new feature development from customer requests ensures users
       always have the tools they need
+  - benefit: Easy to Use
+    icon: star.svg
+    details: Anyone - not just GIS developers - can easily perform complex environmental
+      analysis
   - benefit: Easily Identify Landowners
     icon: basic-plug.svg
     details: Identify landowners with the highest quality land, so that you don't
