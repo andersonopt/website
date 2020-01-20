@@ -43,10 +43,10 @@ others:
 
       AO Energy Market's scenario analysis engine allows users to Automatically queue thousands of modeling scenarios with just a few clicks. After initial runs, it's easy to adjust parameters and identify the best project configuration. Consultant-provided runs only include a handful of scenario views and revised runs come with additional multi-week timelines.
   - thumbnail: macbook.png
-    description: |
-      ### Expedite analysis timelines
+    description: |-
+      ### Perform complex analysis with standard computers
 
-      AO Integrate can deliver production cost modeling run output in a matter of hours vs. 2-4 weeks with consultants.
+      We leverage the power of the cloud so that users can perform large-scale modeling runs with just a laptop.
   - thumbnail: macbook.png
     description: |
       ### Reduce variable costs
