@@ -7,7 +7,7 @@ title = "Why Anderson Optimization"
 
 # Why Anderson Optimization?
 
-## Automate time-consuming work and enhance your analytical capabilities to accelerate timelines and maximize returns for energy and storage development projects.
+## Accelerate timelines and maximize returns for energy and storage development projects.
 
 {{< /column >}}
 {{< /block >}}
