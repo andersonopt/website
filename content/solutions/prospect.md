@@ -63,9 +63,10 @@ others:
       * Sort and filter parcels based on buildable area.
       * Export contact information and maps
   - thumbnail: macbook.png
-    description: "\n### Easily see and export land owner information for LOIs\n\nOnce
-      you have a shortlist of high quality parcels, you'll have all the land owner
-      information you need to send out mailers. \n"
+    description: |-
+      ### Easily see and export land owner information for LOIs
+
+      Once you have a shortlist of high quality parcels, you'll have all the land owner information you need to send out mailers.
   - thumbnail: macbook.png
     description: |
       ### Seamlessly collaborate across teams in the cloud
