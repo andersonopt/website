@@ -11,7 +11,7 @@ menu:
 - column: Resources
   links:
   - name: User Documentation
-    link: ''
+    link: https://docs.andersonopt.com/
 - column: Company
   links:
   - name: Blog
