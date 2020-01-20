@@ -18,9 +18,9 @@ software:
     icon: star.svg
     details: Anyone - not just GIS developers - can easily perform complex environmental
       analysis
-  - benefit: Cloud Software
+  - benefit: Simplified Collaboration
     icon: cloud.svg
-    details: Produce results faster, and minimize internal software management
+    details: Instantaneous saving and sharing ensures everyone stays on the same page.
   - benefit: Customization
     icon: edit.svg
     details: Expedited feature development and rapid integration with existing tools
