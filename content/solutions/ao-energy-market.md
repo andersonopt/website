@@ -41,7 +41,7 @@ others:
     description: |-
       ### Easily test different scenarios and iterate quickly
 
-      AO Energy Market's scenario analysis engine allows users to Automatically queue thousands of modeling scenarios with just a few clicks. After initial runs, it's easy to adjust parameters and identify the best project configuration. Consultant-provided runs typically only include a handful of scenario views and revised scenarios come with additional multi-week timelines.
+      AO Energy Market's scenario analysis engine allows users to Automatically queue thousands of modeling scenarios with just a few clicks. After initial runs, it's easy to adjust parameters and identify the best project configuration. Consultant-provided runs only include a handful of scenario views and revised runs come with additional multi-week timelines.
   - thumbnail: macbook.png
     description: |
       ### Expedite analysis timelines
