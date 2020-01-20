@@ -16,7 +16,7 @@ software:
   benefits:
   - benefit: Faster Timelines
     icon: speedometer.svg
-    details: 'Users typically increase siting capacity by 2-4 times '
+    details: Users typically increase siting efficiency by 2-4 times.
   - benefit: Easy to Use
     icon: star.svg
     details: Anyone - not just GIS developers - can easily perform complex environmental
