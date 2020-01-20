@@ -6,10 +6,10 @@ markets:
   buttons:
   - label: Book a demo
     link: "#"
-  description: |
+  description: |-
     ### Expedite and simplify early-stage land siting
 
-    Identify potential parcels and automate complex GIS analysis to find high-quality sites in just minutes.
+    Identify ideal parcels and automate complex GIS analysis to find high-quality sites in just minutes.
   thumbnail: macbook.png
 software:
   title: Software Benefits
