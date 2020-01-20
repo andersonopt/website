@@ -14,7 +14,7 @@ markets:
 software:
   title: Software Benefits
   benefits:
-  - benefit: Decrease Project Timelines
+  - benefit: Expedite Project Timelines
     icon: speedometer.svg
     details: Users typically increase siting efficiency by 2-4 times allowing for
       faster landowner outreach
