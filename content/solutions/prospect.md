@@ -8,9 +8,11 @@ markets:
     link: "#"
   description: "### Expedite and simplify early-stage land siting\n\nRapidly identify
     ideal parcels for renewable development and automate complex GIS analysis to find
-    high-quality sites in just minutes.\n\n* Find parcels that are the right size
-    and nearby grid infrastructure\n* Automatically calculate buildable area, and
-    create constraint maps\n* Filter for the highest quality sites\n* Export "
+    high-quality sites in just minutes.\n\nUsers can pull parcels based upon size
+    and grid radius, automatically calculate buildable acreages and create associated
+    constraint maps, filter down to the highest potential sites, and export all of
+    the relevant data to reach out to landowners to begin the sales process and design
+    the site. "
   thumbnail: macbook.png
 software:
   title: Software Benefits
