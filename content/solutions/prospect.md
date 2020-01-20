@@ -30,7 +30,7 @@ software:
   - benefit: External Integration
     icon: basic-plug.svg
     details: Produce results faster, and minimize internal software management
-youtubeVideoID: VBklW8fsB2U
+youtubeVideoID: ''
 others:
   title: Find high-quality sites without all the headache
   benefits:
@@ -62,6 +62,7 @@ others:
 
       Projects automatically save in real-time so work is accessible from anywhere. Export land owner data, KML constraint maps, and PDF reports for seamless downstream work.
 image: ''
+draft: true
 
 ---
 {{< block "wavy" >}}
