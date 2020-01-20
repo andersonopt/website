@@ -9,7 +9,7 @@ markets:
   description: |-
     #### Quickly analyze energy market and grid effects to evaluate risk and optimize financial viability for projects.
 
-    Test different grid simulations and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
+    Easily analyze projects across thousands of scenarios to evaluate and optimize basis risk, market pricing, congestion, and overall financial viability of renewable and storage projects using the latest research in production cost, unit commitment, capacity expansion, and uncertainty modeling.
   thumbnail: macbook.png
 software:
   title: Software Benefits
