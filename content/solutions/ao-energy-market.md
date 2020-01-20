@@ -31,8 +31,8 @@ software:
       and inputs match your internal viewpoint
   - benefit: Fast Failure Made Easy
     icon: basic-plug.svg
-    details: Quickly model early-stage projects to easily eliminate clearly unviable
-      projects rather than waiting for full-scale analysis reports
+    details: Easily model early-stage projects to more quickly eliminate unviable
+      projects
 youtubeVideoID: VBklW8fsB2U
 others:
   title: Focus on the right projects from the get-go
