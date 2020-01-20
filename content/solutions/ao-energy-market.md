@@ -23,9 +23,8 @@ software:
     details: Model scenarios at a significantly lower rate than with external consultants
   - benefit: Maximized Return on Investment
     icon: edit.svg
-    details: Don't leave financial upside on the table with costly consultant-led
-      modeling runs. Our solution allows you to cost-effectively evaluate as many
-      scenarios as needed to optimize your project and identify the ideal parameters.
+    details: Don't leave financial upside on the table; evaluate as many scenarios
+      as needed to identify optimized project parameters
   - benefit: Optimization Software
     icon: speedometer.svg
     details: State-of-the-art optimization models and software provide highly accurate
