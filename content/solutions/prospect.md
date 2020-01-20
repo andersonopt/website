@@ -21,7 +21,7 @@ software:
   - benefit: Simplified Collaboration
     icon: cloud.svg
     details: " Work is automatically saved and shared across your team, so everyone
-      stays on the same page."
+      stays on the same page"
   - benefit: New Feature Development
     icon: edit.svg
     details: Expedited new feature development from customer requests ensures users
