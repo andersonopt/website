@@ -29,7 +29,7 @@ software:
   - benefit: Increased Siting Efficiency
     icon: speedometer.svg
     details: AO Prospect users typically increase their siting capacity by 2-4 times
-  - benefit: Easily Contact Landowners
+  - benefit: Easily Identify Landowners
     icon: basic-plug.svg
     details: Identify landowners with the highest quality land, so that you don't
       waste time working on infeasible sites
