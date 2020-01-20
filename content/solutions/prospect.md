@@ -28,7 +28,7 @@ software:
       always have the tools they need
   - benefit: Expedited Project Timelines
     icon: speedometer.svg
-    details: AO Prospect users typically increase their siting capacity by 2-4 times.
+    details: AO Prospect users typically increase their siting capacity by 2-4 times
   - benefit: Easily Contact Landowners
     icon: basic-plug.svg
     details: Identify only the best landowners, so that you don't waste time working
