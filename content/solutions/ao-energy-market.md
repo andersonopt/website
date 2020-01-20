@@ -48,8 +48,8 @@ others:
 
       We leverage the power of the cloud so that users can perform large-scale modeling runs with just a laptop.
   - thumbnail: macbook.png
-    description: |
-      ### Reduce variable costs
+    description: |-
+      ### Simplify project review
 
       Don't leave financial upside on the table with costly consultant-led modeling runs. Our solution allows you to cost-effectively evaluate as many scenarios as needed to optimize your project and identify the ideal parameters.
   - thumbnail: macbook.png
@@ -57,6 +57,7 @@ others:
       ### View and edit modeling assumptions
 
       Consultant-led models use black box assumptions making it difficult for developers to understand what is being analyzed and adjust parameters as needed. We use an open modeling approach so you can clearly view and augment the assumptions to better align with your team's approach.
+draft: true
 
 ---
 {{< block "wavy" >}}
