@@ -29,9 +29,10 @@ software:
     icon: speedometer.svg
     details: Our models are open and flexible so that you can ensure the model's assumptions
       and inputs match your internal viewpoint
-  - benefit: External Integration
+  - benefit: Fast Failure Made Easy
     icon: basic-plug.svg
-    details: Produce results faster, and minimize internal software management
+    details: Quickly model early-stage projects to easily eliminate clearly unviable
+      projects rather than waiting for full-scale analysis reports
 youtubeVideoID: VBklW8fsB2U
 others:
   title: Focus on the right projects from the get-go
