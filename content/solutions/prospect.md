@@ -16,7 +16,8 @@ software:
   benefits:
   - benefit: Easy to Use
     icon: star.svg
-    details: Anyone can easily perform complex analysis
+    details: Anyone - not just GIS developers - can easily perform complex environmental
+      analysis
   - benefit: Cloud Software
     icon: cloud.svg
     details: Produce results faster, and minimize internal software management
