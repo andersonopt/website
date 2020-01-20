@@ -16,7 +16,8 @@ software:
   benefits:
   - benefit: Full Project Pipelines Increase Revenue
     icon: speedometer.svg
-    details: A simplistic, repeatable process ensures you always have active leads
+    details: A simplistic, repeatable process makes it easy to maintain a steady flow
+      of active projects
   - benefit: Expedite Project Timelines
     icon: speedometer.svg
     details: Users typically increase siting efficiency by 2-4 times allowing for
