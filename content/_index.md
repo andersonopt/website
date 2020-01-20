@@ -24,7 +24,7 @@ title = "Home Page"
 {{< /column >}}
 {{< block "services pt-2" >}}
 {{< column >}}
-![blank image](/images/solar-panels.png)
+![blank image](/images/prospect-home.jpg)
 {{< /column >}}
 {{< column >}}
 
