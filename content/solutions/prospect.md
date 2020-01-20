@@ -22,10 +22,6 @@ software:
     icon: cloud.svg
     details: AO Prospect helps forego the need to hire costly GIS analysts, external
       land agents, or new developers
-  - benefit: New Feature Development
-    icon: edit.svg
-    details: Expedited new feature development for requests ensures users always have
-      the tools they need
   - benefit: Easy to Use
     icon: star.svg
     details: Anyone - not just GIS developers - can easily perform complex environmental
@@ -34,6 +30,10 @@ software:
     icon: basic-plug.svg
     details: Quickly identify landowners with the highest quality land, so that you
       don't waste time working on infeasible sites
+  - benefit: New Feature Development
+    icon: edit.svg
+    details: Expedited new feature development for requests ensures users always have
+      the tools they need
 youtubeVideoID: VBklW8fsB2U
 others:
   title: Find high-quality sites without all the headache
