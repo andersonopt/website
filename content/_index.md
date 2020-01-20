@@ -37,7 +37,7 @@ Identify ideal parcels and automate complex GIS analysis to find high-quality si
 
 ## AO Energy Markets
 
-### Easily model project market pricing and grid effects
+### Easily model projects and tradeoffs to maximize value and minimize risk
 
 Quickly model and test different assumptions to assess and optimize projects across key considerations, including: basis risk, pricing, congestion, market pricing and overall financial viability.
 
