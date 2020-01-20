@@ -53,13 +53,14 @@ others:
 
       Eliminate the need to collect and consolidate disparate GIS data sources. All of the layers needed for renewable siting, including wetlands, flood, topo, etc. come pre-loaded. We can also integrate any unique data that you already have.
   - thumbnail: macbook.png
-    description: "### Automate time-consuming environmental GIS analysis\n\nFinding
-      potential parcels and evaluating parcel quality can be tedious and time-consuming.
-      AO Prospect helps users automate environmental hazard analysis in minutes.\n\n*
-      _Quickly identify potential parcels based on search parameters you set._\n*
-      _Calculate directional buildable area and create hazard constraint maps for
-      all parcels in a few clicks._ \n* Sort and filter parcels based on buildable
-      area.\n"
+    description: |-
+      ### Automate time-consuming environmental GIS analysis
+
+      Finding potential parcels and evaluating parcel quality can be tedious and time-consuming. AO Prospect helps users determine buildable acreage and create constraint maps with just a few clicks. Users can:
+
+      * _Quickly identify potential parcels based on search parameters you set._
+      * _Calculate directional buildable area and create hazard constraint maps for all parcels in a few clicks._
+      * Sort and filter parcels based on buildable area.
   - thumbnail: macbook.png
     description: "\n### Easily see and export land owner information for LOIs\n\nOnce
       you have a shortlist of high quality parcels, you'll have all the land owner
@@ -70,6 +71,7 @@ others:
 
       Projects automatically save in real-time so work is accessible from anywhere. Export land owner data, KML constraint maps, and PDF reports for seamless downstream work.
 image: ''
+draft: true
 
 ---
 {{< block "wavy" >}}
