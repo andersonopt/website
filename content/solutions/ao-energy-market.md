@@ -6,8 +6,8 @@ markets:
   buttons:
   - label: Book a demo
     link: "#"
-  description: |
-    #### Quickly understand the financial viability of a site, so you can focus on the right projects sooner.
+  description: |-
+    #### Quickly analyze a projects energy market and grid effects to determine its financial viability and risk.
 
     Test different grid simulations and adjust assumptions to understand key considerations, including: basis risk, pricing, congestion, and overall financial viability of a site.
   thumbnail: macbook.png
