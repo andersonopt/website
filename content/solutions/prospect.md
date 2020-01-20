@@ -70,7 +70,6 @@ others:
 
       Projects automatically save in real-time so work is accessible from anywhere. Export land owner data, KML constraint maps, and PDF reports for seamless downstream work.
 image: ''
-draft: true
 
 ---
 {{< block "wavy" >}}
