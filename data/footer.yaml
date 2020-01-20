@@ -18,16 +18,12 @@ menu:
     link: https://docs.andersonopt.com/
 - column: Company
   links:
-  - name: Blog
-    link: ''
-  - name: Why Anderson Optimization?
-    link: ''
   - name: About Us
     link: "/why-anderson/"
+  - name: Why Anderson Optimization?
+    link: ''
   - name: Client Stories
     link: ''
-  - name: Support
-    link: "/support/"
 address: |
   [0 (+44) 123456789](tel:0(+44)123456789)
   [info@andersonopt.com](mailto:info@andersonopt.com)
