@@ -6,8 +6,6 @@ markets:
   buttons:
   - label: Book a demo
     link: "#"
-  - label: Explore Features
-    link: "#"
   description: |
     #### Quickly understand the financial viability of a site, so you can focus on the right projects sooner.
 
