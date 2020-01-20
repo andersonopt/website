@@ -36,7 +36,10 @@ youtubeVideoID: VBklW8fsB2U
 others:
   title: Find high-quality sites without all the headache
   benefits:
-  - description: ''
+  - description: |-
+      ### Quickly move into new markets
+
+      Traditionally, moving into a new market can take a few weeks to find all the right data; with AO Prospect, you can move into a new market in a day.
     thumbnail: ''
   - thumbnail: macbook.png
     description: |-
