@@ -64,7 +64,7 @@ others:
       * Export contact information and maps
   - thumbnail: macbook.png
     description: |-
-      ### Easily see and export land owner information for LOIs
+      ### Easily see and export landowner information for LOIs
 
       Once you have a shortlist of high quality parcels, you'll have all the land owner information you need to send out mailers.
   - thumbnail: macbook.png
