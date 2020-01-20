@@ -36,13 +36,13 @@ youtubeVideoID: VBklW8fsB2U
 others:
   title: Find high-quality sites without all the headache
   benefits:
+  - description: ''
+    thumbnail: ''
   - thumbnail: macbook.png
-    description: "### See all key data layers for renewable siting in one place\n\nEliminate
-      the need to collect and consolidate disparate GIS data sources. All of the layers
-      needed for renewable siting, including wetlands, flood, topo, etc. come pre-loaded.\n\n###
-      Quickly move into new markets\n\nTraditionally, moving into a new market can
-      take a few weeks to find all the right data; with AO Prospect, you can move
-      into a new market in a day. \n"
+    description: |-
+      ### See all key data layers for renewable siting in one place
+
+      Eliminate the need to collect and consolidate disparate GIS data sources. All of the layers needed for renewable siting, including wetlands, flood, topo, etc. come pre-loaded.
   - thumbnail: macbook.png
     description: "### Automate time-consuming environmental GIS analysis\n\nFinding
       potential parcels and evaluating parcel quality can be tedious and time-consuming.
