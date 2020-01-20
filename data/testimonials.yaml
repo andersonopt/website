@@ -1,12 +1,12 @@
 ---
-- client: Testimonial 1
-  role: Testin
-  company: Company
+- client: The AES Corporation
+  role: Land Specialist
+  company: AES
   punchline: Title of testimonial
-  review: "“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua Lorem ipsum dolor sit ididunt
-    ut labore et dolore magna aliqua Lorem ipsum dolor sit amet, consectetur adipiscingo
-    eiusmod tempor incididunt ut labore et dolore magna aliqua.”\n"
+  review: "“Everyone here is very impressed with the Anderson tool. We all watched
+    Chris get set up in a matter of days and be ready to mail letters to potential
+    landowners. He is out this week meeting all of the landowners he made contact
+    with and we even have signed LOI’s already in the land bank!”\n"
 - client: Name of the client
   role: Job role
   company: Company
