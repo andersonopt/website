@@ -28,8 +28,7 @@ software:
       always have the tools they need
   - benefit: Expedited Project Timelines
     icon: speedometer.svg
-    details: AO Prospect users typically increase their front-end development efficiency
-      by 2-4 times.
+    details: AO Prospect users typically increase their siting capacity by 2-4 times.
   - benefit: External Integration
     icon: basic-plug.svg
     details: Produce results faster, and minimize internal software management
