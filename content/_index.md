@@ -39,7 +39,7 @@ Identify ideal parcels and automate complex GIS analysis to find high-quality si
 
 ### Run nimble production cost models and evaluate tradeoffs
 
-Quickly model and test different assumptions to assess and optimize projects across key considerations, including: basis risk, pricing, congestion, market pricing and overall financial viability of a site.
+Quickly model and test different assumptions to assess and optimize projects across key considerations, including: basis risk, pricing, congestion, market pricing and overall financial viability.
 
 {{< button "/solutions/ao-energy-market/" "Learn more →" >}} {{< /column >}} {{< column "mobile_start" >}} ![blank image](/images/solar-panels.png)
 {{< /column >}}
