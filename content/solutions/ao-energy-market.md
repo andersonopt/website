@@ -54,6 +54,7 @@ others:
       ### View and edit modeling assumptions
 
       Consultant-led models use black box assumptions making it difficult for developers to understand what is being analyzed and adjust parameters as needed. We use an open modeling approach so you can clearly view and augment the assumptions to better align with your team's approach.
+draft: true
 
 ---
 {{< block "wavy" >}}
