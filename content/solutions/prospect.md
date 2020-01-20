@@ -51,7 +51,7 @@ others:
     description: |-
       ### See all key data layers for renewable siting in one place
 
-      Eliminate the need to collect and consolidate disparate GIS data sources. All of the layers needed for renewable siting, including wetlands, flood, topo, etc. come pre-loaded.
+      Eliminate the need to collect and consolidate disparate GIS data sources. All of the layers needed for renewable siting, including wetlands, flood, topo, etc. come pre-loaded. We can also integrate any unique data that you already have.
   - thumbnail: macbook.png
     description: "### Automate time-consuming environmental GIS analysis\n\nFinding
       potential parcels and evaluating parcel quality can be tedious and time-consuming.
