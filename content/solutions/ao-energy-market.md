@@ -16,8 +16,8 @@ software:
   benefits:
   - benefit: Expedited Modeling Timelines
     icon: star.svg
-    details: AO Energy Markets can deliver production cost modeling run output in
-      a matter of hours vs. 2-4 weeks with consultants.
+    details: Generate production cost modeling output in a matter of hours vs. 2-4
+      weeks with consultants
   - benefit: Reduced Variable Costs
     icon: cloud.svg
     details: Model scenarios at a significantly lower rate than with external analysis
