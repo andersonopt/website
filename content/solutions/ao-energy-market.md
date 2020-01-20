@@ -25,10 +25,10 @@ software:
     icon: edit.svg
     details: Don't leave financial upside on the table; evaluate as many scenarios
       as needed to identify optimized project parameters
-  - benefit: Optimization Software
+  - benefit: No Black Box
     icon: speedometer.svg
-    details: State-of-the-art optimization models and software provide highly accurate
-      and precise results
+    details: Our models are open and flexible so that you can ensure the model's assumptions
+      and inputs match your internal viewpoint
   - benefit: External Integration
     icon: basic-plug.svg
     details: Produce results faster, and minimize internal software management
