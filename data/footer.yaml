@@ -10,6 +10,8 @@ menu:
     link: "/solutions/ao-energy-market"
 - column: Resources
   links:
+  - name: Blog
+    link: ''
   - name: Support
     link: ''
   - name: User Documentation
