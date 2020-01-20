@@ -67,10 +67,10 @@ others:
 
       Once you have a shortlist of high quality parcels, you'll have all the land owner information you need to send out mailers.
   - thumbnail: macbook.png
-    description: |
+    description: |-
       ### Seamlessly collaborate across teams in the cloud
 
-      Projects automatically save in real-time so work is accessible from anywhere. Export land owner data, KML constraint maps, and PDF reports for seamless downstream work.
+      Projects automatically save in real-time so work is accessible from anywhere. Export land owner data, KML constraint maps, and PDF reports for seamless downstream design and landowner outreach activity.
 image: ''
 draft: true
 
