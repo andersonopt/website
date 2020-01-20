@@ -3,7 +3,7 @@ menu:
 - column: Solutions
   links:
   - name: Why Anderson Optimization?
-    link: pages/why-anderson.md
+    link: "/pages/why-anderson.md"
   - name: All Solutions
     link: "/solutions/"
   - name: AO Prospect
