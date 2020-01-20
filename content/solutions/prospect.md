@@ -15,7 +15,7 @@ software:
   title: Software Benefits
   benefits:
   - benefit: Full Project Pipelines Increase Revenue
-    icon: bar-chart.svg
+    icon: speedometer.svg
     details: A simplistic, repeatable process ensures you always have active leads
   - benefit: Expedite Project Timelines
     icon: speedometer.svg
