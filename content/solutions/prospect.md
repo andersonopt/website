@@ -21,10 +21,10 @@ software:
     icon: star.svg
     details: Anyone - not just GIS developers - can easily perform complex environmental
       analysis
-  - benefit: Simplified Collaboration
+  - benefit: Decrease Soft Costs
     icon: cloud.svg
-    details: " Work is automatically saved and shared across your team, so everyone
-      stays on the same page"
+    details: Increased project capacity helps forego hiring a costly GIS analyst,
+      external land agents, or new developer
   - benefit: New Feature Development
     icon: edit.svg
     details: Expedited new feature development from customer requests ensures users
