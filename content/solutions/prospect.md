@@ -40,7 +40,7 @@ others:
       ### Quickly move into new markets
 
       Traditionally, moving into a new market can take a few weeks to find all the right data; with AO Prospect, you can move into a new market in a day.
-    thumbnail: ''
+    thumbnail: macbook.png
   - thumbnail: macbook.png
     description: |-
       ### See all key data layers for renewable siting in one place
