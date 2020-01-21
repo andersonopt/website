@@ -16,7 +16,7 @@ software:
   benefits:
   - benefit: Fill pipelines for increased revenue
     icon: speedometer.svg
-    details: A simplistic, repeatable process makes it easy to maintain a steady flow
+    details: A simple, repeatable process makes it easy to maintain a steady flow
       of active projects
   - benefit: Expedite project timelines
     icon: speedometer.svg
