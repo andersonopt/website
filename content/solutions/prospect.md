@@ -24,8 +24,8 @@ software:
       faster landowner outreach
   - benefit: Reduce soft costs
     icon: cloud.svg
-    details: AO Prospect helps forego the need to hire costly GIS analysts, external
-      land agents, or new developers
+    details: Own the process from end-to-end and forego the need to hire costly GIS
+      analysts, external land agents, or new developers.
   - benefit: Easy to use
     icon: star.svg
     details: Anyone - not just GIS developers - can easily perform complex environmental
