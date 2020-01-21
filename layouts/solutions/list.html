@@ -1,0 +1,19 @@
+{{- define "main" }}
+{{- $current := .RelPermalink }}
+<div class = 'wrap grid-inverse pt-4'>
+  <div>
+    {{- .Content }}
+  </div>
+</div>
+<div class = 'wrap grid-inverse pb-2'>
+  <div>
+    <h2 class = 'color'>Solutions</h2>
+    {{- range where .Site.RegularPages "Section" "solutions" }}
+    <a href = '{{ .RelPermalink }}' class = 'mt-1 mb-3 block'>
+      <h3>{{ .Title }}</h3>
+      <p>{{ replace (.Params.markets.description | truncate 160) "#" "" }}</p>
+    </a>
+    {{- end }}
+  </div>
+</div>
+{{- end -}}
