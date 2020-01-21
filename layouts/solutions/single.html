@@ -35,11 +35,13 @@
       
     </section>
     
+    {{ with .Params.youtubeVideoID }}
     <div class='wrap_min pt-2'>
       <div class = 'video'>
-        <iframe src='https://www.youtube.com/embed/{{ .Params.youtubeVideoID }}?controls=1&rel=0'></iframe>
+        <iframe src='https://www.youtube.com/embed/{{ . }}?controls=1&rel=0'></iframe>
       </div>
     </div>
+    {{ end }}
     
     {{ $others := .Params.others }}
     <div class='wrap pt-3 pb-3 center'>
