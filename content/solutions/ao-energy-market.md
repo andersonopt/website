@@ -25,10 +25,6 @@ software:
     icon: edit.svg
     details: Don't leave financial upside on the table; evaluate as many scenarios
       as needed to optimize project parameters
-  - benefit: No Black Box
-    icon: speedometer.svg
-    details: Our models are open and flexible so that you can ensure the model's assumptions
-      and inputs match your internal viewpoint
   - benefit: Fast Failure Made Easy
     icon: basic-plug.svg
     details: Easily model early-stage projects to more quickly eliminate unviable
@@ -57,7 +53,6 @@ others:
       ### View and edit modeling assumptions
 
       Consultant-led models use black box assumptions making it difficult for developers to understand what is being analyzed and adjust parameters as needed. We use an open modeling approach so you can clearly view and augment the assumptions to better align with your team's approach.
-draft: true
 
 ---
 {{< block "wavy" >}}
