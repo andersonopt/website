@@ -19,8 +19,7 @@ software:
     details: A simple, repeatable process makes it easy to maintain a steady flow
       of active projects
   - benefit: Expedite project timelines
-    icon: <div>Icons made by <a href="https://www.flaticon.com/<?=_('authors/')?>smashicons"
-      title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    icon: ''
     details: Users typically increase siting efficiency by 2-4 times allowing for
       faster landowner outreach
   - benefit: Easy to use
