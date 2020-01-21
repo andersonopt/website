@@ -25,7 +25,7 @@ software:
     icon: edit.svg
     details: Don't leave financial upside on the table; evaluate as many scenarios
       as needed to optimize project parameters
-  - benefit: Fast Failure Made Easy
+  - benefit: Fast failure made easy
     icon: basic-plug.svg
     details: Easily model early-stage projects to more quickly eliminate unviable
       projects
