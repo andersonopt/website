@@ -38,7 +38,7 @@ software:
     icon: edit.svg
     details: Expedited new feature development for requests ensures users always have
       the tools they need
-youtubeVideoID: VBklW8fsB2U
+youtubeVideoID: ''
 others:
   title: Find high-quality sites without all the headache
   benefits:
@@ -72,6 +72,7 @@ others:
 
       Projects automatically save in real-time so work is accessible from anywhere. Export land owner data, KML constraint maps, and PDF reports for seamless downstream design and landowner outreach activity.
 image: ''
+draft: true
 
 ---
 {{< block "wavy" >}}
