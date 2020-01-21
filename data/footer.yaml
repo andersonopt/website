@@ -16,17 +16,13 @@ menu:
   links:
   - name: Blog
     link: "/blog/"
-  - name: Support
-    link: "/support/"
   - name: User Documentation
     link: https://docs.andersonopt.com/
 - column: Company
   links:
   - name: About Us
     link: "/why-anderson/"
-address: |
-  [0 (+44) 123456789](tel:0(+44)123456789)
-  [info@andersonopt.com](mailto:info@andersonopt.com)
+address: "[(+1) 612-719-5173](tel:0(+1)612-719-5173)[info@andersonopt.com](mailto:info@andersonopt.com)"
 social:
 - name: Twitter
   icon: twitter-icon.png
