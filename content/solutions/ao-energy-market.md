@@ -35,9 +35,9 @@ others:
   benefits:
   - thumbnail: macbook.png
     description: |-
-      ### Easily test different scenarios and iterate quickly
+      ### Easily test  scenarios and iterate quickly
 
-      AO Energy Market's scenario analysis engine allows users to Automatically queue thousands of modeling scenarios with just a few clicks. After initial runs, it's easy to adjust parameters and identify the best project configuration. Consultant-provided runs only include a handful of scenario views and revised runs come with additional multi-week timelines.
+      AO Energy Market's scenario analysis engine allows users to automatically queue thousands of modeling scenarios with just a few clicks. After initial runs, it's easy to adjust parameters and identify the best project configuration. Consultant-provided runs only include a handful of scenario views and revised runs come with additional multi-week timelines.
   - thumbnail: macbook.png
     description: |-
       ### Perform complex analysis with standard computers
