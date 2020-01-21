@@ -22,14 +22,14 @@ software:
     icon: speedometer.svg
     details: Users typically increase siting efficiency by 2-4 times allowing for
       faster landowner outreach
-  - benefit: Reduce soft costs
-    icon: cloud.svg
-    details: Own the process from end-to-end and forego the need to hire costly GIS
-      analysts, external land agents, or new developers.
   - benefit: Easy to use
     icon: star.svg
     details: Anyone - not just GIS developers - can easily perform complex environmental
       analysis
+  - benefit: Reduce soft costs
+    icon: cloud.svg
+    details: Own the process from end-to-end and forego the need to hire costly GIS
+      analysts, external land agents, or new developers.
   - benefit: Easily identify landowners
     icon: basic-plug.svg
     details: Quickly identify landowners with the highest quality land, so that you
