@@ -12,7 +12,7 @@ markets:
     Identify ideal parcels for renewable development and automate complex GIS analysis to find high-quality sites in just minutes.
   thumbnail: macbook.png
 software:
-  title: Software Benefits
+  title: 'How can AO Prospect impact your business? '
   benefits:
   - benefit: Filled Pipelines for Increased Revenue
     icon: speedometer.svg
