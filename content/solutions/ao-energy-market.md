@@ -47,7 +47,7 @@ others:
     description: |-
       ### Simplify project review
 
-      Don't leave financial upside on the table with costly consultant-led modeling runs. Our solution allows you to cost-effectively evaluate as many scenarios as needed to optimize your project and identify the ideal parameters.
+      Stop wasting time with confusing data outputs. Our platform uses a clean interface and data visualization so that it's easy to determine how to capture financial upside and meet your project goals.
   - thumbnail: macbook.png
     description: |
       ### View and edit modeling assumptions
