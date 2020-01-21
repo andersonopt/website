@@ -18,7 +18,7 @@ software:
     icon: speedometer.svg
     details: A simplistic, repeatable process makes it easy to maintain a steady flow
       of active projects
-  - benefit: Expedite Project Timelines
+  - benefit: Expedite project timelines
     icon: speedometer.svg
     details: Users typically increase siting efficiency by 2-4 times allowing for
       faster landowner outreach
