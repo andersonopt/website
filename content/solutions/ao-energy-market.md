@@ -7,7 +7,7 @@ markets:
   - label: Book a demo
     link: "#"
   description: |-
-    #### Quickly model projects to evaluate risk and optimize financial viability
+    #### Quickly model power systems to evaluate project risk and optimize financial viability
 
     Easily analyze projects across thousands of scenarios to evaluate and optimize basis risk, market pricing, congestion, and overall financial upside of renewable and storage projects using the latest research in production cost, unit commitment, capacity expansion, and uncertainty modeling.
   thumbnail: macbook.png
