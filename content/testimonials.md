@@ -13,9 +13,9 @@ title = "What our clients say"
 
 {{% block "wrap_min center pt-1 pb-2" %}}
 
-## See how we're helping customers across the industry.
+## See how we're helping customers across the industry
 
-{{% /block %}} 
+{{% /block %}}
 {{< block "wrap pb-4" >}} {{< include "testimonials" >}} {{< /block >}}
 
 {{< form "/images/windmills-on-a-hill.png" >}}
