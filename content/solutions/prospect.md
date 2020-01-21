@@ -34,7 +34,7 @@ software:
     icon: basic-plug.svg
     details: Quickly identify landowners with the highest quality land, so that you
       don't waste time working on infeasible sites
-  - benefit: New Feature Development
+  - benefit: New feature development
     icon: edit.svg
     details: Expedited new feature development for requests ensures users always have
       the tools they need
