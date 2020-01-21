@@ -29,7 +29,7 @@ software:
     icon: basic-plug.svg
     details: Easily model early-stage projects to more quickly eliminate unviable
       projects
-youtubeVideoID: VBklW8fsB2U
+youtubeVideoID: ''
 others:
   title: Focus on the right projects from the get-go
   benefits:
