@@ -30,7 +30,7 @@ software:
     icon: star.svg
     details: Anyone - not just GIS developers - can easily perform complex environmental
       analysis
-  - benefit: Easily Identify Landowners
+  - benefit: Easily identify landowners
     icon: basic-plug.svg
     details: Quickly identify landowners with the highest quality land, so that you
       don't waste time working on infeasible sites
