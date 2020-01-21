@@ -22,7 +22,7 @@ software:
     icon: speedometer.svg
     details: Users typically increase siting efficiency by 2-4 times allowing for
       faster landowner outreach
-  - benefit: Reduce Soft Costs
+  - benefit: Reduce soft costs
     icon: cloud.svg
     details: AO Prospect helps forego the need to hire costly GIS analysts, external
       land agents, or new developers
