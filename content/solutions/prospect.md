@@ -40,7 +40,7 @@ software:
       the tools they need
 youtubeVideoID: ''
 others:
-  title: Find high-quality sites without all the headache
+  title: Find high-quality sites in a few clicks
   benefits:
   - description: |-
       ### Quickly move into new markets
