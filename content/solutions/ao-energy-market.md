@@ -14,11 +14,11 @@ markets:
 software:
   title: Software Benefits
   benefits:
-  - benefit: Expedited Modeling Timelines
+  - benefit: Expedited modeling timelines
     icon: star.svg
     details: Generate production cost modeling output in a matter of hours vs. 2-4
       weeks with consultants
-  - benefit: Reduced Variable Costs
+  - benefit: Reduce variable costs
     icon: cloud.svg
     details: Model scenarios at a significantly lower rate than with external consultants
   - benefit: Maximized Project Returns
