@@ -27,7 +27,7 @@
         <img src="/images/{{ $featured.Params.image }}">
       </figure>
       <h3 class = 'mt-1'>{{ $featured.Title }}</h3>
-      <p>{{ $featured.Summary | truncate 160 }}</p>
+      <p>{{ $featured.Content | truncate 160 | markdownify }}</p>
       <div class = 'post_meta pb-2'>
         <figure class = 'post_avatar'>
           <img src = '/images/{{ anchorize (lower $featured.Params.author) }}.png' alt = 'author picture'>
