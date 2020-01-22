@@ -18,9 +18,9 @@ menu:
     link: https://docs.andersonopt.com/
 - column: Company
   links:
-  - name: Why Anderson Optimization
-    link: "/why-anderson/"
   - name: About Us
+    link: "/why-anderson/"
+  - name: Why Anderson Optimization
     link: "/why-anderson/"
 address: "[(+1) 612-719-5173](tel:0(+1)612-719-5173)[info@andersonopt.com](mailto:info@andersonopt.com)"
 social:
