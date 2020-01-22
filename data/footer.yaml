@@ -17,7 +17,7 @@ menu:
   - name: About Us
     link: "/about-us/"
   - name: Why AO
-    link: "/why-anderson/"
+    link: ''
   - name: Client Stories
     link: "/testimonials/"
 address: "[(+1) 612-719-5173](tel:0(+1)612-719-5173)[info@andersonopt.com](mailto:info@andersonopt.com)"
