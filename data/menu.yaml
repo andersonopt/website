@@ -12,7 +12,7 @@ center:
 - link: Company
   url: ''
   submenu:
-  - link: Why Anderson Optimization
+  - link: Why AO
     url: "/why-anderson/"
   - link: About Us
     url: "/about-us/"
