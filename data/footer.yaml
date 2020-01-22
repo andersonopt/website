@@ -15,7 +15,7 @@ menu:
 - column: Company
   links:
   - name: About Us
-    link: "/about-us/"
+    link: ''
   - name: Why AO
     link: ''
   - name: Client Stories
