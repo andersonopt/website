@@ -15,7 +15,7 @@ menu:
 - column: Company
   links:
   - name: About Us
-    link: "/why-anderson/"
+    link: "/about-us/"
   - name: Why AO
     link: "/why-anderson/"
   - name: Client Stories
