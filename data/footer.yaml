@@ -6,20 +6,20 @@ menu:
     link: "/solutions/prospect"
   - name: AO Energy Markets
     link: "/solutions/ao-energy-market"
+- column: Company
+  links:
+  - name: About Us
+    link: "/about-us/"
+  - name: Why AO
+    link: ''
+  - name: Client Stories
+    link: ''
 - column: Resources
   links:
   - name: Blog
     link: "/blog/"
   - name: User Documentation
     link: https://docs.andersonopt.com/
-- column: Company
-  links:
-  - name: About Us
-    link: ''
-  - name: Why AO
-    link: ''
-  - name: Client Stories
-    link: ''
 address: "[(+1) 612-719-5173](tel:0(+1)612-719-5173)[info@andersonopt.com](mailto:info@andersonopt.com)"
 social:
 - name: Linkedin
