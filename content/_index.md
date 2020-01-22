@@ -42,7 +42,7 @@ Identify ideal parcels and automate complex GIS analysis to find high-quality si
 
 Quickly model and test different assumptions to assess and optimize projects across key considerations, including: basis risk, market pricing, congestion, and overall financial viability.
 
-{{< button "/solutions/ao-energy-market/" "Learn more →" >}} {{< /column >}} {{< column "mobile_start" >}} ![blank image](/images/aoem-home.png)
+{{< button "/solutions/ao-energy-market/" "Learn more →" >}} {{< /column >}} {{< column "mobile_start" >}} ![blank image](/images/aoem-home.jpg)
 {{< /column >}}
 {{< /block >}}
 
