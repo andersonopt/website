@@ -11,6 +11,9 @@ center:
   url: "/testimonials/"
 - link: Company
   url: "/about-us/"
+  submenu:
+  - link: About Us
+    url: "/about-us/"
 - link: Blog
   url: "/blog/"
 right:
