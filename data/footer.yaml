@@ -13,7 +13,7 @@ menu:
   - name: Why AO
     link: "/why-anderson/"
   - name: Client Stories
-    link: ''
+    link: "/testimonials/"
 - column: Resources
   links:
   - name: Blog
