@@ -12,6 +12,8 @@ center:
 - link: Company
   url: ''
   submenu:
+  - link: Why Anderson Optimization
+    url: "/why-anderson/"
   - link: About Us
     url: "/about-us/"
 - link: Blog
