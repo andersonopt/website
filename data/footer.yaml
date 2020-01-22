@@ -2,14 +2,12 @@
 menu:
 - column: Solutions
   links:
-  - name: Why Anderson Optimization?
-    link: "/why-anderson/"
-  - name: All Solutions
-    link: "/solutions/"
   - name: AO Prospect
     link: "/solutions/prospect"
   - name: AO Energy Markets
     link: "/solutions/ao-energy-market"
+  - name: Why Anderson Optimization?
+    link: "/why-anderson/"
   - name: Client Stories
     link: "/testimonials/"
 - column: Resources
