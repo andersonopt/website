@@ -1,21 +1,19 @@
-- name: Amazon
+---
+- name: Pine Gate Renewables
   logo: amazon-logo.png
-  link:
+  link: 
 - name: Lyft
   logo: lyft-logo.png
-  link:
+  link: 
 - name: Netflix
   logo: netflix-logo.svg
-  link:
-# - name: HBO
-#   logo: hbo-logo.svg
-  link:
+  link: 
 - name: Amazon
   logo: amazon-logo.png
-  link:
+  link: 
 - name: Lyft
   logo: lyft-logo.png
-  link:
+  link: 
 - name: Netflix
   logo: netflix-logo.svg
-  link:
+  link: 
