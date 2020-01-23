@@ -1,14 +1,13 @@
 +++
-title = "Houston We Have the Solution"
 date = 2019-08-02T14:26:36Z
-tags = ["solar"]
 image = "/images/solutions-idea.jpg"
+tags = ["solar"]
+title = "Houston We Have the Solution"
 [author]
-  name = "Dragana Spasojevic"
-  image = "/images/dragana-spasojevic.png"
-# draft = true
-+++
+image = "/images/dragana-spasojevic.png"
+name = "Dragana Spasojevic"
 
++++
 When it comes to PV utility-scale projects - Texas is thinking big. So far, 3,028.61 MW are in the pipeline up to date, but economic growth increased the demand for energy and development of utility-scale projects. The total share of electricity generating from solar is 0.99%. According to [SEIA](https://www.seia.org/state-solar-policy/texas-solar),  9,115 MW from solar panels are going to be installed in the next five years. 
 
 The distribution of utility-scale PV development follows a clear trend on the US landscape. A large number of the projects are located in Texas where the energy demands are particularly high and requirements of RE targets are spurring the development.  
