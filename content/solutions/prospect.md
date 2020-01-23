@@ -1,6 +1,6 @@
 ---
-title: "AO Prospect"
-image: "macbook.png"
+title: AO Prospect
+image: ''
 markets:
   title: AO Prospect
   buttons:
@@ -12,7 +12,7 @@ markets:
     Identify ideal parcels for renewable development and automate complex GIS analysis to find high-quality sites in just minutes.
   thumbnail: macbook.png
 software:
-  title: 'How can AO Prospect impact your business? '
+  title: 'How can AO Prospect improve your business? '
   benefits:
   - benefit: Fill pipelines for increased revenue
     icon: speedometer.svg
@@ -71,6 +71,7 @@ others:
       ### Seamlessly collaborate across teams in the cloud
 
       Projects automatically save in real-time so work is accessible from anywhere. Export land owner data, KML constraint maps, and PDF reports for seamless downstream design and landowner outreach activity.
+
 ---
 {{< block "wavy" >}}
 {{< include "testimonials-min" >}}
