@@ -1,0 +1,23 @@
+---
+label: Founders
+hide_body: true
+fields:
+- type: field_group_list
+  name: Founders
+  label: Founders
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: role
+    label: role
+  - type: text
+    name: profile
+    label: profile
+  - type: textarea
+    name: bio
+    label: bio
