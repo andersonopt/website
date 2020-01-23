@@ -21,3 +21,5 @@ fields:
   - type: textarea
     name: bio
     label: bio
+pages:
+- data/founders.yaml
