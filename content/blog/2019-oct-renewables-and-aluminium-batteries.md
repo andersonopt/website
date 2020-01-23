@@ -28,7 +28,7 @@ title = "Renewables to Get a Jolt from Aluminium Batteries "
 7 = "u"
 8 = "m"
 9 = "-"
-name = "/images/powerlinedusk.jpg"
+name = "/images/windmillhill.jpg"
 
 +++
 When a new type of aluminium battery hits the market, it will be a game-changer for solar and wind power industries. 
