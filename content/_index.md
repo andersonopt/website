@@ -1,8 +1,9 @@
 +++
+draft = true
 title = "Home Page"
 
 +++
-{{< block "hero" "lightskypowerline.jpg" >}} {{< column "wrap_min center">}}
+{{< block "hero" "nightarray.jpg" >}} {{< column "wrap_min center">}}
 
 # Smarter renewable energy siting & power grid modeling
 
