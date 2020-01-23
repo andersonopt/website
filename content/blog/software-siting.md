@@ -1,13 +1,13 @@
 +++
-title = "Software Strives to Simplify Solar Project Siting"
 date = 2018-01-14T14:26:36Z
-tags = ["renewable", "software"]
 image = "/images/software-siting-list.jpg"
+tags = ["renewable", "software"]
+title = "Software Strives to Simplify Solar Project Siting"
 [author]
-  name = "Jake Anderson"
-  image = "/images/jake-anderson.png"
-+++
+image = "/images/jake-anderson.png"
+name = "Jake Anderson"
 
++++
 ### Background
 
 In late 2017, [Solar Power World](https://www.solarpowerworldonline.com/) published an [article](https://www.solarpowerworldonline.com/2017/11/electric-cooperatives-community-solar/) discussing cooperatives and their integration of community solar. The article mentioned that one of the most difficult aspects of renewable projects is early-stage siting.
@@ -19,4 +19,3 @@ With that in mind, we welcome you to check out the article, and reach out with a
 ### Article Link:
 
 #### [Software Strives to Simplify Solar Project Siting](https://www.solarpowerworldonline.com/2018/01/software-simplifies-solar-project-siting/)
-
