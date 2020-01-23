@@ -21,6 +21,10 @@ fields:
   - type: text
     name: name
     label: name
+    config:
+      required: true
   - type: text
     name: image
     label: image
+    config:
+      required: true
