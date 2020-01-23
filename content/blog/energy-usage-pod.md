@@ -1,13 +1,13 @@
 +++
-title = "Podcast: Automating and Optimizing Energy Usage"
 date = 2018-05-14T14:26:36Z
-tags = ["energy grid", "optimization", "planning"]
 image = "/images/energy-usage-pod-list.png"
+tags = ["energy grid", "optimization", "planning"]
+title = "Podcast: Automating and Optimizing Energy Usage"
 [author]
-  name = "Jake Anderson"
-  image = "/images/jake-anderson.png"
-+++
+image = "/images/jake-anderson.png"
+name = "Jake Anderson"
 
++++
 ### Background
 
 We recently had the opportunity to be interviewed for MarketScale's Energy Industry podcast. In this podcast, they talk to a variety of industry leaders about their respective fields of work to learn more.
@@ -23,4 +23,3 @@ We'll appreciate it if you give it a listen.
 ### Link:
 
 #### [Automating and Optimizing Energy Usage](https://marketscale.com/industries/energy/listen-automating-optimizing-energy-usage-jake-eric-anderson-anderson-optimization/)
-
