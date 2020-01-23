@@ -1,7 +1,7 @@
 ---
 - name: Pine Gate Renewables
-  logo: "/pgr_logo_263px_with300px_bg.png/"
-  link: 
+  logo: pgr_logo_263px_with300px_bg.png
+  link: ''
 - name: Lyft
   logo: lyft-logo.png
   link: 
