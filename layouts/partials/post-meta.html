@@ -1,9 +1,9 @@
 <div class = 'post_meta'>
   <figure class = 'post_avatar'>
-    <img src = '/images/{{ anchorize (lower .Params.author) }}.png' alt = 'author picture'>
+    <img src = '/images/{{ .Params.author.image }}' alt = 'author picture'>
   </figure>
   <div>
-    <span class = 'post_author'>{{ .Params.author }}</span>
+    <span class = 'post_author'>{{ .Params.author.name }}</span>
     <span class = 'post_date'>{{ dateFormat "January 02, 2006" .Date }}</span>
   </div>
 </div>

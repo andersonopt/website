@@ -1,9 +1,11 @@
 +++
 title = "So Much Sun, So Little Storage"
-date = "2019-9-02T16:09:42+03:00"
+date = 2019-09-02T14:26:36Z
 tags = ["renewable"]
 image = "solar-storage.jpg"
-author = "John Nolan"
+[author]
+  name = "John Nolan"
+  image = "john-nolan.png"
 # draft = true
 +++
 

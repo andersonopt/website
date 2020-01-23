@@ -1,9 +1,11 @@
 +++
 title = "The Power Grid: An Overview and Its Evolution"
-date = "2017-06-10T13:07:31+02:00"
+date = 2017-06-10T14:26:36Z
 tags = ["distributed generation", "renewable"]
 image = "evolving-energy-grid-list.jpg"
-author = "Jake Anderson"
+[author]
+  name = "Jake Anderson"
+  image = "jake-anderson.png"
 +++
 
 ### Background 

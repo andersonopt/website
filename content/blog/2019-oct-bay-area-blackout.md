@@ -1,9 +1,11 @@
 +++
 title = "PG&E’s Bay Area Blackout and the Need to Reconsider the Modern Power Grid System"
-date = "2019-10-09T16:09:42+03:00"
+date = 2019-10-09T14:26:36Z
 tags = ["renewable"]
 image = "powerline-look-up.jpg"
-author = "J.C. McBride"
+[author]
+  name = "J.C. McBride"
+  image = "j-c-mcbride.png"
 +++
 
 On October 9, 2019, California’s largest electric utility preemptively shut off power to more than 800,000 customers in the San Francisco Bay Area. Some parts of the area may not see power restored for close to a week. This massive forced blackout is in part a result of the outdated power grid system in California, and much of the United States.  

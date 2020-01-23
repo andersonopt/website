@@ -1,9 +1,11 @@
 +++
 title = "Houston We Have the Solution"
-date = "2019-08-02T19:08:23+03:00"
+date = 2019-08-02T14:26:36Z
 tags = ["solar"]
 image = "solutions-idea.jpg"
-author = "Dragana Spasojevic"
+[author]
+  name = "Dragana Spasojevic"
+  image = "dragana-spasojevic.png"
 # draft = true
 +++
 

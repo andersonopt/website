@@ -1,9 +1,11 @@
 +++
 title = "Migration Towards a Distributed Grid"
-date = "2018-04-14T13:07:31+02:00"
+date = 2018-04-14T14:26:36Z
 tags = ["energy grid", "renewable"]
 image = "migration-distributed-grid-list.jpg"
-author = "Jake Anderson"
+[author]
+  name = "Jake Anderson"
+  image = "jake-anderson.png"
 +++
 
 ### Background
