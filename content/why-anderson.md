@@ -2,7 +2,7 @@
 title = "Why Anderson Optimization"
 
 +++
-{{< block "hero" "sunsettransmissionline.jpg" >}} {{< column "wrap_min center" >}}
+{{< block "hero" "test.jpg" >}} {{< column "wrap_min center" >}}
 
 # Why Anderson Optimization?
 
