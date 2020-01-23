@@ -2,10 +2,10 @@
 title = "So Much Sun, So Little Storage"
 date = 2019-09-02T14:26:36Z
 tags = ["renewable"]
-image = "solar-storage.jpg"
+image = "/images/solar-storage.jpg"
 [author]
   name = "John Nolan"
-  image = "john-nolan.png"
+  image = "/images/john-nolan.png"
 # draft = true
 +++
 

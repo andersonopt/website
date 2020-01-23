@@ -2,10 +2,10 @@
 title = "Podcast: Automating and Optimizing Energy Usage"
 date = 2018-05-14T14:26:36Z
 tags = ["energy grid", "optimization", "planning"]
-image = "energy-usage-pod-list.png"
+image = "/images/energy-usage-pod-list.png"
 [author]
   name = "Jake Anderson"
-  image = "jake-anderson.png"
+  image = "/images/jake-anderson.png"
 +++
 
 ### Background

@@ -1,5 +1,5 @@
 <div class="post_header pt-5 wrap">
-  <div class="article_thumb" style="background-image: url(/images/{{ .Params.image }})"></div>
+  <div class="article_thumb" style="background-image: url({{ .Params.image }})"></div>
   <div class = 'post_summary'>
     <h1>{{ .Title }}</h1>
     {{- .Summary | truncate 160 }}

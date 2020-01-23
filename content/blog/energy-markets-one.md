@@ -2,10 +2,10 @@
 title = "Energy Markets & Batteries: Part 1"
 date = 2017-07-10T14:26:36Z
 tags = ["storage", "energy markets"]
-image = "energy-markets-one-list.jpg"
+image = "/images/energy-markets-one-list.jpg"
 [author]
   name = "Jake Anderson"
-  image = "jake-anderson.png"
+  image = "/images/jake-anderson.png"
 +++
 
 ### Background

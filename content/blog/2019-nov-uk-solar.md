@@ -2,10 +2,10 @@
 title = "Why the Future of Solar Power in the UK is Brighter than You Think"
 date = 2019-11-15T14:26:36Z
 tags = ["renewable", "solar"]
-image = "uk-solar-image-1.jpg"
+image = "/images/uk-solar-image-1.jpg"
 [author]
   name = "J.C. McBride"
-  image = "j-c-mcbride.png"
+  image = "/images/j-c-mcbride.png"
 +++
 
 There has been a lot of hand wringing about the future of solar power in the United Kingdom. Between changes in solar subsidy policies and the uncertainty of Brexit, many pundits believe that the future of solar is cloudy at best. 

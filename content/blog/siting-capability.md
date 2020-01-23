@@ -3,10 +3,10 @@ title = "Renewable Siting Automation"
 date = 2017-05-10T14:26:36Z
 tags = ["solar", "GIS", "automation", "software", "renewable"]
 categories = ["Siting"]
-image = "siting-capability-list.png"
+image = "/images/siting-capability-list.png"
 [author]
   name = "Jake Anderson"
-  image = "jake-anderson.png"
+  image = "/images/jake-anderson.png"
 +++
 
 ### Background

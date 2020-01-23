@@ -2,11 +2,11 @@
 title = "Overcoming Renewable Challenges"
 date = 2018-06-14T14:26:36Z
 tags = ["energy grid", "planning"]
-image = "renewable-challenges-list.jpg"
+image = "/images/renewable-challenges-list.jpg"
 featured = true
 [author]
   name = "Jake Anderson"
-  image = "jake-anderson.png"
+  image = "/images/jake-anderson.png"
 +++
 
 ### Background

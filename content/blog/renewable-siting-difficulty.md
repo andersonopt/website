@@ -2,10 +2,10 @@
 title = "Renewable Siting Inefficiencies"
 date = 2017-04-10T14:26:36Z
 tags = ["renewable", "solar", "GIS"]
-image = "siting-difficulty-list.jpg"
+image = "/images/siting-difficulty-list.jpg"
 [author]
   name = "Jake Anderson"
-  image = "jake-anderson.png"
+  image = "/images/jake-anderson.png"
 +++
 
 ### Background

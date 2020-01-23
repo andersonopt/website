@@ -13,7 +13,7 @@ fields:
 - type: list
   name: tags
   label: tags
-- type: text
+- type: file
   name: featured image
   label: image
   config:
@@ -27,7 +27,7 @@ fields:
     label: name
     config:
       required: true
-  - type: text
+  - type: file
     name: image
     label: image
     config:

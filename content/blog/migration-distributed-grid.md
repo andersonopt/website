@@ -2,10 +2,10 @@
 title = "Migration Towards a Distributed Grid"
 date = 2018-04-14T14:26:36Z
 tags = ["energy grid", "renewable"]
-image = "migration-distributed-grid-list.jpg"
+image = "/images/migration-distributed-grid-list.jpg"
 [author]
   name = "Jake Anderson"
-  image = "jake-anderson.png"
+  image = "/images/jake-anderson.png"
 +++
 
 ### Background

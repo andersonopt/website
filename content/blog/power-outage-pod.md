@@ -2,10 +2,10 @@
 title = "Podcast: Learning From Previous Power Outages"
 date = 2018-06-22T14:26:36Z
 tags = ["energy grid", "optimization", "planning"]
-image = "power-outage-pod-list.png"
+image = "/images/power-outage-pod-list.png"
 [author]
   name = "Jake Anderson"
-  image = "jake-anderson.png"
+  image = "/images/jake-anderson.png"
 +++
 
 ### Background

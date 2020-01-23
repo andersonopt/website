@@ -2,10 +2,10 @@
 title = "Software Strives to Simplify Solar Project Siting"
 date = 2018-01-14T14:26:36Z
 tags = ["renewable", "software"]
-image = "software-siting-list.jpg"
+image = "/images/software-siting-list.jpg"
 [author]
   name = "Jake Anderson"
-  image = "jake-anderson.png"
+  image = "/images/jake-anderson.png"
 +++
 
 ### Background

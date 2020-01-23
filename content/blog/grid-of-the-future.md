@@ -2,10 +2,10 @@
 title = "Renewable Energy Grid of the Future"
 date = 2018-01-14T14:26:36Z
 tags = ["energy grid", "renewable"]
-image = "grid-of-the-future-list.jpg"
+image = "/images/grid-of-the-future-list.jpg"
 [author]
   name = "Jake Anderson"
-  image = "jake-anderson.png"
+  image = "/images/jake-anderson.png"
 +++
 
 ### Background

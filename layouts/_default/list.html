@@ -26,13 +26,13 @@
     {{- $featured := index (where .Site.RegularPages ".Params.featured" true) 0 }}
     <a href = '{{ $featured.Permalink }}'>
       <figure>
-        <img src="/images/{{ $featured.Params.image }}">
+        <img src="{{ $featured.Params.image }}">
       </figure>
       <h3 class = 'mt-1'>{{ $featured.Title }}</h3>
-      <p>{{ $featured.Content | truncate 160 | markdownify }}</p>
+      <p>{{ $featured.Summary | truncate 160 | markdownify }}</p>
       <div class = 'post_meta pb-2'>
         <figure class = 'post_avatar'>
-          <img src = '/images/{{ $featured.Params.author.image }}' alt = 'author picture'>
+          <img src = '{{ $featured.Params.author.image }}' alt = 'author picture'>
         </figure>
         <div>
           <span class = 'post_author'>{{ $featured.Params.author.name }}</span>

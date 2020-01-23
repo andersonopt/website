@@ -1,6 +1,5 @@
 <div class="excerpt">
-  {{- $image := printf "/images/%s" .Params.image }}
-  <a class = "excerpt_thumbnail" style="background-image: url({{ $image }})" href="{{ .Permalink }}"></a>
+  <a class = "excerpt_thumbnail" style="background-image: url({{ .Params.image }})" href="{{ .Permalink }}"></a>
   <div>
     {{- with .Params.tags }}
     {{- $randomTag := index (shuffle .) 0 }}
