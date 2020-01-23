@@ -1,12 +1,13 @@
 +++
-title = "Renewables to Get a Jolt from Aluminium Batteries"
 date = 2019-10-08T14:26:36Z
+draft = true
 image = "/images/windmillhill.jpg"
 tags = ["renewable"]
-draft = true
+title = "Renewables to Get a Jolt from Aluminium Batteries"
 [author]
-  name = "Mario Carr"
-  image = "/images/mario-carr.png"
+image = "/images/mario-carr.png"
+name = "Mario Carr"
+
 +++
 When a new type of aluminium battery hits the market, it will be a game-changer for solar and wind power industries. 
 
