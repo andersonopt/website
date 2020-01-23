@@ -20,6 +20,10 @@ title = "About Us"
 
 We believe it is necessary for society to adopt renewable energy and storage solutions to ensure a lasting energy future. Our mission is to help accelerate the adoption of these technologies by providing software and services that reduce inefficiencies and provide better analytical tools to help industry stakeholders expedite project timelines, lower costs and maximize returns.
 
+## How we got here...
+
+We believe it is necessary for society to adopt renewable energy and storage solutions to ensure a lasting energy future. Our mission is to help accelerate the adoption of these technologies by providing software and services that reduce inefficiencies and provide better analytical tools to help industry stakeholders expedite project timelines, lower costs and maximize returns.
+
 ## Meet the Founders
 
 {{< /column >}}
