@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: data/founders.yaml
+  label: Founders
+  match: "**/*"
 - type: directory
   path: content/blog
   label: Blog
