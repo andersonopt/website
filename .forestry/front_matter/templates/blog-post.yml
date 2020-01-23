@@ -12,7 +12,7 @@ fields:
   name: tags
   label: tags
 - type: text
-  name: image
+  name: featured image
   label: image
 - type: field_group
   name: author
