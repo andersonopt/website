@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: data/founders.yaml
-  label: Founders
 - type: directory
   path: content/blog
   label: Blog
@@ -32,6 +29,9 @@ sections:
   label: Footer
 - type: heading
   label: Data
+- type: document
+  path: data/founders.yaml
+  label: Founders
 - type: directory
   path: data/support
   label: Support
