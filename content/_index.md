@@ -2,12 +2,12 @@
 title = "Home Page"
 
 +++
-{{< block "hero" "solargrass3.jpg" >}}
+{{< block "hero" "lightskypowerline.jpg" >}}
 {{< column "wrap_min center">}}
 
 # Smarter renewable energy siting & power grid modeling
 
-### Automate time-consuming analysis to accelerate renewable energy development and maximize returns.
+## Automate time-consuming analysis to accelerate renewable energy development and maximize returns.
 
 ### {{< button "/book-a-demo/" "Book a free demo, light" >}}
 
@@ -23,7 +23,7 @@ title = "Home Page"
 {{< /column >}}
 {{< block "services pt-2" >}}
 {{< column >}}
-![blank image](/images/prospect-home.jpg)
+![blank image](/images/darkgrass_solar_2.jpg)
 {{< /column >}}
 {{< column >}}
 
@@ -45,13 +45,13 @@ Quickly model and test different assumptions to assess and optimize projects acr
 {{< /column >}}
 {{< /block >}}
 
-{{< block "hero space" "solar-panels.png" >}}
+{{< block "hero space" "windmills.png" >}}
 {{< column "wrap grid-2" >}}
 {{< column >}}
 
-## Why Anderson Optimization?
+# Why Anderson Optimization?
 
-#### We know that existing tools make renewable development slow and expensive. We reduce project inefficiencies and provide better analytical tools to lower project costs and maximize ROI.
+### We know that existing tools make renewable development slow and expensive. We reduce project inefficiencies and provide better analytical tools to lower project costs and maximize ROI.
 
 {{< button "/why-anderson/" "Read More" >}} {{< /column >}} {{< /column >}} {{< /block >}}
 
