@@ -1,5 +1,5 @@
 {{- define "main" }}
-  {{- $author := index (where .Site.Data.authors ".name" .Params.author) 0 }}
+  {{- $author := index (where .Site.Data.authors ".name" .Params.author.name) 0 }}
   {{- partial "post-header.html" . }}
   <div class="wrap article pt-2 pb-2">
     <div>
@@ -12,10 +12,10 @@
       <hr>
       <div class = 'post_meta pt-1 pb-1'>
         <figure class = 'post_avatar'>
-          <img src = '/images/{{ $author.picture }}' alt = 'author picture'>
+          <img src = '/images/{{ .Params.author.image }}' alt = 'author picture'>
         </figure>
         <div>   
-          <h4 class = 'post_author'>{{ $author.name }}</h4>
+          <h4 class = 'post_author'>{{ .Params.author.name }}</h4>
           {{- $author.bio | markdownify }}
         </div>
       </div>      
