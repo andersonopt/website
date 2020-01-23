@@ -9,9 +9,6 @@ fields:
   - type: text
     name: name
     label: name
-  - type: file
-    name: picture
-    label: picture
   - type: textarea
     name: bio
     label: bio
