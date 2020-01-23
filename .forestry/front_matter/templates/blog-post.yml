@@ -24,6 +24,10 @@ fields:
   - type: file
     name: image
     label: image
+- name: featured
+  type: boolean
+  label: Featured
+  description: Would you like to feature this post?
 pages:
 - content/blog/2019-nov-uk-solar.md
 - content/blog/2019-oct-bay-area-blackout.md
