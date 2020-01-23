@@ -2,7 +2,7 @@
 author = "Mario Carr"
 date = 2019-10-08T14:26:36Z
 tags = ["renewable"]
-title = "Renewables to get a jolt from aluminium batteries "
+title = "Renewables to Get a Jolt from Aluminum Batteries "
 [image]
 0 = "a"
 1 = "l"
