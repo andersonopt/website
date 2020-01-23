@@ -1,14 +1,13 @@
 +++
-title = "So Much Sun, So Little Storage"
 date = 2019-09-02T14:26:36Z
-tags = ["renewable"]
 image = "/images/solar-storage.jpg"
+tags = ["renewable"]
+title = "So Much Sun, So Little Storage"
 [author]
-  name = "John Nolan"
-  image = "/images/john-nolan.png"
-# draft = true
-+++
+image = "/images/john-nolan.png"
+name = "John Nolan"
 
++++
 __A clean energy distribution network in Europe will rely on energy storage solutions which will include the use of batteries__
 
 Southern Europe is bathed in sunshine. In Andalusia, Southern Spain, there are around 3,000 hours of sunshine a year,  or over 8 hours a day, equating to no less than __4.75 kWh/m2__ of daily sunshine.  With a surface area of 87,597 km2, this means it has massive solar energy generating potential – the biggest in Europe. 
@@ -83,5 +82,3 @@ What is clear is that storage costs continue to decrease and 100% RE systems wil
 13. Bogdanov et al. (2019) estimate that [only a max of 6% of regional] area can be used for PV system installations due to social acceptance
 
 14. [IEA: Battery storage races to keep up with solar and wind’s demand-matching challenges](https://energypost.eu/iea-battery-storage-races-to-keep-up-with-solar-and-winds-demand-matching-challenges/)
-
-
