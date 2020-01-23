@@ -1,13 +1,13 @@
 +++
-title = "Energy Markets & Batteries: Part 1"
 date = 2017-07-10T14:26:36Z
-tags = ["storage", "energy markets"]
 image = "/images/energy-markets-one-list.jpg"
+tags = ["storage", "energy markets"]
+title = "Energy Markets & Batteries: Part 1"
 [author]
-  name = "Jake Anderson"
-  image = "/images/jake-anderson.png"
-+++
+image = "/images/jake-anderson.png"
+name = "Jake Anderson"
 
++++
 ### Background
 
 [We previously outlined](../evolving-energy-grid) some of the ways in which new technology is disrupting electricity grids. Microgrid and renewable technologies are two key drivers of this transition.
@@ -100,8 +100,3 @@ In Part 2 of this series, we further examine battery technology and how it will 
 [http://www.mckinsey.com/business-functions/sustainability-and-resource-productivity/our-insights/the-new-economics-of-energy-storage](http://www.mckinsey.com/business-functions/sustainability-and-resource-productivity/our-insights/the-new-economics-of-energy-storage)
 
 [https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_01](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_01)
-
-
-
-
-
