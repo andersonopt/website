@@ -1,13 +1,13 @@
 +++
-title = "Why the Future of Solar Power in the UK is Brighter than You Think"
 date = 2019-11-15T14:26:36Z
-tags = ["renewable", "solar"]
 image = "/images/uk-solar-image-1.jpg"
+tags = ["renewable", "solar"]
+title = "Why the Future of Solar Power in the UK is Brighter than You Think"
 [author]
-  name = "J.C. McBride"
-  image = "/images/j-c-mcbride.png"
-+++
+image = "/images/j-c-mcbride.png"
+name = "J.C. McBride"
 
++++
 There has been a lot of hand wringing about the future of solar power in the United Kingdom. Between changes in solar subsidy policies and the uncertainty of Brexit, many pundits believe that the future of solar is cloudy at best. 
 
 However, a more careful look at the solar industry in the UK shows that the economic factors all point to a bright future for the industry. 
@@ -62,4 +62,4 @@ Countries like Japan and Germany have already experienced many of these benefits
 
 In the next 15 years, the UK will be able to draw even with, if not overtake, these countries in terms of per capita solar power usage, technological innovation, and electrical grid efficiency.  
 
-The changes in solar subsidies are a sign that the UK solar industry is mature enough to move to the next stage of growth that depends on utility-scale projects that expanding of solar power consumption not tied to individual homeowners. 
+The changes in solar subsidies are a sign that the UK solar industry is mature enough to move to the next stage of growth that depends on utility-scale projects that expanding of solar power consumption not tied to individual homeowners.
