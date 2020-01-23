@@ -17,7 +17,7 @@ title = "Why Anderson Optimization"
 {{< /column >}}
 {{< column "wrap_min center space" >}}
 
-# **A smarter way to site**
+# **A smarter way to develop**
 
 {{< /column >}}
 
