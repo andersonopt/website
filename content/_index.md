@@ -2,7 +2,7 @@
 title = "Home Page"
 
 +++
-{{< block "hero" "windmills.png" >}}
+{{< block "hero" "solargrass3.jpg" >}}
 {{< column "wrap_min center">}}
 
 # Smarter renewable energy siting & power grid modeling
