@@ -1,13 +1,13 @@
 +++
-title = "Renewable Siting Inefficiencies"
 date = 2017-04-10T14:26:36Z
-tags = ["renewable", "solar", "GIS"]
 image = "/images/siting-difficulty-list.jpg"
+tags = ["renewable", "solar", "GIS"]
+title = "Renewable Siting Inefficiencies"
 [author]
-  name = "Jake Anderson"
-  image = "/images/jake-anderson.png"
-+++
+image = "/images/jake-anderson.png"
+name = "Jake Anderson"
 
++++
 ### Background
 
 As renewable generation has reached a point of financial viability and strategic success in the energy industry, a supporting industry of companies with supporting tools have arisen to help usher in this new era of electricity. Despite the advent of new technologies, there are still large areas of opportunity for industry improvement. Renewable development is still very expensive and time consuming. 
@@ -76,6 +76,3 @@ To read more on how we at Anderson Optimization are helping improve these proces
 - [http://www.renewableenergyworld.com/articles/2016/08/renewable-energy-was-16-9-percent-of-u-s-electric-generation-in-the-first-half-of-2016.html](http://www.renewableenergyworld.com/articles/2016/08/renewable-energy-was-16-9-percent-of-u-s-electric-generation-in-the-first-half-of-2016.html)
 
 - [https://www.eia.gov/todayinenergy/detail.php?id=31072](https://www.eia.gov/todayinenergy/detail.php?id=31072)
-
-
-
