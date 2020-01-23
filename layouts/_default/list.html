@@ -11,7 +11,9 @@
   {{- range $key, $value := $taxonomy }}
   {{- $tag := replace $key "-" " " }}
   {{- $permalink := printf "/tags/%s/" $key }}
+  {{- if in $.Site.Params.blogTags $tag }}
   <a class = 'tag{{ if eq $current $permalink }} tag_active{{ end }}' href = '{{ $permalink }}'>{{ $tag }}</a>
+  {{- end }}
   {{- end }}
   <a href = '/search/' class = 'tag search_tag'></a>
 </div>

@@ -24,5 +24,6 @@ title = "Anderson Optimization"
   ga_verify = "ZaNNn0hSVhEblnb4DBJ2Fvx6ZH3Baoa6zSkGmFkDqrU"
   image = "random.jpg"
   logo = "opt-logo.svg"
+  blogTags = ["renewable development", "siting", "storage", "modeling", "energy markets"] # tags to show on the main blog page
 [taxonomies]
   tag = "tags"
