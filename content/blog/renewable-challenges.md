@@ -1,14 +1,14 @@
 +++
-title = "Overcoming Renewable Challenges"
 date = 2018-06-14T14:26:36Z
-tags = ["energy grid", "planning"]
-image = "/images/renewable-challenges-list.jpg"
 featured = true
+image = "/images/renewable-challenges-list.jpg"
+tags = ["energy grid", "planning"]
+title = "Overcoming Renewable Challenges"
 [author]
-  name = "Jake Anderson"
-  image = "/images/jake-anderson.png"
-+++
+image = "/images/jake-anderson.png"
+name = "Jake Anderson"
 
++++
 ### Background
 
 In late 2017, we began discussions with the American Solar Energy Society ([ASES](https://www.ases.org/)) about developing an article series focused on the advancement of renewable energy and the implications of a 100% renewable grid.
@@ -20,4 +20,3 @@ With that in mind, we welcome you to follow along in the series, and reach out w
 ### Article Link:
 
 #### [Overcoming Renewable Challenges](http://www.omagdigital.com/publication/?i=508989&article_id=3126965&view=articleBrowser&ver=html5#{%22issue_id%22:508989,%22view%22:%22articleBrowser%22,%22article_id%22:%223126965%22})
-
