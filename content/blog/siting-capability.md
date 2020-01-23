@@ -1,14 +1,14 @@
 +++
-title = "Renewable Siting Automation"
-date = 2017-05-10T14:26:36Z
-tags = ["solar", "GIS", "automation", "software", "renewable"]
 categories = ["Siting"]
+date = 2017-05-10T14:26:36Z
 image = "/images/siting-capability-list.png"
+tags = ["solar", "GIS", "automation", "software", "renewable"]
+title = "Renewable Siting Automation"
 [author]
-  name = "Jake Anderson"
-  image = "/images/jake-anderson.png"
-+++
+image = "/images/jake-anderson.png"
+name = "Jake Anderson"
 
++++
 ### Background
 
 At Anderson Optimization, our goal is to bring useful technology to the energy industry. When we founded the company, we talked to a lot of industry stakeholders and consistently heard about renewable development and siting inefficiencies - as outlined [in this article](../renewable-siting-difficulty), and we felt that we could provide immediate value.  
@@ -65,4 +65,4 @@ Finally, users can export landowner data such as the owner name and address so t
 
 While these are just some of the key features of the AOProspect platform, they allow users to site an entire, new state all the way to exporting mailer information in roughly an hour. This represents drastic time savings and decreases the need for expensive consultants or headcount investments. 
 
-To learn more, check out our [services](/services) page, or [reach out](/contact), and we'd be happy to provide more information and answer any questions that you have. 
+To learn more, check out our [services](/services) page, or [reach out](/contact), and we'd be happy to provide more information and answer any questions that you have.
