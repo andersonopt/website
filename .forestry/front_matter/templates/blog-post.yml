@@ -11,7 +11,7 @@ fields:
 - type: list
   name: tags
   label: tags
-- type: file
+- type: text
   name: image
   label: image
 - type: field_group
@@ -21,6 +21,6 @@ fields:
   - type: text
     name: name
     label: name
-  - type: file
+  - type: text
     name: image
     label: image
