@@ -1,11 +1,35 @@
 +++
-title = "Renewables to get a jolt from aluminium batteries "
-date = "2019-10-08T17:26:36+03:00"
-tags = ["renewable"]
-image = "aluminium-batteries.jpg"
 author = "Mario Carr"
-+++
+date = 2019-10-08T14:26:36Z
+tags = ["renewable"]
+title = "Renewables to get a jolt from aluminium batteries "
+[image]
+0 = "a"
+1 = "l"
+10 = "b"
+11 = "a"
+12 = "t"
+13 = "t"
+14 = "e"
+15 = "r"
+16 = "i"
+17 = "e"
+18 = "s"
+19 = "."
+2 = "u"
+20 = "j"
+21 = "p"
+22 = "g"
+3 = "m"
+4 = "i"
+5 = "n"
+6 = "i"
+7 = "u"
+8 = "m"
+9 = "-"
+name = "/images/windmillhill.jpg"
 
++++
 When a new type of aluminium battery hits the market, it will be a game-changer for solar and wind power industries. 
 
 While lithium-ion batteries are ideal for powering mobile devices, they are not the best choice for larger applications. The high cost of power storage, limited cycle life and safety concerns with these batteries has slowed the pace of growth for several wind and solar renewable energy projects. 
