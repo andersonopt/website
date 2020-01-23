@@ -1,13 +1,13 @@
 +++
-title = "Energy Markets & Batteries: Part 2"
 date = 2017-07-10T14:26:36Z
-tags = ["energy markets", "microgrids"]
 image = "/images/energy-markets-two-list.jpg"
+tags = ["energy markets", "microgrids"]
+title = "Energy Markets & Batteries: Part 2"
 [author]
-  name = "Jake Anderson"
-  image = "/images/jake-anderson.png"
-+++
+image = "/images/jake-anderson.png"
+name = "Jake Anderson"
 
++++
 ### Background
 
 [In Part 1 of this article series,](../energy-markets-one) we provided an overview of energy markets and explained how they are impacting utility behavior. We also discussed advances in battery technology. If you haven't read Part 1, we suggest reading it before this article as it introduces the concepts that are examined in more detail below.
@@ -109,12 +109,3 @@ Battery technology creates new and exciting opportunities for consumers as it al
 - [http://www.mckinsey.com/business-functions/sustainability-and-resource-productivity/our-insights/the-new-economics-of-energy-storage](http://www.mckinsey.com/business-functions/sustainability-and-resource-productivity/our-insights/the-new-economics-of-energy-storage)
 
 - [https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_01](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_01)
-
-
-
-
-
-
-
-
-
