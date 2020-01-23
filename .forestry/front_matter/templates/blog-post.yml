@@ -26,6 +26,7 @@ fields:
     label: image
 pages:
 - content/blog/2019-nov-uk-solar.md
+- content/blog/2019-oct-bay-area-blackout.md
 - content/blog/2019-oct-renewables-and-aluminium-batteries.md
 - content/blog/2019-oct-solar-storage.md
 - content/blog/energy-usage-pod.md

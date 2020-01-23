@@ -1,13 +1,13 @@
 +++
-title = "PG&E’s Bay Area Blackout and the Need to Reconsider the Modern Power Grid System"
 date = 2019-10-09T14:26:36Z
-tags = ["renewable"]
 image = "/images/powerline-look-up.jpg"
+tags = ["renewable"]
+title = "PG&E’s Bay Area Blackout and the Need to Reconsider the Modern Power Grid System"
 [author]
-  name = "J.C. McBride"
-  image = "/images/j-c-mcbride.png"
-+++
+image = "/images/j-c-mcbride.png"
+name = "J.C. McBride"
 
++++
 On October 9, 2019, California’s largest electric utility preemptively shut off power to more than 800,000 customers in the San Francisco Bay Area. Some parts of the area may not see power restored for close to a week. This massive forced blackout is in part a result of the outdated power grid system in California, and much of the United States.  
 
 ## Why PG&E Turned Off the Power on the Bay Area
@@ -59,4 +59,4 @@ The long-term vision for solar power and the electrical grid is to reimagine wha
 
 However, before this long-term vision can be realized, short-term steps need to be undertaken. This includes the expansion of existing small, solar power grids, construction of smaller solar power stations, and continued research and development into cost-effective ways to store unneeded solar power for a later date. 
 
-While parts of California are now facing unprecedented forced blackouts, it’s time to reconsider the best way to deliver electricity to every community. It’s time to continue taking the small steps today that will lead us to a better power grid in the future. 
+While parts of California are now facing unprecedented forced blackouts, it’s time to reconsider the best way to deliver electricity to every community. It’s time to continue taking the small steps today that will lead us to a better power grid in the future.
