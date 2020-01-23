@@ -1,13 +1,13 @@
 +++
-title = "The Power Grid: An Overview and Its Evolution"
 date = 2017-06-10T14:26:36Z
-tags = ["distributed generation", "renewable"]
 image = "/images/evolving-energy-grid-list.jpg"
+tags = ["distributed generation", "renewable"]
+title = "The Power Grid: An Overview and Its Evolution"
 [author]
-  name = "Jake Anderson"
-  image = "/images/jake-anderson.png"
-+++
+image = "/images/jake-anderson.png"
+name = "Jake Anderson"
 
++++
 ### Background 
 
 As we move further into the 21st century, modern technology has disrupted countless industries and been ingrained into our daily lives. The goal of this article is to look at longstanding infrastructure that is imperative for humanity's survival yet taken for granted on a daily basis: the electricity grid.
@@ -123,5 +123,3 @@ Without even considering environmental impacts, it seems evident that historical
 #### Additional Material
 
 [https://www.eia.gov/outlooks/ieo/](https://www.eia.gov/outlooks/ieo/)
-
-
