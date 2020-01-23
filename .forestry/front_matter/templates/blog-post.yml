@@ -24,6 +24,7 @@ fields:
   - type: text
     name: name
     label: name
+    description: Name of other
   - type: file
     name: image
     label: image
