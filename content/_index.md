@@ -1,5 +1,5 @@
 +++
-title = "Solutions Page"
+title = "Home Page"
 +++
 
 {{< block "hero" "nightarray.jpg" >}} {{< column "wrap_min center">}}
