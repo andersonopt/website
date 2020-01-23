@@ -19,7 +19,7 @@ center:
 - link: Blog
   url: "/blog/"
 right:
-- link: Log in
+- link: Sign in
   url: "/login/"
   type: translucent button
   icon: user-icon.svg
