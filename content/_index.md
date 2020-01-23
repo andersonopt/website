@@ -3,7 +3,7 @@ draft = true
 title = "Home Page"
 
 +++
-{{< block "hero" "bignightpanel.jpg" >}} {{< column "wrap_min center">}}
+{{< block "hero" "bignightpanelhero.jpg" >}} {{< column "wrap_min center">}}
 
 # Smarter renewable energy siting & power grid modeling
 
