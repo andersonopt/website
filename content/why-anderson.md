@@ -2,14 +2,14 @@
 title = "Why Anderson Optimization"
 
 +++
-{{< block "hero" "solar-panel-1.png" >}}
-{{< column "wrap_min center" >}}
+{{< block "hero" "sunsettransmissionline.jpg" >}} {{< column "wrap_min center" >}}
 
 # Why Anderson Optimization?
 
 ## Accelerate timelines and maximize returns on energy and storage development projects.
 
 ### {{< /column >}}
+
 {{< /block >}}
 
 {{< column "wrap_min center space" >}}
