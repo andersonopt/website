@@ -1,7 +1,7 @@
 <div class="wrap grid-3 pb-3">
   {{- range first 3 (where .Site.RegularPages "Section" "blog") }}
   <div class="article_excerpt">
-    <a href="{{ .Permalink }}" class="article_thumb" style="background-image: url(/images/{{ .Params.image }})"></a>
+    <a href="{{ .Permalink }}" class="article_thumb" style="background-image: url({{ .Params.image }})"></a>
     {{- with .Params.tags }}
     {{- $randomTag := index (shuffle .) 0 }}
     <a href="/tags/{{ anchorize (lower $randomTag) }}">
