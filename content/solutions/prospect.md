@@ -19,7 +19,7 @@ software:
       details: A simple, repeatable process makes it easy to maintain a steady flow
         of active projects
     - benefit: Expedite project timelines
-      icon: /images/''
+      icon: /images/star.svg
       details: Users typically increase siting efficiency by 2-4 times allowing for
         faster landowner outreach
     - benefit: Easy to use
