@@ -3,9 +3,8 @@ date = 2019-12-05T11:50:20Z
 title = "Sign in"
 
 +++
-{{< block "layer" >}}
-{{< block "pt-4 wrap grid-2" >}}
-{{< column "pb-4" >}}
+
+{{< column "pb-4 pt-4 wrap_min login" >}}
 
 # Sign in
 
@@ -15,8 +14,3 @@ title = "Sign in"
 
 {{< include "login" >}}
 {{< /column >}}
-{{< column >}}
-
-{{</ column >}}
-{{< /block >}}
-{{< /block >}}
