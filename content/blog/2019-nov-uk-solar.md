@@ -1,10 +1,11 @@
 +++
 date = 2019-11-15T14:26:36Z
+featured = false
 image = "/images/uk-solar-image-1.jpg"
 tags = ["renewable", "solar"]
 title = "Why the Future of Solar Power in the UK is Brighter than You Think"
 [author]
-image = "/images/j-c-mcbride.png"
+image = "/images/user-icon.svg"
 name = "J.C. McBride"
 
 +++
