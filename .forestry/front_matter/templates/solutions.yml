@@ -5,7 +5,7 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
+- type: file
   name: image
   label: image
 - type: field_group
@@ -50,7 +50,7 @@ fields:
       name: benefit
       label: benefit
     - name: icon
-      type: text
+      type: file
       config:
         required: false
       label: icon
@@ -79,7 +79,7 @@ fields:
         schema:
           format: markdown
     - name: thumbnail
-      type: text
+      type: file
       config:
         required: false
       label: thumbnail

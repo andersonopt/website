@@ -12,7 +12,7 @@
       {{ end }}
     </div>
     
-    <div><img src="/images/{{ $markets.thumbnail }}" alt=""></div>
+    <div><img src="{{ $markets.thumbnail }}" alt=""></div>
     
   </section>
   
@@ -24,7 +24,7 @@
       {{ range $software.benefits }}
       <div>
         <figure class='icon_bluecircle'>
-          <img src = '/images/{{ .icon }}' alt = 'star icon' class = 'icon'>
+          <img src = '{{ .icon }}' alt = 'star icon' class = 'icon'>
         </figure>
         <div>
           <h3>{{ .benefit }}</h3>
@@ -50,7 +50,7 @@
     {{ range $index, $item := $others.benefits }}
     <section class="grid-2 wrap pb-3 alternate"  >
       <div>
-        <img src="/images/{{ $item.thumbnail }}" alt="">
+        <img src="{{ $item.thumbnail }}" alt="">
       </div>
       <div class='v-center'>
         {{ $item.description | markdownify }}

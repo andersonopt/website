@@ -11,7 +11,7 @@
     <div class = 'grid-2'>
       {{- range where .Site.RegularPages "Section" "solutions" }}
       <a href = '{{ .RelPermalink }}' class = 'mt-1 mb-3 block card-block'>
-        <img src = '/images/{{ .Params.image }}'>
+        <img src = '{{ .Params.image }}'>
         <h3 class = 'color'>{{ .Title }}</h3>
         <p>{{ replace (.Params.markets.description | truncate 160) "#" "" }}</p>
       </a>
