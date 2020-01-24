@@ -1,6 +1,5 @@
 {{- define "main" }}
-{{- .Content }}
-<!-- {{- $current := .RelPermalink }}
+{{- $current := .RelPermalink }}
 <div class = 'wrap grid-inverse pt-4'>
   <div>
     {{- .Content }}
@@ -8,7 +7,7 @@
 </div>
 <div class = 'wrap pb-2'>
   <div>
-    <h2>Solutions</h2>
+    <h1 class = 'center color'>Solutions</h1>
     <div class = 'grid-2'>
       {{- range where .Site.RegularPages "Section" "solutions" }}
       <a href = '{{ .RelPermalink }}' class = 'mt-1 mb-3 block card-block'>
@@ -19,5 +18,5 @@
       {{- end }}
     </div>
   </div>
-</div> -->
+</div>
 {{- end -}}
