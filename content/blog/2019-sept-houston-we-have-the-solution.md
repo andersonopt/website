@@ -1,10 +1,11 @@
 +++
 date = 2019-08-02T14:26:36Z
+featured = false
 image = "/images/solutions-idea.jpg"
 tags = ["solar"]
 title = "Houston We Have the Solution"
 [author]
-image = "/images/dragana-spasojevic.png"
+image = "/images/user-icon.svg"
 name = "Dragana Spasojevic"
 
 +++
