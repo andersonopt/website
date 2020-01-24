@@ -1,11 +1,11 @@
 +++
 date = 2019-10-08T14:26:36Z
-draft = true
+featured = false
 image = "/images/windmillhill.jpg"
 tags = ["renewable"]
 title = "Renewables to Get a Jolt from Aluminium Batteries"
 [author]
-image = "/images/mario-carr.png"
+image = "/images/user-icon.svg"
 name = "Mario Carr"
 
 +++
