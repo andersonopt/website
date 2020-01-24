@@ -1,10 +1,11 @@
 +++
+draft = true
 title = "Home Page"
-+++
 
++++
 {{< block "hero" "nightarray.jpg" >}} {{< column "wrap_min center">}}
 
-# Smarter renewable energy siting & power grid modeling
+# Smarter siting & energy system modeling for renewables and storage
 
 ## Automate time-consuming analysis to accelerate renewable energy development and maximize returns.
 
