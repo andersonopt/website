@@ -610,6 +610,54 @@
   &_link
     text-decoration: none
 
+.founder
+  text-align: center
+  position: relative
+  .avatar
+    margin-left: auto
+    margin-right: auto
+.profile
+  display: grid
+  margin-left: auto
+  margin-right: auto
+  margin-top: 0.5rem
+  grid-template-columns: repeat(3, 1fr)
+  max-width: 10rem
+  align-items: center
+  justify-content: center
+  grid-gap: 1rem
+
+.bio
+  display: none
+  background-color: $light
+  grid-column: 1/-1
+  padding: 1rem
+  border-radius: 0.5rem
+  text-align: left
+  margin-top: 1rem
+  @media screen and (min-width: 768px)
+    position: absolute
+    left: 0
+    min-width: 22.5rem
+    top: 9rem
+  &_show
+    display: grid
+    box-shadow: 0 0.5rem 2rem rgba(0,0,0,0.08)
+
+.handle
+  background: $themetext
+  color: $light
+  border-radius: 50%
+  width: 2.25rem
+  height: 2.25rem
+  display: inline-flex
+  justify-content: center
+  align-items: center
+  img
+    width: 1.25rem !important
+    mix-blend-mode: screen
+
+
 @media screen and (min-width: 992px)
   .layer
     &::after

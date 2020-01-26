@@ -1,17 +1,26 @@
 <section class = 'grid-2 wrap_min pb-4'>
 {{ range .Site.Data.founders }}
-  <div>
+  <div class = 'founder'>
     <div>
       <img src = '{{ .image }}' alt = '{{ .name }} picture' class = 'avatar'>
     </div>
     <div>
       <h3 id = 'head-of-technology'>{{ .role }}</h3>
       <h4 id = 'eric-anderson-phd'>{{ .name }}</h4>
-      <figure class='icon_small'>
-        <img src = '/images/linkedin-blue.svg' alt = 'linkedin icon' class = 'icon'>
-      </figure>
-      {{ .profile }}
-      {{ .bio | markdownify }}
+      <div class = 'profile'>
+        <a class='handle' href = '{{ .profile }}' target = '_blank' rel = 'noopener' title = 'linkedin'>
+          <img src = '/images/linkedin-icon.png' alt = 'linkedin icon'>
+        </a>
+        <a class='handle' href = 'mailto:{{ .mail }}' title = 'email'>
+          <img src = '/images/mail.svg' alt = 'linkedin icon'>
+        </a>
+        <a href = '#' title = 'bio' class = 'handle bio_toggle'>
+          <img src = '/images/user-icon.svg' alt = 'linkedin icon'>
+        </a>
+      </div>
+      <div class = 'bio'>
+        {{ .bio | markdownify }}
+      </div>
     </div>
   </div>
 {{ end }}

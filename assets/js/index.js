@@ -480,6 +480,32 @@ function fileClosure() {
     }
   })();
 
+  (function showFounderBio(){
+    const trigger = 'bio_toggle';
+    const show = 'bio_show';
+    page.addEventListener('click', function(event){
+      const target = event.target;
+      const isTrigger = containsClass(target, trigger) || target.closest(`.${trigger}`);
+      const bios = elems('.bio');
+      if(isTrigger && bios) {
+        event.preventDefault();
+        bios.forEach(function(bio){
+          deleteClass(bio, show);
+        })
+        const profile = target.closest('.founder');
+        const bio = elem('.bio', profile);
+        modifyClass(bio, show);
+      } else {
+        const bio = elem(`.${show}`);
+        const isBio = containsClass(target, show) || target.closest(`.${show}`)
+        if (bio && !isBio) {
+          deleteClass(bio, show);
+        }
+      }
+
+    })
+  })();
+
 }
 
 window.addEventListener('load', fileClosure());
