@@ -15,7 +15,7 @@ function fileClosure() {
   function pushClass(el, targetClass) {
     // equivalent to addClass
     if (el && typeof el == 'object' && targetClass) {
-      elClass = el.classList;
+      const elClass = el.classList;
       elClass.contains(targetClass) ? false : elClass.add(targetClass);
     }
   }
@@ -23,7 +23,7 @@ function fileClosure() {
   function deleteClass(el, targetClass) {
     // equivalent to removeClass
     if (el && typeof el == 'object' && targetClass) {
-      elClass = el.classList;
+      const elClass = el.classList;
       elClass.contains(targetClass) ? elClass.remove(targetClass) : false;
     }
   }
@@ -31,7 +31,7 @@ function fileClosure() {
   function modifyClass(el, targetClass) {
     // equivalent to toggleClass
     if (el && typeof el == 'object' && targetClass) {
-      elClass = el.classList;
+      const elClass = el.classList;
       elClass.contains(targetClass) ? elClass.remove(targetClass) : elClass.add(targetClass);
     }
   }
@@ -95,11 +95,13 @@ function fileClosure() {
         let shareLength = shareItems.length;
         let lastIndex = shareLength - 1;
         let lastShareItem = shareItems[lastIndex];
-        if(lastShareItem.classList.contains('share_copy') == false) {
-          elem('.share').appendChild(copyText);
+        const copiedClass = 'share_copy';
+        const isCopied = containsClass(lastShareItem.lastElementChild, copiedClass);
+        if(!isCopied) {
+          lastShareItem.appendChild(copyText);
           setTimeout(function() { 
-            elem('.share').removeChild(copyText)
-          }, 4000);
+            lastShareItem.removeChild(copyText)
+          }, 2000);
         }
       };
       
