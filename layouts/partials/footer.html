@@ -16,7 +16,7 @@
       <h3>Contact Us</h3>
       {{- $footer.address | markdownify }}
       {{ range $footer.social }}
-      <a href="{{ .url }}">
+      <a href="{{ .url }}" target="_blank" rel="noopener">
         <img src="/images/{{ .icon }}" alt="icon">
         {{- .name }}
       </a>
