@@ -6,13 +6,15 @@
     Chris get set up in a matter of days and be ready to mail letters to potential
     landowners. He is out this week meeting all of the landowners he made contact
     with and we even have signed LOI’s already in the land bank!”\n"
-- client: Name of the client
-  role: Job role
-  company: Company
-  review: "“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua Lorem ipsum dolor sit ididunt
-    ut labore et dolore magna aliqua Lorem ipsum dolor sit amet, consectetur adipiscingo
-    eiusmod tempor incididunt ut labore et dolore magna aliqua.”\n"
+- client: Ben Mathes
+  role: Development Analyst
+  company: Hecate Energy
+  review: "“Our company started with one person using Anderson Optimization for site
+    identification in one state. Within a few months, two more individuals requested
+    access after seeing the platform's capabilities and our company added two more
+    states. Our team has gone from using AO for site identification to incorporating
+    it into our daily workflow of site analysis, as well as pulling parcel information
+    for early-stage development activities.”\n"
 - client: Name of the client
   role: Job role
   company: Company
