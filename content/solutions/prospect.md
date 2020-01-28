@@ -36,8 +36,8 @@ software:
       don't waste time working on infeasible sites
   - benefit: New feature development
     icon: "/images/Group 7.svg"
-    details: Expedited new feature development for requests ensures users always have
-      the tools they need
+    details: Expedited new feature development based on user requests ensures that
+      you always have the tools you need
 youtubeVideoID: ''
 others:
   title: Find high-quality sites in minutes
