@@ -33,7 +33,7 @@ software:
   - benefit: Easily identify landowners
     icon: "/images/Group 6.svg"
     details: Quickly identify landowners with the highest quality land, so that you
-      don't waste time working on infeasible sites
+      don't waste time working on infeasible sites.
   - benefit: New feature development
     icon: "/images/Group 7.svg"
     details: Expedited new feature development based on user requests ensures that
