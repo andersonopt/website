@@ -29,7 +29,7 @@ title = "Why Anderson Optimization"
 
 Our users are key in our product development process. Virtually every feature in our platform has come from a customer request.
 
-{{< /column >}} {{< column >}} {{< icon "analysis.svg" "star icon" "bluecircle" >}}
+{{< /column >}} {{< column >}} {{< icon "Group 7.svg" "star icon" "bluecircle" >}}
 
 ### All Your Data In One Place
 
