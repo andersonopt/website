@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4">
+            <circle id="Oval-Copy-7" fill="#DEF2FA" cx="62.5" cy="62.5" r="62.5"></circle>
+            <g id="calendar-2" transform="translate(35.000000, 32.000000)" fill="#40ADDC" fill-rule="nonzero">
+                <path d="M55,4 L48,4 L48,1 C48,0.447 47.553,0 47,0 L40,0 C39.447,0 39,0.447 39,1 L39,4 L17,4 L17,1 C17,0.447 16.553,0 16,0 L9,0 C8.447,0 8,0.447 8,1 L8,4 L1,4 C0.447,4 0,4.447 0,5 L0,16 L0,59 C0,59.553 0.447,60 1,60 L55,60 C55.553,60 56,59.553 56,59 L56,16 L56,5 C56,4.447 55.553,4 55,4 Z M41,2 L46,2 L46,5 L46,8 L41,8 L41,5 L41,2 Z M10,2 L15,2 L15,5 L15,8 L10,8 L10,5 L10,2 Z M2,6 L8,6 L8,9 C8,9.553 8.447,10 9,10 L16,10 C16.553,10 17,9.553 17,9 L17,6 L39,6 L39,9 C39,9.553 39.447,10 40,10 L47,10 C47.553,10 48,9.553 48,9 L48,6 L54,6 L54,15 L2,15 L2,6 Z M2,58 L2,17 L54,17 L54,58 L2,58 Z" id="Shape"></path>
+                <path d="M36,23 L29,23 L27,23 L20,23 L18,23 L9,23 L9,32 L9,34 L9,41 L9,43 L9,52 L18,52 L20,52 L27,52 L29,52 L36,52 L38,52 L47,52 L47,43 L47,41 L47,34 L47,32 L47,23 L38,23 L36,23 Z M29,25 L36,25 L36,32 L29,32 L29,25 Z M36,41 L29,41 L29,34 L36,34 L36,41 Z M20,34 L27,34 L27,41 L20,41 L20,34 Z M20,25 L27,25 L27,32 L20,32 L20,25 Z M11,25 L18,25 L18,32 L11,32 L11,25 Z M11,34 L18,34 L18,41 L11,41 L11,34 Z M18,50 L11,50 L11,43 L18,43 L18,50 Z M27,50 L20,50 L20,43 L27,43 L27,50 Z M36,50 L29,50 L29,43 L36,43 L36,50 Z M45,50 L38,50 L38,43 L45,43 L45,50 Z M45,41 L38,41 L38,34 L45,34 L45,41 Z M45,25 L45,32 L38,32 L38,25 L45,25 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
