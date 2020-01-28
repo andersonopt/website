@@ -23,7 +23,7 @@ title = "Why Anderson Optimization"
 
 {{< block "grid-3 wrap_min center" >}}
 {{< column >}}
-{{< icon "wind-turbine.svg" "star icon" "bluecircle" >}}
+{{< icon "Group 7.svg" "star icon" "bluecircle" >}}
 
 ### You Ask, We Build
 
