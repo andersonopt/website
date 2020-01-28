@@ -61,7 +61,7 @@ others:
       * _Quickly identify potential parcels based on substation or line radius and acreage._
       * _Calculate directional buildable area and create hazard constraint maps for all parcels._
       * Sort and filter parcels based on buildable area.
-  - thumbnail: "/images/macbook.png"
+  - thumbnail: "/images/Landowner-new.png"
     description: |-
       ### Easily view and export landowner contact information for LOIs
 
