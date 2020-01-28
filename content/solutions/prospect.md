@@ -52,7 +52,7 @@ others:
       ### See all relevant renewable siting data and layers in one place
 
       Eliminate the need to collect and consolidate disparate GIS data sources. All of the layers needed for renewable siting, including wetlands, flood, topo, etc. come pre-loaded. We can also integrate any unique data that you already have.
-  - thumbnail: "/images/Landowner-new.png"
+  - thumbnail: "/images/GIS-new.png"
     description: |-
       ### Automate time-consuming environmental GIS analysis
 
