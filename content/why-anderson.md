@@ -43,7 +43,7 @@ Preform complex siting and GIS analysis without needing to be a GIS wizard, mode
 
 {{< /column >}}
 
-{{< column >}} {{< icon "cloud-computing.svg" "star icon" "bluecircle" >}}
+{{< column >}} {{< icon "Group 11.svg" "star icon" "bluecircle" >}}
 
 ### Output You Can Understand
 
