@@ -35,7 +35,7 @@ Our users are key in our product development process. Virtually every feature in
 
 Collate data from disparate sources into one tool for easy analysis. Our platform comes pre-loaded with key data and we can also add custom data layers - just tell us the source!
 
-{{< /column >}} {{< column >}} {{< icon "analysis-2.svg" "star icon" "bluecircle" >}}
+{{< /column >}} {{< column >}} {{< icon "Group 5.svg" "star icon" "bluecircle" >}}
 
 ### Tools You Can Actually Use
 
