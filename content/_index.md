@@ -15,7 +15,7 @@ title = "Home Page"
 
 <!-- {{< include "partners" >}} {{< underline >}} -->
 
- {{< column "wrap_min center pt-1" >}}
+{{< column "wrap_min center pt-1" >}}
 
 # Software Solutions
 
@@ -52,7 +52,7 @@ Quickly model and test different assumptions to assess and optimize projects acr
 
 ### We know that existing tools make renewable development slow and expensive. We reduce project inefficiencies and provide better analytical tools to lower project costs and maximize ROI.
 
-{{< button "/why-anderson/" "Read More" >}} {{< /column >}} {{< /column >}} {{< /block >}}
+{{< button "/why-anderson/" "Read more →" >}} {{< /column >}} {{< /column >}} {{< /block >}}
 
 {{< column "wrap_min center pb-2" >}}
 
