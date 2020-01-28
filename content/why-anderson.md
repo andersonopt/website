@@ -60,7 +60,7 @@ Our cloud infrastructure keeps your team's work in one place and saves changes i
 
 {{< /column >}}
 
-{{< column >}} {{< icon "bar-chart.svg" "star icon" "bluecircle" >}}
+{{< column >}} {{< icon "Group 12.svg" "star icon" "bluecircle" >}}
 
 ### Goodbye To Wasteful Work
 
