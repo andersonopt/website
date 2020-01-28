@@ -25,7 +25,7 @@ software:
   - benefit: Easy to use
     icon: "/images/Group 5.svg"
     details: Anyone - not just GIS developers - can easily perform complex environmental
-      analysis
+      analysis.
   - benefit: Reduce soft costs
     icon: "/images/Group 14.svg"
     details: Own the process from end-to-end and forego the need to hire costly GIS
