@@ -20,7 +20,7 @@ software:
       weeks with consultants.
   - benefit: Reduce variable costs
     icon: "/images/Group 14.svg"
-    details: Model scenarios at a significantly lower rate than with external consultants
+    details: Model scenarios at a significantly lower rate than with external consultants.
   - benefit: Maximize project returns
     icon: "/images/Group 8.svg"
     details: Don't leave financial upside on the table; evaluate as many scenarios
