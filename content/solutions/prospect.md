@@ -17,11 +17,11 @@ software:
   - benefit: Fill pipelines for increased revenue
     icon: "/images/Group 3.svg"
     details: A simple, repeatable process makes it easy to maintain a steady flow
-      of active projects
+      of active projects.
   - benefit: Expedite project timelines
     icon: "/images/Group 4.svg"
     details: Users typically increase siting efficiency by 2-4 times allowing for
-      faster landowner outreach
+      faster landowner outreach.
   - benefit: Easy to use
     icon: "/images/Group 5.svg"
     details: Anyone - not just GIS developers - can easily perform complex environmental
