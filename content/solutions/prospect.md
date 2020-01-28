@@ -35,7 +35,7 @@ software:
     details: Quickly identify landowners with the highest quality land, so that you
       don't waste time working on infeasible sites
   - benefit: New feature development
-    icon: "/images/edit.svg"
+    icon: "/images/Group 7.svg"
     details: Expedited new feature development for requests ensures users always have
       the tools they need
 youtubeVideoID: ''
