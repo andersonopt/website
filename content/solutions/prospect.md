@@ -66,7 +66,7 @@ others:
       ### Easily view and export landowner contact information for LOIs
 
       Once you have a shortlist of high quality parcels, you'll have all the land owner information you need to send out mailers.
-  - thumbnail: "/images/macbook.png"
+  - thumbnail: "/images/Crossteam-new.png"
     description: |-
       ### Seamlessly collaborate across teams in the cloud
 
