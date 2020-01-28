@@ -42,7 +42,7 @@ youtubeVideoID: ''
 others:
   title: Find high-quality sites in minutes
   benefits:
-  - thumbnail: "/images/Newmarket@2x-1.jpg"
+  - thumbnail: "/images/Newmarket-new.png"
     description: |-
       ### Quickly move into new markets
 
