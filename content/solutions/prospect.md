@@ -37,7 +37,7 @@ software:
   - benefit: New feature development
     icon: "/images/Group 7.svg"
     details: Expedited new feature development based on user requests ensures that
-      you always have the tools you need
+      you always have the tools you need.
 youtubeVideoID: ''
 others:
   title: Find high-quality sites in minutes
