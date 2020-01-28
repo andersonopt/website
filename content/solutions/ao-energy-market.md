@@ -28,7 +28,7 @@ software:
   - benefit: Fast failure made easy
     icon: "/images/basic-plug.svg"
     details: Easily model early-stage projects to more quickly eliminate unviable
-      projects
+      projects.
 youtubeVideoID: ''
 others:
   title: Focus on the right projects from the get-go
