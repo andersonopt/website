@@ -29,7 +29,7 @@ software:
   - benefit: Reduce soft costs
     icon: "/images/Group 14.svg"
     details: Own the process from end-to-end and forego the need to hire costly GIS
-      analysts, external land agents, or new developers.
+      analysts, external land agents, or new developers
   - benefit: Easily identify landowners
     icon: "/images/Group 6.svg"
     details: Quickly identify landowners with the highest quality land, so that you
