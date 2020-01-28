@@ -10,7 +10,7 @@ markets:
     ### Expedite and simplify early-stage land siting
 
     Identify ideal parcels for renewable development and automate complex GIS analysis to find high-quality sites in just minutes.
-  thumbnail: "/images/Mac (1).png"
+  thumbnail: "/images/jake.png"
 software:
   title: 'How can AO Prospect improve your business? '
   benefits:
