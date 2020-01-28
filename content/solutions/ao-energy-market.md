@@ -10,7 +10,7 @@ markets:
     #### Quickly model power systems to evaluate project risk and optimize financial viability
 
     Easily simulate projects across thousands of power system scenarios to evaluate and optimize basis risk, market pricing, congestion, and overall financial upside of renewable and storage projects using the latest research in production cost, unit commitment, capacity expansion, and uncertainty modeling.
-  thumbnail: "/images/macbook.png"
+  thumbnail: "/images/Mac (1).png"
 software:
   title: 'How can AO Energy Markets improve your business? '
   benefits:
