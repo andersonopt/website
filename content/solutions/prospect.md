@@ -58,8 +58,8 @@ others:
 
       Finding potential parcels and evaluating parcel quality can be tedious and time-consuming. AO Prospect helps users determine buildable acreage and create constraint maps with just a few clicks. Users can:
 
-      * _Quickly identify potential parcels based on substation or line radius and acreage._
-      * _Calculate directional buildable area and create hazard constraint maps for all parcels._
+      * Quickly identify potential parcels based on substation or line radius and acreage.
+      * Calculate directional buildable area and create hazard constraint maps for all parcels.
       * Sort and filter parcels based on buildable area.
   - thumbnail: "/images/Landowner-new.png"
     description: |-
