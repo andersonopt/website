@@ -1,6 +1,6 @@
 ---
 title: AO Prospect
-image: "/images/darkgrass_solar_2.jpg"
+image: "/images/aoprospectimage.jpg"
 markets:
   title: AO Prospect
   buttons:
