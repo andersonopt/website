@@ -13,9 +13,9 @@ title = "Home Page"
 {{< /column >}}
 {{< /block >}}
 
-{{< include "partners" >}}
-{{< underline >}}
-{{< column "wrap_min center pt-1" >}}
+<!-- {{< include "partners" >}} {{< underline >}} -->
+
+ {{< column "wrap_min center pt-1" >}}
 
 # Software Solutions
 
