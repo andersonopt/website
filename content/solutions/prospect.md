@@ -15,7 +15,7 @@ software:
   title: 'How can AO Prospect improve your business? '
   benefits:
   - benefit: Fill pipelines for increased revenue
-    icon: "/images/CircularCycle.png"
+    icon: "/images/Group 3.svg"
     details: A simple, repeatable process makes it easy to maintain a steady flow
       of active projects
   - benefit: Expedite project timelines
@@ -71,6 +71,7 @@ others:
       ### Seamlessly collaborate across teams in the cloud
 
       Projects automatically save in real-time so work is accessible from anywhere. Export land owner data, KML constraint maps, and PDF reports for seamless downstream design and landowner outreach activity.
+draft: true
 
 ---
 {{< block "wavy" >}}
