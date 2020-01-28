@@ -1,6 +1,6 @@
 ---
 title: AO Energy Markets
-image: "/images/macbook.png"
+image: "/images/aoem-home.jpg"
 markets:
   title: AO Energy Markets
   buttons:
