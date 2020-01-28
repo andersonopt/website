@@ -52,7 +52,7 @@ Avoid confusing spreadsheets and mass data downloads that are hard to parse. Our
 {{< /column >}}
 
 {{< column >}}
-{{< icon "bar-chart.svg" "star icon" "bluecircle" >}}
+{{< icon "Group 13.svg" "star icon" "bluecircle" >}}
 
 ### Stay On The Same Page
 
