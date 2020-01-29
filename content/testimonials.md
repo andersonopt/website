@@ -11,11 +11,11 @@ title = "What our clients say"
 {{< /column >}}
 {{< /block >}}
 
-{{% block "wrap_min center pt-1 pb-2" %}}
+{{< column "wrap_min center space" >}}
 
-## See how we're helping customers across the industry
+# **See how we're helping customers across the industry**
 
-{{% /block %}}
+{{< /column >}}
 {{< block "wrap pb-4" >}} {{< include "testimonials" >}} {{< /block >}}
 
 {{< form "/images/windmills-on-a-hill.png" >}}

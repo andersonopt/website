@@ -18,7 +18,12 @@
     <ul class = 'nav_menu'>
       {{- range .Site.Data.menu.right }}
       <li class = 'nav_parent'>
+        {{ if .url }}
         <a href = '{{ .url }}' class = 'nav_item{{ with .type }} button button_{{ . }}{{ end }}'>{{ with .icon }}<img src="/images/{{ . }}" alt="icon"> {{ end }}{{ .link }}</a>
+        {{ end }}
+        {{ if .calendly }}
+        <a href ='' onclick="Calendly.initPopupWidget({url: 'https://calendly.com/andersonopt/anderson-optimization-intro'});return false;" class = 'nav_item{{ with .type }} button button_{{ . }}{{ end }}'>{{ with .icon }}<img src="/images/{{ . }}" alt="icon"> {{ end }}{{ .link }}</a>
+        {{ end }}
       </li>
       {{- end }}
     </ul>

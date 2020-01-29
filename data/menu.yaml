@@ -10,7 +10,7 @@ center:
 - link: Testimonials
   url: "/testimonials/"
 - link: Company
-  url: ''
+  url: '/why-anderson/'
   submenu:
   - link: Why AO
     url: "/why-anderson/"
@@ -20,9 +20,9 @@ center:
   url: "/blog/"
 right:
 - link: Sign in
-  url: "/login/"
+  url: "https://andersonopt.com/login"
   type: translucent button
   icon: user-icon.svg
 - link: Book a demo
-  url: "/book-a-demo/"
+  calendly: true
   type: button
