@@ -33,7 +33,7 @@ youtubeVideoID: ''
 others:
   title: Focus on the right projects from the get-go
   benefits:
-  - thumbnail: "/images/macbook.png"
+  - thumbnail: "/images/Scenarios.png"
     description: |-
       ### Easily test  scenarios and iterate quickly
 
