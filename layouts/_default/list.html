@@ -24,6 +24,7 @@
     {{- if eq .RelPermalink "/blog/" }}
     <h2 class = 'mb-1 color'>Featured Post</h2>
     {{- $featured := index (where .Site.RegularPages ".Params.featured" true) 0 }}
+    {{- $author := index (where .Site.Data.authors ".name" $featured.Params.author.name) 0 }}
     <a href = '{{ $featured.Permalink }}'>
       <figure>
         <img src="{{ $featured.Params.image }}">
@@ -32,7 +33,7 @@
       <p>{{ $featured.Summary | truncate 160 | markdownify }}</p>
       <div class = 'post_meta pb-2'>
         <figure class = 'post_avatar'>
-          <img src = '{{ $featured.Params.author.image }}' alt = 'author picture'>
+          <img src = '{{ $author.image }}' alt = 'author picture'>
         </figure>
         <div>
           <span class = 'post_author'>{{ $featured.Params.author.name }}</span>

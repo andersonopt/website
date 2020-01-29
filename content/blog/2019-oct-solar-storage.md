@@ -1,6 +1,6 @@
 +++
 date = 2019-09-02T14:26:36Z
-featured = false
+featured = true
 image = "/images/solar-storage.jpg"
 tags = ["renewable"]
 title = "So Much Sun, So Little Storage"

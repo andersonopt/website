@@ -1,6 +1,8 @@
+
+{{- $author := index (where .Site.Data.authors ".name" .Params.author.name) 0 }}
 <div class = 'post_meta'>
   <figure class = 'post_avatar'>
-    <img src = '{{ .Params.author.image }}' alt = 'author picture'>
+    <img src = '{{ $author.image }}' alt = 'author picture'>
   </figure>
   <div>
     <span class = 'post_author'>{{ .Params.author.name }}</span>
