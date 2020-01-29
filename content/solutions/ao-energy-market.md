@@ -33,22 +33,22 @@ youtubeVideoID: ''
 others:
   title: Focus on the right projects from the get-go
   benefits:
-  - thumbnail: "/images/macbook.png"
+  - thumbnail: "/images/Scenarios.png"
     description: |-
       ### Easily test  scenarios and iterate quickly
 
       AO Energy Markets' scenario analysis engine allows users to automatically queue thousands of modeling scenarios with just a few clicks. After initial runs, it's easy to adjust parameters and identify the best project configuration. Consultant-provided runs only include a handful of scenario views and revised runs often come with additional multi-week timelines.
-  - thumbnail: "/images/macbook.png"
+  - thumbnail: "/images/Complex.png"
     description: |-
       ### Perform complex analysis with standard computers
 
       We leverage the power of the cloud so that users can perform large-scale modeling runs with just a laptop.
-  - thumbnail: "/images/macbook.png"
+  - thumbnail: "/images/Simplify.png"
     description: |-
       ### Simplify project review
 
       Stop wasting time with confusing data outputs. Our platform uses a clean interface and data visualization so that it's easy to determine how to capture financial upside and meet your project goals.
-  - thumbnail: "/images/macbook.png"
+  - thumbnail: "/images/View.png"
     description: |
       ### View and edit modeling assumptions
 
