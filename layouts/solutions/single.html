@@ -7,7 +7,12 @@
       {{ $markets.description | markdownify }}
       {{ range $index, $button := $markets.buttons }}
       <p>
-        <a href = '{{ $button.link }}' class = 'button{{ if eq $index 1 }} button_translucent{{ end }}'>{{ $button.label }}</a>
+        {{ if $button.url }}
+        <a href = '{{ $button.url }}' class = 'button{{ if eq $index 1 }} button_translucent{{ end }}'>{{ $button.label }}</a>
+        {{ end }}
+        {{ if $button.calendly }}
+        <a href ='' onclick="Calendly.initPopupWidget({url: 'https://calendly.com/andersonopt/anderson-optimization-intro'});return false;"  class = 'button{{ if eq $index 1 }} button_translucent{{ end }}'>{{ $button.label }}</a>
+        {{ end}}
       </p>
       {{ end }}
     </div>

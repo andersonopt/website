@@ -8,7 +8,7 @@ title = "Home Page"
 
 ## Automate time-consuming analysis to accelerate renewable energy development and maximize returns.
 
-### {{< button "/book-a-demo/" "Book a free demo, light" >}}
+### {{< button_calendly "#" "Book a free demo, light" >}}
 
 {{< /column >}}
 {{< /block >}}

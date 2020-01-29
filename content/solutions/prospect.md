@@ -5,7 +5,7 @@ markets:
   title: AO Prospect
   buttons:
   - label: Book a demo
-    link: "#"
+    calendly: true
   description: |-
     ### Expedite and simplify early-stage land siting
 

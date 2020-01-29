@@ -5,7 +5,7 @@ markets:
   title: AO Energy Markets
   buttons:
   - label: Book a demo
-    link: "#"
+    calendly: true
   description: |-
     #### Quickly model power systems to evaluate project risk and optimize financial viability
 
