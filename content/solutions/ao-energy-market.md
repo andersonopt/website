@@ -43,7 +43,7 @@ others:
       ### Perform complex analysis with standard computers
 
       We leverage the power of the cloud so that users can perform large-scale modeling runs with just a laptop.
-  - thumbnail: "/images/macbook.png"
+  - thumbnail: "/images/Simplify.png"
     description: |-
       ### Simplify project review
 
