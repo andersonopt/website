@@ -48,7 +48,7 @@ others:
       ### Simplify project review
 
       Stop wasting time with confusing data outputs. Our platform uses a clean interface and data visualization so that it's easy to determine how to capture financial upside and meet your project goals.
-  - thumbnail: "/images/macbook.png"
+  - thumbnail: "/images/View.png"
     description: |
       ### View and edit modeling assumptions
 
