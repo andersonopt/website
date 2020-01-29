@@ -1,7 +1,7 @@
 +++
 date = 2018-06-22T14:26:36Z
 image = "/images/power-outage-pod-list.png"
-tags = ["energy grid", "optimization", "planning"]
+tags = ["energy grid"]
 title = "Podcast: Learning From Previous Power Outages"
 [author]
 image = "/images/jake-anderson.png"

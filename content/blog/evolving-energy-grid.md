@@ -1,7 +1,7 @@
 +++
 date = 2017-06-10T14:26:36Z
 image = "/images/evolving-energy-grid-list.jpg"
-tags = ["distributed generation", "renewable"]
+tags = ["renewable", "energy grid"]
 title = "The Power Grid: An Overview and Its Evolution"
 [author]
 image = "/images/jake-anderson.png"

@@ -1,7 +1,7 @@
 +++
 date = 2017-04-10T14:26:36Z
 image = "/images/siting-difficulty-list.jpg"
-tags = ["renewable", "solar", "GIS"]
+tags = ["renewable", "solar"]
 title = "Renewable Siting Inefficiencies"
 [author]
 image = "/images/jake-anderson.png"

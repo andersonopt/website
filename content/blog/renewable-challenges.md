@@ -2,7 +2,7 @@
 date = 2018-06-14T14:26:36Z
 featured = true
 image = "/images/renewable-challenges-list.jpg"
-tags = ["energy grid", "planning"]
+tags = ["energy grid"]
 title = "Overcoming Renewable Challenges"
 [author]
 image = "/images/jake-anderson.png"

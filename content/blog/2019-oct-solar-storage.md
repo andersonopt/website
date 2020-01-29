@@ -2,7 +2,7 @@
 date = 2019-09-02T14:26:36Z
 featured = true
 image = "/images/solar-storage.jpg"
-tags = ["renewable"]
+tags = ["solar","storage"]
 title = "So Much Sun, So Little Storage"
 [author]
 image = "/images/user-icon.svg"

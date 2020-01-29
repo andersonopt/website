@@ -1,7 +1,7 @@
 +++
 date = 2017-07-10T14:26:36Z
 image = "/images/energy-markets-two-list.jpg"
-tags = ["energy markets", "microgrids"]
+tags = ["energy markets"]
 title = "Energy Markets & Batteries: Part 2"
 [author]
 image = "/images/jake-anderson.png"

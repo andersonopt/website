@@ -1,7 +1,7 @@
 +++
 date = 2018-05-14T14:26:36Z
 image = "/images/energy-usage-pod-list.png"
-tags = ["energy grid", "optimization", "planning"]
+tags = ["energy grid"]
 title = "Podcast: Automating and Optimizing Energy Usage"
 [author]
 image = "/images/jake-anderson.png"

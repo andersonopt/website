@@ -2,7 +2,7 @@
 categories = ["Siting"]
 date = 2017-05-10T14:26:36Z
 image = "/images/siting-capability-list.png"
-tags = ["solar", "GIS", "automation", "software", "renewable"]
+tags = ["software", "renewable"]
 title = "Renewable Siting Automation"
 [author]
 image = "/images/jake-anderson.png"

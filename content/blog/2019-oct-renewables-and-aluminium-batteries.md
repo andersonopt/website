@@ -2,7 +2,7 @@
 date = 2019-10-08T14:26:36Z
 featured = false
 image = "/images/windmillhill.jpg"
-tags = ["renewable"]
+tags = ["storage"]
 title = "Renewables to Get a Jolt from Aluminium Batteries"
 [author]
 image = "/images/user-icon.svg"
