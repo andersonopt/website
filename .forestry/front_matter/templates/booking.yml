@@ -5,6 +5,12 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: details
+- name: details
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
   label: details
