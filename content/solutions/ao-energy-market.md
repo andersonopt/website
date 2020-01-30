@@ -6,6 +6,7 @@ markets:
   buttons:
   - label: Book a demo
     calendly: true
+    link: ''
   description: |-
     #### Quickly model power systems to evaluate project risk and optimize financial viability
 
@@ -26,7 +27,7 @@ software:
     details: Don't leave financial upside on the table; evaluate as many scenarios
       as needed to optimize project parameters.
   - benefit: Fast failure made easy
-    icon: "/images/basic-plug.svg"
+    icon: "/images/Group 15.svg"
     details: Easily model early-stage projects to more quickly eliminate unviable
       projects.
 youtubeVideoID: ''
