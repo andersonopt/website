@@ -2,12 +2,13 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cibuilds/hugo:latest
+      - image: cibuilds/hugo:0.54
     working_directory: ~/hugo
     environment:
       HUGO_BUILD_DIR: ~/hugo/public
       HUGO_BRANCH_BUILD_DIR: ~/hugo/branch-public
     steps:
+      - checkout
       # install git
       - run: apt-get update && apt-get install -y git && apt-get install -y software-properties-common
 
