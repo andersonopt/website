@@ -9,12 +9,9 @@ jobs:
       HUGO_BRANCH_BUILD_DIR: ~/hugo/branch-public
     steps:
       - checkout
-      # install git
-      # - run: apt-get update && apt-get install -y git && apt-get install -y software-properties-common
-
+      
       # install git submodules for managing third-party dependencies
       - run: git submodule sync && git submodule update --init
-
 
       # build with Hugo
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
