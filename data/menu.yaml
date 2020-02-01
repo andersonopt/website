@@ -4,9 +4,9 @@ center:
   url: "/#software-solutions"
   submenu:
   - link: AO Prospect
-    url: "/solutions/prospect"
+    url: "/solutions/prospect/"
   - link: AO Energy Markets
-    url: "/solutions/ao-energy-market"
+    url: "/solutions/ao-energy-market/"
 - link: Testimonials
   url: "/testimonials/"
 - link: Company
