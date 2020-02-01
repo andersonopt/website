@@ -35,4 +35,9 @@ RUN echo export PATH="\
     $PATH" >> ~/.bashrc && \
     echo "nvm use ${VERSION_NODE} 1> /dev/null" >> ~/.bashrc
 
+RUN curl -O https://bootstrap.pypa.io/get-pip.py
+RUN python get-pip.py --user
+RUN /root/.local/bin/pip install awscli
+
+
 ENTRYPOINT [ "bash", "-c" ]
