@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cgbaker/alpine-hugo-aws:latest
+      - image: kshcherban/docker-hugo-awscli:latest
     working_directory: ~/hugo
     environment:
       HUGO_BUILD_DIR: ~/hugo/public
@@ -39,7 +39,6 @@ jobs:
       - deploy:
           name: deploy to AWS
           command: |
-            . venv/bin/activate
             if [ "${CIRCLE_BRANCH}" = "master" ]; then
               aws s3 sync $HUGO_BUILD_DIR \
               s3://website.andersonoptimization.com/latest --delete --acl=public-read --cache-control max-age=3600
