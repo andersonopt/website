@@ -13,7 +13,7 @@ center:
   - link: Testimonials
     url: "/testimonials/"
   - link: Case Study
-    url: "/images/ScalingSolar-BlueWaveCaseStudy.pdf/"
+    url: "/images/ScalingSolar-BlueWaveCaseStudy.pdf"
 - link: Company
   url: "/why-anderson/"
   submenu:
