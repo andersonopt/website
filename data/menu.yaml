@@ -7,10 +7,13 @@ center:
     url: "/solutions/prospect"
   - link: AO Energy Markets
     url: "/solutions/ao-energy-market"
-- link: Testimonials
+- link: Customer Stories
   url: "/testimonials/"
+  submenu:
+  - link: Testimonials
+    url: "/testimonials/"
 - link: Company
-  url: '/why-anderson/'
+  url: "/why-anderson/"
   submenu:
   - link: Why AO
     url: "/why-anderson/"
@@ -20,7 +23,7 @@ center:
   url: "/blog/"
 right:
 - link: Sign in
-  url: "https://andersonopt.com/login"
+  url: https://andersonopt.com/login
   type: translucent button
   icon: user-icon.svg
 - link: Book a demo
