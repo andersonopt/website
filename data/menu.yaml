@@ -13,7 +13,7 @@ center:
   - link: Testimonials
     url: "/testimonials/"
   - link: Case Study
-    url: ''
+    url: "/bwcasestudy/"
 - link: Company
   url: "/why-anderson/"
   submenu:
