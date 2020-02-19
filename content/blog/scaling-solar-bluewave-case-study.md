@@ -1,6 +1,5 @@
 +++
 date = 2020-02-19T15:00:00Z
-draft = true
 featured = false
 image = "/images/BlueWaveLogo.jpg"
 tags = ["Software", "Solar"]
