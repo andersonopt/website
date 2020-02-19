@@ -4,7 +4,7 @@
     <ul class = 'nav_menu'>
       {{- range .Site.Data.menu.center }}
       <li class = 'nav_parent'>
-        <a href = '{{ .url }}' class = 'nav_item{{ with .type }} {{ . }}{{ end }}'>{{ .link }} {{ with .submenu }}<img src="/images/caret-icon.svg" alt="icon" class="nav_icon">{{ end }}</a>
+        <a href = '{{ .url }}' class = 'nav_item{{ with .type }} {{ . }}{{ end }}'><span>{{ .link }}</span> {{ with .submenu }}<img src="/images/caret-icon.svg" alt="icon" class="nav_icon">{{ end }}</a>
         {{- with .submenu }}
         <div class = 'nav_sub'>
           {{- range . }}
