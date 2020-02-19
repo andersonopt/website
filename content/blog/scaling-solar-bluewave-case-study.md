@@ -6,7 +6,7 @@ image = "/images/BlueWaveLogo.jpg"
 tags = ["Software", "Solar"]
 title = "Scaling Solar: BlueWave Case Study"
 [author]
-image = "/images/IMG_3178.jpg"
+image = "/images/MeganHeadshot.png"
 name = "Megan Kostanick"
 
 +++
