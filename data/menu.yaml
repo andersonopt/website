@@ -9,8 +9,13 @@ center:
     url: "/solutions/ao-energy-market/"
 - link: Testimonials
   url: "/testimonials/"
+  submenu:
+  - link: Testimonials
+    url: "/testimonials/"
+  - link: Case Study
+    url: "/images/ScalingSolar-BlueWaveCaseStudy.pdf/"
 - link: Company
-  url: '/why-anderson/'
+  url: "/why-anderson/"
   submenu:
   - link: Why AO
     url: "/why-anderson/"
@@ -20,7 +25,7 @@ center:
   url: "/blog/"
 right:
 - link: Sign in
-  url: "https://andersonopt.com/login"
+  url: https://andersonopt.com/login
   type: translucent button
   icon: user-icon.svg
 - link: Book a demo

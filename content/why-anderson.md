@@ -23,19 +23,19 @@ title = "Why Anderson Optimization"
 
 {{< block "grid-3 wrap_min center" >}}
 {{< column >}}
-{{< icon "Group 7.svg" "star icon" "bluecircle" >}}
+{{< icon "wand.svg" "star icon" "bluecircle" >}}
 
 ### You Ask, We Build
 
 Our users are key in our product development process. Virtually every feature in our platform has come from a customer request.
 
-{{< /column >}} {{< column >}} {{< icon "Group 10.svg" "star icon" "bluecircle" >}}
+{{< /column >}} {{< column >}} {{< icon "documents.svg" "star icon" "bluecircle" >}}
 
 ### All Your Data In One Place
 
 Collate data from disparate sources into one tool for easy analysis. Our platform comes pre-loaded with key data and we can also add custom data layers - just tell us the source!
 
-{{< /column >}} {{< column >}} {{< icon "Group 5.svg" "star icon" "bluecircle" >}}
+{{< /column >}} {{< column >}} {{< icon "gear-1.svg" "star icon" "bluecircle" >}}
 
 ### Tools You Can Actually Use
 
@@ -43,7 +43,7 @@ Preform complex siting and GIS analysis without needing to be a GIS wizard, mode
 
 {{< /column >}}
 
-{{< column >}} {{< icon "Group 11.svg" "star icon" "bluecircle" >}}
+{{< column >}} {{< icon "chart.svg" "star icon" "bluecircle" >}}
 
 ### Output You Can Understand
 
@@ -52,7 +52,7 @@ Avoid confusing spreadsheets and mass data downloads that are hard to parse. Our
 {{< /column >}}
 
 {{< column >}}
-{{< icon "Group 13.svg" "star icon" "bluecircle" >}}
+{{< icon "cloud-2.svg" "star icon" "bluecircle" >}}
 
 ### Stay On The Same Page
 
@@ -60,7 +60,7 @@ Our cloud infrastructure keeps your team's work in one place and saves changes i
 
 {{< /column >}}
 
-{{< column >}} {{< icon "Group 12.svg" "star icon" "bluecircle" >}}
+{{< column >}} {{< icon "bullseye.svg" "star icon" "bluecircle" >}}
 
 ### Goodbye To Wasteful Work
 
