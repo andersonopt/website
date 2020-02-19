@@ -6,13 +6,15 @@ image = "/images/BlueWaveLogo.jpg"
 tags = ["Software", "Solar"]
 title = "Scaling Solar: BlueWave Case Study"
 [author]
-image = ""
-name = ""
+image = "/images/IMG_3178.jpg"
+name = "Megan Kostanick"
 
 +++
 ### Empowering a mission-based solar developer to increase their speed and scale.
 
 _Director of Site Acquisition Tyson R. Buerkle used Anderson Optimization to help his team at BlueWave move faster and more fully own the end-to-end siting process._
+
+***
 
 ## **Challenge**
 
