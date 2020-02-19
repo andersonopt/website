@@ -12,6 +12,8 @@ center:
   submenu:
   - link: Testimonials
     url: "/testimonials/"
+  - link: Case Study
+    url: ''
 - link: Company
   url: "/why-anderson/"
   submenu:
