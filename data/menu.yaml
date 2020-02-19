@@ -7,13 +7,13 @@ center:
     url: "/solutions/prospect"
   - link: AO Energy Markets
     url: "/solutions/ao-energy-market"
-- link: User Stories
+- link: Client Stories
   url: "/testimonials/"
   submenu:
   - link: Testimonials
     url: "/testimonials/"
   - link: Case Study
-    url: "/bwcasestudy/"
+    url: "/images/bwcasestudy.pdf/"
 - link: Company
   url: "/why-anderson/"
   submenu:
