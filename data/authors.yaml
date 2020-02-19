@@ -1,23 +1,22 @@
+---
+- name: Megan Kostanick
+  bio: ''
 - name: Jake Anderson
-  bio: 'Jake is the Business Lead at Anderson Optimization'
-  image: /images/jake-anderson.png
-
+  bio: Jake is the Business Lead at Anderson Optimization
+  image: "/images/jake-anderson.png"
 - name: Eric Anderson
-  bio: 'Eric is the Techonlogy Lead at Anderson Optimization'
-  image: /images/eric-anderson.png
-  
+  bio: Eric is the Techonlogy Lead at Anderson Optimization
+  image: "/images/eric-anderson.png"
 - name: John Nolan
-  bio: 'John is a freelance writer specializing in topics about the solar industry.'
-  image: /images/johnnolan.png
-
+  bio: John is a freelance writer specializing in topics about the solar industry.
+  image: "/images/johnnolan.png"
 - name: Mario Carr
-  bio: 'Mario is a freelance writer specializing in issues about science and the environment'
-  image: /images/mariocarr.png
-
+  bio: Mario is a freelance writer specializing in issues about science and the environment
+  image: "/images/mariocarr.png"
 - name: J.C. McBride
-  bio: 'J.C. McBride is a freelance writer specializing in complex issues and recent trends in the industry'
-  image: /images/jcmcbride.png
-
+  bio: J.C. McBride is a freelance writer specializing in complex issues and recent
+    trends in the industry
+  image: "/images/jcmcbride.png"
 - name: Dragana Spasojevic
-  bio: 'Dragana is a freelance writer specializing in environmental issues'
-  image: /images/dragana.png
+  bio: Dragana is a freelance writer specializing in environmental issues
+  image: "/images/dragana.png"
