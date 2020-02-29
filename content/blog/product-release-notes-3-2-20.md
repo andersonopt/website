@@ -22,7 +22,7 @@ No need to toggle the Parcels layer on and off to see all the detailed parcel in
 
 SCREENSHOT
 
-## Project lists sorted from newest to oldest by default
+## Project lists now sorted from newest to oldest by default
 
 Trying to find that project you recently created? New projects will appear at the top of the project list by default (_pro tip: double-click the header of any column in a data table to change the sort-order of the table to that that attribute_)
 
