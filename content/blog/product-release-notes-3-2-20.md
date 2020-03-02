@@ -35,7 +35,7 @@ Curious about the soil type in a project area? Overlay the USA Soil Map layer in
 
 ![](/images/USASoilsMap.png)
 
-### Recently Created Projects Now at Top of Project List
+# Recently Created Projects Now at Top of Project List
 
 Trying to find that project you recently created? New projects will now appear at the top of the project list by default (_pro tip: double-click the header of any column in a data table to change the sort order data based on that data column_).
 
@@ -43,7 +43,7 @@ Trying to find that project you recently created? New projects will now appear a
 
 ***
 
-# Fixes
+## Fixes
 
 * **New York data layers:** Fixed issues that impacted NY data layers (NYSEG, all National Grid - NY layers).
 * **Distance units:** Distance unites now default to the correct unit (based on user settings) and you can now filter data tables off of 'distance' with operators like: 'greater than', 'less than', etc.
