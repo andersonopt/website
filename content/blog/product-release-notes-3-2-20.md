@@ -12,6 +12,8 @@ name = "Megan Kostanick"
 +++
 Check out what's new in Anderson Optimization's latest release (v1.1.17). Make sure you're running the latest version of Anderson Optimization to see these changes.
 
+***
+
 # Features and New Functionality
 
 ### **View All Parcel Details in a Single Pop-Up**
