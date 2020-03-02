@@ -2,7 +2,7 @@
 date = 2020-03-03T07:00:00Z
 draft = true
 featured = true
-image = ""
+image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
 title = "Product Release Notes: 3/3/20"
 [author]
