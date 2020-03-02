@@ -30,7 +30,7 @@ Curious about the soil type in a project area? Overlay the USA Soil Map layer in
 * Toggle on the layer by selecting the **USA Soil Map** option in the drop-down menu.
 * Once the layer loads, click on the map to see the soil details pop-up window.
 
-![](/images/USA Soils Map.png "USA Soil Map")
+![See soil map units data layer](/images/USA Soils Map.png "USA Soil Map")
 
 ### Project Lists - Recently Created Projects Now at Top
 
