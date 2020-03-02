@@ -10,26 +10,42 @@ image = ""
 name = "Megan Kostanick"
 
 +++
-Check out what's new in Anderson Optimization's latest release (**v.X.X.XX**)
-
-Make sure you're running the latest version of the app to see the updates
+_Check out what's new in Anderson Optimization's latest release (**v.X.X.XX**). Make sure you're running the latest version of Anderson Optimization to see these changes._
 
 # Features and New Functionality
 
-## View all parcel details in a single pop-up
+### **View All Parcel Details in a Single Pop-Up**
 
-No need to toggle the Parcels layer on and off to see all the detailed parcel info for any parcels you've already added to a project. Just expand the new details section to see all the info!
+No need to toggle the Parcels layer on and off to see all the detailed parcel info for any parcels you've already added to a project.
+
+* Click on a parcel in your project and expand the new details section to see all the info (e.g. the parcel details that were previously only visible if the parcel layer was toggled on and you clicked on a parcel).
 
 SCREENSHOT
 
-## Project lists now sorted from newest to oldest by default
+### **NEW Data Layer: USA Soil Map Units**
 
-Trying to find that project you recently created? New projects will appear at the top of the project list by default (_pro tip: double-click the header of any column in a data table to change the sort-order of the table to that that attribute_)
+Curious about the soil type in a project area? Overlay the USA Soil Map layer in the layer manager to quickly check.
 
-## 
+* From the **map**, click '**Layers**' button in the top-right toolbar. 
+* Toggle on the layer by selecting the **USA Soil Map** option in the drop-down menu.
+* Once the layer loads, click on the map to see the soil details pop-up window.
+
+![](/images/USA Soils Map.png "USA Soil Map")
+
+### Project Lists - Recently Created Projects Now at Top
+
+Trying to find that project you recently created? New projects will now appear at the top of the project list by default (_pro tip: double-click the header of any column in a data table to change the sort order data based on that data column_).
+
+### Selecting Rows in the Parcel Table Easier
+
+Previously, if you 
 
 # Fixes
 
-* Fixed an issue where some distance measurements were defaulting to the wrong unit (km instead of mi)
+* **New York data layers:** Fixed issues that impacted NY data layers (NYSEG, all National Grid - NY layers).
+* **Distance units:** Distance unites now default to the correct unit (based on user settings) and you can now filter data tables off of 'distance' with operators like: 'greater than', 'less than', etc.
+  * _e.g. "filter parcel table to show all parcels < 1 mi. (from the primary asset)"_
+* **Created date:** Made some changes to make it easier to filter data tables based on 'Created Date'.
+* **Buffer polygons:** fixed an issue where buffers weren't creating a buffer polygon as expected.
 
 Questions? Feedback? Reach out to megan@andersonopt.com
