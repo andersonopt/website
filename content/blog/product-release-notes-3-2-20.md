@@ -32,15 +32,13 @@ Curious about the soil type in a project area? Overlay the USA Soil Map layer in
 
 ![Overlay soil type on the map](/images/USA Soils Map.png "USASoilsMap")
 
-### Project Lists - Recently Created Projects Now at Top
+### Recently Created Projects Now at Top of Project List
 
 Trying to find that project you recently created? New projects will now appear at the top of the project list by default (_pro tip: double-click the header of any column in a data table to change the sort order data based on that data column_).
 
 ![New sort order by most recent](/images/Sortorder.png "SortOrder")
 
-### Selecting Rows in the Parcel Table Easier
-
-Previously, if you
+***
 
 # Fixes
 
@@ -50,4 +48,6 @@ Previously, if you
 * **Created date:** Made some changes to make it easier to filter data tables based on 'Created Date'.
 * **Buffer polygons:** fixed an issue where buffers weren't creating a buffer polygon as expected.
 
-Questions? Feedback? Reach out to megan@andersonopt.com
+***
+
+_Questions? Feedback? Reach out to megan@andersonopt.com_
