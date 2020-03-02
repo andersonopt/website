@@ -26,7 +26,7 @@ SCREENSHOT
 
 Curious about the soil type in a project area? Overlay the USA Soil Map layer in the layer manager to quickly check.
 
-* From the **map**, click '**Layers**' button in the top-right toolbar. 
+* From the **map**, click '**Layers**' button in the top-right toolbar.
 * Toggle on the layer by selecting the **USA Soil Map** option in the drop-down menu.
 * Once the layer loads, click on the map to see the soil details pop-up window.
 
@@ -36,9 +36,11 @@ Curious about the soil type in a project area? Overlay the USA Soil Map layer in
 
 Trying to find that project you recently created? New projects will now appear at the top of the project list by default (_pro tip: double-click the header of any column in a data table to change the sort order data based on that data column_).
 
+![New sort order by most recent](/images/Sortorder.png "SortOrder")
+
 ### Selecting Rows in the Parcel Table Easier
 
-Previously, if you 
+Previously, if you
 
 # Fixes
 
