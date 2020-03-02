@@ -14,9 +14,9 @@ Check out what's new in Anderson Optimization's latest release (v1.1.17). Make s
 
 ***
 
-# Features and New Functionality
+## Features and New Functionality
 
-### **View All Parcel Details in a Single Pop-Up**
+# **View All Parcel Details in a Single Pop-Up**
 
 No need to toggle the Parcels layer on and off to see all the detailed parcel info for any parcels you've already added to a project.
 
@@ -25,7 +25,7 @@ No need to toggle the Parcels layer on and off to see all the detailed parcel in
 
 SCREENSHOT
 
-### **NEW Data Layer: USA Soil Map Units**
+# **NEW Data Layer: USA Soil Map Units**
 
 Curious about the soil type in a project area? Overlay the USA Soil Map layer in the layer manager to quickly check.
 
