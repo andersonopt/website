@@ -10,7 +10,7 @@ image = ""
 name = "Megan Kostanick"
 
 +++
-_Check out what's new in Anderson Optimization's latest release (**v1.1.17**). Make sure you're running the latest version of Anderson Optimization to see these changes._
+Check out what's new in Anderson Optimization's latest release (v1.1.17). Make sure you're running the latest version of Anderson Optimization to see these changes.
 
 # Features and New Functionality
 
@@ -18,9 +18,7 @@ _Check out what's new in Anderson Optimization's latest release (**v1.1.17**). M
 
 No need to toggle the Parcels layer on and off to see all the detailed parcel info for any parcels you've already added to a project.
 
-* Click on a parcel in your project and expand the new details section to see all the info (e.g. the parcel details that were previously only visible if the parcel layer was toggled on and you clicked on a parcel).
 
-SCREENSHOT
 
 ### **NEW Data Layer: USA Soil Map Units**
 
