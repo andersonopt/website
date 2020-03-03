@@ -14,7 +14,7 @@ _Check out what's new in Anderson Optimization's latest release (v1.1.17). Make 
 
 ***
 
-## Features and New Functionality
+## **Features and New Functionality**
 
 # **View All Parcel Details in a Single Pop-Up**
 
@@ -35,7 +35,7 @@ Curious about the soil type in a project area? Overlay the USA Soil Map layer in
 
 ![](/images/USASoilsMap.png)
 
-# Recently Created Projects Now at Top of Project List
+# **Recently Created Projects Now at Top of Project List**
 
 Trying to find that project you recently created? New projects will now appear at the top of the project list by default (_pro tip: double-click the header of any column in a data table to change the sort order data based on that data column_).
 
