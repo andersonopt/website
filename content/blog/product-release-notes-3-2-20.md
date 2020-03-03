@@ -43,7 +43,7 @@ Trying to find that project you recently created? New projects will now appear a
 
 ***
 
-## Fixes
+## **Fixes**
 
 * **New York data layers:** Fixed issues that impacted NY data layers (NYSEG, all National Grid - NY layers).
 * **Distance units:** Distance unites now default to the correct unit (based on user settings) and you can now filter data tables off of 'distance' with operators like: 'greater than', 'less than', etc.
