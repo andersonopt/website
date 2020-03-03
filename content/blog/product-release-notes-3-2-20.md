@@ -10,7 +10,7 @@ image = ""
 name = "Megan Kostanick"
 
 +++
-Check out what's new in Anderson Optimization's latest release (v1.1.17). Make sure you're running the latest version of Anderson Optimization to see these changes.
+_Check out what's new in Anderson Optimization's latest release (v1.1.17). Make sure you're running the latest version of Anderson Optimization to see these changes._
 
 ***
 
@@ -23,7 +23,7 @@ No need to toggle the Parcels layer on and off to see all the detailed parcel in
 * Click the blue 'x' parcel icon for any parcel you've added to a project.
 * On the parcel details pop-up, use the scroll bar to see all key parcel details in one place (e.g. lot size, pin, etc.)
 
-![](/images/ParcelDetails.png)
+![See all key parcel data on the map](/images/ParcelDetails.png "Parcel Details")
 
 # **NEW Data Layer: USA Soil Map Units**
 
