@@ -20,10 +20,10 @@ Check out what's new in Anderson Optimization's latest release (v1.1.17). Make s
 
 No need to toggle the Parcels layer on and off to see all the detailed parcel info for any parcels you've already added to a project.
 
-* Click on a parcel in your project
-* In the parcel details pop-up expand the new details section to see all parcel attribute details.
+* Click the blue 'x' parcel icon for any parcel you've added to a project.
+* On the parcel details pop-up, use the scroll bar to see all key parcel details in one place (e.g. lot size, pin, etc.)
 
-SCREENSHOT
+![](/images/ParcelDetails.png)
 
 # **NEW Data Layer: USA Soil Map Units**
 
