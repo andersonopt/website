@@ -1,4 +1,4 @@
-baseurl = "https://andersonoptimization.com/" # edit appropriately
+baseurl = "https://andersonopt-update.netlify.com/" # edit appropriately
 description = ""
 enableGitInfo = true
 enableRobotsTXT = true

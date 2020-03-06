@@ -5,7 +5,7 @@ image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
 title = "Product Release Notes: 3/6/20"
 [author]
-image = ""
+image = "/images/MeganHeadshot.png"
 name = "Megan Kostanick"
 
 +++
