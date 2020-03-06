@@ -4,16 +4,16 @@ center:
   url: "/#software-solutions"
   submenu:
   - link: AO Prospect
-    url: "/solutions/prospect"
+    url: "/solutions/prospect/"
   - link: AO Energy Markets
-    url: "/solutions/ao-energy-market"
-- link: Client Stories
+    url: "/solutions/ao-energy-market/"
+- link: Testimonials
   url: "/testimonials/"
   submenu:
   - link: Testimonials
     url: "/testimonials/"
   - link: Case Study
-    url: "/images/ScalingSolar-BlueWaveCaseStudy.pdf/"
+    url: "/images/ScalingSolar-BlueWaveCaseStudy.pdf"
 - link: Company
   url: "/why-anderson/"
   submenu:
