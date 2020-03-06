@@ -1,10 +1,10 @@
 +++
-date = 2020-03-03T07:00:00Z
+date = 2020-03-06T07:00:00Z
 draft = true
 featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
-title = "Product Release Notes: 3/3/20"
+title = "Product Release Notes: 3/6/20"
 [author]
 image = ""
 name = "Megan Kostanick"
