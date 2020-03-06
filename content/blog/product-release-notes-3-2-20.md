@@ -20,6 +20,7 @@ Your browser will automatically update to the latest version of our app, but it 
 
 ***
 
+
 ## **Features and New Functionality**
 
 # **View All Parcel Details in a Single Pop-Up**
