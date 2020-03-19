@@ -23,21 +23,33 @@ Your browser will automatically update to the latest version of our app, but it 
 
 # **Features and New Functionality**
 
+### **Geo Analysis Changes**
+
+#### Geo analysis task progress 
+
+Track the progress of a geo analysis task in one area now (as opposed to individual tasks for each parcel being analyzed). 
+
+### Buildable acres data will show in parcel table after geo analysis run without refresh
+
+* Once you run Geo Analysis, you will now be able to immediately view/add in the 'Buildable Area (Acres)' column in the parcels table and see values.
+* Previously, you needed to refresh the browser in order to be able to see new data in this column.
+
+![](/images/Buildable Area.png)
+
 ### **Project map zoom**
 
 * When you add new assets to the project (e.g. add parcels via a parcel search), the map will now automatically zoom out to the full area to show all the new assets that have been added.
 
 ![](/images/Project Map Zoom.png)
 
-### Buildable acres data will show in parcel table after geo analysis run without refresh
+### Added Lat/Long to the main parcel pop up
 
-* Once you run Geo Analysis, you will now be able to immediately view/add in the 'Buildable Area (Acres)' column in the parcels table and see values. 
-* Previously, you needed to refresh the browser in order to be able to see new data in this column.
+We've also added a parcels latitude and longitude to the parcel pop-up. Just click a blue parcel marker on the map to see all those details and more.
 
-![](/images/Buildable Area.png)
+![](/images/Lat:Long Parcel PopUp.png)
 
 ***
 
 ## **Fixes**
 
-* **New York data layers:** Fixed issues that impacted NY data layers
+* **Fixed an issue with buffers not showing correctly on some objects**
