@@ -29,12 +29,16 @@ Your browser will automatically update to the latest version of our app, but it 
 
 Track the progress of a geo analysis task in one area now (as opposed to individual tasks for each parcel being analyzed). 
 
-### Buildable acres data will show in parcel table after geo analysis run without refresh
+### **Buildable acres data will show in parcel table after geo analysis run without refresh**
 
 * Once you run Geo Analysis, you will now be able to immediately view/add in the 'Buildable Area (Acres)' column in the parcels table and see values.
 * Previously, you needed to refresh the browser in order to be able to see new data in this column.
 
 ![](/images/Buildable Area.png)
+
+**National Land Cover** 
+
+![](/images/NLCD.png)
 
 ### **Project map zoom**
 
@@ -42,9 +46,9 @@ Track the progress of a geo analysis task in one area now (as opposed to individ
 
 ![](/images/Project Map Zoom.png)
 
-### Added Lat/Long to the main parcel pop up
+### **Added Lat/Long to the main parcel pop up**
 
-We've also added a parcels latitude and longitude to the parcel pop-up. Just click a blue parcel marker on the map to see all those details and more.
+We've also added a parcel's latitude and longitude to the parcel pop-up. Just click a blue parcel marker on the map to see all those details and more.
 
 ![](/images/Lat:Long Parcel PopUp.png)
 
