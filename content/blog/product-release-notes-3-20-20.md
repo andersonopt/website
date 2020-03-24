@@ -23,13 +23,11 @@ Your browser will automatically update to the latest version of our app, but it 
 
 # **Features and New Functionality**
 
-### **Geo Analysis Updates**
+### Geo analysis updates
 
-#### Geo analysis task progress
+* **Geo analysis task progress:** Track the progress of a geo analysis tasks in one easy-to-view window.
 
-* Track the progress of a geo analysis tasks in one easy-to-view window.
-
-### **Buildable acres data will show in parcel table after geo analysis run without refresh**
+### Buildable acres data will show in parcel table after geo analysis run without refresh
 
 * Once you run Geo Analysis, you will now be able to immediately view/add in the 'Buildable Area (Acres)' column in the parcels table and see acreage values.
 * Previously, a browser refresh was required before the buildable area (acres) column would be available to add to the parcels table.
@@ -48,7 +46,7 @@ Under 'View Projects' click the new 'Filter By' dropdown menu above the project 
 
 ### **NEW Layer!: National Land Cover Database**
 
-Check out the new National Land Cover layer in the map layer menu (toggle on the layer from the layer dropdown). Once the layer is turned on, click the map to see land cover type for that area. 
+Check out the new National Land Cover layer in the map layer menu (toggle on the layer from the layer dropdown). Once the layer is turned on, click the map to see land cover type for that area.
 
 ![](/images/NLCD.png)
 
