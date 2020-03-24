@@ -42,11 +42,13 @@ Under 'View Projects' click the new 'Filter By' dropdown menu above the project 
 
 ![](/images/Filter By Dropdown.png)
 
-> Did you know you can 'Favorite' a project by clicking the star icon next to the Project name? 
+> Did you know you can 'Favorite' a project by clicking the star icon next to the Project name?
 
 ![](/images/Favorite.png)
 
-### **National Land Cover**
+### **NEW Layer!: National Land Cover Database**
+
+Check out the new National Land Cover layer in the map layer menu (toggle on the layer from the layer dropdown). Once the layer is turned on, click the map to see land cover type for that area. 
 
 ![](/images/NLCD.png)
 
