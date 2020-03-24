@@ -22,7 +22,7 @@ Hecate’s experience in siting for solar development – prior to using Anderso
 
 _“Before signing up for Anderson Optimization our organization’s ad hoc approach to siting made locating a site with the right characteristics from an interconnect, acreage, and environmental assessment a 3- to 6-hour process.This approach involved **looking up and down hundreds of miles of transmission lines** with the **hope of locating a large landowner who could be the linchpin** of a larger project.”_
 
-## Solution
+## **Solution**
 
 When Hecate’s land team signed up for the AO platform, they were able to see all key data in one place and significantly improve the efficiency of their process through automated analysis.
 
@@ -30,7 +30,7 @@ _“Anderson Optimization allowed us to streamline this process by automating th
 
 _Once a large landowner was located, the process of **adding additional landowners was easy**, and **analyzing the site based on environmental characteristics and topo constraints took less than 5 minutes**. Better yet, once the site was created in Anderson Optimization, it was **easy to pull necessary information to start contacting landowners**.”_
 
-## Impact
+## **Impact**
 
 _“**Using Anderson Optimization has enabled our organization to locate large megawatt sites in states that are often considered ‘picked over,’** and the quality of the site Anderson Optimization enabled us to identify has led the executive team to direct team members to secure more sites in the same state using Anderson Optimization.”_
 
