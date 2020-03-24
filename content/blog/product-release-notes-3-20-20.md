@@ -37,7 +37,7 @@ Once you run Geo Analysis, you will now be able to immediately view/add in the '
 
 Previously, a browser refresh was required before the buildable area (acres) column would be available to add to the parcels table.
 
-GET SCREENSHOT
+![](/images/BuildableAreaCalc.png)
 
 # **Other New Features and Functionality**
 
@@ -65,10 +65,16 @@ When you add new assets to the project (e.g. adding parcels to a project via a b
 
 ## Added Lat/Long to the main parcel pop up
 
-We've also added a parcel's latitude and longitude to the parcel pop-up. Just click a blue parcel marker on the map to see all those details and more.
+We've also added a parcel's latitude and longitude coordinates to the parcel details pop-up. 
+
+* Click blue parcel marker 
+* Scroll down in pop-up box to find parcel details, including Latitude and Longitude
+
+![](/images/LatLongPopUp.png)
 
 ***
 
 # **Fixes**
 
 * Fixed an issue with buffers not showing correctly on some objects.
+* Continued updates to backend infrastructure to support site stability.
