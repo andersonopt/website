@@ -23,20 +23,30 @@ Your browser will automatically update to the latest version of our app, but it 
 
 # **Features and New Functionality**
 
-### **Geo Analysis Changes**
+### **Geo Analysis Updates**
 
-#### Geo analysis task progress 
+#### Geo analysis task progress
 
-Track the progress of a geo analysis task in one area now (as opposed to individual tasks for each parcel being analyzed). 
+* Track the progress of a geo analysis tasks in one easy-to-view window.
 
 ### **Buildable acres data will show in parcel table after geo analysis run without refresh**
 
-* Once you run Geo Analysis, you will now be able to immediately view/add in the 'Buildable Area (Acres)' column in the parcels table and see values.
-* Previously, you needed to refresh the browser in order to be able to see new data in this column.
+* Once you run Geo Analysis, you will now be able to immediately view/add in the 'Buildable Area (Acres)' column in the parcels table and see acreage values.
+* Previously, a browser refresh was required before the buildable area (acres) column would be available to add to the parcels table.
 
 ![](/images/Buildable Area.png)
 
-**National Land Cover** 
+### **Quickly filter projects to see 'My Projects', 'Recently Viewed', and more**
+
+Under 'View Projects' click the new 'Filter By' dropdown menu above the project table to change which projects are listed. Filters include, "All Projects" (default), "My Projects", "Favorites", and "Recently Viewed"
+
+![](/images/Filter By Dropdown.png)
+
+> Did you know you can 'Favorite' a project by clicking the star icon next to the Project name? 
+
+![](/images/Favorite.png)
+
+### **National Land Cover**
 
 ![](/images/NLCD.png)
 
