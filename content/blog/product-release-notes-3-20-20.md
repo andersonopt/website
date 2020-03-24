@@ -21,9 +21,22 @@ Your browser will automatically update to the latest version of our app, but it 
 
 ***
 
-# **Updated Geo Analysis**
+# **Geo Analysis Updates**
 
-## New geo analysis progress notification
+We released quite a few updates to Geo Analysis in this latest release. Check out the new features!
+
+## New Geo Analysis Fields 
+
+> We temporarily have **two** Geo Analysis task sections currently visible on a project. Since we've added quite a bit of new functionality and overhauled the backend engine, we published the new Geo Analysis tool, while still painting access to the old tool. 
+>
+> * I would recommend trying out the new Geo Analysis Task and please email us if you have any feedback/issues with the new task. 
+> * We will eventually deprecate the old Geo Analysis task, but we want to confirm the new one is fully validated before we hide the old task. 
+
+## Tree cover and depth-to-bedrock added to Geo Analysis
+
+ added to geo analysis (setting) - NLCD 2016 (National Land Cover Database)
+
+## New Geo Analysis progress notification
 
 When you run geo analysis on a parcel or set of parcels, you can now track the progress of the geo analysis task in a new notification that will appear in the top-right corner of the project page.
 
