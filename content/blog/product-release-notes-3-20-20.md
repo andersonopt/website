@@ -25,12 +25,13 @@ Your browser will automatically update to the latest version of our app, but it 
 
 We released quite a few updates to Geo Analysis in this latest release. Check out the new features!
 
-## New Geo Analysis Fields
+## New Geo Analysis Box
 
-We temporarily have **two** Geo Analysis task sections currently visible on a project. Since we've added quite a bit of new functionality and overhauled the backend engine, we published the new Geo Analysis tool, while still painting access to the old tool.
+We temporarily have **two** Geo Analysis boxes/task sections currently visible on a project. One box (labeled 'New') is our new version and the other is our 'Old' version. 
 
-* I would recommend trying out the new Geo Analysis Task and please email us if you have any feedback/issues with the new task.
-* We will eventually deprecate the old Geo Analysis task, but we want to confirm the new one is fully validated before we hide the old task.
+Since we've added quite a bit of new functionality and overhauled the backend engine, we published the new Geo Analysis tool while still maintaining access to the old one.
+
+* We will eventually deprecate the old Geo Analysis task, but we want to confirm the new one is fully validated before we hide the old task (please to shoot us a note if you have any feedback/issues). 
 
 ADD SCREENSHOT AFTER LENGTH OF FIELDS ARE ADJUSTED
 
@@ -38,7 +39,7 @@ ADD SCREENSHOT AFTER LENGTH OF FIELDS ARE ADJUSTED
 
 You can now evaluate and automatically remove land with tree cover from your buildable area constraint maps and acreage calculations. _(Data source: National Land Cover Database (NLCD) 2016)_ 
 
-additionally, we've also added a Depth-to-Bedrock setting where you can specify added to geo analysis (setting) - NLCD 2016 (National Land Cover Database)
+We've also added a Depth-to-Bedrock setting where you can specify a minimum depth-to-bedrock distance analysis (setting) - NLCD 2016 (National Land Cover Database)
 
 ## Geo Analysis Progress Notification Updated
 
@@ -74,7 +75,7 @@ Check out the new National Land Cover layer in the map layer menu (toggle on the
 
 ![](/images/NLCD.png)
 
-## Project map zoom
+## Project Map Zoom
 
 When you add new assets to the project (e.g. adding parcels to a project via a buffer search), the map will now automatically zoom out to the new project area to show all the new assets that have been added to the map.
 
