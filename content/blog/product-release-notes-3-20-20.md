@@ -39,19 +39,19 @@ Previously, a browser refresh was required before the buildable area (acres) col
 
 GET SCREENSHOT
 
-# **Other New Features and Functionality** 
+# **Other New Features and Functionality**
 
 ## Quickly filter projects to see 'My Projects', 'Recently Viewed', and more
 
 Under 'View Projects' click the new 'Filter By' dropdown menu above the project table to change which projects are listed. Filters include, "All Projects" (default), "My Projects", "Favorites", and "Recently Viewed"
 
-![](/images/Filter By Dropdown.png)
+![](/images/FilterByDropdown.png)
 
-> Did you know you can 'Favorite' a project by clicking the star icon next to the Project name?
+Did you know you can 'Favorite' a project by clicking the star icon next to the Project name?
 
 ![](/images/Favorite.png)
 
-## NEW Layer!: National Land Cover Database
+## NEW Layer! National Land Cover Database
 
 Check out the new National Land Cover layer in the map layer menu (toggle on the layer from the layer dropdown). Once the layer is turned on, click the map to see land cover type for that area.
 
