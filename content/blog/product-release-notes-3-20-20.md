@@ -67,7 +67,6 @@ When you add new assets to the project (e.g. adding parcels to a project via a b
 
 We've also added a parcel's latitude and longitude to the parcel pop-up. Just click a blue parcel marker on the map to see all those details and more.
 
-![](/images/Lat:Long Parcel PopUp.png)
 
 ***
 
