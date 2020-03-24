@@ -32,7 +32,7 @@ Your browser will automatically update to the latest version of our app, but it 
 
 ![](/images/NewGeoAnalysisStatusNotification.png)
 
-### Buildable acres data will show in parcel table after geo analysis run without refresh
+Buildable acres data will show in parcel table after geo analysis run without refresh
 
 * Once you run Geo Analysis, you will now be able to immediately view/add in the 'Buildable Area (Acres)' column in the parcels table and see acreage values.
 * Previously, a browser refresh was required before the buildable area (acres) column would be available to add to the parcels table.
