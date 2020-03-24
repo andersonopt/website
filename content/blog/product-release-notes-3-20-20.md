@@ -27,12 +27,12 @@ Your browser will automatically update to the latest version of our app, but it 
 
 **New geo analysis progress notification**
 
-* When you run geo analysis on a parcel or set of parcels, you can now track the progress of the geo analysis task in a new notification that will appear in the top-right corner of the project page. 
+* When you run geo analysis on a parcel or set of parcels, you can now track the progress of the geo analysis task in a new notification that will appear in the top-right corner of the project page.
 * The notification will show how many parcels have been 'Queued', 'Running,' and 'Finished,' so you can track the status as the task runs.
 
 ![](/images/NewGeoAnalysisStatusNotification.png)
 
-Buildable acres data will show in parcel table after geo analysis run without refresh
+**Buildable acres data will show in parcel table after geo analysis run without refresh**
 
 * Once you run Geo Analysis, you will now be able to immediately view/add in the 'Buildable Area (Acres)' column in the parcels table and see acreage values.
 * Previously, a browser refresh was required before the buildable area (acres) column would be available to add to the parcels table.
