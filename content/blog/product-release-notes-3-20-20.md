@@ -10,7 +10,7 @@ image = ""
 name = ""
 
 +++
-_Check out what's new in Anderson Optimization's latest release (v1.1.17). Make sure you're running the latest version of Anderson Optimization to see these changes._
+##### _Check out what's new in Anderson Optimization's latest release (v1.1.17). Make sure you're running the latest version of Anderson Optimization to see these changes._
 
 Your browser will automatically update to the latest version of our app, but it can sometimes take some time for that to happen. Want to make sure you're seeing the latest version of our site? Follow the instructions below!
 
@@ -25,18 +25,22 @@ Your browser will automatically update to the latest version of our app, but it 
 
 We released quite a few updates to Geo Analysis in this latest release. Check out the new features!
 
-## New Geo Analysis Fields 
+## New Geo Analysis Fields
 
-> We temporarily have **two** Geo Analysis task sections currently visible on a project. Since we've added quite a bit of new functionality and overhauled the backend engine, we published the new Geo Analysis tool, while still painting access to the old tool. 
->
-> * I would recommend trying out the new Geo Analysis Task and please email us if you have any feedback/issues with the new task. 
-> * We will eventually deprecate the old Geo Analysis task, but we want to confirm the new one is fully validated before we hide the old task. 
+We temporarily have **two** Geo Analysis task sections currently visible on a project. Since we've added quite a bit of new functionality and overhauled the backend engine, we published the new Geo Analysis tool, while still painting access to the old tool.
 
-## Tree cover and depth-to-bedrock added to Geo Analysis
+* I would recommend trying out the new Geo Analysis Task and please email us if you have any feedback/issues with the new task.
+* We will eventually deprecate the old Geo Analysis task, but we want to confirm the new one is fully validated before we hide the old task.
 
- added to geo analysis (setting) - NLCD 2016 (National Land Cover Database)
+ADD SCREENSHOT AFTER LENGTH OF FIELDS ARE ADJUSTED
 
-## New Geo Analysis progress notification
+## Tree Cover and Depth-to-Bedrock Added to Geo Analysis
+
+You can now evaluate and automatically remove land with tree cover from your buildable area constraint maps and acreage calculations. _(Data source: National Land Cover Database (NLCD) 2016)_ 
+
+additionally, we've also added a Depth-to-Bedrock setting where you can specify added to geo analysis (setting) - NLCD 2016 (National Land Cover Database)
+
+## Geo Analysis Progress Notification Updated
 
 When you run geo analysis on a parcel or set of parcels, you can now track the progress of the geo analysis task in a new notification that will appear in the top-right corner of the project page.
 
@@ -78,9 +82,9 @@ When you add new assets to the project (e.g. adding parcels to a project via a b
 
 ## Added Lat/Long to the main parcel pop up
 
-We've also added a parcel's latitude and longitude coordinates to the parcel details pop-up. 
+We've also added a parcel's latitude and longitude coordinates to the parcel details pop-up.
 
-* Click blue parcel marker 
+* Click blue parcel marker
 * Scroll down in pop-up box to find parcel details, including Latitude and Longitude
 
 ![](/images/LatLongPopUp.png)
