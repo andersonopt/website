@@ -25,7 +25,10 @@ Your browser will automatically update to the latest version of our app, but it 
 
 ### Geo analysis updates
 
-* **Geo analysis task progress:** Track the progress of a geo analysis tasks in one easy-to-view window.
+* **Geo analysis task progress:** When you run geo analysis, you can now track the progress of the geo analysis all in one notification in the top-right corner of your project window. 
+* The notification will show how many parcels have been 'Queued', 'Running,' and 'Finished.'
+
+![](/images/NewGeoAnalysisStatusNotification.png)
 
 ### Buildable acres data will show in parcel table after geo analysis run without refresh
 
