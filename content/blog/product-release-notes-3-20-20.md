@@ -57,19 +57,18 @@ Check out the new National Land Cover layer in the map layer menu (toggle on the
 
 ![](/images/NLCD.png)
 
-## **Project map zoom**
+## Project map zoom
 
 When you add new assets to the project (e.g. adding parcels to a project via a buffer search), the map will now automatically zoom out to the new project area to show all the new assets that have been added to the map.
 
 ![](/images/ProjectZoom.png)
 
-### **Added Lat/Long to the main parcel pop up**
+## Added Lat/Long to the main parcel pop up
 
 We've also added a parcel's latitude and longitude to the parcel pop-up. Just click a blue parcel marker on the map to see all those details and more.
 
-
 ***
 
-## **Fixes**
+# **Fixes**
 
-* **Fixed an issue with buffers not showing correctly on some objects**
+* Fixed an issue with buffers not showing correctly on some objects.
