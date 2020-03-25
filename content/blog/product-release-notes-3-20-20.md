@@ -2,7 +2,7 @@
 date = 2020-03-20T06:00:00Z
 draft = true
 featured = false
-image = ""
+image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
 title = "Product Release Notes: 3/20/20"
 [author]
@@ -33,13 +33,7 @@ Since we've added quite a bit of new functionality and overhauled the backend en
 
 * We will eventually deprecate the old Geo Analysis task, but we want to confirm the new one is fully validated before we hide the old task (please to shoot us a note if you have any feedback/issues).
 
-ADD SCREENSHOT AFTER LENGTH OF FIELDS ARE ADJUSTED
-
-## Constraint Map Legend
-
-Once you run Geo Analysis,
-
-![](/images/LegendConstraintMap.png)
+![](/images/NewGeoAnalysis.png)
 
 ## Tree Cover and Depth-to-Bedrock Added to Geo Analysis
 
@@ -47,11 +41,19 @@ You can now evaluate and automatically remove land with tree cover from your bui
 
 We've also added a Depth-to-Bedrock setting where you can specify a minimum depth-to-bedrock distance analysis (setting) - NLCD 2016 (National Land Cover Database)
 
+![](/images/TreesDepthtoBedrock.png)
+
+## Constraint Map Legend
+
+Once you run Geo Analysis,
+
+![](/images/LegendConstraintMap.png)
+
 ## Southern Slope Aspect
 
 In Geo Analysis, if any land is marked as a hazard because it exceeds the max slope (%) you set, we will continue to denote those high slope areas in yellow, but we will also shade Southern-facing slopes differently so that you can identify areas that still may be buildable.
 
-SCREENSHOT (ONCE LEGEND IS UPDATED)
+![](/images/SouthernAspect.png)
 
 ## Geo Analysis Progress Notification Updated
 
@@ -106,6 +108,8 @@ We've also added a parcel's latitude and longitude coordinates to the parcel det
 
 # **Fixes**
 
-* Corrected an issue where buffers were not showing correctly on some objects.
+* Fixed an issue where buffers were not showing correctly on some objects.
 * Fixed an issue where adding a star rating in the parcel table would undo any filtering that was previously set on the table. Filter and rate away!
+* Hid the old 'simplify distance' parameter field in advanced geo analysis which is no longer relevant.
+* If you re-run geo analysis, only the new hazard drawings should be visible now. 
 * Continued updates to backend infrastructure to support site stability.
