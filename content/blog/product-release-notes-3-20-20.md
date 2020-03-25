@@ -39,6 +39,8 @@ ADD SCREENSHOT AFTER LENGTH OF FIELDS ARE ADJUSTED
 
 Once you run Geo Analysis,
 
+![](/images/LegendConstraintMap.png)
+
 ## Tree Cover and Depth-to-Bedrock Added to Geo Analysis
 
 You can now evaluate and automatically remove land with tree cover from your buildable area constraint maps and acreage calculations. _(Data source: National Land Cover Database (NLCD) 2016)_
