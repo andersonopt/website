@@ -27,19 +27,29 @@ We released quite a few updates to Geo Analysis in this latest release. Check ou
 
 ## New Geo Analysis Box
 
-We temporarily have **two** Geo Analysis boxes/task sections currently visible on a project. One box (labeled 'New') is our new version and the other is our 'Old' version. 
+We temporarily have **two** Geo Analysis boxes/task sections currently visible on a project. One box (labeled 'New') is our new version and the other is our 'Old' version.
 
 Since we've added quite a bit of new functionality and overhauled the backend engine, we published the new Geo Analysis tool while still maintaining access to the old one.
 
-* We will eventually deprecate the old Geo Analysis task, but we want to confirm the new one is fully validated before we hide the old task (please to shoot us a note if you have any feedback/issues). 
+* We will eventually deprecate the old Geo Analysis task, but we want to confirm the new one is fully validated before we hide the old task (please to shoot us a note if you have any feedback/issues).
 
 ADD SCREENSHOT AFTER LENGTH OF FIELDS ARE ADJUSTED
 
+## Constraint Map Legend 
+
+Once you run Geo Analysis, 
+
 ## Tree Cover and Depth-to-Bedrock Added to Geo Analysis
 
-You can now evaluate and automatically remove land with tree cover from your buildable area constraint maps and acreage calculations. _(Data source: National Land Cover Database (NLCD) 2016)_ 
+You can now evaluate and automatically remove land with tree cover from your buildable area constraint maps and acreage calculations. _(Data source: National Land Cover Database (NLCD) 2016)_
 
 We've also added a Depth-to-Bedrock setting where you can specify a minimum depth-to-bedrock distance analysis (setting) - NLCD 2016 (National Land Cover Database)
+
+## Southern Slope Aspect
+
+In Geo Analysis, if any land is marked as a hazard because it exceeds the max slope (%) you set, we will continue to denote those high slope areas in yellow, but we will also shade Southern-facing slopes differently so that you can identify areas that still may be buildable.
+
+SCREENSHOT (ONCE LEGEND IS UPDATED)
 
 ## Geo Analysis Progress Notification Updated
 
