@@ -35,9 +35,9 @@ Since we've added quite a bit of new functionality and overhauled the backend en
 
 ADD SCREENSHOT AFTER LENGTH OF FIELDS ARE ADJUSTED
 
-## Constraint Map Legend 
+## Constraint Map Legend
 
-Once you run Geo Analysis, 
+Once you run Geo Analysis,
 
 ## Tree Cover and Depth-to-Bedrock Added to Geo Analysis
 
@@ -104,5 +104,6 @@ We've also added a parcel's latitude and longitude coordinates to the parcel det
 
 # **Fixes**
 
-* Fixed an issue with buffers not showing correctly on some objects.
+* Corrected an issue where buffers were not showing correctly on some objects.
+* Fixed an issue where adding a star rating in the parcel table would undo any filtering that was previously set on the table. Filter and rate away!
 * Continued updates to backend infrastructure to support site stability.
