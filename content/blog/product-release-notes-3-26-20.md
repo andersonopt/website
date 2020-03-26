@@ -64,9 +64,9 @@ See which slope hazards are southern-facing in the new Geo Analysis constraint m
 
 ## Geo Analysis Progress Notification Updated
 
-When you run geo analysis on a parcel or set of parcels, you can now track the progress of the geo analysis task in a new notification that will appear in the top-right corner of the project page.
+When you run geo analysis, you can now track the progress in a notification that will appear in the top-right corner of the project page.
 
-The notification will show how many parcels have been 'Queued', 'Running,' and 'Finished,' so you can track the status as the task runs.
+The notification will show how many parcels have been 'Queued', 'Running,' and 'Finished,' so you can track the completion status.
 
 ![](/images/NewGeoAnalysisStatusNotification.png)
 
