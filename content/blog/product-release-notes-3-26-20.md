@@ -36,7 +36,7 @@ We will remove the old Geo Analysis task once we've fully validated the new vers
 
 You can now evaluate and automatically remove land with tree cover from your buildable acreage calculations and constraint maps. (Data source: National Land Cover Database (NLCD) 2016; Multi-Resolution Land Characteristics (MRLC) consortium).
 
-* Just check the 'Remove trees from buildable area' box if you want to remove areas with tree cover from your buildable acreage calculation and buildable area map.
+* Check the 'Remove trees from buildable area' box to remove tree cover from your buildable acreage and constraint map.
 * Under 'show advanced,' you can choose to specify the max tree cover percentage. We'll then exclude any land with a higher percent tree cover from your buildable area calculations.
 
 We've also added an optional Depth to Bedrock parameter in the new Geo Analysis task (Data Source: USA Soils Bedrock Depth; USDA NRCS, Esri).
