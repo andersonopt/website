@@ -28,7 +28,7 @@ We released an updated version of Geo Analysis. Check out the new features!
 
 Since we've added quite a bit of new functionality and overhauled the backend engine of Geo Analysis, we published the new tool while still maintaining access to the old version (directly below the new one).
 
-We will remove the old Geo Analysis task once we've fully validated the new version. Try out the new one and let us know what you think!
+We will remove the old Geo Analysis task once we've fully validated the new version. Try out the new one, and let us know what you think!
 
 ![](/images/NewGeoAnalysis.png)
 
