@@ -6,7 +6,7 @@ tags = ["Releases"]
 title = "Product Release Notes: 3/26/20"
 [author]
 image = ""
-name = ""
+name = "Megan Kostanick"
 
 +++
 ##### _Check out what's new in Anderson Optimization's latest release (v1.1.17). Make sure you're running the latest version of Anderson Optimization to see these changes._
