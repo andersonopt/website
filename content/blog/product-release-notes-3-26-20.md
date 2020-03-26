@@ -94,13 +94,13 @@ Under 'View Projects,' click the new 'Filter By' dropdown menu above the project
 
 ## NEW Layer! National Land Cover Database
 
-Check out the new National Land Cover layer in the map layer menu (toggle on the layer from the layer dropdown). Once the layer is turned on, click the map to see land cover type for that area.
+Check out the new National Land Cover layer in the layer manager (toggle on the layer from the "layers" dropdown). Once the layer is turned on, click the map to see land cover type for that area.
 
 ![](/images/NLCD.png)
 
 ## Project Map Zoom
 
-When you add new assets to the project (e.g. adding parcels to a project via a buffer search), the map will now automatically zoom out to the new project area to show all the new assets that have been added to the map.
+When you add new assets to a project (e.g. adding parcels to a project via a buffer search), the map will now automatically zoom to show all of the new assets.
 
 ![](/images/ProjectZoom.png)
 
