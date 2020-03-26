@@ -41,8 +41,7 @@ You can now evaluate and automatically remove land with tree cover from your bui
 
 We've also added an optional Depth to Bedrock parameter in the new Geo Analysis task (Data Source: USA Soils Bedrock Depth; USDA NRCS, Esri).
 
-* Set a minimum depth to bedrock value, if desired.
-* Double-click the units (e.g. ft) to choose a different unit for that field.
+* Set a minimum depth to bedrock value, if desired. (Double-click the units (e.g. ft) to choose a different unit for that field, if preferred).
 * Under 'show advanced,' you can set a custom buffer around that hazard as well, if desired.
 
 ![](/images/TreesDepthtoBedrock.png)
