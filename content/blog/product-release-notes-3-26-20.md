@@ -1,6 +1,6 @@
 +++
 date = 2020-03-26T06:00:00Z
-featured = false
+featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
 title = "Product Release Notes: 3/26/20"
@@ -34,26 +34,32 @@ We will deprecate the old Geo Analysis task once we've fully validated the new v
 
 ## Tree Cover and Depth-to-Bedrock in New Geo Analysis
 
-You can now evaluate and automatically remove land with tree cover from your buildable area constraint maps and acreage calculations. _(Data source: National Land Cover Database (NLCD) 2016)_
+You can now evaluate and automatically remove land with tree cover from your buildable area constraint maps and acreage calculations. _(Data source: National Land Cover Database (NLCD) 2016;_ Multi-Resolution Land Characteristics (MRLC) consortium_)_
 
 * Just check the 'Remove trees from buildable area' box if you want to remove areas with tree cover from your buildable acreage calculation and buildable area map.
-* Under 'show advanced' in the new Geo Analysis task section, you can specify a % of tree coverage that you'd like to remove. 
+* Under 'show advanced,' you can choose to specify the max tree cover percentage. We'll then exclude any land with a higher percent tree cover from your buildable area calculations. 
 
-We've also added a Depth to Bedrock layer 
+We've also added an optional Depth to Bedrock parameter in the new Geo Analysis task (Data Source: USA Soils Bedrock Depth; USDA NRCS, Esri). 
 
-We've also added a Depth-to-Bedrock setting where you can specify a minimum depth-to-bedrock distance analysis (setting) - NLCD 2016 (National Land Cover Database)
+* Set a minimum depth to bedrock value, if desired.
+* Double-click the units (e.g. ft) to choose a different unit for that field.
+* Under 'show advanced,' you can set a custom buffer around that hazard as well, if desired.
 
 ![](/images/TreesDepthtoBedrock.png)
 
 ## Constraint Map Legend
 
-Once you run Geo Analysis,
+We've added a legend to the map for the new Geo Analysis constraint maps. 
+
+* Click on any of the constraint layers in the legend to toggle that layer on and off. 
 
 ![](/images/LegendConstraintMap.png)
 
 ## Southern Slope Aspect
 
-In Geo Analysis, if any land is marked as a hazard because it exceeds the max slope (%) you set, we will continue to denote those high slope areas in yellow, but we will also shade Southern-facing slopes differently so that you can identify areas that still may be buildable.
+See which slope hazards are southern-facing in the new Geo Analysis constraint maps. 
+
+* We now style southern-facing slopes that exceed your max slope % (set in the new Geo Analysis parameters box) with slightly different styling than non-Southern slope hazards. 
 
 ![](/images/SouthernAspect.png)
 
@@ -65,11 +71,13 @@ The notification will show how many parcels have been 'Queued', 'Running,' and '
 
 ![](/images/NewGeoAnalysisStatusNotification.png)
 
-## Buildable acres data will show in parcel table after geo analysis run without refresh
+## Buildable Area (Acres) Now Immediately Viewable in Parcels Table
 
-Once you run Geo Analysis, you will now be able to immediately view/add in the 'Buildable Area (Acres)' column in the parcels table and see acreage values.
+You will now be able to immediately see the 'Buildable Area (Acres)' column and calculated values for each parcel in the parcel table after running Geo Analysis.
 
-Previously, a browser refresh was required before the buildable area (acres) column would be available to add to the parcels table.
+Previously, a refresh was required to stamp the acreage on the parcels. 
+
+* Not seeing that column in your table? Make sure you've added it via the 'Columns' button on the right. 
 
 ![](/images/BuildableAreaCalc.png)
 
