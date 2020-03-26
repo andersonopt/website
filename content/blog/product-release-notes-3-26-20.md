@@ -37,20 +37,20 @@ We will remove the old Geo Analysis task once we've fully validated the new vers
 You can now evaluate and automatically remove land with tree cover from your buildable acreage calculations and constraint maps. (Data source: National Land Cover Database (NLCD) 2016; Multi-Resolution Land Characteristics (MRLC) consortium).
 
 * Check the 'Remove trees from buildable area' box to remove tree cover from your buildable acreage and constraint map.
-* Under 'show advanced,' you can choose to specify the max tree cover percentage. We'll then exclude any land with a higher percent tree cover from your buildable area calculations.
+* Under 'show advanced,' you can specify a max tree cover percentage. The system will exclude any land that has a tree cover density larger than the percentage you enter.
 
-We've also added an optional Depth to Bedrock parameter in the new Geo Analysis task (Data Source: USA Soils Bedrock Depth; USDA NRCS, Esri).
+We've also added an optional Depth to Bedrock parameter (Data Source: USA Soils Bedrock Depth; USDA NRCS, Esri).
 
-* Set a minimum depth to bedrock value, if desired. (Double-click the units (e.g. ft) to choose a different unit for that field, if preferred).
-* Under 'show advanced,' you can set a custom buffer around that hazard as well, if desired.
+* Set a minimum depth to bedrock value, if desired. (Double-click the units (e.g. ft) to choose a different unit, if preferred).
+* Under 'show advanced,' you can add a setback around these hazards, if desired.
 
 ![](/images/TreesDepthtoBedrock.png)
 
 ## Constraint Map Legend
 
-We've added a legend to the map for the new Geo Analysis constraint maps.
+We've added a legend for the new Geo Analysis constraint maps.
 
-* Click on any of the constraint layers in the legend to toggle that layer on and off.
+* Click on any of the constraint layers in the legend to toggle the layer on and off.
 
 ![](/images/LegendConstraintMap.png)
 
@@ -58,7 +58,7 @@ We've added a legend to the map for the new Geo Analysis constraint maps.
 
 See which slope hazards are southern-facing in the new Geo Analysis constraint maps.
 
-* We now style southern-facing slopes that exceed your max slope % (set in the new Geo Analysis parameters box) with slightly different styling than non-Southern slope hazards.
+* We now use slightly different styling to signify slopes that exceed your max slope % but are southern-facing.
 
 ![](/images/SouthernAspect.png)
 
