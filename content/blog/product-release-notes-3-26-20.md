@@ -106,12 +106,10 @@ When you add new assets to the project (e.g. adding parcels to a project via a b
 
 ![](/images/ProjectZoom.png)
 
-## Added Lat/Long to the main parcel pop up
+## Added Lat/Long to Parcel details Pop-Up
 
-We've also added a parcel's latitude and longitude coordinates to the parcel details pop-up.
-
-* Click blue parcel marker
-* Scroll down in pop-up box to find parcel details, including Latitude and Longitude
+* Click the blue parcel marker for a parcel to see the details.
+* Scroll down in pop-up to see parcel details including Latitude and Longitude now.
 
 ![](/images/LatLongPopUp.png)
 
@@ -121,6 +119,6 @@ We've also added a parcel's latitude and longitude coordinates to the parcel det
 
 * Fixed an issue where buffers were not showing correctly on some objects.
 * Fixed an issue where adding a star rating in the parcel table would undo any filtering that was previously set on the table. Filter and rate away!
-* Hid the old 'simplify distance' parameter field in advanced geo analysis which is no longer relevant.
-* If you re-run geo analysis, only the new hazard drawings should be visible now.
-* Continued updates to backend infrastructure to support site stability.
+* Hid the old 'simplify distance' parameter in advanced Geo Analysis as it's no longer relevant to how we render hazard drawings.
+* If you re-run geo analysis, after a prior geo analysis run, the newest hazard drawings should immediately display without a refresh. 
+* Updated more backend infrastructure to support site stability and increase ease of new feature deployment.
