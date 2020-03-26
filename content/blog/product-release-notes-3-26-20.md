@@ -82,13 +82,13 @@ Previously, a refresh was required to stamp the acreage on the parcels.
 
 # **Other New Features and Functionality**
 
-## Quickly filter projects to see 'My Projects', 'Recently Viewed', and more
+## Quickly Filter Projects to See 'My Projects', 'Recently Viewed', and More
 
-Under 'View Projects' click the new 'Filter By' dropdown menu above the project table to change which projects are listed. Filters include, "All Projects" (default), "My Projects", "Favorites", and "Recently Viewed"
+Under 'View Projects,' click the new 'Filter By' dropdown menu above the project table to change which projects are visible in the projects list. 
+
+* Filters include, "All Projects" (default), "My Projects", "Favorites", and "Recently Viewed"
 
 ![](/images/FilterByDropdown.png)
-
-Did you know you can 'Favorite' a project by clicking the star icon next to the Project name?
 
 ![](/images/Favorite.png)
 
