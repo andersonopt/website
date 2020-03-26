@@ -100,7 +100,7 @@ Check out the new National Land Cover layer in the layer manager (toggle on the 
 
 ## Project Map Zoom
 
-When you add new assets to a project (e.g. adding parcels to a project via a buffer search), the map will now automatically zoom to show all of the new assets.
+When you add new assets to a project (e.g. adding parcels to a project via a buffer search), the map will now automatically zoom to show all of the added assets.
 
 ![](/images/ProjectZoom.png)
 
