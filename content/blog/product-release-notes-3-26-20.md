@@ -72,9 +72,7 @@ The notification will show how many parcels have been 'Queued', 'Running,' and '
 
 ## Buildable Area (Acres) Now Immediately Viewable in Parcels Table
 
-You will now be able to immediately see the 'Buildable Area (Acres)' column and calculated values for each parcel in the parcel table after running Geo Analysis.
-
-Previously, a refresh was required to stamp the acreage on the parcels.
+The 'Buildable Area (Acres)' column is now available in the parcel table without refreshing the browser after a geo analysis run.
 
 * Not seeing that column in your table? Make sure you've added it via the 'Columns' button on the right.
 
