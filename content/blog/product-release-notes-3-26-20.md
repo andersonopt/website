@@ -9,7 +9,7 @@ image = ""
 name = "Megan Kostanick"
 
 +++
-##### _Check out what's new in Anderson Optimization's latest release (v1.2.9)._ 
+#### _Check out what's new in Anderson Optimization's latest release (v1.2.9)._
 
 Want to make sure you're seeing the latest version of our site? Follow the instructions below.
 
@@ -24,11 +24,11 @@ Want to make sure you're seeing the latest version of our site? Follow the instr
 
 We released an updated version of Geo Analysis. Check out the new features!
 
-## New Geo Analysis Task Section
+## New Geo Analysis Task
 
-Since we've added quite a bit of new functionality and overhauled the backend engine of Geo Analysis, we published the new tool while still maintaining access to the old version (directly below the new one). 
+Since we've added quite a bit of new functionality and overhauled the backend engine of Geo Analysis, we published the new tool while still maintaining access to the old version (directly below the new one).
 
-We will deprecate the old Geo Analysis task once we've fully validated the new version. Try out the new one and let us know what you think! 
+We will deprecate the old Geo Analysis task once we've fully validated the new version. Try out the new one and let us know what you think!
 
 ![](/images/NewGeoAnalysis.png)
 
@@ -37,9 +37,9 @@ We will deprecate the old Geo Analysis task once we've fully validated the new v
 You can now evaluate and automatically remove land with tree cover from your buildable area constraint maps and acreage calculations. (Data source: National Land Cover Database (NLCD) 2016;_ Multi-Resolution Land Characteristics (MRLC) consortium_).
 
 * Just check the 'Remove trees from buildable area' box if you want to remove areas with tree cover from your buildable acreage calculation and buildable area map.
-* Under 'show advanced,' you can choose to specify the max tree cover percentage. We'll then exclude any land with a higher percent tree cover from your buildable area calculations. 
+* Under 'show advanced,' you can choose to specify the max tree cover percentage. We'll then exclude any land with a higher percent tree cover from your buildable area calculations.
 
-We've also added an optional Depth to Bedrock parameter in the new Geo Analysis task (Data Source: USA Soils Bedrock Depth; USDA NRCS, Esri). 
+We've also added an optional Depth to Bedrock parameter in the new Geo Analysis task (Data Source: USA Soils Bedrock Depth; USDA NRCS, Esri).
 
 * Set a minimum depth to bedrock value, if desired.
 * Double-click the units (e.g. ft) to choose a different unit for that field.
@@ -49,17 +49,17 @@ We've also added an optional Depth to Bedrock parameter in the new Geo Analysis 
 
 ## Constraint Map Legend
 
-We've added a legend to the map for the new Geo Analysis constraint maps. 
+We've added a legend to the map for the new Geo Analysis constraint maps.
 
-* Click on any of the constraint layers in the legend to toggle that layer on and off. 
+* Click on any of the constraint layers in the legend to toggle that layer on and off.
 
 ![](/images/LegendConstraintMap.png)
 
 ## Southern Slope Aspect
 
-See which slope hazards are southern-facing in the new Geo Analysis constraint maps. 
+See which slope hazards are southern-facing in the new Geo Analysis constraint maps.
 
-* We now style southern-facing slopes that exceed your max slope % (set in the new Geo Analysis parameters box) with slightly different styling than non-Southern slope hazards. 
+* We now style southern-facing slopes that exceed your max slope % (set in the new Geo Analysis parameters box) with slightly different styling than non-Southern slope hazards.
 
 ![](/images/SouthernAspect.png)
 
@@ -75,9 +75,9 @@ The notification will show how many parcels have been 'Queued', 'Running,' and '
 
 You will now be able to immediately see the 'Buildable Area (Acres)' column and calculated values for each parcel in the parcel table after running Geo Analysis.
 
-Previously, a refresh was required to stamp the acreage on the parcels. 
+Previously, a refresh was required to stamp the acreage on the parcels.
 
-* Not seeing that column in your table? Make sure you've added it via the 'Columns' button on the right. 
+* Not seeing that column in your table? Make sure you've added it via the 'Columns' button on the right.
 
 ![](/images/BuildableAreaCalc.png)
 
