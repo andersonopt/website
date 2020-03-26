@@ -28,7 +28,7 @@ We released an updated version of Geo Analysis. Check out the new features!
 
 Since we've added quite a bit of new functionality and overhauled the backend engine of Geo Analysis, we published the new tool while still maintaining access to the old version (directly below the new one).
 
-We will deprecate the old Geo Analysis task once we've fully validated the new version. Try out the new one and let us know what you think!
+We will remove the old Geo Analysis task once we've fully validated the new version. Try out the new one and let us know what you think!
 
 ![](/images/NewGeoAnalysis.png)
 
@@ -84,7 +84,7 @@ Previously, a refresh was required to stamp the acreage on the parcels.
 
 ## Quickly Filter Projects to See 'My Projects', 'Recently Viewed', and More
 
-Under 'View Projects,' click the new 'Filter By' dropdown menu above the project table to change which projects are visible in the projects list. 
+Under 'View Projects,' click the new 'Filter By' dropdown menu above the project table to change which projects are visible in the projects list.
 
 * Filters include, "All Projects" (default), "My Projects", "Favorites", and "Recently Viewed"
 
@@ -120,5 +120,5 @@ When you add new assets to the project (e.g. adding parcels to a project via a b
 * Fixed an issue where buffers were not showing correctly on some objects.
 * Fixed an issue where adding a star rating in the parcel table would undo any filtering that was previously set on the table. Filter and rate away!
 * Hid the old 'simplify distance' parameter in advanced Geo Analysis as it's no longer relevant to how we render hazard drawings.
-* If you re-run geo analysis, after a prior geo analysis run, the newest hazard drawings should immediately display without a refresh. 
+* If you re-run geo analysis, after a prior geo analysis run, the newest hazard drawings should immediately display without a refresh.
 * Updated more backend infrastructure to support site stability and increase ease of new feature deployment.
