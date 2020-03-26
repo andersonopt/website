@@ -90,7 +90,7 @@ Under 'View Projects,' click the new 'Filter By' dropdown menu above the project
 
 ![](/images/FilterByDropdown.png)
 
-You can 'favorite' a project by going to that project's page and clicking the star icon to the right of the project name.
+* You can 'favorite' a project by going to that project's page and clicking the star icon to the right of the project name.
 
 ![](/images/Favorite.png)
 
