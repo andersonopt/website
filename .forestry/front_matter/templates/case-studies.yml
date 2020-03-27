@@ -9,9 +9,15 @@ fields:
   - type: text
     name: title
     label: title
+    description: Title of Case Study
+    config:
+      required: true
   - type: textarea
     name: description
     label: description
+    config:
+      required: true
+    description: A summary of what's covered by the case study
   - type: file
     name: link
     label: link
