@@ -29,3 +29,5 @@ fields:
     name: download
     label: download
     description: Allow people to download the case study file(s) on click
+pages:
+- data/caseStudies.yaml
