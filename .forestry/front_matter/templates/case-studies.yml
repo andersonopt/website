@@ -21,9 +21,11 @@ fields:
   - type: file
     name: link
     label: link
+    description: Path to where the case study file(s) are
   - type: file
     name: thumbnail
     label: thumbnail
   - type: boolean
     name: download
     label: download
+    description: Allow people to download the case study file(s) on click
