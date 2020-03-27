@@ -1,0 +1,23 @@
+---
+label: Case Studies
+hide_body: true
+fields:
+- type: field_group_list
+  name: Casestudies
+  label: Casestudies
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: description
+    label: description
+  - type: file
+    name: link
+    label: link
+  - type: file
+    name: thumbnail
+    label: thumbnail
+  - type: boolean
+    name: download
+    label: download
