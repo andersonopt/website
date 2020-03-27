@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="wrap pt-2 pb-2">
+  <div class = 'grid-2 mt-3'>
+    {{- $cases := .Site.Data.caseStudies }}
+    {{- range $index, $case := $cases }}
+    <a href = '{{ $case.link }}' data-position = '-{{ $index }}'{{ if eq $case.download true }} download{{ else }} target = '_blank' rel='noopener'{{ end }} class = 'tile'>
+      <figure>
+        <img src="{{ $case.thumbnail }}">
+      </figure>
+      <div class = 'tile_body'>
+        <h3>{{ $case.title }}</h3>
+        <p>{{ $case.description }}</p>
+        <div class = 'button button_translucent tile_marker'>Case Study</div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
