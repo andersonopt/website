@@ -1,5 +1,5 @@
 +++
-date = 2020-03-25T06:00:00Z
+date = 2020-03-30T06:00:00Z
 draft = true
 featured = true
 image = "/images/hecate-logo-final.png"
