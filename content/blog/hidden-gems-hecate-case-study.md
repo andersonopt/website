@@ -12,17 +12,17 @@ name = "Megan Kostanick"
 +++
 ### How innovative siting analysis helped uncover high-quality sites.
 
-_Ben Mathes, a Development Analyst at Hecate Energy, scored some big wins for his team by using the AO Prospect siting solutions platform to uncover previously unknown sites that would be a great fit for renewable development._
+Ben Mathes, a Development Analyst at Hecate Energy, scored some big wins for his team by using the AO Prospect siting solutions platform to uncover previously unknown sites that would be a great fit for renewable development.
 
 ***
 
 ## **Challenge**
 
-Hecate’s experience in siting for solar development – prior to using Anderson Optimization – closely mirrors the challenges we hear from prospective clients every day. There are myriad variables to consider and the traditional siting process often creates tedious and time-consuming work for land and siting teams. 
+_Hecate’s experience in siting for solar development – prior to using Anderson Optimization – closely mirrors the challenges we hear from prospective clients every day. There are myriad variables to consider and the traditional siting process often creates tedious and time-consuming work for land and siting teams._ 
 
-_“Before signing up for Anderson Optimization our organization’s ad hoc approach to siting made locating a site with the right characteristics from an interconnect, acreage, and environmental assessment a 3- to 6-hour process._ 
+“Before signing up for Anderson Optimization our organization’s ad hoc approach to siting made locating a site with the right characteristics from an interconnect, acreage, and environmental assessment a 3- to 6-hour process. 
 
-_This approach involved looking up and down hundreds of miles of transmission lines with the hope of locating a large landowner who could be the linchpin of a larger project.”_
+This approach involved looking up and down hundreds of miles of transmission lines with the hope of locating a large landowner who could be the linchpin of a larger project.”
 
 ## **Solution**
 
