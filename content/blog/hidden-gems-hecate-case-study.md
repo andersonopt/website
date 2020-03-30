@@ -26,25 +26,25 @@ This approach involved looking up and down hundreds of miles of transmission lin
 
 ## **Solution**
 
-When Hecate’s land team signed up for the AO platform, they were able to see all key data in one place and significantly improve the efficiency of their process through automated analysis. 
+_When Hecate’s land team signed up for the AO platform, they were able to see all key data in one place and significantly improve the efficiency of their process through automated analysis._ 
 
-_“Anderson Optimization allowed us to streamline this process by automating the search for large landowners within the right distance of our selected transmission infrastructure._ 
+“Anderson Optimization allowed us to streamline this process by automating the search for large landowners within the right distance of our selected transmission infrastructure. 
 
-_Once a large landowner was located, the process of adding additional landowners was easy, and analyzing the site based on environmental characteristics and topo constraints took less than 5 minutes._
+Once a large landowner was located, the process of adding additional landowners was easy, and analyzing the site based on environmental characteristics and topo constraints took less than 5 minutes.
 
-_Better yet, once the site was created in Anderson Optimization, it was easy to pull necessary information to start contacting landowners.”_
+Better yet, once the site was created in Anderson Optimization, it was easy to pull necessary information to start contacting landowners.”
 
 ## **Impact**
 
-_“Using Anderson Optimization has enabled our organization to locate large megawatt sites in states that are often considered ‘picked over,’ and the quality of the site Anderson Optimization enabled us to identify has led the executive team to direct team members to secure more sites in the same state using Anderson Optimization.”_ 
+“Using Anderson Optimization has enabled our organization to locate large megawatt sites in states that are often considered ‘picked over,’ and the quality of the site Anderson Optimization enabled us to identify has led the executive team to direct team members to secure more sites in the same state using Anderson Optimization.” 
 
-Whether entering a new market or trying to find sites in a familiar area, Anderson Optimization helps teams more quickly uncover high-quality sites for renewable development. Learn more about how we can help improve your team’s siting process.
+_Whether entering a new market or trying to find sites in a familiar area, Anderson Optimization helps teams more quickly uncover high-quality sites for renewable development. Learn more about how we can help improve your team’s siting process._
 
 ***
 
 AO Prospect by Anderson Optimization expedites and simplifies early-stage land siting. Easily identify ideal parcels for renewable development and automate complex GIS analysis to find high-quality sites in just minutes.
 
-Visit [andersonoptimization.com]() for more.
+> Visit [andersonoptimization.com]() for more.
 
 \--
 
