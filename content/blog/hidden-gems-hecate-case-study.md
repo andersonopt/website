@@ -42,9 +42,9 @@ _Whether entering a new market or trying to find sites in a familiar area, Ander
 
 ***
 
-###### AO Prospect by Anderson Optimization expedites and simplifies early-stage land siting. Easily identify ideal parcels for renewable development and automate complex GIS analysis to find high-quality sites in just minutes.
+AO Prospect by Anderson Optimization expedites and simplifies early-stage land siting. Easily identify ideal parcels for renewable development and automate complex GIS analysis to find high-quality sites in just minutes.
 
-> Visit [**andersonoptimization.com**]() for more.
+Visit [**andersonoptimization.com**]() for more.
 
 \--
 
