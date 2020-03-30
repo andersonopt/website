@@ -12,7 +12,7 @@ name = "Megan Kostanick"
 +++
 ### How innovative siting analysis helped uncover high-quality sites.
 
-Ben Mathes, a Development Analyst at Hecate Energy, scored some big wins for his team by using the AO Prospect siting solutions platform to uncover previously unknown sites that would be a great fit for renewable development.
+_Ben Mathes, a Development Analyst at Hecate Energy, scored some big wins for his team by using the AO Prospect siting solutions platform to uncover previously unknown sites that would be a great fit for renewable development._
 
 ***
 
@@ -42,7 +42,7 @@ _Whether entering a new market or trying to find sites in a familiar area, Ander
 
 ***
 
-AO Prospect by Anderson Optimization expedites and simplifies early-stage land siting. Easily identify ideal parcels for renewable development and automate complex GIS analysis to find high-quality sites in just minutes.
+###### AO Prospect by Anderson Optimization expedites and simplifies early-stage land siting. Easily identify ideal parcels for renewable development and automate complex GIS analysis to find high-quality sites in just minutes.
 
 > Visit [**andersonoptimization.com**]() for more.
 
