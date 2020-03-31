@@ -1,8 +1,8 @@
 +++
 date = 2020-03-30T06:00:00Z
-draft = true
+draft = false
 featured = true
-image = "/images/hecate-logo-final.png"
+image = "/images/Hecate-Energy-Logo.png"
 tags = []
 title = "Hidden Gems: Hecate Case Study "
 [author]
@@ -44,7 +44,7 @@ _Whether entering a new market or trying to find sites in a familiar area, Ander
 
 AO Prospect by Anderson Optimization expedites and simplifies early-stage land siting. Easily identify ideal parcels for renewable development and automate complex GIS analysis to find high-quality sites in just minutes.
 
-Visit [**andersonoptimization.com**]() for more.
+Visit **[andersonoptimization.com](https://andersonoptimization.com)** for more.
 
 \--
 
