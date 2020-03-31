@@ -6,6 +6,7 @@ markets:
   buttons:
   - label: Book a demo
     calendly: true
+    link: ''
   description: |-
     ### Expedite and simplify early-stage land siting
 
@@ -46,7 +47,7 @@ others:
     description: |-
       ### Quickly move into new markets
 
-      Traditionally, moving into a new market can take several weeks while you find all of the right data. AO Prospect has nationwide coverage, so you can move into a new market overnight
+      Traditionally, moving into a new market can take several weeks while you find all of the right data. AO Prospect has nationwide coverage, so you can move into a new market overnight.
   - thumbnail: "/images/Layers-new.png"
     description: |-
       ### See all relevant renewable siting data and layers in one place
