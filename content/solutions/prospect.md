@@ -49,10 +49,12 @@ others:
 
       Traditionally, moving into a new market can take several weeks while you find all of the right data. AO Prospect has nationwide coverage, so you can move into a new market overnight.
   - thumbnail: "/images/Layers-new.png"
-    description: |-
-      ### See all relevant renewable siting data and layers in one place
-
-      Eliminate the need to collect and consolidate disparate GIS data sources. All of the layers needed for renewable siting, including wetlands, flood, topo, etc. come pre-loaded. We can also integrate any unique data that you already have.
+    description: "### See all relevant renewable siting data and layers in one place\n\nEliminate
+      the need to collect and consolidate disparate GIS data sources. All the layers
+      needed for renewable siting come pre-loaded, including wetlands, flood, tree
+      cover, topo, bedrock, etc. \n\nHave other internal data that you want to see
+      on our platform? We can easily integrate custom data so you can work seamlessly
+      with all the right information. "
   - thumbnail: "/images/GIS-new.png"
     description: |-
       ### Automate time-consuming environmental GIS analysis
