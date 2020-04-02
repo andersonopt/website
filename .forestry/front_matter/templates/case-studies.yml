@@ -1,0 +1,33 @@
+---
+label: Case Studies
+hide_body: true
+fields:
+- type: field_group_list
+  name: Casestudies
+  label: Casestudies
+  fields:
+  - type: text
+    name: title
+    label: title
+    description: Title of Case Study
+    config:
+      required: true
+  - type: textarea
+    name: description
+    label: description
+    config:
+      required: true
+    description: A summary of what's covered by the case study
+  - type: file
+    name: link
+    label: link
+    description: Path to where the case study file(s) are
+  - type: file
+    name: thumbnail
+    label: thumbnail
+  - type: boolean
+    name: download
+    label: download
+    description: Allow people to download the case study file(s) on click
+pages:
+- data/caseStudies.yaml
