@@ -20,7 +20,9 @@ Want to make sure you're seeing the latest version of our site? Follow the instr
 
 ***
 
-## New PDF Report Settings 
+# Features and New Functionality
+
+## New PDF Report Settings
 
 d
 
@@ -32,19 +34,19 @@ Si
 
 ## Updated Project Grouping
 
-More easily create and organize project groups to manage projects within a state. 
+More easily create and organize project groups to manage projects within a state.
 
 Cr
 
-## See asset associations in table
+## See Asset Associations in Table
 
-d 
+d
 
 ## User Documentation Linked in App
 
-User Documentation is now linked in the app header. Click the link to access documentation on common workflows.
+Access our user documentation directly from the app. Click the new link in the header of any AO window.
 
-Fixes
+# Fixes
 
 * On asset map, super parcel boundary will immediately be visible (no refresh required)
 * Fixed an issue so that parcel search will correctly use the most up to date primary assets to create the asset search geometries.
