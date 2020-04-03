@@ -1,12 +1,12 @@
 +++
 date = 2020-04-08T06:00:00Z
 featured = false
-image = ""
+image = "/images/ReleaseNotesGears.png"
 tags = []
 title = "Product Release Notes: 4/8/20"
 [author]
 image = ""
-name = ""
+name = "Megan Kostanick"
 
 +++
 #### _Check out what's new in Anderson Optimization's latest release (v1.2.9)._
