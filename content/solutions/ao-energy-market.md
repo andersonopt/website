@@ -27,7 +27,7 @@ software:
     details: Don't leave financial upside on the table; evaluate as many scenarios
       as needed to optimize project parameters.
   - benefit: Fast failure made easy
-    icon: "/images/Group 15.svg"
+    icon: "/images/process-2.svg"
     details: Easily model early-stage projects to more quickly eliminate unviable
       projects.
 youtubeVideoID: ''
