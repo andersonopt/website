@@ -16,7 +16,7 @@ software:
   title: 'How can AO Energy Markets improve your business? '
   benefits:
   - benefit: Expedite modeling timelines
-    icon: "/images/Group 4.svg"
+    icon: "/images/calendar-2.svg"
     details: Generate production cost modeling output in a matter of hours vs. 2-4
       weeks with consultants.
   - benefit: Reduce variable costs
