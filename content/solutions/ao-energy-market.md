@@ -23,7 +23,7 @@ software:
     icon: "/images/bank.svg"
     details: Model scenarios at a significantly lower rate than with external consultants.
   - benefit: Maximize project returns
-    icon: "/images/Group 8.svg"
+    icon: "/images/chart.svg"
     details: Don't leave financial upside on the table; evaluate as many scenarios
       as needed to optimize project parameters.
   - benefit: Fast failure made easy
