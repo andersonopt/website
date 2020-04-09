@@ -24,7 +24,7 @@ software:
     details: Users typically increase siting efficiency by 2-4 times allowing for
       faster landowner outreach.
   - benefit: Easy to use
-    icon: "/images/Group 5.svg"
+    icon: "/images/gear-1.svg"
     details: Anyone - not just GIS developers - can easily perform complex environmental
       analysis.
   - benefit: Reduce soft costs
