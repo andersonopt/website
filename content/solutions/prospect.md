@@ -16,7 +16,7 @@ software:
   title: 'How can AO Prospect improve your business? '
   benefits:
   - benefit: Fill pipelines for increased revenue
-    icon: "/images/Group 3.svg"
+    icon: "/images/cycle.svg"
     details: A simple, repeatable process makes it easy to maintain a steady flow
       of active projects.
   - benefit: Expedite project timelines
