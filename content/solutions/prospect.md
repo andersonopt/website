@@ -16,27 +16,27 @@ software:
   title: 'How can AO Prospect improve your business? '
   benefits:
   - benefit: Fill pipelines for increased revenue
-    icon: "/images/Group 3.svg"
+    icon: "/images/cycle.svg"
     details: A simple, repeatable process makes it easy to maintain a steady flow
       of active projects.
   - benefit: Expedite project timelines
-    icon: "/images/Group 4.svg"
+    icon: "/images/calendar-2.svg"
     details: Users typically increase siting efficiency by 2-4 times allowing for
       faster landowner outreach.
   - benefit: Easy to use
-    icon: "/images/Group 5.svg"
+    icon: "/images/gear-1.svg"
     details: Anyone - not just GIS developers - can easily perform complex environmental
       analysis.
   - benefit: Reduce soft costs
-    icon: "/images/Group 14.svg"
+    icon: "/images/bank.svg"
     details: Own the process from end-to-end and forego the need to hire costly GIS
       analysts, external land agents, or new developers.
   - benefit: Easily identify landowners
-    icon: "/images/Group 6.svg"
+    icon: "/images/user-2.svg"
     details: Quickly identify landowners with the highest quality land, so that you
       don't waste time working on infeasible sites.
   - benefit: New feature development
-    icon: "/images/Group 7.svg"
+    icon: "/images/wand.svg"
     details: Expedited new feature development based on user requests ensures that
       you always have the tools you need.
 youtubeVideoID: ''
