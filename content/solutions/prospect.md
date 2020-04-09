@@ -28,7 +28,7 @@ software:
     details: Anyone - not just GIS developers - can easily perform complex environmental
       analysis.
   - benefit: Reduce soft costs
-    icon: "/images/Group 14.svg"
+    icon: "/images/bank.svg"
     details: Own the process from end-to-end and forego the need to hire costly GIS
       analysts, external land agents, or new developers.
   - benefit: Easily identify landowners
