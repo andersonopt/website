@@ -45,6 +45,13 @@ Automatically create a PDF report for a project with one parcel per page and aut
 
 ## Shapefile Exports
 
+Shapefile exports now also include geo analysis constraint map layers as well as more attribute data for parcels and hazards. 
+
+* To export a project as a shapefile, click 'menu' on the map toolbar. 
+* Select 'Export shapefile' 
+
+![](/images/Export_shapefile.png)
+
 ## Add Parcels by APN/PIN
 
 You can now search and add parcels to a project by searching for a parcel's APN/PIN directly in the map search bar.
@@ -85,7 +92,7 @@ When you search for an address or latitude/longitude coordinates on the map, the
 
 ## Buffer and Min Acres Now in Same Parameters Section
 
-Geo Analysis Search - Southern Aspect Checkbox
+## Geo Analysis Search - Southern Aspect Checkbox
 
 ## 
 
