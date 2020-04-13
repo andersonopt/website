@@ -75,6 +75,8 @@ Easily see which sub or line is the corresponding 'closest primary asset' is to 
 
 In the parcels table, add in the column 'Closest Primary Asset' to see the associated sub/line that a parcel is nearest to.
 
+![](/images/Closest_Primary_Asset.png)
+
 ## Search Bar on Map - Zoom
 
 ## Buffer and Min Acres Now in Same Parameters Section 
