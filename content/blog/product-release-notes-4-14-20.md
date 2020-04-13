@@ -71,17 +71,37 @@ You can also create a Greenfield-Land project and search for the primary asset p
 
 ## Updated Project Organization: Folders
 
-We've updated what we previously called 'Project Groups' to make it simpler to organize projects across your team.
+We've updated what we previously called 'Project Groups' to make it simpler to organize projects across your organization.
 
-* Easily create a workspace and associated project folders to manage and organize projects. You can either share one workspace across your whole team (and thus the same project folder structure) OR you can create your own workspaces if you would prefer to manage folders separately.
+Easily create a workspace and associated project folder structure to organize your projects.
 
-  ![](/images/Folders.png)
+You can either share one workspace across your whole team (and thus the same project folder structure) OR you can create your own workspaces if you would prefer to manage folders more individually.
+
+* Click 'View folders' either in the left sidebar menu or under the main projects section on the dashboard. 
+
+![](/images/Folders.png)
+
+* Create a workspace to start your folder structure (other users in your organization will be able to access the workspace and you can create as many as you want). 
+*  Name the workspace
+* Click 'Create Workspace'
+
+![](/images/Folder_Workspace.png)
+
+* Click the 'Create Folder' button to add a new folder to the workspace. 
+* Click 'Add projects' to add projects to the workspace/folder structure 
+
+![](/images/Create_Folder.png)
+
+* Drag and drop folders from the projects pane on the left to the pane on the right to organize and group in folders. 
+
+  ![](/images/Drag_Projects.png)
+* 
 
 ## New Column in Parcels Table: 'Closest Primary Asset'
 
 Easily see which sub or line is the corresponding 'closest primary asset' to a given parcel (particularly helpful on projects with multiple primary assets).
 
-In the parcels table, add in the column 'Closest Primary Asset' to see the associated primary asset that a parcel is nearest.
+* In the parcels table, add in the column 'Closest Primary Asset' to see the associated primary asset that a parcel is nearest.
 
 ![](/images/Closest_Primary_Asset.png)
 
@@ -92,6 +112,8 @@ When you search for an address or latitude/longitude coordinates on the map, the
 ![](/images/Search_Bar_Zoom.png)
 
 ## Parcel Search: Buffer and Min Acres Now in Same Section
+
+We moved the 'Buffer' and 'Min Acres' fields into the same section in the parcel search. Fill out the fields and click, 'Get Count' and 'Run Task' to pull parcels into a project near your primary asset(s). 
 
 ![](/images/Combined_Search.png)
 
