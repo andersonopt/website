@@ -45,10 +45,11 @@ Automatically create a PDF report for a project with one parcel per page and aut
 
 ## Shapefile Exports
 
-Shapefile exports now also include geo analysis constraint map layers as well as more attribute data for parcels and hazards. 
+Shapefile exports now include geo analysis constraint map layers as well as more attribute data for parcels and geo analysis hazards. 
 
 * To export a project as a shapefile, click 'menu' on the map toolbar. 
 * Select 'Export shapefile' 
+* The shapefile will automatically download to your browser once it's completed
 
 ![](/images/Export_shapefile.png)
 
@@ -90,7 +91,9 @@ When you search for an address or latitude/longitude coordinates on the map, the
 
 ![](/images/Search_Bar_Zoom.png)
 
-## Buffer and Min Acres Now in Same Parameters Section
+## Parcel Search: Buffer and Min Acres Now in Same Section
+
+![](/images/Combined_Search.png)
 
 ## Geo Analysis Search - Southern Aspect Checkbox
 
