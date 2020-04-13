@@ -24,7 +24,7 @@ Want to make sure you're seeing the latest version of our site? Follow the instr
 
 ## PDF Report Settings
 
-Automatically create a PDF report for a project with one parcel per page and automated image labeling and image details. 
+Automatically create a PDF report for a project with one parcel per page and automated image labeling and image details.  
 
 * From the map, select 'menu'
 * Click 'Report' 
@@ -36,29 +36,38 @@ Automatically create a PDF report for a project with one parcel per page and aut
 
   ![](/images/Automated_Project_Report.png)
 * The reporting tool will automatically move the map around to grab screenshots of each parcel on the project and update the image name/details. Sit back, relax, and wait for the report to download (and please don't click the map while this is running so we can grab the right images). 
-* The PDF report will automatically download to your browser once complete. 
+* Image title will auto-populate with the parcel name (County-Owner-LotSize)
+* Image description will auto-populate APN/PIN and site address
 
 ![](/images/Auto_report_window.png)
+
+* The PDF report will automatically download to your browser once complete. 
 
 ## Shapefile Exports
 
 ## Add Parcels by APN/PIN
 
-You can now search and add parcels to a project by searching for APN on the project map.
+You can now search and add parcels to a project by searching for a parcel's APN/PIN directly in the map search bar.
 
-* Change the search input by clicking the button on the left of the map search field to toggle it to 'APN search'
+* Change the search input to 'APN' by toggling the button on the left of the map search bar. 
 
 ![](/images/APN_Map_Search.png)
 
-* Input the APN/PIN, STATE to search for that parcel. Any matching parcel(s) will be added as assets to the project and will be visible on the map and in the parcel table.
+* Input the APN/PIN followed by a COMMA and then the STATE (full name or state abbreviation both ok). Any matching parcel(s) will be added as assets to the project map and the parcel table.
 
 ![](/images/Parcel_Added_APN.png)
 
-You can also create a Greenfield-Land project and search for the starting parcel by APN search.
+You can also create a Greenfield-Land project and search for the primary asset parcel by APN.
 
 ![](/images/Land_Project_APN.png)
 
 ## Updated Project Organization: Folders
+
+We've updated what we previously called 'Project Groups' to make it simpler to organize projects across your team. 
+
+* Easily create a workspace and associated project folders to manage and organize projects. You can either share one workspace across your whole team (and thus the same project folder structure) OR you can create your own workspaces if you would prefer to manage folders separately. 
+
+  ![](/images/Folders.png)
 
 ## New Column in Parcels Table: 'Closest Primary Asset'
 
