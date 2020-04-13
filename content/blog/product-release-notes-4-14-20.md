@@ -1,6 +1,5 @@
 +++
 date = 2020-04-14T06:00:00Z
-draft = true
 featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = []
@@ -25,9 +24,25 @@ Want to make sure you're seeing the latest version of our site? Follow the instr
 
 ## PDF Report Settings
 
+Automatically create a PDF report for a project with one parcel per page and automated image labeling and image details. 
+
+* From the map, select 'menu'
+* Click 'Report' 
+
+![](/images/Report_Menu.png)
+
+* Select the new 'Automated project report' option. (To access the original report settings/customization options, select 'Custom report'). 
+* Click 'Run project report'
+
+  ![](/images/Automated_Project_Report.png)
+* The reporting tool will automatically move the map around to grab screenshots of each parcel on the project and update the image name/details. Sit back, relax, and wait for the report to download (and please don't click the map while this is running so we can grab the right images). 
+* The PDF report will automatically download to your browser once complete. 
+
+![](/images/Auto_report_window.png)
+
 ## Shapefile Exports
 
-## Add Parcels by APN/PIN 
+## Add Parcels by APN/PIN
 
 You can now search and add parcels to a project by searching for APN on the project map.
 
@@ -39,29 +54,33 @@ You can now search and add parcels to a project by searching for APN on the proj
 
 ![](/images/Parcel_Added_APN.png)
 
-You can also create a Greenfield-Land project and search for the starting parcel by APN search. 
+You can also create a Greenfield-Land project and search for the starting parcel by APN search.
 
 ![](/images/Land_Project_APN.png)
 
 ## Updated Project Organization: Folders
 
-## New Column in Parcels Table: 'Closest Primary Asset' 
+## New Column in Parcels Table: 'Closest Primary Asset'
 
 Easily see which sub or line is the corresponding 'closest primary asset' is to a given parcel (particularly helpful on projects with multiple primary assets).
 
-In the parcels table, add in the column 'Closest Primary Asset' to see the associated sub/line that a parcel is nearest to.  
+In the parcels table, add in the column 'Closest Primary Asset' to see the associated sub/line that a parcel is nearest to.
 
 ## Search Bar on Map - Zoom
 
+## Buffer and Min Acres Now in Same Parameters Section 
+
+Geo Analysis Search - Southern Aspect Checkbox
+
 ## 
 
-## User Documentation Linked in App 
+## User Documentation Linked in App
 
 ***
 
 # **Fixes**
 
-* Parcel search geometry will now update if a primary asset is added/removed on an already created project. 
-* Fixed an issue that was sometimes preventing Geo Analysis from completing. 
+* Parcel search geometry will now update if a primary asset is added/removed on an already created project.
+* Fixed an issue that was sometimes preventing Geo Analysis from completing.
 * Creating a super parcel on the asset map will now show the updated boundary without a refresh.
 * Adjusted hazard drawings to appropriately handle areas with no bedrock layer data.
