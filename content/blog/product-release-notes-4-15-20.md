@@ -22,11 +22,11 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 Automatically create a PDF report for a project with one parcel per page and automated image labeling and image details.
 
 * From the map, select 'menu'
-* Click 'Report'
+* Click 'report' in the dropdown list
 
 ![](/images/Report_Menu.png)
 
-* Select the new 'Automated project report' option. (To access the original report settings/customization options, select 'Custom report').
+* Select the (new) 'Automated project report' option. (To access the original report settings/customization options, select 'Custom report')
 * Click 'Run project report'
 
   ![](/images/Automated_Project_Report.png)
