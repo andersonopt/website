@@ -2,7 +2,7 @@
 date = 2020-04-08T06:00:00Z
 featured = false
 image = "/images/ReleaseNotesGears.png"
-tags = []
+tags = ["Releases"]
 title = "Product Release Notes: 4/8/20"
 [author]
 image = ""

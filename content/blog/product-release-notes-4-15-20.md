@@ -2,14 +2,14 @@
 date = 2020-04-15T06:00:00Z
 featured = true
 image = "/images/ReleaseNotesGears.png"
-tags = ["ProductReleaseNotes"]
+tags = ["Releases"]
 title = "Product Release Notes: 4/15/20"
 [author]
 image = ""
 name = "Megan Kostanick"
 
 +++
-#### _Check out what's new in Anderson Optimization's latest release (vX.X.X)._
+#### _Check out what's new in Anderson Optimization's latest release (v1.3.9)._
 
 Want to make sure you're seeing the latest version of our site? [Follow the instructions here.](https://docs.andersonopt.com/Prospect/VersionReleaseNotes/latestversion/ "Get Latest Version")
 
@@ -51,7 +51,7 @@ Shapefile exports now include geo analysis constraint map layers as well as more
 
 ![](/images/Export_shapefile.png)
 
-Are there other objects or attributes you'd like to see in the shapefile export? Let us know what else would be helpful to add. 
+Are there other objects or attributes you'd like to see in the shapefile export? Let us know what else would be helpful to add.
 
 ## Add Parcels by APN/PIN
 
@@ -118,9 +118,9 @@ We moved the 'Buffer' and 'Min Acres' fields into the same section in the parcel
 
 ## Geo Analysis - Southern Slope Checkbox
 
-In our last Geo Analysis update, we added some functionality to shade slope hazards with a southern aspect differently from other slope hazards, but this has been impacting geo analysis speeds for some users. 
+In our last Geo Analysis update, we added some functionality to shade slope hazards with a southern aspect differently from other slope hazards, but this has been impacting geo analysis speeds for some users.
 
-For now, we've added this as a setting that can be turned on/off when running geo. 
+For now, we've added this as a setting that can be turned on/off when running geo.
 
 * To see southern slope hazards differentiated separately from other slope hazards, check the box (this may take a bit longer to load).
 
@@ -139,6 +139,6 @@ Need a quick refresher on a workflow? Access our [user documentation](https://do
 # **Fixes**
 
 * Parcel search geometry will now update if a primary asset is added/removed on a project.
-* Fixed an issue that was sometimes preventing Geo Analysis from completing after our last release due to the USFWS Wetlands server getting overloaded. 
+* Fixed an issue that was sometimes preventing Geo Analysis from completing after our last release due to the USFWS Wetlands server getting overloaded.
 * Creating a super parcel on the asset map will now show the updated super parcel boundary without a refresh.
 * Adjusted hazard drawings to appropriately handle areas with no bedrock layer data.
