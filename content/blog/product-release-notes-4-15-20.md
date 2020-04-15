@@ -116,13 +116,15 @@ We moved the 'Buffer' and 'Min Acres' fields into the same section in the parcel
 
 ![](/images/Combined_Search.png)
 
-## Geo Analysis Search - Southern Slop Checkbox
+## Geo Analysis - Southern Slope Checkbox
 
 In our last Geo Analysis update, we added some functionality to shade slope hazards with a southern aspect differently from other slope hazards, but this has been impacting geo analysis speeds for some users. 
 
 For now, we've added this as a setting that can be turned on/off when running geo. 
 
 * To see southern slope hazards differentiated separately from other slope hazards, check the box (this may take a bit longer to load).
+
+![](/images/Southern_Slope_Hazards.png)
 
 ## User Documentation Linked in App
 
