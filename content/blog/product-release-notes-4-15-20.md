@@ -21,6 +21,11 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 Automatically create a PDF report for a project with one parcel per page and automated image labeling and image details.
 
+* Image title will auto-populate with the parcel name (County-Owner-LotSize)
+* Image description will auto-populate APN/PIN and site address (if available).
+
+Steps to run new report type:
+
 * From the map, select 'menu'
 * Click 'report' in the dropdown list
 
@@ -31,8 +36,6 @@ Automatically create a PDF report for a project with one parcel per page and aut
 
   ![](/images/Automated_Project_Report.png)
 * The reporting tool will automatically move the map around to grab screenshots of each parcel on the project and update the image name/details. Sit back, relax, and wait for the report to download (please don't click the map while this is running so we can grab the right images).
-* Image title will auto-populate with the parcel name (County-Owner-LotSize)
-* Image description will auto-populate APN/PIN and site address (if available).
 
 ![](/images/Auto_report_window.png)
 
