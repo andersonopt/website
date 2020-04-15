@@ -96,11 +96,11 @@ You can either share one workspace across your whole team (and thus the same pro
 
   ![](/images/Drag_Projects.png)
 
-## New Column in Parcels Table: 'Closest Primary Asset'
+## New Column 'Closest Primary Asset'
 
-Easily see which sub or line is the corresponding 'closest primary asset' to a given parcel (particularly helpful on projects with multiple primary assets).
+If you search for parcels (or other assets) around multiple primary assets, you can now easily track which primary asset a sub/line/parcel is closest to in any data table.
 
-* In the parcels table, add in the column 'Closest Primary Asset' to see the associated primary asset that a parcel is nearest.
+* For example, if you searched for parcels around two primary substations, you can pull in the 'Closest Primary Asset' column in the parcels table to see the relationship.
 
 ![](/images/Closest_Primary_Asset.png)
 
