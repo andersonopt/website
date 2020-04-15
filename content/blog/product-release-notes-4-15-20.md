@@ -73,7 +73,7 @@ You can now search and add parcels to a project by searching for a parcel's APN/
 
 We've updated what we previously called 'Project Groups' to make it simpler to organize projects across your organization.
 
-Easily create a workspace and associated project folder structure to organize your projects within a workspace.
+Easily create a workspace and an associated project folder structure to organize your projects within a workspace.
 
 You can either share one workspace across your whole team (and thus the same project folder structure) OR you can create your own workspaces if you would prefer to manage folders more individually.
 
