@@ -104,9 +104,9 @@ Easily see which sub or line is the corresponding 'closest primary asset' to a g
 
 ![](/images/Closest_Primary_Asset.png)
 
-## Map Search Automatically Zooms to Address or Lat/Long
+## Map Search Automatically Zooms to Address or Lat/Long Marker
 
-When you search for an address or latitude/longitude coordinates on the map, the map will now automatically zoom to the search area.
+When you search for an address or latitude/longitude coordinates in the map search bar, the map will now automatically zoom to the search area.
 
 ![](/images/Search_Bar_Zoom.png)
 
@@ -116,13 +116,17 @@ We moved the 'Buffer' and 'Min Acres' fields into the same section in the parcel
 
 ![](/images/Combined_Search.png)
 
-## Geo Analysis Search - Southern Aspect Checkbox
+## Geo Analysis Search - Southern Slop Checkbox
 
-## 
+In our last Geo Analysis update, we added some functionality to shade slope hazards with a southern aspect differently from other slope hazards, but this has been impacting geo analysis speeds for some users. 
+
+For now, we've added this as a setting that can be turned on/off when running geo. 
+
+* To see southern slope hazards differentiated separately from other slope hazards, check the box (this may take a bit longer to load).
 
 ## User Documentation Linked in App
 
-Need a quick refresher on a workflow? Access [user documentation](https://docs.andersonopt.com/workflow-overview/ "User Documentation") directly from the app.
+Need a quick refresher on a workflow? Acces our [user documentation](https://docs.andersonopt.com/workflow-overview/ "User Documentation") directly from the app.
 
 * Click the 'User Documentation' link in the top header of any AO window.
 
@@ -133,6 +137,6 @@ Need a quick refresher on a workflow? Access [user documentation](https://docs.a
 # **Fixes**
 
 * Parcel search geometry will now update if a primary asset is added/removed on a project.
-* Fixed an issue that was sometimes preventing Geo Analysis from completing after our last release.
+* Fixed an issue that was sometimes preventing Geo Analysis from completing after our last release due to the USFWS Wetlands server getting overloaded. 
 * Creating a super parcel on the asset map will now show the updated super parcel boundary without a refresh.
 * Adjusted hazard drawings to appropriately handle areas with no bedrock layer data.
