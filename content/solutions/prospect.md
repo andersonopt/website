@@ -55,7 +55,7 @@ others:
       cover, topo, bedrock, etc. \n\nHave other internal data that you want to see
       on our platform? We can easily integrate custom data so you can work seamlessly
       with all the right information. "
-  - thumbnail: "/images/GIS-new.png"
+  - thumbnail: "/images/GIS_Updated_Legend.png"
     description: |-
       ### Automate time-consuming environmental GIS analysis to quickly calculate buildability
 
