@@ -1,9 +1,9 @@
 +++
-date = 2020-04-14T06:00:00Z
+date = 2020-04-15T06:00:00Z
 featured = true
 image = "/images/ReleaseNotesGears.png"
-tags = []
-title = "Product Release Notes: 4/14/20"
+tags = ["ProductReleaseNotes"]
+title = "Product Release Notes: 4/15/20"
 [author]
 image = ""
 name = "Megan Kostanick"
@@ -11,12 +11,7 @@ name = "Megan Kostanick"
 +++
 #### _Check out what's new in Anderson Optimization's latest release (v1.2.9)._
 
-Want to make sure you're seeing the latest version of our site? Follow the instructions below.
-
-1. Sign in to your [Anderson Optimization](https://energy-opt.auth0.com/login?state=g6Fo2SBzNTN6Sm1hM2tnUk11cXpmUG9NNERkMHd4N1lObmlyeKN0aWTZIFdaVjNDdHFSR2lGSTV6Uk9DY3BTcmlUODFJQTlaMlIyo2NpZNkgdDVqOElEcG9scERBOHY5Vm1DQUd4dWpiakwwN29OWUg&client=t5j8IDpolpDA8v9VmCAGxujbjL07oNYH&protocol=oauth2&response_type=token%20id_token&redirect_uri=https%3A%2F%2Fandersonopt.com%2Fauth%2Fcallback&audience=https%3A%2F%2Fenergy-opt.auth0.com%2Fuserinfo&nonce=mSRK_Q3Uw7s\~HbtnLshx8fxuUX1l7H73&scope=openid%20profile%20email&auth0Client=eyJuYW1lIjoiYW5ndWxhci1hdXRoMCIsInZlcnNpb24iOiIzLjAuNCIsImVudiI6eyJhdXRoMC1qcyI6IjkuMTAuNCIsImF1dGgwLmpzIjoiOS4xMC40In19 "login") account.
-2. On any page of the AO website, press CTRL+SHIFT+R to force a hard refresh of the browser _(Mac Users: Command+SHIFT+R)._
-3. This will force the application to refresh and update to the latest version.
-4. Scroll down to the bottom of the AO window and check the version number in the bottom right corner of the footer.
+Want to make sure you're seeing the latest version of our site? [**Follow the instructions here.**](https://docs.andersonopt.com/Prospect/VersionReleaseNotes/latestversion/ "Get Latest Version")
 
 ***
 
@@ -122,7 +117,7 @@ We moved the 'Buffer' and 'Min Acres' fields into the same section in the parcel
 
 ## User Documentation Linked in App
 
-Need a quick refresher on a workflow? Access [user documentation](https://docs.andersonopt.com/workflow-overview/ "User Documentation") directly from the app. 
+Need a quick refresher on a workflow? Access [user documentation](https://docs.andersonopt.com/workflow-overview/ "User Documentation") directly from the app.
 
 * Click the 'User Documentation' link in the top header of any AO window.
 
