@@ -38,15 +38,17 @@ Automatically create a PDF report for a project with one parcel per page and aut
 
 * The PDF report will automatically download to your browser once complete.
 
-## Shapefile Exports
+## Shapefile Exports Updated
 
 Shapefile exports now include geo analysis constraint map layers as well as more attribute data for parcels and geo analysis hazards.
 
-* To export a project as a shapefile, click 'menu' on the map toolbar.
+* To export a project as a shapefile, click 'menu' on the map toolbar
 * Select 'Export shapefile'
 * The shapefile will automatically download to your browser once it's completed
 
 ![](/images/Export_shapefile.png)
+
+Are there other objects or attributes you'd like to see in the shapefile export? Let us know what else would be helpful to add. 
 
 ## Add Parcels by APN/PIN
 
