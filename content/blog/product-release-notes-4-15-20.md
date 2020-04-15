@@ -21,18 +21,18 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 Automatically create a PDF report for a project with one parcel per page and automated image labeling and image details.
 
-* Image title will auto-populate with the parcel name (County-Owner-LotSize)
+* Image title will auto-populate with the parcel name (County-Owner-LotSize).
 * Image description will auto-populate APN/PIN and site address (if available).
 
 Steps to run new report type:
 
-* From the map, select 'menu'
-* Click 'report' in the dropdown list
+* From the map, select 'menu'.
+* Click 'report' in the dropdown list.
 
 ![](/images/Report_Menu.png)
 
-* Select the (new) 'Automated project report' option. (To access the original report settings/customization options, select 'Custom report')
-* Click 'Run project report'
+* Select the (new) 'Automated project report' option. (To access the original report settings/customization options, select 'Custom report').
+* Click 'Run project report'.
 
   ![](/images/Automated_Project_Report.png)
 * The reporting tool will automatically move the map around to grab screenshots of each parcel on the project and update the image name/details. Sit back, relax, and wait for the report to download (please don't click the map while this is running so we can grab the right images).
@@ -45,9 +45,9 @@ Steps to run new report type:
 
 Shapefile exports now include geo analysis constraint map layers as well as more attribute data for parcels and geo analysis hazards.
 
-* To export a project as a shapefile, click 'menu' on the map toolbar
-* Select 'Export shapefile'
-* The shapefile will automatically download to your browser once it's completed
+* To export a project as a shapefile, click 'menu' on the map toolbar.
+* Select 'Export shapefile'.
+* The shapefile will automatically download to your browser once it's completed.
 
 ![](/images/Export_shapefile.png)
 
@@ -82,17 +82,17 @@ You can either share one workspace across your whole team (and thus the same pro
 ![](/images/Folders.png)
 
 * Create a workspace to start your folder structure (other users in your organization will be able to access the workspace and you can create as many as you want).
-* Name the workspace
-* Click 'Create Workspace'
+* Name the workspace.
+* Click 'Create Workspace'.
 
 ![](/images/Folder_Workspace.png)
 
 * Click the 'Create Folder' button to add a new folder to the workspace.
-* Click 'Add projects' to add projects to the workspace/folder structure
+* Click 'Add projects' to add projects to the workspace/folder structure.
 
 ![](/images/Create_Folder.png)
 
-* Drag and drop folders from the projects pane on the left to the pane on the right to organize and group in folders (note: click the dots to the left of the project name to drag the project)
+* Drag and drop folders from the projects pane on the left to the pane on the right to organize and group in folders (note: click the dots to the left of the project name to drag the project).
 
   ![](/images/Drag_Projects.png)
 
@@ -128,7 +128,7 @@ For now, we've added this as a setting that can be turned on/off when running ge
 
 ## User Documentation Linked in App
 
-Need a quick refresher on a workflow? Acces our [user documentation](https://docs.andersonopt.com/workflow-overview/ "User Documentation") directly from the app.
+Need a quick refresher on a workflow? Access our [user documentation](https://docs.andersonopt.com/workflow-overview/ "User Documentation") directly from the app.
 
 * Click the 'User Documentation' link in the top header of any AO window.
 
