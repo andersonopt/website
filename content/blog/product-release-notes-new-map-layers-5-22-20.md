@@ -20,24 +20,28 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 ## Overview
 
-We've added over 20 new map layers to the layers menu -- check them out!
+We've added 20+ new map layers to the layers menu -- check them out!
 
-* Publicly-available nationwide layers 
-* Categorized layers by subject type
+* Publicly-available nationwide layers
+* Layers categorized by subject
 * Added source links
 
-To see map layers, click on 'layers' in the map toolbar
+To see map layers, click on the 'layers' menu in the map toolbar
 
-* Search for a specific layer in the search bar at the top or scroll through the full list:
+* Search for a specific layer in the search bar at the top OR scroll through the full list using the scroll bar:
 
 ![](/images/maplayers_search.png)
 
-## View Substation and Transmission Lines Layer on a Project
+## Full List of Layers
 
-d
+Here's the full list of nationwide layers in the layers menu:
 
-## Full List of New Layers 
+![](/images/admin-energy_layers.png)
+
+![](/images/environmental-protected_layers.png)
+
+![](/images/topo-layers.png)
 
 ***
 
-_Don't see a map layer that you'd like to view in AO? Send us an email with the information about the layer and we can get it added to the platform!_ 
+_Don't see a map layer that you'd like to view in AO? Send us an email with the information about the layer and we can get it added to the platform!_
