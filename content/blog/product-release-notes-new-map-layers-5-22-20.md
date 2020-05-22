@@ -1,7 +1,7 @@
 +++
 date = 2020-05-22T06:00:00Z
 featured = true
-image = ""
+image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
 title = "Product Release Notes: 5/22/20"
 [author]
