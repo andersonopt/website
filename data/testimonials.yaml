@@ -1,4 +1,17 @@
 ---
+- client: Tyson Buerkle
+  role: Director of Site Acquisition
+  company: BlueWave
+  review: '"Anderson Optimization has helped our company bring our site acquisition
+    efforts in-house and scale up our impact. The tool speeds up our work and saves
+    us money."'
+- client: Derrick Worden
+  role: Senior Land Manager
+  company: The AES Corporation
+  review: "“Everyone here is very impressed with the Anderson tool. We all watched
+    Chris get set up in a matter of days and be ready to mail letters to potential
+    landowners. He is out this week meeting all of the landowners he made contact
+    with and we even have signed LOI’s already in the land bank!”\n"
 - client: Paul Ksiazek
   role: Senior Project Director
   company: Diode Ventures
@@ -16,19 +29,6 @@
     AO keeps us constantly updated on their new features, and they are always looking
     to improve the software by adding layers and new features to facilitate a developer’s
     job in accessing good, constructible sites."'
-- client: Tyson Buerkle
-  role: Director of Site Acquisition
-  company: BlueWave
-  review: '"Anderson Optimization has helped our company bring our site acquisition
-    efforts in-house and scale up our impact. The tool speeds up our work and saves
-    us money."'
-- client: Derrick Worden
-  role: Senior Land Manager
-  company: The AES Corporation
-  review: "“Everyone here is very impressed with the Anderson tool. We all watched
-    Chris get set up in a matter of days and be ready to mail letters to potential
-    landowners. He is out this week meeting all of the landowners he made contact
-    with and we even have signed LOI’s already in the land bank!”\n"
 - client: Ben Mathes
   role: Development Analyst
   company: Hecate Energy
