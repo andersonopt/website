@@ -4,7 +4,7 @@ draft = true
 featured = true
 image = ""
 tags = ["Releases"]
-title = "Product Release Notes: New Map Layers - 5/22/20"
+title = "Product Release Notes: 5/22/20"
 [author]
 image = ""
 name = "Megan Kostanick"
