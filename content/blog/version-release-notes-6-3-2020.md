@@ -46,7 +46,6 @@ Now you can save grid assets to your project directly from the new substation an
 
 # Fixes 
 
-*  Under the Asset lists, additional primary assets can now be added after the project is created. 
-  * If you need to add additional primary assets to the project, go to the Primary Asset list, click 'Edit step' > 'Advanced Tools' > choose method to add additional asset (create asset or pick from existing assets).
+*  Under the Asset lists, additional primary assets can now be added after the project is created. If you need to add additional primary assets to the project, go to the Primary Asset list, click 'Edit step' > 'Advanced Tools' > choose method to add additional asset (create asset or pick from existing assets).
 * Made some adjustments to the CDFI Opportunity Zones layer so it only shows polygons for tracts designated as opportunity zones. 
 * Added functionality to search for parcels by parcel IDs that include underscore symbols in the ID number.
