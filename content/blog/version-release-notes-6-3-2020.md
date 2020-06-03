@@ -30,6 +30,15 @@ You'll now find each of the Asset lists (parcels, transmission lines, subs, etc.
 
 This is a step towards our longer term re-design and will allow you to see more details in one window the previously was possible. 
 
-Add Grid Infrastructure from New Substation and Line Map Layers
+![](/images/asset_tabs.png)
 
-In addition to 
+## View and Save Nearby Grid Infrastructure to a Project with the new Sub and Line Map Layers
+
+Now you can save grid assets directly from the new substation and transmission line map layers to your project. 
+
+* Open a project
+* In the map toolbar > Select 'Layers' 
+* Select either the Transmission Line layer or Substations layer to turn it on
+* Click on a piece of grid infrastructure on the map that you're interested
+
+![](/images/save_asset_to_project.png)
