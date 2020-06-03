@@ -21,7 +21,7 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 We made some important behind-the-scenes updates that will allow us to develop new features and troubleshoot issues more seamlessly.
 
-You shouldn't notice any changes in the app directly, but do let us know if anything isn't working as expected.
+You shouldn't notice any changes in the app directly, but please let us know if anything isn't working as expected.
 
 ## New Look: Asset Lists on Projects
 
