@@ -38,7 +38,7 @@ Now you can save grid assets to your project directly from the new substation an
 * From the project map, on the map toolbar > Select 'Layers'
 * Click either the Transmission Line layer or Substations layer to toggle on the layer
 * Click a line or sub on the map layer to see info about it
-* If you want to save the grid infrastructure to your project, click the new 'Save asset to project' button. 
+* If you want to save the grid infrastructure to your project, click the new 'Save asset to project' button in the asset pop up. 
 * Once you've added any assets you wanted to save from the layer, toggle the layer off (via the Layers menu) to hide the layer. 
 * Any lines/subs you saved from the layer will now be saved to the project.
 
