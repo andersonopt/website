@@ -30,4 +30,6 @@ You'll now find each of the Asset lists (parcels, transmission lines, subs, etc.
 
 This is a step towards our longer term re-design and will allow you to see more details in one window the previously was possible. 
 
-* 
+Add Grid Infrastructure from New Substation and Line Map Layers
+
+In addition to 
