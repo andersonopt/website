@@ -23,23 +23,27 @@ As we head towards our longer-term app redesign, we made some interim changes to
 
 As a result, you'll see some changes to the app UI, but these are actually just a result of updating the code structure and not the longer-term app redesign, per se.
 
-For example, tasks in the map sidebar now look like this: 
+For example, tasks in the map sidebar now look like this:
 
-Create Project > Select Primary Asset: 
+Create Project > Select Primary Asset:
 
 This is not the long-term redesigned look, but just a step to get us there more quickly. If you need any help finding something in the updated app interface, just reach out. In the long-run, tasks/the app interface will be much more intuitive, but
 
 ## NEW FEATURE: Geo Analysis Pre-scan
 
-Want to run some constraint mapping analysis on an area before you start searching for parcels? 
+Want to run some constraint mapping analysis on an area before you start searching for parcels?
 
-Using the new geo analysis prescan task, you can now run geo analysis-like evaluations before pulling in actual parcels. 
+Using the new geo analysis prescan task, you can now run geo analysis-like evaluations before pulling in actual parcels.
 
-## KMZ Import (Only include once complete)
+Recommended process: 
 
-## Import many assets from a KMZ 
+* Create new project near to the area you want to evaluate using the prescan tool. 
+* Draw a polygon Drawing menu > User drawing tools > polygon icon to mark out the area of the map that you want to analyze. 
+* 
 
-## Import one asset from a KMZ
+## Save assets from a KMZ to project in AO
+
+View a kmz/kml in AO and save assets from the file to your project. If desired, map data fields to AO fields.
 
 ## **New Map Layers**
 
@@ -59,7 +63,7 @@ See how much solar radiation is reflected from the ground (particularly helpful 
 
 ### Wind Siting Layers
 
-We added a number of layers helpful in the wind siting process. Check out the following layers: 
+We added a number of layers helpful in the wind siting process. Check out the following layers:
 
 * Wind Turbine Database - Turbine Locations [(USWTDB; LBNL, USGS, AWEA)](https://eerscmap.usgs.gov/arcgis/rest/services/uswtdb/uswtdbDyn/MapServer)
 * Wind Turbine Location Data [(USFWS & FAA)](https://www.fws.gov/southwest/es/Energy_Wind_FAA.html)
@@ -71,8 +75,8 @@ We added a number of layers helpful in the wind siting process. Check out the fo
 
 # **Fixes**
 
-* Heatmap menu should not pop up without hovering directly over it 
+* Heatmap menu should not pop up without hovering directly over it
 * User-created parcels now have lot size and parcel markers again
-* Adjusted buildable acreage rounding 
+* Adjusted buildable acreage rounding
 * In parcel search, users must click 'Get Count' if search parameters updated
 * Fixed an issue where saved excel templates were sometimes not exporting data
