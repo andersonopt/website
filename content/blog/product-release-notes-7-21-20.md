@@ -35,15 +35,15 @@ Want to run some constraint mapping analysis on an area before you start searchi
 
 Using the new geo analysis prescan task, you can now run geo analysis-like evaluations before pulling in actual parcels.
 
-Recommended process: 
+Recommended process:
 
-* Create new project near to the area you want to evaluate using the prescan tool. 
-* Draw a polygon Drawing menu > User drawing tools > polygon icon to mark out the area of the map that you want to analyze. 
+* Create new project near to the area you want to evaluate using the prescan tool.
+* Draw a polygon Drawing menu > User drawing tools > polygon icon to mark out the area of the map that you want to analyze.
 * 
 
-## Save assets from a KMZ to project in AO
+## Save Assets from a KML
 
-View a kmz/kml in AO and save assets from the file to your project. If desired, map data fields to AO fields.
+We've added additional functionality to make it even easier to save assets from a KML (.kml) file to your projects in AO. Quickly save many assets at a time from a KML and map key fields to AO fields for easy data viewing, if desired.
 
 ## **New Map Layers**
 
@@ -51,7 +51,7 @@ View a kmz/kml in AO and save assets from the file to your project. If desired, 
 
 Renamed this layer (was previously called 'Protected Areas'), so that it's more clear what type of data it shows. Turn on this layer to see land that is designated as federal-/state-/Native American- owned lands.
 
-IMAGE
+![](/images/fed_state_lands.png)
 
 ### Soil Albedo
 
