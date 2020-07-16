@@ -30,7 +30,13 @@ title = "Home Page"
 
 ### Find the best sites for renewable development in minutes
 
-Expedite and simplify early-stage land siting activities to go from identifying an area of interest to evaluating actual parcels and analyzing site buildability in just a few clicks.
+Expedite and simplify early-stage land siting activities. Within minutes you can: 
+
+* Identify an area of interest
+* Find nearby land (see parcel boundaries and land owner information) 
+* Evaluate site buildability and create constraint maps 
+* Filter and sort parcels to find the highest value sites
+* Create reports and export data for downstream work
 
 {{< button "/solutions/prospect/" "Learn more →" >}} {{< /column >}} {{< /block >}} {{< block "services" >}} {{< column >}}
 
