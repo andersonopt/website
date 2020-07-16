@@ -49,12 +49,13 @@ others:
 
       Traditionally, moving into a new market can take several weeks while you find all of the right data and rebuild your siting approach. We have nationwide coverage, so you can move into a new market the same day and have a consistent process for siting no matter where you are. Whether you need to turnaround an RFP next week or are moving into a new market for the long-term, we can get you up and running for whatever you need.
   - thumbnail: "/images/Layers-new.png"
-    description: |-
-      ### See all relevant renewable siting data and layers in one place
-
-      Eliminate the need to collect and consolidate disparate GIS data sources. All key layers for renewable siting come pre-loaded, including wetlands, flood, tree cover, topo, bedrock, etc.
-
-      Have other internal data or layers that you want to use for siting? We can easily integrate custom data so that you can seamlessly site all in one platform.
+    description: "### All the data you need for renewable energy siting in one place\n\nEliminate
+      the need to collect and consolidate disparate GIS data sources. All key layers
+      needed for effective renewable siting come pre-loaded and ready to use: \n\n*
+      Grid infrastructure \n* Parcels \n* GIS layers (including topo, wetlands, flood,
+      tree cover, bedrock, etc.)\n\nHave other internal data or layers that you want
+      to use for siting? We can easily your data or other map layers so that you can
+      see everything in one platform."
   - thumbnail: "/images/GIS_Updated_Legend.png"
     description: |-
       ### Automate time-consuming environmental GIS analysis to quickly calculate buildability
