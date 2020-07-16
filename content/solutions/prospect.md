@@ -47,7 +47,7 @@ others:
     description: |-
       ### Quickly move into new markets
 
-      Traditionally, moving into a new market can take several weeks while you find all of the right data. AO Prospect has nationwide coverage, so you can move into a new market overnight.
+      Traditionally, moving into a new market can take several weeks while you find all of the right data and rebuild your siting approach. We have nationwide coverage, so you can move into a new market the same day and have a consistent process for siting no matter where you are. Whether it's needing to turnaround a quick RFP for a partner or moving into a new market for the long-term, we can get you up and running for whatever you need.
   - thumbnail: "/images/Layers-new.png"
     description: "### See all relevant renewable siting data and layers in one place\n\nEliminate
       the need to collect and consolidate disparate GIS data sources. All the layers
