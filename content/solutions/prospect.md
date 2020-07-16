@@ -60,11 +60,11 @@ others:
     description: |-
       ### Automate time-consuming environmental GIS analysis to quickly calculate buildability
 
-      Finding potential parcels and evaluating parcel quality and buildability can be tedious and time-consuming with traditional GIS programs. AO Prospect helps users calculate buildable acreage and create constraint maps for each parcel with just a few clicks.
+      Finding potential parcels and evaluating parcel quality and buildability can be tedious and time-consuming with traditional GIS programs. AO Prospect helps users automatically create constraint maps and calculate buildable acreage in just a few clicks.
 
       * Quickly identify potential parcels based on substation or line radius and minimum acreage.
-      * Calculate buildable area acreage and create hazard constraint maps.
-      * Sort and filter parcels based on buildable area.
+      * Calculate buildable acreage and create hazard constraint maps.
+      * Sort and filter parcels based on buildable area to hone in on highest value sites.
   - thumbnail: "/images/Landowner-new.png"
     description: |-
       ### Easily view and export landowner contact information for LOIs
