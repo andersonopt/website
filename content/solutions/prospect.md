@@ -54,8 +54,8 @@ others:
       needed for effective renewable siting come pre-loaded and ready to use: \n\n*
       Grid infrastructure \n* Parcels \n* GIS layers (including topo, wetlands, flood,
       tree cover, bedrock, etc.)\n\nHave other internal data or layers that you want
-      to use for siting? We can easily your data or other map layers so that you can
-      see everything in one platform."
+      to use for siting? We can easily integrate your data or other map layers so
+      that you can see everything in one platform."
   - thumbnail: "/images/GIS_Updated_Legend.png"
     description: |-
       ### Automate time-consuming environmental GIS analysis to quickly calculate buildability
