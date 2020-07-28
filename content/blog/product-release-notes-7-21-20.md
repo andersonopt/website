@@ -27,6 +27,8 @@ For example, tasks in the map sidebar now look like this:
 
 Create Project > Select Primary Asset:
 
+SCREENSHOT of TASKS (sidebar/below grid?)
+
 This is not the long-term redesigned look, but just a step to get us there more quickly. If you need any help finding something in the updated app interface, just reach out. In the long-run, tasks/the app interface will be much more intuitive, but
 
 ## NEW FEATURE: Geo Analysis Pre-scan
@@ -80,3 +82,4 @@ We added a number of layers helpful in the wind siting process. Check out the fo
 * Adjusted buildable acreage rounding
 * In parcel search, users must click 'Get Count' if search parameters updated
 * Fixed an issue where saved excel templates were sometimes not exporting data
+* Copy project function allows projects to be copied to other states again.
