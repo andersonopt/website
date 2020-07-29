@@ -43,18 +43,18 @@ Recommended process:
 * Draw a polygon Drawing menu > User drawing tools > polygon icon to mark out the area of the map that you want to analyze.
 * 
 
-## Updated Buildable Area Analysis 
+## Updated Buildable Area Analysis
 
-Renamed this feature from geo analysis to buildable area analysis and made some updates to the tool. 
+Renamed this feature from geo analysis to buildable area analysis and made some updates to the tool.
 
-* Updated Form 
+* Updated Form
 * Project geo analysis
 
 ## (Updated) Import KML Data
 
-We've added additional functionality to make it even easier to import a KML/KMZ file and save assets directly to your projects in AO. 
+We've added additional functionality to make it even easier to import a KML/KMZ file and save assets directly to your projects in AO.
 
-* Bulk import many assets at once 
+* Bulk import many assets at once
 * 
 
 ## **New Map Layers**
@@ -64,6 +64,12 @@ We've added additional functionality to make it even easier to import a KML/KMZ 
 Renamed this layer (was previously called 'Protected Areas'), so that it's more clear what type of data it shows. Turn on this layer to see land that is designated as federal-/state-/Native American- owned lands.
 
 ![](/images/fed_state_lands.png)
+
+### Building Footprints 
+
+This layer shows building locations across the U.S.. Make sure to zoom in close to the map to view the building polygons. 
+
+![](/images/building_footprints.png)
 
 ### Soil Albedo
 
