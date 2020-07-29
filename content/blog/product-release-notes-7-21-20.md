@@ -43,9 +43,19 @@ Recommended process:
 * Draw a polygon Drawing menu > User drawing tools > polygon icon to mark out the area of the map that you want to analyze.
 * 
 
-## Save Assets from a KML
+## Updated Buildable Area Analysis 
 
-We've added additional functionality to make it even easier to save assets from a KML (.kml) file to your projects in AO. Quickly save many assets at a time from a KML and map key fields to AO fields for easy data viewing, if desired.
+Renamed this feature from geo analysis to buildable area analysis and made some updates to the tool. 
+
+* Updated Form 
+* Project geo analysis
+
+## (Updated) Import KML Data
+
+We've added additional functionality to make it even easier to import a KML/KMZ file and save assets directly to your projects in AO. 
+
+* Bulk import many assets at once 
+* 
 
 ## **New Map Layers**
 
