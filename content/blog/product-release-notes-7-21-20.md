@@ -17,6 +17,8 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 # **Features and New Functionality**
 
+This was a biggest release to date. Check out all the new features and functionality to make sure you're siting as effectively as possible.
+
 ## App Interface Updates (screenshots, wait until UI tickets are fixed)
 
 As we head towards our longer-term app redesign, we made some interim changes to the structure of some of our core code, which will help us more quickly work towards the longer-term look and feel of the app.
