@@ -17,23 +17,19 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 # **Features and New Functionality**
 
-This was a biggest release to date. Check out all the new features and functionality to make sure you're siting as effectively as possible.
+_This was our biggest release to date! Read through to learn more about the new features and updates in this latest update._ 
 
-## App Interface Updates (screenshots, wait until UI tickets are fixed)
+## App Interface Updates
 
-As we head towards our longer-term app redesign, we made some interim changes to the structure of some of our core code, which will help us more quickly work towards the longer-term look and feel of the app.
+In order to get to our longer-term redesign, we needed to update how some of our code was structured. As a result, you'll see some updates to the app interface that are a stepping stone to get us toward our longer-term vision. Here are some of the main areas that changed.
 
-As a result, you'll see some changes to the app UI, but these are actually just a result of updating the code structure and not the longer-term app redesign, per se.
-
-For example, tasks in the map sidebar now look like this:
+The app interface for tasks will look a little different (again, this is just a stepping stone for us to get to the longer-term 'look').
 
 Create Project > Select Primary Asset:
 
 SCREENSHOT of TASKS (sidebar/below grid?)
 
-This is not the long-term redesigned look, but just a step to get us there more quickly. If you need any help finding something in the updated app interface, just reach out. In the long-run, tasks/the app interface will be much more intuitive, but
-
-## NEW FEATURE: Geo Analysis Pre-scan
+## NEW FEATURE: Pre-scan
 
 Want to run some constraint mapping analysis on an area before you start searching for parcels?
 
@@ -67,9 +63,9 @@ Renamed this layer (was previously called 'Protected Areas'), so that it's more 
 
 ![](/images/fed_state_lands.png)
 
-### Building Footprints 
+### Building Footprints
 
-This layer shows building locations across the U.S.. Make sure to zoom in close to the map to view the building polygons. 
+This layer shows building locations across the U.S.. Make sure to zoom in close to the map to view the building polygons.
 
 ![](/images/building_footprints.png)
 
@@ -92,6 +88,10 @@ We added a number of layers helpful in the wind siting process. Check out the fo
 * Wind Resources Onshore [(NREL; EIA)](https://www.eia.gov/maps/layer_info-m.php)
 
 ![](/images/windspeed.png)
+
+## Right-click to Zoom To Asset on Map
+
+![](/images/zoom_to.png)
 
 # **Fixes**
 
