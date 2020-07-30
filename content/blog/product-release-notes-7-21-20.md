@@ -17,7 +17,7 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 # **Features and New Functionality**
 
-_This was our biggest release to date! Read through to learn more about the new features and updates in this latest update._ 
+_This was our biggest release to date! Read through to learn more about the new features and updates in this latest update._
 
 ## App Interface Updates
 
@@ -54,6 +54,8 @@ We've added additional functionality to make it even easier to import a KML/KMZ 
 
 * Bulk import many assets at once
 * 
+
+Combo buffer?
 
 ## **New Map Layers**
 
