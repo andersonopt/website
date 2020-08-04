@@ -41,7 +41,8 @@ Recommended process:
 
 * Create new project near to the area you want to evaluate using the prescan tool.
 * Draw a polygon Drawing menu > User drawing tools >
-* 
+
+\**include how to toggle it on and off via the drawing menu
 
 ## Updated Buildable Area Analysis
 
