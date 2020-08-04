@@ -31,6 +31,8 @@ SCREENSHOT of TASKS (sidebar/below grid?)
 
 ## NEW: Pre-scan
 
+\*Buildable Area = purple
+
 Want to run some constraint mapping analysis on an area before you start searching for parcels?
 
 Using the new geo analysis prescan task, you can now run geo analysis-like evaluations before pulling in actual parcels.
