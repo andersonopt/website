@@ -29,7 +29,7 @@ Create Project > Select Primary Asset:
 
 SCREENSHOT of TASKS (sidebar/below grid?)
 
-## NEW FEATURE: Pre-scan
+## NEW: Pre-scan
 
 Want to run some constraint mapping analysis on an area before you start searching for parcels?
 
@@ -38,7 +38,7 @@ Using the new geo analysis prescan task, you can now run geo analysis-like evalu
 Recommended process:
 
 * Create new project near to the area you want to evaluate using the prescan tool.
-* Draw a polygon Drawing menu > User drawing tools > polygon icon to mark out the area of the map that you want to analyze.
+* Draw a polygon Drawing menu > User drawing tools >
 * 
 
 ## Updated Buildable Area Analysis
