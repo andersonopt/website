@@ -21,15 +21,25 @@ _This was our biggest release to date! Read through to learn more about the new 
 
 ## App Interface Updates
 
-In order to get to our longer-term redesign, we needed to update how some of our code was structured. As a result, you'll see some updates to the app interface that are a stepping stone to get us toward our longer-term vision. Here are some of the main areas that changed.
+In order to get to our longer-term redesign, we needed to update our code structure; as a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign. 
 
-The app interface for tasks will look a little different (again, this is just a stepping stone for us to get to the longer-term 'look').
+Here are some of the main areas that changed.
 
-Create Project > Select Primary Asset:
+**Selecting primary assets (create project flow)**
 
-SCREENSHOT of TASKS (sidebar/below grid?)
+Once you choose your method a pop up window will come up for you to select/create your asset(s).
 
-## NEW: Pre-scan
+![](/images/primary_asset_selection.png)
+
+**Tasks have a new (interim) look**  
+
+Tasks have been broken out into more modular/disparate task sections. This interim change will make it easier for us to setup tasks more intuitively in the long-term redesign.
+
+![](/images/parcel_search.png)
+
+![](/images/asset_tasks_map_sidebar.png)
+
+## NEW: Prescan
 
 \*Buildable Area = purple
 
@@ -44,12 +54,9 @@ Recommended process:
 
 \**include how to toggle it on and off via the drawing menu
 
-## Updated Buildable Area Analysis
+## Updated: Buildable Area Analysis 
 
-Renamed this feature from geo analysis to buildable area analysis and made some updates to the tool.
-
-* Updated Form
-* Project geo analysis
+The feature formerly known as "Geo Analysis" has a new name, new look, and more options to customize what constraints you analyze.
 
 ## (Updated) Import KML Data
 
@@ -58,7 +65,27 @@ We've added additional functionality to make it even easier to import a KML/KMZ 
 * Bulk import many assets at once
 * 
 
-Combo buffer?
+## Large Scale Project Tools 
+
+We introduced a few new tools to help users efficiently site for very large-scale projects. 
+
+### Combo Buffer
+
+Description
+
+SCREENSHOT
+
+### Large Parcel Search 
+
+Description
+
+SCREENSHOT
+
+### Project-Level Buildable Area Analysis
+
+Description
+
+SCREENSHOT
 
 ## **New Map Layers**
 
