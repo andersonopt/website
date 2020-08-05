@@ -49,11 +49,13 @@ Using the new Prescan tool, trace out an area to evaluate and create constraint 
 
 * First iteration of this feature is only available the project-level (not View Asset map).
 * Create new project near to the area you want to evaluate (can pick any project type, just pick a starting primary asset nearby the area you want to look at).
-* On the project map, draw a polygon (Drawing menu > User drawing tools > select one of the polygon icons
+* On the project map, **draw a polygon** (Drawing menu > User drawing tools > select one of the polygon icons
 
 ![](/images/draw_polygon.png)
 
-\**include how to toggle it on and off via the drawing menu
+![](/images/polygon_drawn_on_map.png)
+
+![](/images/prescan_task.png)**include how to toggle it on and off via the drawing menu
 
 ## (Updated) Buildable Area Analysis
 
