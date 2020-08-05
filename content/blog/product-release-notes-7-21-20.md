@@ -64,7 +64,7 @@ Want to evaluate what areas are most buildable _before_ you start searching for 
 
 Trace out an area to evaluate, then run the Prescan analysis, and see what areas to target for further siting and parcel searches.
 
-> (Note: The first iteration of this feature is only available the project-level (not View Asset map)).
+(Note: The first iteration of this feature is only available the project-level (not View Asset map)).
 
 * **Create new project** near to the area you want to evaluate (can pick any project type, just pick a starting primary asset nearby the area you want to look at).
 * On the project map, **draw a polygon** (Drawing menu > User drawing tools > select one of the polygon icons).
