@@ -39,9 +39,26 @@ _Tasks have been broken out into more modular/disparate task sections. This inte
 
 ![](/images/asset_tasks_map_sidebar.png)
 
-## (New Feature) Prescan
+(Updated) 
 
-\*Buildable Area = purple
+## (Updated) Buildable Area Analysis
+
+The feature formerly-known-as-'Geo Analysis' has a new name, new look, and more options to customize which constraints you analyze and how you analyze them. 
+
+* Choose exactly which hazards are analyzed (e.g. can completely turn off wetlands, if desired) 
+* Choose if you want to show hazard on constraint map but still consider it 'buildable' (checkbox below). 
+
+![](/images/buildablearea_form.png)
+
+More easily remove areas that were technically identified as 'buildable area' but that are too small/isolated for actual development. 
+
+* Select the 'Buildable Area Settings' tab in the new Buildable Area Analysis form (above) 
+* Specify a minimum buildable acreage size 
+* Specify how you want us to remove slivers (normal and aggressive)
+
+![](/images/buildable_area_settings.png)
+
+## (New Feature) Prescan 
 
 Want to evaluate what areas are most buildable before you start searching for parcels? You can now run a geo analysis-like evaluation on much larger geographic areas -- before you pull in parcels.
 
@@ -57,9 +74,9 @@ Using the new Prescan tool, trace out an area to evaluate and create constraint 
 
 ![](/images/prescan_task.png)**include how to toggle it on and off via the drawing menu
 
-## (Updated) Buildable Area Analysis
+![](/images/prescan_form.png)
 
-The feature formerly known as "Geo Analysis" has a new name, new look, and more options to customize what constraints you analyze.
+![](/images/prescan_constraint-map.png)
 
 ## (Updated) Import KML Data
 
