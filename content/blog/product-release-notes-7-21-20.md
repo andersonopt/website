@@ -17,13 +17,13 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 # **Features and New Functionality**
 
-_This was our biggest release to date. Read through to learn more about all the new features and updates available in our latest release._
+This was our biggest release to date. Read through to learn more about all the new features and updates available in our latest release.
 
 ## App Interface Updates
 
-_In order to get to our longer-term app redesign, we needed to update parts of our code structure to make the long-term changes feasible; as a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign, but we hope they'll already make the app simpler and easier to use._
+In order to get to our longer-term app redesign, we needed to update parts of our code structure to make the long-term changes feasible; as a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign, but we hope they'll already make the app simpler and easier to use.
 
-_Here are some of the main areas that changed._
+Here are some of the main areas that changed.
 
 **Selecting primary assets (create project flow)**
 
