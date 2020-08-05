@@ -21,40 +21,40 @@ This was our biggest release to date. Read through to learn more about all the n
 
 ## App Interface Updates
 
-In order to get to our longer-term app redesign, we needed to update parts of our code structure to make the long-term changes feasible; as a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign, but we hope they'll already make the app simpler and easier to use.
+In order to get to our longer-term app redesign, we needed to update parts of our code structure to make that longer-term vision feasible; as a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign, but we hope they'll already make the app simpler and easier to use.
 
-Here are some of the main areas that changed.
+Here are some of the areas of the app that might look a little different. 
 
-**Selecting primary assets (create project flow)**
+**Selecting primary assets when creating a project**
 
-Once you choose your method a pop up window will come up for you to select/create your asset(s).
+Once you choose how you want to 'Add Assets', a modal will pop up allowing you to select your assets.
 
 ![](/images/primary_asset_selection.png)
 
 **Tasks have a new (interim) look**
 
-_Tasks have been broken out into more modular/disparate task sections. This interim change will make it easier for us to make tasks more intuitive in the long-term redesign._
+Tasks have been broken out into more modular/disparate task sections. This interim change will make it easier for us to make tasks more intuitive in the long-term redesign.
 
 ![](/images/parcel_search.png)
 
-![](/images/asset_tasks_map_sidebar.png)
+Assets in the map sidebar:
 
-(Updated)
+![](/images/asset_tasks_map_sidebar.png)
 
 ## (Updated) Buildable Area Analysis
 
-The feature formerly-known-as-'Geo Analysis' has a new name, new look, and more options to customize which constraints you analyze and how you analyze them.
+The feature-formerly-known-as-'Geo Analysis' has a new name, new look, and more options to customize which constraints you analyze and how you analyze them.
 
 * Choose exactly which hazards are analyzed (e.g. can completely turn off wetlands, if desired)
-* Choose if you want to show hazard on constraint map but still consider it 'buildable' (checkbox below).
+* Option to analyze hazard on map but keep area included in buildable area calculations.
 
 ![](/images/buildablearea_form.png)
 
-More easily remove areas that were technically identified as 'buildable area' but that are too small/isolated for actual development.
+More easily remove sections of a site identified as buildable that are too small/isolated for actual development.
 
-* Select the 'Buildable Area Settings' tab in the new Buildable Area Analysis form (above)
-* Specify a minimum buildable acreage size
-* Specify how you want us to remove slivers (normal and aggressive)
+* In the new Buildable Area Analysis form, select the '**Buildable Area Settings**' tab
+* Specify a **minimum buildable acreage size**
+* Specify how you want us to **remove slivers** (normal and aggressive)
 
 ![](/images/buildable_area_settings.png)
 
@@ -62,7 +62,7 @@ More easily remove areas that were technically identified as 'buildable area' bu
 
 Want to evaluate what areas are most buildable _before_ you start searching for specific parcels? You can now run a buildable area analysis-like evaluation on much larger geographic areas -- before you pull in parcels.
 
-Trace out an area to evaluate, run Prescan, and see what areas to target for further siting.
+Trace out an area to evaluate, then run the Prescan analysis, and see what areas to target for further siting and parcel searches.
 
 > (Note: The first iteration of this feature is only available the project-level (not View Asset map)).
 
@@ -85,7 +85,7 @@ Trace out an area to evaluate, run Prescan, and see what areas to target for fur
 
 * It may take a few minutes for the analysis to start up, but it will begin to breakdown the polygon into separate sections and the constraint map will begin to load in.
 
-> > Depending on the size of your Prescan area, this analysis could take 30 min+. Since everything is running in the cloud, you can close the window, move to other tasks, etc. and the analysis will continue in the background.
+Depending on the size of your Prescan area, this analysis could take 30 min+. Since everything is running in the cloud, you can close the window, move to other tasks, etc. and the analysis will continue in the background.
 
 ![](/images/prescan_constraint-map.png)
 
