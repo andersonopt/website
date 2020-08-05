@@ -39,42 +39,53 @@ _Tasks have been broken out into more modular/disparate task sections. This inte
 
 ![](/images/asset_tasks_map_sidebar.png)
 
-(Updated) 
+(Updated)
 
 ## (Updated) Buildable Area Analysis
 
-The feature formerly-known-as-'Geo Analysis' has a new name, new look, and more options to customize which constraints you analyze and how you analyze them. 
+The feature formerly-known-as-'Geo Analysis' has a new name, new look, and more options to customize which constraints you analyze and how you analyze them.
 
-* Choose exactly which hazards are analyzed (e.g. can completely turn off wetlands, if desired) 
-* Choose if you want to show hazard on constraint map but still consider it 'buildable' (checkbox below). 
+* Choose exactly which hazards are analyzed (e.g. can completely turn off wetlands, if desired)
+* Choose if you want to show hazard on constraint map but still consider it 'buildable' (checkbox below).
 
 ![](/images/buildablearea_form.png)
 
-More easily remove areas that were technically identified as 'buildable area' but that are too small/isolated for actual development. 
+More easily remove areas that were technically identified as 'buildable area' but that are too small/isolated for actual development.
 
-* Select the 'Buildable Area Settings' tab in the new Buildable Area Analysis form (above) 
-* Specify a minimum buildable acreage size 
+* Select the 'Buildable Area Settings' tab in the new Buildable Area Analysis form (above)
+* Specify a minimum buildable acreage size
 * Specify how you want us to remove slivers (normal and aggressive)
 
 ![](/images/buildable_area_settings.png)
 
-## (New Feature) Prescan 
+## (New Feature) Prescan
 
-Want to evaluate what areas are most buildable before you start searching for parcels? You can now run a geo analysis-like evaluation on much larger geographic areas -- before you pull in parcels.
+Want to evaluate what areas are most buildable _before_ you start searching for specific parcels? You can now run a buildable area analysis-like evaluation on much larger geographic areas -- before you pull in parcels.
 
-Using the new Prescan tool, trace out an area to evaluate and create constraint mapping to hone in on the right areas to continue siting in.
+Trace out an area to evaluate, run Prescan, and see what areas to target for further siting.
 
-* First iteration of this feature is only available the project-level (not View Asset map).
-* Create new project near to the area you want to evaluate (can pick any project type, just pick a starting primary asset nearby the area you want to look at).
-* On the project map, **draw a polygon** (Drawing menu > User drawing tools > select one of the polygon icons
+> (Note: The first iteration of this feature is only available the project-level (not View Asset map)).
+
+* **Create new project** near to the area you want to evaluate (can pick any project type, just pick a starting primary asset nearby the area you want to look at).
+* On the project map, **draw a polygon** (Drawing menu > User drawing tools > select one of the polygon icons).
 
 ![](/images/draw_polygon.png)
 
 ![](/images/polygon_drawn_on_map.png)
 
-![](/images/prescan_task.png)**include how to toggle it on and off via the drawing menu
+* After drawing the polygon, select the hand icon on the map to turn off the drawing tool.
+* Pull up the Prescan tool by **left-clicking the polygon** > click **Run Task** > click **Project Tasks** > select **Prescan**
+
+![](/images/prescan_task.png)
+
+* Fill in your parameters for how you want to evaluate buildable area.
+* Click 'Run' to start the analysis
 
 ![](/images/prescan_form.png)
+
+* It may take a few minutes for the analysis to start up, but it will begin to breakdown the polygon into separate sections and the constraint map will begin to load in.
+
+> Depending on the size of your Prescan area, this analysis could take 30 min+. Since everything is running in the cloud, you can close the window, move to other tasks, etc. and the analysis will continue in the background.
 
 ![](/images/prescan_constraint-map.png)
 
