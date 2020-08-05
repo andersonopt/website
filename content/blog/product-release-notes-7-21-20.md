@@ -83,17 +83,22 @@ _(Note: The first iteration of this feature is only available the project-level 
 
 ![](/images/prescan_form.png)
 
-_It may take a few minutes for the analysis to start up, but it will begin to breakdown the polygon into separate sections and the constraint map will begin to load in._
+It may take a few minutes for the analysis to start up, but it will begin to breakdown the polygon into separate sections and the constraint map will begin to load in.
 
-Depending on the size of your Prescan area, this analysis could take 30 min+. Since everything is running in the cloud, you can close the window, move to other tasks, etc. and the analysis will continue in the background.
+For large Prescan areas, this task could take 30+ minutes to complete. You can close the project/window and the analysis will continue to run in the background. So, feel free to go take the dog for a walk and the analysis will be available when you return. 
 
 ![](/images/prescan_constraint-map.png)
 
-## (Updated) Import KML Data
+## (Updated) Import Assets from KML/KMZ
 
-We've added additional functionality to make it even easier to import a KML/KMZ file and save assets directly to your projects in AO.
+We've added additional functionality to make it easier to bulk import multiple assets from a KML/KMZ file to your AO account. 
 
-* Bulk import many assets at once
+* Drag and drop a KML/KMZ onto any map in AO
+* Window will pop up with option to filter which assets you want to import (or click 'Select All' to bring them all in.
+
+SCREENSHOT OF DATA TABLE 
+
+* (Optional) Map attribute data from KML file to appropriate fields in AO, if desired (or 'Skip' and we'll include that data in the 'Notes' and/or 'Description' column. 
 * 
 
 ## Large Scale Project Tools
