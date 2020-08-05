@@ -21,19 +21,19 @@ _This was our biggest release to date. Read through to learn more about all the 
 
 ## App Interface Updates
 
-In order to get to our longer-term app redesign, we needed to update parts of our code structure to make the long-term changes feasible; as a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign, but we hope they'll already make the app simpler and easier to use. 
+In order to get to our longer-term app redesign, we needed to update parts of our code structure to make the long-term changes feasible; as a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign, but we hope they'll already make the app simpler and easier to use.
 
 Here are some of the main areas that changed.
 
-**Selecting primary assets (create project flow)**
+##### **Selecting primary assets (create project flow)**
 
-Once you choose your method a pop up window will come up for you to select/create your asset(s).
+_Once you choose your method a pop up window will come up for you to select/create your asset(s)._
 
 ![](/images/primary_asset_selection.png)
 
-**Tasks have a new (interim) look**  
+##### **Tasks have a new (interim) look**
 
-Tasks have been broken out into more modular/disparate task sections. This interim change will make it easier for us to make tasks more intuitive in the long-term redesign.
+_Tasks have been broken out into more modular/disparate task sections. This interim change will make it easier for us to make tasks more intuitive in the long-term redesign._
 
 ![](/images/parcel_search.png)
 
@@ -43,18 +43,19 @@ Tasks have been broken out into more modular/disparate task sections. This inter
 
 \*Buildable Area = purple
 
-Want to evaluate what areas are most buildable before you start searching for parcels? You can now run a geo analysis-like evaluation on much larger geographic areas -- before you pull in parcels. 
+Want to evaluate what areas are most buildable before you start searching for parcels? You can now run a geo analysis-like evaluation on much larger geographic areas -- before you pull in parcels.
 
 Using the new Prescan tool, trace out an area to evaluate and create constraint mapping to hone in on the right areas to continue siting in.
 
-We will continue updating this tool, but for now, the first iteration of this feature is only available on an existing project. Follow the steps below to start using Prescan in your siting process. 
-
+* First iteration of this feature is only available the project-level (not View Asset map).
 * Create new project near to the area you want to evaluate (can pick any project type, just pick a starting primary asset nearby the area you want to look at).
 * On the project map, draw a polygon (Drawing menu > User drawing tools > select one of the polygon icons
 
+![](/images/draw_polygon.png)
+
 \**include how to toggle it on and off via the drawing menu
 
-## (Updated) Buildable Area Analysis 
+## (Updated) Buildable Area Analysis
 
 The feature formerly known as "Geo Analysis" has a new name, new look, and more options to customize what constraints you analyze.
 
@@ -65,9 +66,9 @@ We've added additional functionality to make it even easier to import a KML/KMZ 
 * Bulk import many assets at once
 * 
 
-## Large Scale Project Tools 
+## Large Scale Project Tools
 
-We introduced a few new tools to help users efficiently site for very large-scale projects. 
+We introduced a few new tools to help users efficiently site for very large-scale projects.
 
 ### Combo Buffer
 
@@ -75,7 +76,7 @@ Description
 
 SCREENSHOT
 
-### Large Parcel Search 
+### Large Parcel Search
 
 Description
 
