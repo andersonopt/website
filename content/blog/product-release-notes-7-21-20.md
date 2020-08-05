@@ -23,7 +23,7 @@ This was our biggest release to date. Read through to learn more about all the n
 
 In order to get to our longer-term app redesign, we needed to update parts of our code structure to make that longer-term vision feasible; as a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign, but we hope they'll already make the app simpler and easier to use.
 
-Here are some of the areas of the app that might look a little different. 
+Here are some of the areas of the app that might look a little different.
 
 **Selecting primary assets when creating a project**
 
@@ -64,7 +64,7 @@ Want to evaluate what areas are most buildable _before_ you start searching for 
 
 Trace out an area to evaluate, then run the Prescan analysis, and see what areas to target for further siting and parcel searches.
 
-(Note: The first iteration of this feature is only available the project-level (not View Asset map)).
+_(Note: The first iteration of this feature is only available the project-level (not View Asset map))._
 
 * **Create new project** near to the area you want to evaluate (can pick any project type, just pick a starting primary asset nearby the area you want to look at).
 * On the project map, **draw a polygon** (Drawing menu > User drawing tools > select one of the polygon icons).
