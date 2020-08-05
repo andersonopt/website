@@ -73,17 +73,17 @@ _(Note: The first iteration of this feature is only available the project-level 
 
 ![](/images/polygon_drawn_on_map.png)
 
-* After drawing the polygon, select the hand icon on the map to turn off the drawing tool.
+* After drawing the polygon, select the **hand icon** on the map to turn off the drawing tool.
 * Pull up the Prescan tool by **left-clicking the polygon** > click **Run Task** > click **Project Tasks** > select **Prescan**
 
 ![](/images/prescan_task.png)
 
 * Fill in your parameters for how you want to evaluate buildable area.
-* Click 'Run' to start the analysis
+* Click **Run** to start the analysis
 
 ![](/images/prescan_form.png)
 
-* It may take a few minutes for the analysis to start up, but it will begin to breakdown the polygon into separate sections and the constraint map will begin to load in.
+_It may take a few minutes for the analysis to start up, but it will begin to breakdown the polygon into separate sections and the constraint map will begin to load in._
 
 Depending on the size of your Prescan area, this analysis could take 30 min+. Since everything is running in the cloud, you can close the window, move to other tasks, etc. and the analysis will continue in the background.
 
