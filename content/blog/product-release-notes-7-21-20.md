@@ -25,13 +25,13 @@ In order to get to our longer-term app redesign, we needed to update parts of ou
 
 Here are some of the main areas that changed.
 
-##### **Selecting primary assets (create project flow)**
+**Selecting primary assets (create project flow)**
 
 _Once you choose your method a pop up window will come up for you to select/create your asset(s)._
 
 ![](/images/primary_asset_selection.png)
 
-##### **Tasks have a new (interim) look**
+**Tasks have a new (interim) look**
 
 _Tasks have been broken out into more modular/disparate task sections. This interim change will make it easier for us to make tasks more intuitive in the long-term redesign._
 
