@@ -85,7 +85,7 @@ Trace out an area to evaluate, run Prescan, and see what areas to target for fur
 
 * It may take a few minutes for the analysis to start up, but it will begin to breakdown the polygon into separate sections and the constraint map will begin to load in.
 
-> Depending on the size of your Prescan area, this analysis could take 30 min+. Since everything is running in the cloud, you can close the window, move to other tasks, etc. and the analysis will continue in the background.
+> > Depending on the size of your Prescan area, this analysis could take 30 min+. Since everything is running in the cloud, you can close the window, move to other tasks, etc. and the analysis will continue in the background.
 
 ![](/images/prescan_constraint-map.png)
 
