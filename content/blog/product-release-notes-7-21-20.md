@@ -21,13 +21,13 @@ _This was our biggest release to date. Read through to learn more about all the 
 
 ## App Interface Updates
 
-In order to get to our longer-term app redesign, we needed to update parts of our code structure to make the long-term changes feasible; as a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign, but we hope they'll already make the app simpler and easier to use.
+_In order to get to our longer-term app redesign, we needed to update parts of our code structure to make the long-term changes feasible; as a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign, but we hope they'll already make the app simpler and easier to use._
 
-Here are some of the main areas that changed.
+_Here are some of the main areas that changed._
 
 **Selecting primary assets (create project flow)**
 
-_Once you choose your method a pop up window will come up for you to select/create your asset(s)._
+Once you choose your method a pop up window will come up for you to select/create your asset(s).
 
 ![](/images/primary_asset_selection.png)
 
