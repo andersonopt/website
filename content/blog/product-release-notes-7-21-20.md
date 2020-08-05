@@ -17,11 +17,11 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 # **Features and New Functionality**
 
-_This was our biggest release to date! Read through to learn more about the new features and updates in this latest update._
+_This was our biggest release to date. Read through to learn more about all the new features and updates available in our latest release._
 
 ## App Interface Updates
 
-In order to get to our longer-term redesign, we needed to update our code structure; as a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign. 
+In order to get to our longer-term app redesign, we needed to update parts of our code structure to make the long-term changes feasible; as a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign, but we hope they'll already make the app simpler and easier to use. 
 
 Here are some of the main areas that changed.
 
@@ -33,28 +33,28 @@ Once you choose your method a pop up window will come up for you to select/creat
 
 **Tasks have a new (interim) look**  
 
-Tasks have been broken out into more modular/disparate task sections. This interim change will make it easier for us to setup tasks more intuitively in the long-term redesign.
+Tasks have been broken out into more modular/disparate task sections. This interim change will make it easier for us to make tasks more intuitive in the long-term redesign.
 
 ![](/images/parcel_search.png)
 
 ![](/images/asset_tasks_map_sidebar.png)
 
-## NEW: Prescan
+## (New Feature) Prescan
 
 \*Buildable Area = purple
 
-Want to run some constraint mapping analysis on an area before you start searching for parcels?
+Want to evaluate what areas are most buildable before you start searching for parcels? You can now run a geo analysis-like evaluation on much larger geographic areas -- before you pull in parcels. 
 
-Using the new geo analysis prescan task, you can now run geo analysis-like evaluations before pulling in actual parcels.
+Using the new Prescan tool, trace out an area to evaluate and create constraint mapping to hone in on the right areas to continue siting in.
 
-Recommended process:
+We will continue updating this tool, but for now, the first iteration of this feature is only available on an existing project. Follow the steps below to start using Prescan in your siting process. 
 
-* Create new project near to the area you want to evaluate using the prescan tool.
-* Draw a polygon Drawing menu > User drawing tools >
+* Create new project near to the area you want to evaluate (can pick any project type, just pick a starting primary asset nearby the area you want to look at).
+* On the project map, draw a polygon (Drawing menu > User drawing tools > select one of the polygon icons
 
 \**include how to toggle it on and off via the drawing menu
 
-## Updated: Buildable Area Analysis 
+## (Updated) Buildable Area Analysis 
 
 The feature formerly known as "Geo Analysis" has a new name, new look, and more options to customize what constraints you analyze.
 
