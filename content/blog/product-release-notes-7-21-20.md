@@ -67,12 +67,12 @@ _(Note: The first iteration of this feature is only available at the project-lev
 
 ![](/images/polygon_drawn_on_map.png)
 
-* After drawing the polygon, select the **hand icon** on the map to turn off the drawing tool.
-* Pull up the Prescan tool by **left-clicking the polygon** > click **Run Task** > click **Project Tasks** > select **Prescan**
+* After drawing the polygon, select the hand icon on the map to turn off the drawing tool.
+* Pull up the Prescan tool by left-clicking the polygon > click Run Task > click Project Tasks > select Prescan.
 
   ![](/images/prescan_task.png)
 * Fill in your parameters for how you want to evaluate buildable area.
-* Click **Run** to start the analysis
+* Click Run to start the analysis.
 
 ![](/images/prescan_form.png)
 
