@@ -60,8 +60,8 @@ Trace out an area to evaluate, then run the Prescan analysis, and see what areas
 
 _(Note: The first iteration of this feature is only available at the project-level (not yet available on the View Assets map))._
 
-* **Create new project** near to the area you want to evaluate (can pick any project type).
-* On the project map, **draw a polygon** (Drawing menu > User drawing tools > select one of the polygon icons).
+* Create a new project near to the area you want to evaluate (can pick any project type).
+* On the project map, draw a polygon (Drawing menu > User drawing tools > select one of the polygon icons in the design toolbar).
 
 ![](/images/draw_polygon.png)
 
