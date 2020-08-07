@@ -39,7 +39,7 @@ As a result, you'll see some interim updates to the app interface -- these chang
 
 The feature-formerly-known-as-'Geo Analysis' has a new name, new look, and more options to customize which constraints you analyze and how you analyze them.
 
-* Choose exactly which hazards are analyzed (e.g. can completely turn off wetlands, if desired)
+* Choose exactly which hazards are analyzed (e.g. can completely turn off wetlands, flood, or slope analysis, if desired)
 * Option to analyze hazard on map but keep area included in buildable area calculations.
 
 ![](/images/buildablearea_form.png)
