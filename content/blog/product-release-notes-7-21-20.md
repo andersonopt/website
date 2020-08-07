@@ -78,13 +78,13 @@ _(Note: The first iteration of this feature is only available at the project-lev
 
 It may take a few minutes for the analysis to start up, but it will begin to breakdown the polygon into separate sections and the constraint map will begin to load in.
 
-For large Prescan areas, the task could take 30+ minutes to complete. You can close the project/window and the analysis will continue to run in the background. So, feel free to go take the dog for a walk and the analysis will be available when you return.
+For large Prescan areas, this process could take upwards of 30+ minutes to complete. You can close the project/window and the analysis will continue to run in the background. So, feel free to go take the dog for a walk and the analysis will be available when you return.
 
 ![](/images/prescan_constraint-map.png)
 
 ## (Updated) Import Assets from KML/KMZ
 
-We've added additional functionality to make it easier to import assets from a KML/KMZ file.
+We've added additional functionality to make it easier to bulk import assets from a KML/KMZ file.
 
 **Bulk Import**
 
@@ -94,7 +94,7 @@ We've added additional functionality to make it easier to import assets from a K
 
 ![](/images/kml_import_window.png)
 
-* Map what each type of geometry represents in the original KML file to the asset type in AO (asset = land, transmission line, substation)
+* Map what each type of geometry represents in the original KML file to the asset type in AO (land, transmission line, substation)
 
   ![](/images/asset_mapping_kml_import.png)
 * _(Optional)_ Map attribute data fields from the original KML file to the respective AO fields, if desired. OR click 'Skip' and we'll include that data in the 'Notes' and/or 'Description' column for each asset).
