@@ -113,21 +113,24 @@ We've added additional functionality to make it easier to import assets from a K
 
 ![](/images/save_assets_kml.png)
 
-## Large Scale Project Tools
+## Large-Scale Project Tools
 
-We introduced a few new tools to help users efficiently site on very large-scale projects.
+We introduced new tools to help efficiently site on very large-scale projects.
 
 ### Combo Buffer
 
-Description
+Allows you to create a parcel search buffer around both transmission lines and substations in one project. 
 
-SCREENSHOT
+* In the Parcels list, scroll down to the Combo Buffer task
+* Enter a buffer distance for each type of asset that you want to search around
+* Click ‘Run Task’
+
+![](/images/combo_buffer.png)
+
+* This will add an orange buffer polygon around all applicable grid assets
+* ![](/images/combo_buffer_map.png)
 
 ### Large Parcel Search
-
-Description
-
-SCREENSHOT
 
 ### Project-Level Buildable Area Analysis
 
@@ -150,19 +153,19 @@ We've integrated in new grid infrastructure layers from OpenStreetMap -- an open
 
 ### Federal/State/Native American Owned Lands
 
-Renamed this layer (was previously called 'Protected Areas'), so that it's more clear what type of data it shows. Turn on this layer to see land that is designated as federal-/state-/Native American- owned lands.
+Turn on this layer to see federal, state, and native-owned land.
 
 ![](/images/fed_state_lands.png)
 
 ### Building Footprints
 
-This layer shows building locations across the U.S.. Make sure to zoom in close to the map to view the building polygons.
+This layer shows building locations across the U.S.. Make sure to zoom in to see this layer.
 
 ![](/images/building_footprints.png)
 
 ### Soil Albedo
 
-See how much solar radiation is reflected from the ground (particularly helpful for sites leveraging bifacial panels).
+See variances in reflected solar radiation from the ground.
 
 ![](/images/soilalbedo.png)
 
@@ -179,6 +182,8 @@ We added a number of layers helpful in the wind siting process. Check out the fo
 ![](/images/windspeed.png)
 
 ## Right-click to Zoom To Asset on Map
+
+In the asset list, right-click a row to access the new 'Zoom to' button and the project map will zoom to that asset.
 
 ![](/images/zoom_to.png)
 
