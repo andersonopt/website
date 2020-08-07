@@ -27,8 +27,6 @@ As a result, you'll see some interim updates to the app interface -- these chang
 
 **Selecting primary assets when creating a project**
 
-Here's the updated infter
-
 ![](/images/add_assets_updated.png)
 
 **Tasks have a new (interim) look**
