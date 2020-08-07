@@ -127,7 +127,9 @@ Allows you to create a parcel search buffer around both transmission lines and s
 
 ### Large Parcel Search
 
-In order to search very large geographic areas for parcels, we have to split up the search areas into smaller sections for ReportAll (our parcel data provider to process). This new large parcel search task automatically breaks up large search areas so that you can successfully search for parcels, even on very large projects.
+In order to search for parcels across a very large geographic area (e.g. a large line or sub project), we have to split up the search area into smaller sections for ReportAll (our parcel data provider ) to process. 
+
+This new large parcel search task automatically breaks up large search areas so that you can successfully search for parcels, even on very large projects.
 
 * To pull up the large parcel search task, left-click the orange buffer polygon on the map. 
 * Click Run Task > Project Tasks > Large Parcel Search
