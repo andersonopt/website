@@ -76,8 +76,7 @@ _(Note: The first iteration of this feature is only available the project-level 
 * After drawing the polygon, select the **hand icon** on the map to turn off the drawing tool.
 * Pull up the Prescan tool by **left-clicking the polygon** > click **Run Task** > click **Project Tasks** > select **Prescan**
 
-![](/images/prescan_task.png)
-
+  ![](/images/prescan_task.png)
 * Fill in your parameters for how you want to evaluate buildable area.
 * Click **Run** to start the analysis
 
@@ -85,7 +84,7 @@ _(Note: The first iteration of this feature is only available the project-level 
 
 It may take a few minutes for the analysis to start up, but it will begin to breakdown the polygon into separate sections and the constraint map will begin to load in.
 
-For large Prescan areas, this task could take 30+ minutes to complete. You can close the project/window and the analysis will continue to run in the background. So, feel free to go take the dog for a walk and the analysis will be available when you return.
+For large Prescan areas, the task could take 30+ minutes to complete. You can close the project/window and the analysis will continue to run in the background. So, feel free to go take the dog for a walk and the analysis will be available when you return.
 
 ![](/images/prescan_constraint-map.png)
 
@@ -96,8 +95,8 @@ We've added additional functionality to make it easier to import assets from a K
 **Bulk Import**
 
 * Drag and drop KML/KMZ file onto any AO map
-* Pop-up window will show all assets in file. 
-* Click 'Create Assets' to import all assets. (To import only select assets, use the filter tab or CTRL+Click to select multiple specific rows). 
+* Pop-up window will show all assets in file.
+* Click 'Create Assets' to import all assets. (To import only select assets, use the filter tab or CTRL+Click to select multiple specific rows).
 
 ![](/images/kml_import_window.png)
 
@@ -110,7 +109,7 @@ We've added additional functionality to make it easier to import assets from a K
 
 ![](/images/data_field_mapping_2.png)
 
-* Save assets by clicking 'Save'. 
+* Save assets by clicking 'Save'.
 
 ![](/images/save_assets_kml.png)
 
@@ -140,14 +139,14 @@ SCREENSHOT
 
 ### Substations and Transmission Line Layers (OpenStreetMap)
 
-We've integrated in new grid infrastructure layers from OpenStreetMap -- an open-source data site. 
+We've integrated in new grid infrastructure layers from OpenStreetMap -- an open-source data site.
 
-* Check out the new layers in the Layers menu and save assets directly from those layers 
-* 
+* Check out the new layers in the Layers menu and save assets directly from those layers to a project
+
+  ![](/images/osm_layers.png)
+* On an existing project, conduct a buffer asset search and choose which dataset you want to pull from (EIA or OpenStreetMap).
 
 ![](/images/osm_buffer_asset_search.png)
-
-text
 
 ### Federal/State/Native American Owned Lands
 
