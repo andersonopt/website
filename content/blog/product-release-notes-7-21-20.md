@@ -17,7 +17,7 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 # **Features and New Functionality**
 
-This was our biggest release to date. Check out all the new features and updates below. Don't hesitate to reach out if you'd like to learn more about any of these changes!
+This was our biggest release to date. Check out all the new features and updates below, and don't hesitate to reach out if you'd like to learn more about any of these changes!
 
 ## App Interface Updates
 
