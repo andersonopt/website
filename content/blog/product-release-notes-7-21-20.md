@@ -127,16 +127,32 @@ Allows you to create a parcel search buffer around both transmission lines and s
 
 ![](/images/combo_buffer.png)
 
-* This will add an orange buffer polygon around all applicable grid assets
-* ![](/images/combo_buffer_map.png)
+* This will add an orange buffer polygon around all applicable grid assets.
+
+![](/images/combo_buffer_map.png)
 
 ### Large Parcel Search
 
+In order to search very large geographic areas for parcels, we have to split up the search areas into smaller sections for ReportAll (our parcel data provider to process). This new large parcel search task automatically breaks up large search areas so that you can successfully search for parcels, even on very large projects.
+
+* To pull up the large parcel search task, left-click the orange buffer polygon on the map. 
+* Click Run Task > Project Tasks > Large Parcel Search
+
+![](/images/large_parcel_search_task-1.png)
+
+* In the modal, enter the minimum acreage (lot size) per parcel. 
+* Click 'Get Count' to see the max number of parcels that meet this criteria. 
+* Click 'Run Task' to pull the parcels into the project
+
 ### Project-Level Buildable Area Analysis
 
-Description
+For projects with a large number of parcels, use the new Project-Level Buildable Area Analysis task to create constraint maps for all parcels on a project. This version of the tool can use a more efficient method to queue up parcels so it will run much faster than using the standard buildable area analysis tool for a large volume of parcels. 
 
-SCREENSHOT
+* On a project, go to the Parcels list
+* Scroll below the parcels to access the Project Buildable Area Analysis task. 
+* Enter the parameters just as you normally would 
+
+![](/images/project_buildableareaanalysis.png)
 
 ## **New Map Layers**
 
