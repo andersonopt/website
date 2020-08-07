@@ -21,7 +21,7 @@ This was our biggest release to date. Check out all the new features and updates
 
 ## App Interface Updates
 
-In order to get to our longer-term app redesign, we needed to update parts of our code structure to make that longer-term vision feasible. 
+In order to get to our longer-term app redesign, we needed to update parts of our code structure to make that longer-term vision feasible.
 
 As a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign, but we hope they'll already make the app simpler and easier to use.
 
@@ -113,7 +113,7 @@ We introduced new tools to help efficiently site on very large-scale projects.
 
 ### Combo Buffer
 
-Allows you to create a parcel search buffer around both transmission lines and substations in one project. 
+Allows you to create a parcel search buffer around both transmission lines and substations in one project.
 
 * In the Parcels list, scroll down to the Combo Buffer task
 * Enter a buffer distance for each type of asset that you want to search around
@@ -127,17 +127,15 @@ Allows you to create a parcel search buffer around both transmission lines and s
 
 ### Large Parcel Search
 
-In order to search for parcels across a very large geographic area (e.g. a large line or sub project), we have to split up the search area into smaller sections for ReportAll (our parcel data provider ) to process. 
+The new 'large parcel search' task allows you to search for parcels even across large geographic areas with many lines and substations
 
-This new 'large parcel search' task automatically breaks up large search areas so that you can successfully search for parcels, even on very large projects.
-
-* To pull up the large parcel search task, left-click the orange buffer polygon on the map (created in the previous step). 
+* To pull up the large parcel search task, left-click the orange buffer polygon on the map (created in the previous step).
 * Click Run Task > Project Tasks > Large Parcel Search
 
 ![](/images/large_parcel_search_task-1.png)
 
-* In the modal, enter the minimum acreage (lot size) per parcel. 
-* Click 'Get Count' to see the max number of parcels that meet this criteria. 
+* In the modal, enter the minimum acreage (lot size) per parcel.
+* Click 'Get Count' to see the max number of parcels that meet this criteria.
 
 ![](/images/largeparcelsearch_getcount.png)
 
@@ -145,12 +143,12 @@ This new 'large parcel search' task automatically breaks up large search areas s
 
 ### Project-Level Buildable Area Analysis
 
-For projects with a large number of parcels, use the new Project-Level Buildable Area Analysis task to create constraint maps for all parcels on a project. 
+For projects with a large number of parcels, use the new Project-Level Buildable Area Analysis task to create constraint maps for all parcels on a project.
 
-This version of the tool can use a more efficient method to queue up parcels so it will run much faster than using the standard buildable area analysis tool for a large volume of parcels. 
+This version of the tool can use a more efficient method to queue up parcels so it will run much faster than using the standard buildable area analysis tool for a large volume of parcels.
 
 * On a project, go to the Parcels list.
-* Scroll down below the listed parcels to access the 'Project Buildable Area Analysis' task. 
+* Scroll down below the listed parcels to access the 'Project Buildable Area Analysis' task.
 * Enter the parameters just as you normally would in the geo analysis form.
 
 ![](/images/project_buildableareaanalysis.png)
