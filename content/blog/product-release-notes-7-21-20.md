@@ -149,9 +149,9 @@ For projects with a large number of parcels, use the new Project-Level Buildable
 
 This version of the tool can use a more efficient method to queue up parcels so it will run much faster than using the standard buildable area analysis tool for a large volume of parcels. 
 
-* On a project, go to the Parcels list
-* Scroll below the parcels to access the Project Buildable Area Analysis task. 
-* Enter the parameters just as you normally would 
+* On a project, go to the Parcels list.
+* Scroll down below the listed parcels to access the 'Project Buildable Area Analysis' task. 
+* Enter the parameters just as you normally would in the geo analysis form.
 
 ![](/images/project_buildableareaanalysis.png)
 
@@ -206,7 +206,7 @@ In the asset list, right-click a row to access the new 'Zoom to' button and the 
 
 # **Fixes**
 
-* Heatmap menu should not pop up without hovering directly over it
+* Fixed issue with heatmap menu popping up
 * User-created parcels now have lot size and parcel markers again
 * Adjusted buildable acreage rounding
 * In parcel search, users must click 'Get Count' if search parameters updated
