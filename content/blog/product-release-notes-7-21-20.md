@@ -23,8 +23,6 @@ This was our biggest release to date. Check out all the new features and updates
 
 In order to get to our longer-term app redesign, we needed to update parts of our code structure to make that longer-term vision feasible; as a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign, but we hope they'll already make the app simpler and easier to use.
 
-Here are some of the areas of the app that might look a little different.
-
 **Selecting primary assets when creating a project**
 
 Once you choose how you want to 'Add Assets', a modal will pop up allowing you to select your assets.
