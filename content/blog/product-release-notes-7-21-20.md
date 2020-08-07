@@ -46,9 +46,9 @@ The feature-formerly-known-as-'Geo Analysis' has a new name, new look, and more 
 
 More easily automatically filter out sections of buildable area that are too small/isolated for actual development.
 
-* In the new Buildable Area Analysis form, select the 'Buildable Area Settings' tab
-* Specify a minimum buildable acreage size
-* Specify how you want us to remove slivers (normal and aggressive)
+* In the new Buildable Area Analysis form, select the 'Buildable Area Settings' tab.
+* Specify a minimum buildable acreage size.
+* Specify how you want us to remove slivers (options: 'normal' and 'aggressive').
 
 ![](/images/buildable_area_settings.png)
 
