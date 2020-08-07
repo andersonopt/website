@@ -1,5 +1,5 @@
 +++
-date = 2020-07-21T06:00:00Z
+date = 2020-08-07T06:00:00Z
 featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
@@ -60,13 +60,13 @@ More easily remove sections of a site identified as buildable that are too small
 
 ## (New Feature) Prescan
 
-Want to evaluate what areas are most buildable _before_ you start searching for specific parcels? You can now run a buildable area analysis-like evaluation on much larger geographic areas -- before you pull in parcels.
+Want to evaluate what areas are most buildable _before_ you start searching for specific parcels? Now, you can now run a buildable area analysis evaluation on much larger geographic areas to help inform where you search for parcels.
 
 Trace out an area to evaluate, then run the Prescan analysis, and see what areas to target for further siting and parcel searches.
 
 _(Note: The first iteration of this feature is only available the project-level (not View Asset map))._
 
-* **Create new project** near to the area you want to evaluate (can pick any project type, just pick a starting primary asset nearby the area you want to look at).
+* **Create new project** near to the area you want to evaluate (can pick any project type).
 * On the project map, **draw a polygon** (Drawing menu > User drawing tools > select one of the polygon icons).
 
 ![](/images/draw_polygon.png)
@@ -91,19 +91,32 @@ For large Prescan areas, this task could take 30+ minutes to complete. You can c
 
 ## (Updated) Import Assets from KML/KMZ
 
-We've added additional functionality to make it easier to bulk import multiple assets from a KML/KMZ file to your AO account.
+We've added additional functionality to make it easier to import assets from a KML/KMZ file.
 
-* Drag and drop a KML/KMZ onto any map in AO
-* Window will pop up with option to filter which assets you want to import (or click 'Select All' to bring them all in.
+**Bulk Import**
 
-SCREENSHOT OF DATA TABLE
+* Drag and drop KML/KMZ file onto any AO map
+* Pop-up window will show all assets in file. 
+* Click 'Create Assets' to import all assets. (To import only select assets, use the filter tab or CTRL+Click to select multiple specific rows). 
 
-* (Optional) Map attribute data from KML file to appropriate fields in AO, if desired (or 'Skip' and we'll include that data in the 'Notes' and/or 'Description' column.
-* 
+![](/images/kml_import_window.png)
+
+* Map what each type of geometry represents in the original KML file to the asset type in AO (asset = land, transmission line, substation)
+
+  ![](/images/asset_mapping_kml_import.png)
+* _(Optional)_ Map attribute data fields from the original KML file to the respective AO fields, if desired. OR click 'Skip' and we'll include that data in the 'Notes' and/or 'Description' column for each asset).
+
+![](/images/datafield_mapping.png)
+
+![](/images/data_field_mapping_2.png)
+
+* Save assets by clicking 'Save'. 
+
+![](/images/save_assets_kml.png)
 
 ## Large Scale Project Tools
 
-We introduced a few new tools to help users efficiently site for very large-scale projects.
+We introduced a few new tools to help users efficiently site on very large-scale projects.
 
 ### Combo Buffer
 
