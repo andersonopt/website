@@ -138,6 +138,17 @@ SCREENSHOT
 
 ## **New Map Layers**
 
+### Substations and Transmission Line Layers (OpenStreetMap)
+
+We've integrated in new grid infrastructure layers from OpenStreetMap -- an open-source data site. 
+
+* Check out the new layers in the Layers menu and save assets directly from those layers 
+* 
+
+![](/images/osm_buffer_asset_search.png)
+
+text
+
 ### Federal/State/Native American Owned Lands
 
 Renamed this layer (was previously called 'Protected Areas'), so that it's more clear what type of data it shows. Turn on this layer to see land that is designated as federal-/state-/Native American- owned lands.
@@ -155,8 +166,6 @@ This layer shows building locations across the U.S.. Make sure to zoom in close 
 See how much solar radiation is reflected from the ground (particularly helpful for sites leveraging bifacial panels).
 
 ![](/images/soilalbedo.png)
-
-### Substations and Lines (OpenStreetMap)
 
 ### Wind Siting Layers
 
