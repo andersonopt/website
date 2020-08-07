@@ -21,21 +21,19 @@ This was our biggest release to date. Check out all the new features and updates
 
 ## App Interface Updates
 
-In order to get to our longer-term app redesign, we needed to update parts of our code structure to make that longer-term vision feasible; as a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign, but we hope they'll already make the app simpler and easier to use.
+In order to get to our longer-term app redesign, we needed to update parts of our code structure to make that longer-term vision feasible. 
+
+As a result, you'll see some interim updates to the app interface -- these changes are just a stepping stone to get us toward our longer-term redesign, but we hope they'll already make the app simpler and easier to use.
 
 **Selecting primary assets when creating a project**
 
-Once you choose how you want to 'Add Assets', a modal will pop up allowing you to select your assets.
+Here's the updated infter
 
 ![](/images/add_assets_updated.png)
 
 **Tasks have a new (interim) look**
 
-Tasks have been broken out into more modular/disparate task sections. This interim change will make it easier for us to make tasks more intuitive in the long-term redesign.
-
 ![](/images/parcel_search.png)
-
-Assets in the map sidebar:
 
 ![](/images/asset_tasks_map_sidebar.png)
 
