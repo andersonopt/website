@@ -28,9 +28,15 @@ title = "Home Page"
 
 ## AO Prospect
 
-### Expedite and simplify early-stage land siting
+### Find the best sites for renewable development in minutes
 
-Identify ideal parcels and automate complex GIS analysis to find high-quality sites for renewable development in just minutes.
+Expedite and simplify early-stage land siting activities. Within minutes you can: 
+
+* Identify an area of interest
+* Find nearby land (see parcel boundaries and land owner information) 
+* Evaluate site buildability and create constraint maps 
+* Filter and sort parcels to find the highest value sites
+* Create reports and export data for downstream work
 
 {{< button "/solutions/prospect/" "Learn more →" >}} {{< /column >}} {{< /block >}} {{< block "services" >}} {{< column >}}
 

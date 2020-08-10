@@ -47,23 +47,24 @@ others:
     description: |-
       ### Quickly move into new markets
 
-      Traditionally, moving into a new market can take several weeks while you find all of the right data. AO Prospect has nationwide coverage, so you can move into a new market overnight.
-  - thumbnail: "/images/Layers-new.png"
-    description: "### See all relevant renewable siting data and layers in one place\n\nEliminate
-      the need to collect and consolidate disparate GIS data sources. All the layers
-      needed for renewable siting come pre-loaded, including wetlands, flood, tree
-      cover, topo, bedrock, etc. \n\nHave other internal data that you want to see
-      on our platform? We can easily integrate custom data so you can work seamlessly
-      with all the right information. "
+      Traditionally, moving into a new market can take several weeks while you find all of the right data and rebuild your siting approach. We have nationwide coverage, so you can move into a new market the same day and have a consistent process for siting no matter where you are. Whether you need to turnaround an RFP next week or are moving into a new market for the long-term, we can get you up and running for whatever you need.
+  - thumbnail: "/images/layers_viewlist.png"
+    description: "### All the data you need for renewable energy siting in one place\n\nEliminate
+      the need to collect and consolidate disparate GIS data sources. All key layers
+      needed for effective renewable siting come pre-loaded and ready to use: \n\n*
+      Grid infrastructure \n* Parcels \n* GIS layers (including topo, wetlands, flood,
+      tree cover, bedrock, etc.)\n\nHave other internal data or layers that you want
+      to use for siting? We can easily integrate your data or other map layers so
+      that you have everything you need in one place."
   - thumbnail: "/images/GIS_Updated_Legend.png"
     description: |-
       ### Automate time-consuming environmental GIS analysis to quickly calculate buildability
 
-      Finding potential parcels and evaluating parcel quality and buildability can be tedious and time-consuming with traditional GIS programs. AO Prospect helps users calculate buildable acreage and create constraint maps for each parcel with just a few clicks.
+      Finding potential parcels and evaluating parcel quality and buildability can be tedious and time-consuming with traditional GIS programs. AO Prospect helps users automatically create constraint maps and calculate buildable acreage in just a few clicks.
 
       * Quickly identify potential parcels based on substation or line radius and minimum acreage.
-      * Calculate buildable area acreage and create hazard constraint maps.
-      * Sort and filter parcels based on buildable area.
+      * Calculate buildable acreage and create hazard constraint maps.
+      * Sort and filter parcels based on buildable area to hone in on highest value sites.
   - thumbnail: "/images/Landowner-new.png"
     description: |-
       ### Easily view and export landowner contact information for LOIs
