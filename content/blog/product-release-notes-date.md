@@ -20,15 +20,15 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 ## KML Export Settings
 
-Sub-Folders for Hazards 
+**Sub-folders for Hazards**
+
+Exported KML files now group hazards into sub-folders based on the hazard type, so all slope polygons are in a sub-folder for slope. This makes it simple to toggle on and off entire hazard categories in Google Earth. 
 
 ![](/images/kmlexport_hazardfolders.png)
 
-Group Hazards by owners and parcels 
+**Group hazards by owners and parcels**
 
-![](/images/groupbyowners_parcels.png) 
-
-![](/images/kmlexport_ownerparcel.png)
+![](/images/groupbyowners_parcels.png)
 
 ## **New Map Layers**
 
