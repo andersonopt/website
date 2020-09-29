@@ -48,7 +48,9 @@ In conjunction, we've added an additional setting to group layers by parcel. Use
 
 ## **New Map Layers**
 
-### School Districts 
+Check out some of the new nationwide layers that were added this month.
+
+### School Districts
 
 ![](/images/schooldistrictslayer.png)
 
@@ -56,6 +58,7 @@ In conjunction, we've added an additional setting to group layers by parcel. Use
 
 ![](/images/railroads.png)
 
-Fixes
+# Fixes
 
 * Added back parcel 'Owner' search to asset detail pop up (click on parcel, scroll down to asset tasks, and search by Owner).
+* Fixed issue where map address search sporadically failed to complete the search.
