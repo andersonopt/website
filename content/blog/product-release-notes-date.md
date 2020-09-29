@@ -66,6 +66,10 @@ Check out some of the new nationwide layers that were added this month.
 
 ### Cell Towers 
 
+![](/images/cell_towers_layer.png)
+
+RE-Powering Mapper 
+
 # Fixes
 
 * Added back parcel 'Owner' search to asset detail pop up (click on parcel, scroll down to asset tasks, and search by Owner).
