@@ -20,11 +20,13 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 We made a number of backend changes with this release that will continue to help us work towards the redesigned look and feel of the platform. We overhauled the map and updated quite a bit of code architecture. Not all the updates will be directly visible to users, but all of them help us build towards are larger redesign.
 
-You may noticed some interface changes already, however, including: 
+You may notice some interface changes from these updates, including:
 
-**Hidden sidebar/larger map:** 
+**Hidden sidebar/larger map:**
 
 ![](/images/side_bar_map.png)
+
+**Updated map pop ups:** 
 
 **More streamlined project creation flow:** In addition to these interface updates, we also worked on a few new features:
 
@@ -57,6 +59,12 @@ Check out some of the new nationwide layers that were added this month.
 ### Railroads
 
 ![](/images/railroads.png)
+
+### Mines and Mineral Resources 
+
+### Oil and Natural Gas Wells 
+
+### Cell Towers 
 
 # Fixes
 
