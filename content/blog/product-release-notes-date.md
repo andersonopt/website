@@ -62,7 +62,11 @@ Check out some of the new nationwide layers that were added this month.
 
 ### Mines and Mineral Resources 
 
+![](/images/mines_mineral_resources_layer.png)
+
 ### Oil and Natural Gas Wells 
+
+![](/images/wells_layer.png)
 
 ### Cell Towers 
 
