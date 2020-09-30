@@ -18,7 +18,7 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 # **Features and New Functionality**
 
-We made a number of backend changes with this release that will continue to help us work towards the redesigned look and feel of the platform. We overhauled the map and updated quite a bit of code architecture. Not all the updates will be directly visible to users, but all of them help us build towards are larger redesign.
+We made a number of backend changes with this release that will continue to help us work towards the redesigned look and feel of the platform. We overhauled the map backend and updated quite a bit of code architecture. Not all the updates will be directly visible to users, but all of them help us build towards are larger redesign.
 
 You may notice some interface changes from these updates, including:
 
