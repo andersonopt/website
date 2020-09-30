@@ -1,10 +1,10 @@
 +++
-date = ""
+date = 2020-10-01T06:00:00Z
 draft = true
 featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
-title = "Product Release Notes: [DATE]"
+title = "Product Release Notes: 10/1/20"
 [author]
 image = ""
 name = "Megan Kostanick"
@@ -26,9 +26,11 @@ You may notice some interface changes from these updates, including:
 
 ![](/images/side_bar_map.png)
 
-**Updated map pop ups:** 
+**Updated map pop-up windows:**
 
-**More streamlined project creation flow:** In addition to these interface updates, we also worked on a few new features:
+![](/images/updated_popup.png)
+
+**More streamlined project creation flow (AND 'County' added as a field):** In addition to these interface updates, we also worked on a few new features:
 
 ![](/images/createprojectflow.png)
 
@@ -38,13 +40,13 @@ You may notice some interface changes from these updates, including:
 
 **Sub-folders for Hazards**
 
-Exported KML files now group hazards into sub-folders based on the hazard type, so all slope polygons are in a sub-folder for slope. This makes it simple to toggle on and off entire hazard categories in Google Earth.
+Exported KML files now group hazards into sub-folders based on the hazard type, so all slope polygons are in a sub-folder for slope, etc. This makes it simple to turn on and off entire hazard categories in Google Earth at once (e.g. you can hide all slope hazard shading or just view the buildable area shading).
 
 ![](/images/kmlexport_hazardfolders.png)
 
 **Group hazards by owners and parcels**
 
-In conjunction, we've added an additional setting to group layers by parcel. Use this setting if you want to easily hide/show individual parcels (and all their associated layers).
+In conjunction, we've added an additional setting in the KML export modal to group exported layers by parcel. Use this setting if you want to easily hide/show individual parcels (and all their associated layers).
 
 ![](/images/groupbyowners_parcels.png)
 
@@ -60,19 +62,23 @@ Check out some of the new nationwide layers that were added this month.
 
 ![](/images/railroads.png)
 
-### Mines and Mineral Resources 
+### Mines and Mineral Resources
 
 ![](/images/mines_mineral_resources_layer.png)
 
-### Oil and Natural Gas Wells 
+### Oil and Natural Gas Wells
 
 ![](/images/wells_layer.png)
 
-### Cell Towers 
+### Cell Towers
 
 ![](/images/cell_towers_layer.png)
 
-RE-Powering Mapper 
+### RE-Powering Mapper 
+
+"[EPA’s RE-Powering Mapper](https://www.epa.gov/re-powering/re-powering-mapper "RE-Powering Mapper"), an online interactive web application, allows users to visualize EPA’s information about renewable energy potential on contaminated lands, landfills and mine sites."
+
+![](/images/re-powering_mapper_layer.png)
 
 # Fixes
 
