@@ -33,7 +33,17 @@ You may notice some interface changes from these updates, including:
 
 ![](/images/createprojectflow.png)
 
-## Update Buildable Area(?)
+## Modify Buildable Area Output 
+
+Want to manually update the buildable area output to remove a hazard not identified in the automated buildable area analysis? Now, you can mark up a parcel and update the buildable area constraint map and associated acreage! 
+
+Run the buildable area analysis on the parcel, and then go to the asset detail page (Click on the blue parcel marker, then click 'Select' in the pop up)
+
+![](/images/select_link.png)
+
+On the asset detail page map, turn on the drawing tools (Drawing menu > User Drawing Tools) 
+
+![](/images/drawing_tools_composite.png)
 
 ## KML Export Settings
 
@@ -73,7 +83,7 @@ Check out some of the new nationwide layers that were added this month.
 
 ![](/images/cell_towers_layer.png)
 
-### RE-Powering Mapper 
+### RE-Powering Mapper
 
 "[EPA’s RE-Powering Mapper](https://www.epa.gov/re-powering/re-powering-mapper "RE-Powering Mapper"), an online interactive web application, allows users to visualize EPA’s information about renewable energy potential on contaminated lands, landfills and mine sites."
 
