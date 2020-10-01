@@ -9,7 +9,7 @@ image = ""
 name = "Megan Kostanick"
 
 +++
-#### _Check out what's new in Anderson Optimization's latest release (v1.5.0)._
+#### _Check out what's new in Anderson Optimization's latest release (v1.6.0)._
 
 Want to make sure you're seeing the latest version of our site? [Follow the instructions here.](https://docs.andersonopt.com/Prospect/VersionReleaseNotes/latestversion/ "Get Latest Version")
 
@@ -17,7 +17,7 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 # **Features and New Functionality**
 
-This release contains primarily backend changes (changes you won't directly see as a user) that will continue to help us work towards the redesigned look and feel of the platform. We overhauled the map backend and updated quite a bit of code architecture. 
+This release contains primarily backend changes (changes you won't directly see as a user) that will continue to help us work towards the redesigned look and feel of the platform. We overhauled the map backend and updated quite a bit of code architecture.
 
 As always, we do our best to test updates before we release them, but if you notice anything that seems off or isn't working as expected, please let us know.
 
@@ -31,13 +31,13 @@ You may notice some interface changes, including:
 
 ![](/images/updated_popup.png)
 
-**More streamlined project creation flow (AND 'County' added as an optional field for organizing projects).** 
+**More streamlined project creation flow (AND 'County' added as an optional field for organizing projects).**
 
 ![](/images/createprojectflow.png)
 
 ## Modify Buildable Area Output
 
-Manually update the buildable area constraint map to manually remove hazards/features that should not be included as 'buildable'. 
+Manually update the buildable area constraint map to manually remove hazards/features that should not be included as 'buildable'.
 
 * Run the buildable area analysis on the parcel, and then go to the asset detail page (Click on the blue parcel marker, then click 'Select' in the pop up)
 
