@@ -17,13 +17,13 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 # **Features and New Functionality**
 
-We made a number of backend changes with this release that will continue to help us work towards the redesigned look and feel of the platform. We overhauled the map backend and updated quite a bit of code architecture. Not all the updates will be directly visible to users, but all of them help us build towards are larger redesign.
+This release contains primarily backend changes (changes you won't directly see as a user) that will continue to help us work towards the redesigned look and feel of the platform. We overhauled the map backend and updated quite a bit of code architecture. 
 
 As always, we do our best to test updates before we release them, but if you notice anything that seems off or isn't working as expected, please let us know.
 
-You may notice some interface changes in this update, including:
+You may notice some interface changes, including:
 
-**Hidden sidebar/larger map:**
+**Hidden sidebar/larger map:** we are planning to make the map even bigger - this is just a start!
 
 ![](/images/side_bar_map.png)
 
@@ -31,24 +31,23 @@ You may notice some interface changes in this update, including:
 
 ![](/images/updated_popup.png)
 
-**More streamlined project creation flow (AND 'County' added as a field):** In addition to these interface updates, we also worked on a few new features:
+**More streamlined project creation flow (AND 'County' added as an optional field for organizing projects).** 
 
 ![](/images/createprojectflow.png)
 
 ## Modify Buildable Area Output
 
-Want to manually update the buildable area output to remove a hazard not identified in the automated buildable area analysis? Now, you can mark up a parcel and update the buildable area constraint map and associated acreage!
+Manually update the buildable area constraint map to manually remove hazards/features that should not be included as 'buildable'. 
 
-Run the buildable area analysis on the parcel, and then go to the asset detail page (Click on the blue parcel marker, then click 'Select' in the pop up)
+* Run the buildable area analysis on the parcel, and then go to the asset detail page (Click on the blue parcel marker, then click 'Select' in the pop up)
 
 ![](/images/select_link.png)
 
-On the asset detail page map, turn on the drawing tools (Drawing menu > User Drawing Tools)
+* On the asset detail page map, turn on the drawing tools (Drawing menu > User Drawing Tools)
 
 ![](/images/drawing_tools_composite.png)
 
-Draw out the hazard that you want to remove from the buildable area.
-
+* Draw out the hazard that you want to remove from the buildable area.
 * Once the drawing is done, multi-select the two polygons (CTRL + click the buildable area polygon to select it as well) (OR go to Menu > Select All)
 * Once the polygons have been selected, click on 'Design' and then 'build composite geometry').
 
