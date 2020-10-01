@@ -1,9 +1,9 @@
 +++
-date = 2020-09-30T06:00:00Z
+date = 2001-01-01T07:00:00Z
 featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
-title = "Product Release Notes: 9/30/20"
+title = "Product Release Notes: 10/1/20"
 [author]
 image = ""
 name = "Megan Kostanick"
@@ -19,7 +19,7 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 We made a number of backend changes with this release that will continue to help us work towards the redesigned look and feel of the platform. We overhauled the map backend and updated quite a bit of code architecture. Not all the updates will be directly visible to users, but all of them help us build towards are larger redesign.
 
-As always, we do our best to test updates before we release them, but if you notice anything that seems off or isn't working as expected, please let me know! 
+As always, we do our best to test updates before we release them, but if you notice anything that seems off or isn't working as expected, please let us know.
 
 You may notice some interface changes in this update, including:
 
@@ -35,39 +35,35 @@ You may notice some interface changes in this update, including:
 
 ![](/images/createprojectflow.png)
 
-## Modify Buildable Area Output 
+## Modify Buildable Area Output
 
-Want to manually update the buildable area output to remove a hazard not identified in the automated buildable area analysis? Now, you can mark up a parcel and update the buildable area constraint map and associated acreage! 
+Want to manually update the buildable area output to remove a hazard not identified in the automated buildable area analysis? Now, you can mark up a parcel and update the buildable area constraint map and associated acreage!
 
 Run the buildable area analysis on the parcel, and then go to the asset detail page (Click on the blue parcel marker, then click 'Select' in the pop up)
 
 ![](/images/select_link.png)
 
-On the asset detail page map, turn on the drawing tools (Drawing menu > User Drawing Tools) 
+On the asset detail page map, turn on the drawing tools (Drawing menu > User Drawing Tools)
 
 ![](/images/drawing_tools_composite.png)
 
 Draw out the hazard that you want to remove from the buildable area.
 
-* Once the drawing is done, multi-select the two polygons (CTRL + click the buildable area polygon to select it as well) (OR go to Menu > Select All) 
-
-
+* Once the drawing is done, multi-select the two polygons (CTRL + click the buildable area polygon to select it as well) (OR go to Menu > Select All)
 * Once the polygons have been selected, click on 'Design' and then 'build composite geometry').
 
   ![](/images/design_compositegeometry_menu.png)
-
-
 * Click the bubble to the left of the user polygon drawing twice to indicate that it should be removed (from the original buildable area).
-* Click the bubble to the left of the Buildable area polygon once to indicate that the other polygon should be subtracted from this one. 
+* Click the bubble to the left of the Buildable area polygon once to indicate that the other polygon should be subtracted from this one.
 * Click 'Build'
 
 ![](/images/include_exclude.png)
 
-* To finish updating the buildable area constraint map, click 'Update Buildable Area' in the pop up. 
+* To finish updating the buildable area constraint map, click 'Update Buildable Area' in the pop up.
 
 ![](/images/updatebuildableareapopup.png)
 
-* This will change the styling of the green buildable area polygon to have a white border (indicating that it was manually modified from the automated output). 
+* This will change the styling of the green buildable area polygon to have a white border (indicating that it was manually modified from the automated output).
 
 ![](/images/updated_constraintmap.png)
 
