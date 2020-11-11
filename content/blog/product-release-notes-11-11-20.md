@@ -17,8 +17,15 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 # **Features and New Functionality**
 
-This release conta
+## Enhanced Data Tables 
+
+Checkboxes
+
+## Layer Pop Up Windows
+
+Project Tasks - Have Moved 
 
 # Fixes
 
-* Adde
+* Fixed APN search 
+* Added additional support for additional KML/KMZ folder structures.
