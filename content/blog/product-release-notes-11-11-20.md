@@ -17,15 +17,22 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 # **Features and New Functionality**
 
-## Enhanced Data Tables 
+## Enhanced Data Tables
 
 Checkboxes
 
 ## Layer Pop Up Windows
 
-Project Tasks - Have Moved 
+Project Tasks - Have Moved
+
+## Create Project Flow 
+
+* performance/loading
+* Updated stepper 
 
 # Fixes
 
-* Fixed APN search 
-* Added additional support for additional KML/KMZ folder structures.
+* Added additional support for additional KML/KMZ folder structures
+* Fixed APN search when creating a project from a parcel ID
+* Adjusted map zooming behavior for new projects
+* Addressed timing issues so that project tasks and lat/long coordinates should be visible when project first loads
