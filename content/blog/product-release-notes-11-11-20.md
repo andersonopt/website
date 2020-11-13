@@ -21,13 +21,13 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 Checkboxes
 
-## Project Tasks
+## Project tasks (Parcel Search and Buildable Area Analysis) have moved
+
+Eventually these tasks will be available directly from a sidebar on the map, but as we work through the redesign, we've moved the tasks to the new 'See Actions' button (still on the Parcels tab).
 
 ![](/images/project-tasks_seeactionsbutton.png)
 
 ## Layer Pop Up Windows
-
-Project Tasks - Have Moved
 
 ## 'Create Project' Flow Updates
 
