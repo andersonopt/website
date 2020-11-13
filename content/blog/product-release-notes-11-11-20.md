@@ -17,17 +17,24 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 # **Features and New Functionality**
 
-## Enhanced Data Tables
+## Enhanced asset tables
 
-Checkboxes
+We have started a series of updates to the asset tables across the platform. More changes to come soon!
 
-## Project tasks (Parcel Search and Buildable Area Analysis) have moved
+* Added checkboxes for easier row selection. 
+* Updated UI/tab UI 
+
+![](/images/table_updates_checkboxes.png)
+
+## Tasks (Parcel Search and Buildable Area Analysis, etc.) have a new home
 
 Eventually these tasks will be available directly from a sidebar on the map, but as we work through the redesign, we've moved the tasks to the new 'See Actions' button (still on the Parcels tab).
 
 ![](/images/project-tasks_seeactionsbutton.png)
 
-## Layer Pop Up Windows
+## View multiple layers at once more easily with enhanced pop-up info windows
+
+Updated the layer pop-up 
 
 ## 'Create Project' Flow Updates
 
