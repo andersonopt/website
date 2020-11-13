@@ -1,9 +1,9 @@
 +++
-date = 2020-11-12T07:00:00Z
+date = 2020-11-13T07:00:00Z
 featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
-title = "Product Release Notes: 11/11/20"
+title = "Product Release Notes: 11/13/20"
 [author]
 image = ""
 name = "Megan Kostanick"
@@ -21,14 +21,19 @@ Want to make sure you're seeing the latest version of our site? [Follow the inst
 
 Checkboxes
 
+## Project Tasks
+
 ## Layer Pop Up Windows
 
 Project Tasks - Have Moved
 
-## Create Project Flow 
+## 'Create Project' Flow Updates
 
-* performance/loading
-* Updated stepper 
+Made improvements to asset map loading speed. 
+
+Updated the 'create project' flow, so that it steps you through each step to create a project, defaults to the map view, and 
+
+![](/images/create_project_form_1.png)
 
 # Fixes
 
