@@ -23,6 +23,8 @@ Checkboxes
 
 ## Project Tasks
 
+![](/images/project-tasks_seeactionsbutton.png)
+
 ## Layer Pop Up Windows
 
 Project Tasks - Have Moved
