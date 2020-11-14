@@ -44,6 +44,12 @@ Updated the 'create project' flow, so that it steps you through each step to cre
 
 ![](/images/create_project_form_1.png)
 
+# New Layers 
+
+Water Table Depth
+
+![](/images/water_table_depth_layer.png)
+
 # Fixes
 
 * Added additional support for additional KML/KMZ folder structures
