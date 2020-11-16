@@ -38,7 +38,7 @@ We have started a series of updates to the data tables across the platform. More
 
 ![](/images/table_updates_checkboxes.png)
 
-## Easily view attribute data from multiple layers at once
+## Easily view attribute data for multiple layers at once
 
 When multiple layers are enabled on the map, the layer pop-up window now displays tabs for each layer. 
 
