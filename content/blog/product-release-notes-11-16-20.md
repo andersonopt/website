@@ -24,7 +24,7 @@ _As always, we do our best to test updates before we release them, but please le
 Eventually these tasks will be available directly from a sidebar on the map, but as we work through the redesign, we've moved the tasks to the new 'See Actions' button.
 
 * On a project, go to the Parcels tab
-* Click 'See Actions' 
+* Click the blue 'See Actions' button
 * Tasks available include, Parcel Search, Create Combo Buffer, and Project Buildable Area Analysis
 
 ![](/images/project-tasks_seeactionsbutton.png)
