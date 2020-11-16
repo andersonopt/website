@@ -48,7 +48,7 @@ When multiple layers are enabled on the map, the layer pop-up window now display
 
 ![](/images/layer_pop_up_tabs.png)
 
-## 'Create Project' Flow Updates
+## 'Create Project' flow updates
 
 * Improved asset map loading speed in updated 'Create project' flow
 * Defaulted the 'add assets' step to the map view 
