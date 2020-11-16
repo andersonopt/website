@@ -50,9 +50,9 @@ When multiple layers are enabled on the map, the layer pop-up window now display
 
 ## 'Create Project' Flow Updates
 
-* Improved asset map loading speed in updated 'Create project' flow. 
-* Defaulted the 'add assets' step to the map view. 
-* Updated user interface
+* Improved asset map loading speed in updated 'Create project' flow
+* Defaulted the 'add assets' step to the map view 
+* Updated user interface between steps
 
 ![](/images/create_project_form_1.png)
 
