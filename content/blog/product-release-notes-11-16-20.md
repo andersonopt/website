@@ -43,8 +43,8 @@ We have started a series of updates to the data tables across the platform. More
 When multiple layers are enabled on the map, the layer pop-up window now displays tabs for each layer. 
 
 * Turn on desired layers from the Layers menu
-* Click on the map to see attribute info about the layers
-* In the layer pop up window, click to the tab of interest to view data about that layer
+* Click on the map to see layer attribute info for that area
+* In the layer pop-up window, click to the tab of interest to view data about that layer
 
 ![](/images/layer_pop_up_tabs.png)
 
