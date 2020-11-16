@@ -13,6 +13,8 @@ name = "Megan Kostanick"
 
 Want to make sure you're seeing the latest version of our site? [Follow the instructions here.](https://docs.andersonopt.com/Prospect/VersionReleaseNotes/latestversion/ "Get Latest Version")
 
+_As always, we do our best to test updates before we release them, but please let us know if anything seems off or isn't working as expected._
+
 ***
 
 # **Features and New Functionality**
@@ -64,7 +66,7 @@ Click to the tab of interest to see more info about that layer.
 
 # Fixes
 
-* Added additional support for additional KML/KMZ folder structures
-* Fixed APN search when creating a project from a parcel ID
+* Added integration support for additional KML/KMZ data folder structures
+* Fixed APN in 'create project' flow
 * Adjusted map zooming behavior for new projects
 * Addressed timing issues so that project tasks and lat/long coordinates should be visible when project first loads
