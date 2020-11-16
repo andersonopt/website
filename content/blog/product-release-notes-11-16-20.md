@@ -21,7 +21,7 @@ _As always, we do our best to test updates before we release them, but please le
 
 ## Tasks now under 'See Actions' button
 
-Eventually these tasks will be available directly from a sidebar on the map, but as we work through the redesign, we've moved the tasks to the new 'See Actions' button for now. 
+Eventually these tasks will be available directly from a sidebar on the map, but as we work through the redesign, we've moved the tasks to the new 'See Actions' button.
 
 * Go to the Parcels tab
 * Click 'See Actions' 
