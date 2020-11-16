@@ -33,7 +33,7 @@ Eventually these tasks will be available directly from a sidebar on the map, but
 
 We have started a series of updates to the data tables across the platform. More changes to come soon!
 
-* Added checkboxes for easier row selection.
+* Added checkboxes for easier row selection
 * Updated the interface
 
 ![](/images/table_updates_checkboxes.png)
