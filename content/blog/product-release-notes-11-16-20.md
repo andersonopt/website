@@ -70,5 +70,5 @@ When multiple layers are enabled on the map, the layer pop-up window now display
 
 * Added integration support for additional KML/KMZ data folder structures
 * Fixed APN search in 'create project' flow
-* Adjusted map zooming behavior for new projects
-* Addressed timing issues so that project tasks and lat/long coordinates should be visible when project first loads
+* Adjusted map zooming behavior on newly created projects
+* Addressed sporadic timing issues on newly created projects so that project tasks and lat/long coordinates should be visible when project first loads
