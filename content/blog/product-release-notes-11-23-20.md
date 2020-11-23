@@ -19,13 +19,17 @@ _As always, we do our best to test updates before we release them, but please le
 
 # **Features and New Functionality**
 
-## Buildable Area Analysis and Prescan - New Layers
+## Analyze New Layers: Buildable Area Analysis and Prescan 
 
-We've added a few new layers to the automated Buildable Area Analysis tool. You can now analyze these hazards and set custom setbacks around each: 
+We've added a few new layers to the automated Buildable Area Analysis and Prescan forms. You can now analyze the following hazards and add custom setbacks for each layer: 
 
-* Roads 
-* Buildings 
-* Railroads 
+* Roads
+* Buildings
+* Railroads
 * Airports
 
 ![](/images/infrastructure_settings_baa.png)
+
+Here's an example constraint map with the new layers: 
+
+![](/images/baa_map_infrastructure.png)
