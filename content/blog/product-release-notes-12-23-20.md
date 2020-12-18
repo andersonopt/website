@@ -1,6 +1,5 @@
 +++
 date = 2020-12-23T07:00:00Z
-draft = true
 featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
