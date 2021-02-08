@@ -1,9 +1,9 @@
 +++
-date = 2020-12-23T07:00:00Z
+date = 2021-02-10T07:00:00Z
 featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
-title = "Product Release Notes: 12/23/20"
+title = "Product Release Notes: 2/10/21"
 [author]
 image = ""
 name = "Megan Kostanick"
@@ -19,13 +19,21 @@ _As always, we do our best to test updates before we release them, but please le
 
 # **Features and New Functionality**
 
+## Export Button
+
+As part of the redesign, we've added a new ['Exports' button](https://docs.andersonopt.com/prospect/export-project-data "'Exports' button") with each of the export options listed in one place. Well almost...the PDF Report tool is still available under the map toolbar > menu > report. We'll be moving that to the new Export button as a later update.
+
+![](/images/exportbutton.png)
+
 ## Improved Map Pop-Ups
 
-* Drag and drop pop ups 
-* Easily close out all pop up tabs
+Based on your feedback, we've made some changes so that pop-ups on the map are a bit more user-friendly. We added the additional functionality: 
+
+* Drag and drop pop-ups
+* Close out all layer tabs in a pop-up window with a single click
 * Moved trash can icon to main asset pop up menu
 
-Export button
+![](/images/one-click-close.png)
 
 ## Fixes
 
