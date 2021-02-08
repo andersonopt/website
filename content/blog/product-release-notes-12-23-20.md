@@ -27,9 +27,12 @@ As part of the redesign, we've added a new ['Exports' button](https://docs.ander
 
 ## Improved Map Pop-Ups
 
-Based on your feedback, we've made some changes so that pop-ups on the map are a bit more user-friendly. We added the additional functionality: 
+Based on your feedback, we've made some changes so that pop-ups on the map are a bit more user-friendly. We added the additional functionality:
 
 * Drag and drop pop-ups
+
+![](/images/drag-drop-popups.png)
+
 * Close out all layer tabs in a pop-up window with a single click
 * Moved trash can icon to main asset pop up menu
 
