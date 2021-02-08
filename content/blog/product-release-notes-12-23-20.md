@@ -19,6 +19,27 @@ _As always, we do our best to test updates before we release them, but please le
 
 # **Features and New Functionality**
 
+## Updated Parcel Search
+
+We updated our parcel search tools 
+
+### New parcel search fields/options
+
+Updated Parcel Search 
+
+Reverse owner search 
+
+Polygon search
+
+### New parcel attribute columns
+
+* **Last Updated (ReportAll)** - shows the year and quarter that ReportAll last refreshed their parcel data (typically at the county-level)
+* For counties
+  * **Zoning** - for counties that track and store a 'zoning' attribute this will be displayed
+  * Legal Description - 
+  * Land Market Value
+  * School District ID
+
 ## Export Button
 
 As part of the redesign, we've added a new ['Exports' button](https://docs.andersonopt.com/prospect/export-project-data "'Exports' button") with each of the export options listed in one place. Well almost...the PDF Report tool is still available under the map toolbar > menu > report. We'll be moving that to the new Export button as a later update.
@@ -34,12 +55,22 @@ Based on your feedback, we've made some changes so that pop-ups on the map are a
 ![](/images/drag-drop-popups.png)
 
 * Close out all layer tabs in a pop-up window with a single click
-* Moved trash can icon to main asset pop up menu
 
 ![](/images/one-click-close.png)
 
+* Moved trashcan icon to main asset pop-up menu
+
+![](/images/trach-icon-pop-up.png)
+
+## New Map Layers 
+
+* BLM Administrative Units 
+
 ## Fixes
 
-* Add fix for a Google Maps bug that sometimes caused the map to move around on click
-* Filter + rate
-* Fixed APN search option when creating a new land project
+* Added back map layer functionality for some impacted layers after a server upgrade broke some existing functionality: legend, clicks, pop-up window info should all function as expected in the main application.
+* Added a fix for a Google Maps bug that sometimes caused the map to jump around when clicking on the map. 
+* Users should now be able to 'copy' geometry from uploaded KMZ
+* Fixed project so that rating filtered assets doesn't remove the filter
+* Fixed APN search in 'create project' flow
+* 
