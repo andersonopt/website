@@ -40,6 +40,8 @@ Polygon search
   * Land Market Value
   * School District ID
 
+### New Grouping Columns 
+
 ## Export Button
 
 As part of the redesign, we've added a new ['Exports' button](https://docs.andersonopt.com/prospect/export-project-data "'Exports' button") with each of the export options listed in one place. Well almost...the PDF Report tool is still available under the map toolbar > menu > report. We'll be moving that to the new Export button as a later update.
