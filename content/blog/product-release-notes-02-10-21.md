@@ -71,7 +71,7 @@ These columns replace the old 'Desired Project Acres' parcel search to give user
 
 ![](/images/new_fields_2.png)
 
-## Find (almost) all exports in one place
+## (Almost) all exports in one place
 
 As part of the redesign, we've added a new ['Exports' button](https://docs.andersonopt.com/prospect/export-project-data "'Exports' button") to the project so that each of the export options is listed in one place. Well almost...the PDF Report tool is still available under the map toolbar (map toolbar > menu > report). We'll be moving that to the new export button as a future update.
 
@@ -95,9 +95,8 @@ Based on your feedback, we've made some changes so that pop-ups on the map are e
 
 ## Fixes
 
-* Added back map layer functionality for some impacted layers after a server upgrade broke some existing functionality: legend, clicks, pop-up window info should all function as expected in the main application.
-* Added a fix for a Google Maps bug that sometimes caused the map to jump around when clicking on the map.
-* Users should now be able to 'copy' geometry from uploaded KMZ
+* Adjusted some layer functionality functionality that broke when we upgraded to a new layer server
+* Added a fix for Google Maps library bug that occasionally caused the map to jump around on click
+* Users should now be able to 'copy' geometry from uploaded KMZ file layer
 * Fixed project so that rating filtered assets doesn't remove the filter
 * Fixed APN search in 'create project' flow
-* 
