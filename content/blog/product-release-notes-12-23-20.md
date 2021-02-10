@@ -64,6 +64,14 @@ Here are just a few of the new columns that may be available for parcel data:
 
 ### New Grouping Columns
 
+These columns replace the old 'Desired Project Acres' parcel search to give users more visibility into all parcels searched:
+
+* **Total Acres - Same Land Owner:** Sum of lot size for parcels with same owner name (on project)
+* **Total Acres - Contiguous Parcels:** Sum of lot size for contiguous parcel group
+* **Contiguous Parcels - Group Number:** Group ID for a set of contiguous parcels
+
+![](/images/new_fields_2.png)
+
 ## Export Button
 
 As part of the redesign, we've added a new ['Exports' button](https://docs.andersonopt.com/prospect/export-project-data "'Exports' button") with each of the export options listed in one place. Well almost...the PDF Report tool is still available under the map toolbar > menu > report. We'll be moving that to the new Export button as a later update.
