@@ -19,28 +19,47 @@ _As always, we do our best to test updates before we release them, but please le
 
 # **Features and New Functionality**
 
-## Updated Parcel Search
+## Updated Parcel Search + Parcel Data
 
-We updated our parcel search tools 
+This release included a number of updates to the parcel search tools across the platform. Check out some of the updates below. 
 
 ### New parcel search fields/options
 
-Updated Parcel Search 
+We updated a number of parcel search fields including:
 
-Reverse owner search 
-
-Polygon search
+* [Land Use Code ](https://docs.andersonopt.com/prospect/search-for-land/add-parcels-based-on-proximity-min.-lot-size/search-for-parcels-by-owner-name)
+* [School District ID](https://docs.andersonopt.com/prospect/search-for-land/add-parcels-based-on-proximity-min.-lot-size/search-for-parcels-by-owner-name)
+* [Search for other parcels from same owner (on the map)](https://docs.andersonopt.com/prospect/search-for-land/add-parcels-based-on-proximity-min.-lot-size/search-for-parcels-by-owner-name#search-for-other-parcels-from-same-owner-of-existing-parcel-on-project)
 
 ### New parcel attribute columns
 
-* **Last Updated (ReportAll)** - shows the year and quarter that ReportAll last refreshed their parcel data (typically at the county-level)
-* For counties
-  * **Zoning** - for counties that track and store a 'zoning' attribute this will be displayed
-  * Legal Description - 
-  * Land Market Value
-  * School District ID
+**Parcel Name**
 
-### New Grouping Columns 
+* Updated the parcel name field to show the owner name(s) (if known) and the lot size - removed County to shorten name length (you can still view the parcel's county by turning on the county column in the parcels list) 
+
+**Parsed/Normalized Land Owner Columns**
+
+In addition to the standard 'Owner' column, we've also created some additional columns that will break out ownership information into more parsed and normalized columns so that it's easier to upload into a CRM or mailing system. 
+
+* Owner (full owner name as listed from county) 
+* Primary Owner 
+* Primary Owner First Name
+* Primary Owner Last Name 
+
+![](/images/owner_fields.png)
+
+ReportAll (our parcel data provider) made available some additional fields that we can pull in for new parcel searches. These will not be retroactively added, but will apply for any newly added parcels 
+
+* **Last Updated (ReportAll)** - shows the year and quarter that ReportAll last refreshed that county's parcel data. 
+
+These columns (and other new ones) will show up as selectable columns in the parcels list if there is data in the column for at least one of the parcels on the project. 
+
+* **Zoning** - for counties that track and store a 'zoning' attribute this will be displayed
+* Legal Description -
+* Land Market Value
+* School District ID
+
+### New Grouping Columns
 
 ## Export Button
 
@@ -64,14 +83,14 @@ Based on your feedback, we've made some changes so that pop-ups on the map are a
 
 ![](/images/trach-icon-pop-up.png)
 
-## New Map Layers 
+## New Map Layers
 
-* BLM Administrative Units 
+* BLM Administrative Units
 
 ## Fixes
 
 * Added back map layer functionality for some impacted layers after a server upgrade broke some existing functionality: legend, clicks, pop-up window info should all function as expected in the main application.
-* Added a fix for a Google Maps bug that sometimes caused the map to jump around when clicking on the map. 
+* Added a fix for a Google Maps bug that sometimes caused the map to jump around when clicking on the map.
 * Users should now be able to 'copy' geometry from uploaded KMZ
 * Fixed project so that rating filtered assets doesn't remove the filter
 * Fixed APN search in 'create project' flow
