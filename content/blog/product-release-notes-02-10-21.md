@@ -19,7 +19,7 @@ _As always, we do our best to test updates before we release them, but please le
 
 # **Features and New Functionality**
 
-## Updated Parcel Search + Parcel Data
+## Updated parcel search and parcel attribute columns
 
 This release included a number of updates to the parcel search tools across the platform. Check out some of the updates below. 
 
@@ -62,7 +62,7 @@ Here are just a few of the new columns that may be available for parcel data:
 
 ![](/images/new_columns.png)
 
-### New Grouping Columns
+### Parcel Grouping Columns
 
 These columns replace the old 'Desired Project Acres' parcel search to give users more visibility into all parcels searched:
 
@@ -72,13 +72,13 @@ These columns replace the old 'Desired Project Acres' parcel search to give user
 
 ![](/images/new_fields_2.png)
 
-## Export Button
+## Find (almost) all exports in one place
 
 As part of the redesign, we've added a new ['Exports' button](https://docs.andersonopt.com/prospect/export-project-data "'Exports' button") to the project so that each of the export options is listed in one place. Well almost...the PDF Report tool is still available under the map toolbar (map toolbar > menu > report). We'll be moving that to the new export button as a future update.
 
 ![](/images/exportbutton.png)
 
-## Improved Map Pop-Ups
+## Improved map/layer pop-ups
 
 Based on your feedback, we've made some changes so that pop-ups on the map are easier to use:
 
@@ -93,10 +93,6 @@ Based on your feedback, we've made some changes so that pop-ups on the map are e
 * Moved trashcan icon to main asset pop-up menu
 
 ![](/images/trach-icon-pop-up.png)
-
-## New Map Layers
-
-* BLM Administrative Units
 
 ## Fixes
 
