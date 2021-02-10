@@ -42,22 +42,25 @@ We updated a number of parcel search fields including:
 In addition to the standard 'Owner' column, we've also created some additional columns that will break out ownership information into more parsed and normalized columns so that it's easier to upload into a CRM or mailing system. 
 
 * Owner (full owner name as listed from county) 
-* Primary Owner 
+* Owner Group - designates company, gov, person, etc.
+* Primary Owner / Company Name
 * Primary Owner First Name
 * Primary Owner Last Name 
 
 ![](/images/owner_fields_new.png)
 
-ReportAll (our parcel data provider) made available some additional fields that we can pull in for new parcel searches. These will not be retroactively added, but will apply for any newly added parcels 
+ReportAll (our parcel data provider) made available some additional fields that we can pull in for new parcel searches. Columns will not show up retroactively, but will apply for any newly added parcels moving forward. _Note: columns will show up as selectable if there is data for that column for at least 1 parcel on the project._ 
+
+Here are just a few of the new columns that may be available for parcel data:
 
 * **Last Updated (ReportAll)** - shows the year and quarter that ReportAll last refreshed that county's parcel data. 
+* **Zoning** 
+* **Legal Description**
+* **Land Market Value**
+* **School District ID**
+* **Muni Name**
 
-These columns (and other new ones) will show up as selectable columns in the parcels list if there is data in the column for at least one of the parcels on the project. 
-
-* **Zoning** - for counties that track and store a 'zoning' attribute this will be displayed
-* Legal Description -
-* Land Market Value
-* School District ID
+![](/images/new_columns.png)
 
 ### New Grouping Columns
 
