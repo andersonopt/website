@@ -29,7 +29,7 @@ We updated a number of parcel search fields including:
 
 * [Land Use Code ](https://docs.andersonopt.com/prospect/search-for-land/add-parcels-based-on-proximity-min.-lot-size/search-for-parcels-by-owner-name)
 * [School District ID](https://docs.andersonopt.com/prospect/search-for-land/add-parcels-based-on-proximity-min.-lot-size/search-for-parcels-by-owner-name)
-* [Search for other parcels from same owner (on the map)](https://docs.andersonopt.com/prospect/search-for-land/add-parcels-based-on-proximity-min.-lot-size/search-for-parcels-by-owner-name#search-for-other-parcels-from-same-owner-of-existing-parcel-on-project "Search for other parcels from same owner (on the map)")
+* [Search for other parcels from same owner (on the map)](https://docs.andersonopt.com/prospect/search-for-land/add-parcels-based-on-proximity-min.-lot-size/search-for-parcels-by-owner-name)
 
 ### New parcel attribute columns
 
