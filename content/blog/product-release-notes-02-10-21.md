@@ -52,7 +52,7 @@ ReportAll (our parcel data provider) made available some additional fields that 
 
 Here are just a few of the new columns that may be available for parcel data:
 
-* **Last Updated (ReportAll)** - shows the year and quarter that ReportAll last refreshed that county's parcel data. 
+* **Last Updated (ReportAll)** - year and quarter that ReportAll last received updated data from county 
 * **Zoning** 
 * **Legal Description**
 * **Land Market Value**
