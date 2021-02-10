@@ -9,7 +9,7 @@ image = ""
 name = "Megan Kostanick"
 
 +++
-#### **Check out what's new in Anderson Optimization's latest release (v2.0.9).**
+#### **Check out what's new in Anderson Optimization's latest release (v2.1.0).**
 
 Want to make sure you're seeing the latest version of our site? [Follow the instructions here.](https://docs.andersonopt.com/Prospect/VersionReleaseNotes/latestversion/ "Get Latest Version")
 
