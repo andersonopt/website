@@ -35,7 +35,7 @@ We updated a number of parcel search fields including:
 
 **Parcel Name**
 
-* Updated the parcel name field to show the owner name(s) (if known) and the lot size - removed County to shorten name length (you can still view the parcel's county by turning on the county column in the parcels list) 
+Updated the parcel name field to show the owner name(s) (if known) and the lot size - removed County to shorten name length (you can still view the parcel's county by turning on the county column in the parcels list) 
 
 **Parsed/Normalized Land Owner Columns**
 
@@ -74,15 +74,15 @@ These columns replace the old 'Desired Project Acres' parcel search to give user
 
 ## Export Button
 
-As part of the redesign, we've added a new ['Exports' button](https://docs.andersonopt.com/prospect/export-project-data "'Exports' button") with each of the export options listed in one place. Well almost...the PDF Report tool is still available under the map toolbar > menu > report. We'll be moving that to the new Export button as a later update.
+As part of the redesign, we've added a new ['Exports' button](https://docs.andersonopt.com/prospect/export-project-data "'Exports' button") to the project so that each of the export options is listed in one place. Well almost...the PDF Report tool is still available under the map toolbar (map toolbar > menu > report). We'll be moving that to the new export button as a future update.
 
 ![](/images/exportbutton.png)
 
 ## Improved Map Pop-Ups
 
-Based on your feedback, we've made some changes so that pop-ups on the map are a bit more user-friendly. We added the additional functionality:
+Based on your feedback, we've made some changes so that pop-ups on the map are easier to use:
 
-* Drag and drop pop-ups
+* Drag and drop pop-ups on the map
 
 ![](/images/drag-drop-popups.png)
 
