@@ -25,7 +25,7 @@ This release included a number of updates to the parcel search tools across the 
 
 ### New parcel search fields/options
 
-We updated a number of parcel search fields including:
+We updated a number of parcel search fields in the [advanced search section](https://docs.andersonopt.com/prospect/search-for-land/add-parcels-based-on-proximity-min.-lot-size/search-for-parcels-by-owner-name), including:
 
 * [Land Use Code ](https://docs.andersonopt.com/prospect/search-for-land/add-parcels-based-on-proximity-min.-lot-size/search-for-parcels-by-owner-name)
 * [School District ID](https://docs.andersonopt.com/prospect/search-for-land/add-parcels-based-on-proximity-min.-lot-size/search-for-parcels-by-owner-name)
