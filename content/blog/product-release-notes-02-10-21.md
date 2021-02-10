@@ -35,7 +35,7 @@ We updated a number of parcel search fields in the [advanced search section](htt
 
 **Parcel Name**
 
-Updated the parcel name field to show the owner name(s) (if known) and the lot size - removed County to shorten name length (you can still view the parcel's county by turning on the county column in the parcels list) 
+Updated the parcel name field to show the owner name(s) (if known) and the lot size - removed 'county' to shorten name length (you can still view the parcel's county by turning on the county column in the parcels list - parcels list > Columns > check box for 'County') 
 
 **Parsed/Normalized Land Owner Columns**
 
