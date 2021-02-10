@@ -46,7 +46,7 @@ In addition to the standard 'Owner' column, we've also created some additional c
 * Primary Owner First Name
 * Primary Owner Last Name 
 
-![](/images/owner_fields.png)
+![](/images/owner_fields_new.png)
 
 ReportAll (our parcel data provider) made available some additional fields that we can pull in for new parcel searches. These will not be retroactively added, but will apply for any newly added parcels 
 
