@@ -41,10 +41,10 @@ Updated the parcel name field to show the owner name(s) (if known) and the lot s
 
 In addition to the standard 'Owner' column, we've also created some additional columns that will break out ownership information into more parsed and normalized columns so that it's easier to upload into a CRM or mailing system. 
 
-* Owner Group - designates company, gov, person, etc.
-* Primary Owner / Company Name
-* Primary Owner First Name
-* Primary Owner Last Name 
+* Owner Group - indicates what entity type the owner is: company, gov, person, etc.
+* Primary Owner / Company Name - parsed, includes proper capitalization, consistent formatting
+* Primary Owner First Name - breaks out just the first name, normal capitalization, etc.
+* Primary Owner Last Name - breaks out just the first name, normal capitalization, etc.
 
 ![](/images/owner_fields_new.png)
 
