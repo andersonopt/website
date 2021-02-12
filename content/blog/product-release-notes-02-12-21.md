@@ -1,9 +1,9 @@
 +++
-date = 2021-02-11T07:00:00Z
+date = 2021-02-12T07:00:00Z
 featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
-title = "Product Release Notes: 2/11/21"
+title = "Product Release Notes: 2/12/21"
 [author]
 image = ""
 name = "Megan Kostanick"
@@ -21,13 +21,12 @@ _As always, we do our best to test updates before we release them, but please le
 
 ## Updated parcel search and parcel attribute columns
 
-This release included a number of updates to the parcel search tools across the platform. Check out some of the updates below. 
+This release included a number of updates to the parcel search tools across the platform. Check out some of the updates below.
 
 ### New parcel search fields/options
 
 We updated a number of parcel search fields in the [advanced search section](https://docs.andersonopt.com/prospect/search-for-land/add-parcels-based-on-proximity-min.-lot-size/search-for-parcels-by-owner-name), including:
 
-* [Land Use Code ](https://docs.andersonopt.com/prospect/search-for-land/add-parcels-based-on-proximity-min.-lot-size/search-for-parcels-by-owner-name)
 * [School District ID](https://docs.andersonopt.com/prospect/search-for-land/add-parcels-based-on-proximity-min.-lot-size/search-for-parcels-by-owner-name)
 * [Search for other parcels from same owner (on the map)](https://docs.andersonopt.com/prospect/search-for-land/add-parcels-based-on-proximity-min.-lot-size/search-for-parcels-by-owner-name)
 
@@ -35,25 +34,25 @@ We updated a number of parcel search fields in the [advanced search section](htt
 
 **Parcel Name**
 
-Updated the parcel name field to show the owner name(s) (if known) and the lot size - removed 'county' to shorten name length (you can still view the parcel's county by turning on the county column in the parcels list - parcels list > Columns > check box for 'County') 
+Updated the parcel name field to show the owner name(s) (if known) and the lot size - removed 'county' to shorten name length (you can still view the parcel's county by turning on the county column in the parcels list - parcels list > Columns > check box for 'County')
 
 **Parsed/Normalized Land Owner Columns**
 
-In addition to the standard 'Owner' column, we've also created some additional columns that will break out ownership information into more parsed and normalized columns so that it's easier to upload into a CRM or mailing system. 
+In addition to the standard 'Owner' column, we've also created some additional columns that will break out ownership information into more parsed and normalized columns so that it's easier to upload into a CRM or mailing system.
 
-* Owner Group - indicates what entity type the owner is: company, gov, person, etc.
-* Primary Owner / Company Name - parsed, includes proper capitalization, consistent formatting
-* Primary Owner First Name - breaks out just the first name, normal capitalization, etc.
-* Primary Owner Last Name - breaks out just the first name, normal capitalization, etc.
+* **Owner Group** - indicates what entity type the owner is: company, gov, person, etc.
+* **Primary Owner / Company Name** - parsed, includes proper capitalization, consistent formatting
+* **Primary Owner First Name** - breaks out just the first name, normal capitalization, etc.
+* **Primary Owner Last Name** - breaks out just the first name, normal capitalization, etc.
 
 ![](/images/owner_fields_new.png)
 
-ReportAll (our parcel data provider) made available some additional fields that we can pull in for new parcel searches. Columns will not show up retroactively, but will apply for any newly added parcels moving forward. _Note: columns will show up as selectable if there is data for that column for at least 1 parcel on the project._ 
+ReportAll (our parcel data provider) made available some additional fields that we can pull in for new parcel searches. Columns will not show up retroactively, but will apply for any newly added parcels moving forward. _Note: columns will show up as selectable if there is data for that column for at least 1 parcel on the project._
 
 Here are just a few of the new columns that may be available for parcel data:
 
-* **Last Updated (ReportAll)** - year and quarter that ReportAll last received updated data from county 
-* **Zoning** 
+* **Last Updated (ReportAll)** - year and quarter that ReportAll last received updated data from county
+* **Zoning**
 * **Legal Description**
 * **Land Market Value**
 * **School District ID**
