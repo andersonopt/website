@@ -1,9 +1,9 @@
 +++
-date = 2021-02-12T07:00:00Z
+date = 2021-02-15T18:45:57Z
 featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
-title = "Product Release Notes: 2/12/21"
+title = "Product Release Notes: 2/15/21"
 [author]
 image = ""
 name = "Megan Kostanick"
@@ -42,12 +42,15 @@ In addition to the standard 'Owner' column, we've also created some additional c
 
 * **Owner Group** - indicates what entity type the owner is: company, gov, person, etc.
 * **Primary Owner / Company Name** - parsed, includes proper capitalization, consistent formatting
-* **Primary Owner First Name** - breaks out just the first name, normal capitalization, etc.
-* **Primary Owner Last Name** - breaks out just the first name, normal capitalization, etc.
+* **Secondary Owner** (if app.)
+* **Primary Owner First Name** 
+* **Primary Owner Last Name**
+* **Secondary Owner First Name** 
+* **Secondary Owner Last Name** 
 
 ![](/images/owner_fields_new.png)
 
-ReportAll (our parcel data provider) made available some additional fields that we can pull in for new parcel searches. Columns will not show up retroactively, but will apply for any newly added parcels moving forward. _Note: columns will show up as selectable if there is data for that column for at least 1 parcel on the project._
+ReportAll (our parcel data provider) made some additional fields available  that we can pull in for new parcel searches if there is data for those attributes in the county dataset. Columns will not show up retroactively, but will apply for any newly added parcels moving forward. _Note: columns will show up as selectable if there is data for that column for at least 1 parcel on the project._
 
 Here are just a few of the new columns that may be available for parcel data:
 
