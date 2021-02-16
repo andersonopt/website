@@ -11,8 +11,6 @@ name = "Megan Kostanick"
 +++
 #### **Check out what's new in Anderson Optimization's latest release (v2.1.0).**
 
-Want to make sure you're seeing the latest version of our site? [Follow the instructions here.](https://docs.andersonopt.com/Prospect/VersionReleaseNotes/latestversion/ "Get Latest Version")
-
 _As always, we do our best to test updates before we release them, but please let us know if anything seems off or isn't working as expected._
 
 ***
@@ -43,10 +41,10 @@ In addition to the standard 'Owner' column, we've also created some additional c
 * **Owner Group** - indicates what entity type the owner is: company, gov, person, etc.
 * **Primary Owner / Company Name** - parsed, includes proper capitalization, consistent formatting
 * **Secondary Owner** (if app.)
-* **Primary Owner First Name** 
+* **Primary Owner First Name**
 * **Primary Owner Last Name**
-* **Secondary Owner First Name** 
-* **Secondary Owner Last Name** 
+* **Secondary Owner First Name**
+* **Secondary Owner Last Name**
 
 ![](/images/owner_fields_new.png)
 
