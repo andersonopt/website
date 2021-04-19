@@ -27,7 +27,9 @@ Click to expand/collapse the new drawer (or drag and drop drawer to desired heig
 
 ![](/images/drawer_view.png)
 
-## Updated Project Map Buttons
+## Updated buttons on project
+
+![](/images/new_columns_menu.png)
 
 ADD INFO HERE 
 
