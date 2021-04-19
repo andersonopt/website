@@ -27,6 +27,14 @@ Click to expand/collapse the new drawer (or drag and drop drawer to desired heig
 
 ![](/images/drawer_view.png)
 
+## Updated Project Map Buttons
+
+ADD INFO HERE 
+
+## Edit style of objects on map + save templates
+
+ADD INFO HERE
+
 ## Updated asset detail page
 
 The new asset detail page automatically opens as a new tab (and can be accessed from the asset pop up on any map or the asset list). 
@@ -55,3 +63,6 @@ Locate land by township, range, and section with this new layer. Try switching t
 ![](/images/plssviewer.png)
 
 # Fixes
+
+* Fixed full screen map mode on asset detail page so that map toolbar is still visible
+* Added message in UI for failed APN search
