@@ -17,17 +17,41 @@ _As always, we do our best to test updates before we release them, but please le
 
 # **Features and New Functionality**
 
-## Update 1
+## New Project View - Larger Map
+
+We heard your feedback and are working to make the project map view much larger. This latest release includes a larger project map with asset tables/lists that can be pulled up over the project map when needed. 
+
+![](/images/new_project_map_view.png)
+
+Click to expand/collapse the new drawer (or drag and drop drawer to desired height) to see exactly what data you need to see: 
+
+![](/images/drawer_view.png)
+
+## Updated asset detail page
+
+The new asset detail page automatically opens as a new tab (and can be accessed from the asset pop up on any map or the asset list). 
+
+![](/images/asset_detail_new_tab.png)
+
+This will open the new asset detail page. On this page, users can edit details about an asset, save notes, etc. 
+
+![](/images/asset_new_tab.png)
 
 ## New US Nationwide Layers
 
-### New Solar Irradiance Layers
+### Updated Solar Resource/Irradiance Layers
 
-We added more details versions of the previous Solar Resource Potential layers with more detailed layers from NREL's NSRDB Data Viewer: 
+We added more details versions of the previous Solar Resource Potential layers with more detailed versions of the layer from NREL's NSRDB Data Viewer:
 
 \- Solar Resource - Multi Year PSM Direct Normal Irradiance  
 \- Solar Resource - Multi Year PSM Global Horizontal Irradiance
 
 ![](/images/solarresourcepotential.png)
 
-## Fixes
+### Township, Range, Section - PLSS Viewer
+
+Locate land by township, range, and section with this new layer. Try switching to the 'Terrain' basemap setting for easier viewing of this layer if the source font is hard to see over the norma satellite basemap.
+
+![](/images/plssviewer.png)
+
+# Fixes
