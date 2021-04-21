@@ -9,7 +9,7 @@ image = ""
 name = "Megan Kostanick"
 
 +++
-#### **Check out what's new in Anderson Optimization's latest release (v3.0.0)**
+#### **Check out what's new in Anderson Optimization's latest release (v2.3.0)**
 
 _As always, we do our best to test updates before we release them, but please let us know if anything seems off or isn't working as expected._
 
@@ -19,31 +19,35 @@ _As always, we do our best to test updates before we release them, but please le
 
 ## New Project View - Larger Map
 
-We heard your feedback and are working to make the project map view much larger. This latest release includes a larger project map with asset tables/lists that can be pulled up over the project map when needed. 
+Larger project map makes it easier to view all key details of a project in one view.
 
 ![](/images/new_project_map_view.png)
 
-Click to expand/collapse the new drawer (or drag and drop drawer to desired height) to see exactly what data you need to see: 
+Click to expand/collapse the new drawer (or drag and drop drawer to desired height) to see exactly what data you need to see:
 
 ![](/images/drawer_view.png)
 
-## Updated buttons on project
+## Filter, Columns, and Export buttons have moved
+
+As we continue to work through the redesign, some buttons have moved around/changed look: 
+
+* Filter, Columns, and Export buttons are now above the asset table view (vs. on the side) 
 
 ![](/images/new_columns_menu.png)
 
-ADD INFO HERE 
+## New style editor and templates
 
-## Edit style of objects on map + save templates
+More easily [create and save custom asset and drawing styles](https://docs.andersonopt.com/prospect/advanced-tools/custom-style-assets-and-drawings "create and save custom asset and drawing styles") with the new style editor and template tool. 
 
-ADD INFO HERE
+![](/images/style_template_new.png)
 
 ## Updated asset detail page
 
-The new asset detail page automatically opens as a new tab (and can be accessed from the asset pop up on any map or the asset list). 
+The new [asset detail page](https://docs.andersonopt.com/prospect/advanced-tools/asset-detail-page "asset detail page") automatically opens as a new tab (and can be accessed from the asset pop up on any map or the asset list).
 
 ![](/images/asset_detail_new_tab.png)
 
-This will open the new asset detail page. On this page, users can edit details about an asset, save notes, etc. 
+This will open the new asset detail page. On this page, users can edit details about an asset, save notes, etc.
 
 ![](/images/asset_new_tab.png)
 
