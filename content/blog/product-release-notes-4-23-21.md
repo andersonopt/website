@@ -71,4 +71,5 @@ Locate land by township, range, and section with this new layer. Try switching t
 # Fixes
 
 * Fixed full screen map mode on asset detail page so that map toolbar is still visible
-* Added message in UI for failed APN search
+* Added message in UI for failed APN parcel searches
+* 
