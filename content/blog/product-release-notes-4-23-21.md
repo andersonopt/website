@@ -1,9 +1,9 @@
 +++
-date = 2021-04-23T06:00:00Z
+date = 2021-04-30T06:00:00Z
 featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
-title = "Product Release Notes: 4/23/21"
+title = "Product Release Notes: 4/30/21"
 [author]
 image = ""
 name = "Megan Kostanick"
@@ -15,35 +15,41 @@ _As always, we do our best to test updates before we release them, but please le
 
 ***
 
-# **Features and New Functionality**
+# **New Features and Enhancements**
 
 ## New Project View - Larger Map
 
-Larger project map makes it easier to view all key details of a project in one view.
+Larger project map makes it easier to view all key map details of a project in one view.
 
 ![](/images/new_project_map_view.png)
 
-Click to expand/collapse the new drawer (or drag and drop drawer to desired height) to see exactly what data you need to see:
+View asset lists on project by expanding/collapsing new asset drawer (drawer can be dragged/dropped to desired height as well). 
 
 ![](/images/drawer_view.png)
 
 ## Filter, Columns, and Export buttons have moved
 
-As we continue to work through the redesign, some buttons have moved around/changed look: 
+As we continue to work through the redesign, some buttons have moved around/changed look:
 
-* Filter, Columns, and Export buttons are now above the asset table view (vs. on the side) 
+* Filter, Columns, and Export buttons are now above the asset table view
 
 ![](/images/new_columns_menu.png)
 
 ## New style editor and templates
 
-More easily [create and save custom asset and drawing styles](https://docs.andersonopt.com/prospect/advanced-tools/custom-style-assets-and-drawings "create and save custom asset and drawing styles") with the new style editor and template tool. 
+More easily [create and save custom asset and drawing styles](https://docs.andersonopt.com/prospect/advanced-tools/custom-style-assets-and-drawings "create and save custom asset and drawing styles") with the new style editor and template tool.
 
 ![](/images/style_template_new.png)
 
+## Add notes or edit asset name via asset pop up
+
+Click the new pencil icon in the asset pop up to edit the asset name and to [save notes about a parcel](https://docs.andersonopt.com/prospect/reviewing-parcels/add-parcel-notes). 
+
+![](/images/edit_asset.png)
+
 ## Updated asset detail page
 
-The new [asset detail page](https://docs.andersonopt.com/prospect/advanced-tools/asset-detail-page "asset detail page") automatically opens as a new tab (and can be accessed from the asset pop up on any map or the asset list).
+The new [asset detail page](https://docs.andersonopt.com/prospect/advanced-tools/asset-detail-page "asset detail page") automatically opens as a new tab (and can be accessed from the asset pop up on any map or via asset list).
 
 ![](/images/asset_detail_new_tab.png)
 
@@ -55,7 +61,7 @@ This will open the new asset detail page. On this page, users can edit details a
 
 ### Updated Solar Resource/Irradiance Layers
 
-We added more details versions of the previous Solar Resource Potential layers with more detailed versions of the layer from NREL's NSRDB Data Viewer:
+We added more detailed versions of the previous Solar Resource Potential layers with more detailed versions of the layer from NREL's NSRDB Data Viewer:
 
 \- Solar Resource - Multi Year PSM Direct Normal Irradiance  
 \- Solar Resource - Multi Year PSM Global Horizontal Irradiance
@@ -64,7 +70,7 @@ We added more details versions of the previous Solar Resource Potential layers w
 
 ### Township, Range, Section - PLSS Viewer
 
-Locate land by township, range, and section with this new layer. Try switching to the 'Terrain' basemap setting for easier viewing of this layer if the source font is hard to see over the norma satellite basemap.
+Locate land by township, range, and section with this new layer. Try switching to the 'Terrain' basemap setting for easier viewing of this layer if the source font is hard to see over the normal satellite  imagery basemap.
 
 ![](/images/plssviewer.png)
 
@@ -72,4 +78,4 @@ Locate land by township, range, and section with this new layer. Try switching t
 
 * Fixed full screen map mode on asset detail page so that map toolbar is still visible
 * Added message in UI for failed APN parcel searches
-* 
+* Buildable area (acres) column in parcels list should now update to the latest values Buildable Area Analysis values without refresh
