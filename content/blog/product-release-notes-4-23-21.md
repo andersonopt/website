@@ -57,7 +57,7 @@ This will open the new asset detail page. On this page, users can edit details a
 
 ![](/images/asset_new_tab.png)
 
-View and manage all hazard polygons/drawings associated with an asset via the new 'Drawings' tab on the asset detail page. 
+View and manage all hazard polygons/drawings associated with an asset via the new 'Drawings' tab on the asset detail page (helpful for [composite geometry/manual hazard removal](https://docs.andersonopt.com/prospect/untitled/manually-remove-hazards-from-buildable-area)). 
 
 * Display/hide individual drawings
 * Edit polygon/drawing name 
