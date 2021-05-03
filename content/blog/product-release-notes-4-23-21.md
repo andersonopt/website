@@ -57,6 +57,14 @@ This will open the new asset detail page. On this page, users can edit details a
 
 ![](/images/asset_new_tab.png)
 
+View and manage all hazard polygons/drawings associated with an asset via the new 'Drawings' tab on the asset detail page. 
+
+* Display/hide individual drawings
+* Edit polygon/drawing name 
+* Edit shape
+
+![](/images/drawings_tab.png)
+
 ## New US Nationwide Layers
 
 ### Updated Solar Resource/Irradiance Layers
