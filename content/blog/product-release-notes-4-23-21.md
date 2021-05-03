@@ -76,8 +76,8 @@ Locate land by township, range, and section with this new layer. Try switching t
 
 # Fixes
 
-* Adjusted a number of tools related to composite geometry to ensure that the buildable area polygon gets updated/behaves as expected. 
+* Adjusted a number of tools related to composite geometry to ensure that the buildable area polygon updates/behaves as expected. 
 * Fixed full screen map mode on asset detail page so that map toolbar is still visible
-* Added message in UI for failed APN parcel searches
-* Buildable area (acres) column in parcels list should now update to the latest values Buildable Area Analysis values without refresh
-* Re-added export KML option to View Assets map
+* Added message in UI for failed APN parcel searches.
+* Buildable area (acres) column in parcels list should now update to the latest values Buildable Area Analysis values without refresh.
+* Re-added export KML option to View Assets map.
