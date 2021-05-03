@@ -3,7 +3,7 @@ date = 2021-04-30T06:00:00Z
 featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
-title = "Product Release Notes: 4/30/21"
+title = "Product Release Notes: 5/3/21"
 [author]
 image = ""
 name = "Megan Kostanick"
@@ -23,7 +23,7 @@ Larger project map makes it easier to view all key map details of a project in o
 
 ![](/images/new_project_map_view.png)
 
-View asset lists on project by expanding/collapsing new asset drawer (drawer can be dragged/dropped to desired height as well). 
+View asset lists on project by expanding/collapsing new asset drawer (drawer can be dragged/dropped to desired height as well).
 
 ![](/images/drawer_view.png)
 
@@ -43,7 +43,7 @@ More easily [create and save custom asset and drawing styles](https://docs.ander
 
 ## Add notes or edit asset name via asset pop up
 
-Click the new pencil icon in the asset pop up to edit the asset name and to [save notes about a parcel](https://docs.andersonopt.com/prospect/reviewing-parcels/add-parcel-notes). 
+Click the new pencil icon in the asset pop up to edit the asset name and to [save notes about a parcel](https://docs.andersonopt.com/prospect/reviewing-parcels/add-parcel-notes).
 
 ![](/images/edit_asset.png)
 
@@ -76,6 +76,7 @@ Locate land by township, range, and section with this new layer. Try switching t
 
 # Fixes
 
+* Adjusted a number of tools related to composite geometry to ensure that the buildable area polygon gets updated/behaves as expected. 
 * Fixed full screen map mode on asset detail page so that map toolbar is still visible
 * Added message in UI for failed APN parcel searches
 * Buildable area (acres) column in parcels list should now update to the latest values Buildable Area Analysis values without refresh
