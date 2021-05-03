@@ -29,7 +29,7 @@ View asset lists on project by expanding/collapsing new asset drawer (drawer can
 
 ## Filter, Columns, and Export buttons have moved
 
-As we continue to work through the redesign, some buttons have moved around/changed look:
+As we continue to work through the platform redesign, some buttons have moved around/changed look on the project asset tabs:
 
 * Filter, Columns, and Export buttons are now above the asset table view
 
