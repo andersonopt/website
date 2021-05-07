@@ -1,9 +1,9 @@
 +++
-date = 2021-05-06T19:00:00Z
+date = 2021-05-07T13:00:00Z
 featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
-title = "Product Release Notes: 5/6/21"
+title = "Product Release Notes: 5/7/21"
 [author]
 image = ""
 name = "Megan Kostanick"
