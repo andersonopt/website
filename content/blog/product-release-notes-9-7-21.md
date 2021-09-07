@@ -48,7 +48,6 @@ To see **Transmission Lines** and **Oil and Gas Wells** hazard exclusions, click
 
 [Setback field at the top of the form](https://docs.andersonopt.com/prospect/buildable-area-analysis/run-buildable-area-analysis#parcel-boundary-setback) now ONLY applies to the **internal parcel boundary setback**; this setback will no longer automatically apply as the default to other settings.
 
-### 
 
 ### ![](/images/baa_setback.png)
 
