@@ -1,5 +1,5 @@
 +++
-date = 2021-09-07T18:00:00Z
+date = 2021-09-07T10:00:00Z
 featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
