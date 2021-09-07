@@ -21,7 +21,7 @@ _As always, we do our best to test updates before we release them, but please le
 
 ### Save time with templates
 
-Find yourself wanting to reuse the same settings and parameters for Buildable Area Analysis often? Now users can save time by saving preferred settings in [**templates**](https://docs.andersonopt.com/prospect/buildable-area-analysis/run-buildable-area-analysis/buildable-area-analysis-template) on the updated [**Buildable Area Analysis** form](https://docs.andersonopt.com/prospect/buildable-area-analysis)! Saved templates are currently available, editable, and deletable at the user-level (in a future update, we will make these available at the company-level).
+Find yourself wanting to reuse the same settings and parameters for Buildable Area Analysis often? Now users can save time by saving preferred settings in [templates](https://docs.andersonopt.com/prospect/buildable-area-analysis/run-buildable-area-analysis/buildable-area-analysis-template) on the updated [Buildable Area Analysis form](https://docs.andersonopt.com/prospect/buildable-area-analysis)! Saved templates are currently available, editable, and deletable at the user-level (in a future update, we will make these available at the company-level).
 
 To save a template, click inside the blank **Template** box in the lower right-hand corner of the **Project Buildable Area Analysis form** and enter **template name**. Click **Create:**
 
@@ -36,11 +36,11 @@ Four new settings for hazards and exclusions have been added, including:
 * **Transmission Lines**
 * **Oil and Gas Wells**
 
-[**Critical Habitats**](https://docs.andersonopt.com/prospect/buildable-area-analysis/run-buildable-area-analysis#critical-habitats) and [**Public Lands**](https://docs.andersonopt.com/prospect/buildable-area-analysis/run-buildable-area-analysis#public-lands) hazard/exclusion settings can be found on the main **Buildable Area Analysis** settings view. To activate each, click the corresponding toggle + enter desired setbacks:
+[Critical Habitats](https://docs.andersonopt.com/prospect/buildable-area-analysis/run-buildable-area-analysis#critical-habitats) and [Public Lands](https://docs.andersonopt.com/prospect/buildable-area-analysis/run-buildable-area-analysis#public-lands) hazard/exclusion settings can be found on the main **Buildable Area Analysis** settings view. To activate each, click the corresponding toggle + enter desired setbacks:
 
 ![](/images/criticalhabitats_publiclands.png)
 
-To see **Transmission Lines** and **Oil and Gas Wells** hazard exclusions, click the [**Infrastructure**](https://docs.andersonopt.com/prospect/buildable-area-analysis/run-buildable-area-analysis#infrastructure) toggle on the main **Buildable Area Analysis** settings view + input desired setbacks:
+To see **Transmission Lines** and **Oil and Gas Wells** hazard exclusions, click the [Infrastructure](https://docs.andersonopt.com/prospect/buildable-area-analysis/run-buildable-area-analysis#infrastructure) toggle on the main **Buildable Area Analysis** settings view + input desired setbacks:
 
 ![](/images/transmissionlines_oilgaswells.png)
 
@@ -50,7 +50,8 @@ To see **Transmission Lines** and **Oil and Gas Wells** hazard exclusions, click
 
 ### 
 
-### ![](/images/baa_setback.png)  
+### ![](/images/baa_setback.png)
+
 Constraint maps clipped to parcel boundary
 
 Constraint maps are now ‘clipped’ to the parcel/site boundary to make it easier to see the parcel boundaries when constraint maps are displayed.
