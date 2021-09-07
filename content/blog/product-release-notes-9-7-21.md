@@ -52,7 +52,7 @@ To see **Transmission Lines** and **Oil and Gas Wells** hazard exclusions, click
 
 ### ![](/images/baa_setback.png)
 
-Constraint maps clipped to parcel boundary
+### Constraint maps clipped to parcel boundary
 
 Constraint maps are now ‘clipped’ to the parcel/site boundary to make it easier to see the parcel boundaries when constraint maps are displayed.
 
