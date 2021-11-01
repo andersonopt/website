@@ -1,6 +1,6 @@
 +++
 date = 2021-11-01T23:00:00Z
-featured = false
+featured = true
 image = "/images/ReleaseNotesGears.png"
 tags = ["Releases"]
 title = "Product Release Notes: 11/1/21"
