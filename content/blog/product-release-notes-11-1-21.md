@@ -25,7 +25,13 @@ If you adjust columns in the various different data tables, the system will now 
 
 ![](/images/reset_columns.png)
 
-## Constraint maps automatically display on old projects 
+## Updated column names
+
+We've relabeled a number of column names for clarity and to make it simpler to differentiate between related columns 
+
+![](/images/column_headers.png)
+
+## Constraint maps automatically display on old projects
 
 When pulling up a previously created project, any constraint maps generated from the Buildable Area Analysis will automatically display on the map when the project first loads.*
 
