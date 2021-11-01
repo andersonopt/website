@@ -27,7 +27,7 @@ If you adjust columns in the various different data tables, the system will now 
 
 ## Updated column names
 
-We've relabeled a number of column names for clarity and to make it simpler to differentiate between related columns (e.g. Mailing Address fields now have a 'Mailing Address' tag in each of the column headers to help differentiate them from the Site Address columns). 
+We've relabeled a number of column names for clarity and to make it simpler to differentiate between related columns (e.g. Mailing Address fields now have a 'Mailing Address' tag in each of the column headers to help differentiate them from the Site Address columns).
 
 ![](/images/column_headers.png)
 
@@ -41,4 +41,13 @@ Constraint map layers (buildable area and hazards) may be toggled on/off by clic
 
 ![](/images/constraint_map_icon.png)
 
-### 
+## Additional hazard columns to show acreage/relative (percentage) of that hazard per parcel 
+
+View and export how many acres each hazard took up on a parcel and the relative ratio of that hazard's area (acres) vs the original parcel lot size (relative). 
+
+![](/images/hazard_acres.png)
+
+# Bugs/Fixes
+
+* Fixed issue with Prescan where infrastructure setting was preventing buildable area styling from displaying on the constraint map
+* Added more handling for 3rd party geometry issues in the Buildable Area Analysis processing
