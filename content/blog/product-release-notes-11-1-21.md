@@ -19,15 +19,15 @@ _As always, we do our best to test updates before we release them, but please le
 
 ## New default columns
 
-Display commonly used columns in your data tables by clicking the new '[Reset Columns](https://docs.andersonopt.com/prospect/reviewing-parcels/view-parcels-list#reset-columns-to-defaults)' buttons. This will load the most commonly referenced columns into your view so you don't need to select them manually.
+Display commonly used columns in your data tables by clicking the new '[Reset Columns](https://docs.andersonopt.com/prospect/reviewing-parcels/view-parcels-list#reset-columns-to-defaults)' button on any table. This will load the most commonly referenced columns into your view so you don't need to select them manually.
 
-If you adjust columns in the various different data tables, the system will now save that view across your projects/sessions, so you don't need to customize the view on each project.
+If you adjust columns in the various different data tables, the system will now save that view across your projects/sessions, so you don't need to customize the view on each time.
 
 ![](/images/reset_columns.png)
 
 ## Updated column names
 
-We've relabeled a number of column names for clarity and to make it simpler to differentiate between related columns 
+We've relabeled a number of column names for clarity and to make it simpler to differentiate between related columns (e.g. Mailing Address fields now have a 'Mailing Address' tag in each of the column headers to help differentiate them from the Site Address columns). 
 
 ![](/images/column_headers.png)
 
