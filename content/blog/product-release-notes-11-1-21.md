@@ -21,7 +21,7 @@ _As always, we do our best to test updates before we release them, but please le
 
 Display commonly used columns in your data tables by clicking the new '[Reset Columns](https://docs.andersonopt.com/prospect/reviewing-parcels/view-parcels-list#reset-columns-to-defaults)' button on any table. This will load the most commonly referenced columns into your view so you don't need to select them manually.
 
-If you adjust columns in the various different data tables, the system will now save that view across your projects/sessions, so you don't need to customize the view on each time.
+If you adjust columns in the various different data tables, the system will now save that view across your projects/sessions, so you don't need to customize the view each time.
 
 ![](/images/reset_columns.png)
 
@@ -35,15 +35,15 @@ We've relabeled a number of column names for clarity and to make it simpler to d
 
 When pulling up a previously created project, any constraint maps generated from the Buildable Area Analysis will automatically display on the map when the project first loads.*
 
-Constraint map layers (buildable area and hazards) may be toggled on/off by clicking new constraint map icon as in the lower-left corner of the map.
+Constraint map layers (buildable area and hazards) may be toggled on/off by clicking new constraint map icon as in the lower-right corner of the map.
 
 \*_For projects with over 100 assets, the constraint maps won't automatically redisplay when the project is first loaded but can be redisplayed by clicking the new constraint map icon_
 
 ![](/images/constraint_map_icon.png)
 
-## Additional hazard columns to show acreage/relative (percentage) of that hazard per parcel 
+## Additional hazard columns added to show acreage/relative percent of that hazard per parcel
 
-View and export how many acres each hazard took up on a parcel and the relative ratio of that hazard's area (acres) vs the original parcel lot size (relative). 
+View and export how many acres each hazard took up on a parcel and the relative ratio of that hazard's area (acres) vs the original parcel lot size (relative).
 
 ![](/images/hazard_acres.png)
 
